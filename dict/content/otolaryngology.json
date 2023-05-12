@@ -1,0 +1,538 @@
+{
+    "otolaryngology": [
+        {
+            "WID": "1",
+            "WTitle": "Acoustic neuroma",
+            "WDescription": "Acoustic neuroma is a non-cancerous (benign) tumor of the vestibular cochlear nerve which connects the inner ear with the brain. Symptoms include lack of steadiness, loss of hearing, and ringing sound in the ear (tinnitus). It is also known as vestibular schwannoma.",
+            "VideoURL": "acoustic_neuroma.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Acoustic trauma ",
+            "WDescription": "Acoustic trauma is any injury that affects the hearing mechanism present within the inner ear. It is commonly associated with loud noise near the ear and can often lead to hearing loss or ringing sound in the ear (tinnitus).",
+            "VideoURL": "Acoustic trauma.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Adam's apple",
+            "WDescription": "The adam's apple is the protrusion in the front of the throat formed by the projecting thyroid cartilage. The Adam's apple is more prominent in men than in women.",
+            "VideoURL": "Adam's apple.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Adenoids",
+            "WDescription": "Adenoids are lymph tissues present in the back of the throat, behind our nose. It is part of the immune system and helps protect against infection. It can swell naturally or following infection. This leads to bad breath, dry and sour throat, persistent runny nose, and snoring.",
+            "VideoURL": "Adenoids.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Allergic rhinitis",
+            "WDescription": "Allergic Rhinitis or Hay fever is an allergic reaction to pollen, dust or cold affecting the sinus and upper respiratory tract. It is characterized by runny nose, sneezing, itchy throat and eyes. ",
+            "VideoURL": "Allergic rhinitis.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Auditory nerve",
+            "WDescription": "Auditory nerve is the nerve that connects the inner ear with the brain. These eighth pair of cranial nerves transmit sensory impulses concerned with hearing and balance.",
+            "VideoURL": "Auditory nerve.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Auditory tube",
+            "WDescription": "Auditory tube or eustachian tube or pharyngotympanic tube, is a slender cartilage tube lined with mucus memebrane, which connects the middle ear with the nasopharynx. Its main function is to equalise atmospheric pressure in the middle ear.",
+            "VideoURL": "Auditory tube.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Auricle",
+            "WDescription": "Auricle, also called Pinna, is the externally visible part of the ear.",
+            "VideoURL": "Auricle.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Benign ear cyst ",
+            "WDescription": "Benign ear cyst is a solid or fluid filled, non-cancerous sac in the ear. Sebaceous cyst containing dead cells and oil is the most common benign cyst found in the ear. It can also develop due to frequent exposure to cold water. They are often not painful and may be felt as a soft lump, when present on the outer portions of the ear. ",
+            "VideoURL": "Benign ear cyst.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Bullous myringitis ",
+            "WDescription": "Bullous myringitis or infectious myringitis is a form of otitis media that causes inflammation of the tympanic membrane (eardrum) which is often a result of middle ear infection. It is painful and is associated with the formation of bulla\/blisters over the tympanic membrane. Symptoms include irritability, difficulty in sleeping, fever, pain in the ear, discharge from ear, hearing difficulties, loss of balance, and loss of appetite.",
+            "VideoURL": "Bullous myringitis.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Burning Mouth Syndrome (BMS)",
+            "WDescription": "Burning mouth syndrome is a chronic condition of the oral cavity associated with a burning\/scalding sensation felt in the mouth (including tongue, lips, inner cheek and palate). It is painful and is commonly noted in middle aged or older women. Commonly observed symptoms include dry mouth, increased thirst numbness in mouth, and loss of taste or metallic or bitter taste.",
+            "VideoURL": "Burning mouth syndrome BMS.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Canker sores",
+            "WDescription": "Canker sores, also known as aphthous ulcers, are small, shallow, painful sores\/lesions noted in the mouth. These white or yellow colored sores, with a bright red border, are usually noted over the tongue, inner cheek\/lip and the base of the gingiva (gums). The sores heal without any treatment usually within 10-14 days.",
+            "VideoURL": "Canker sores.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Choanal atresia",
+            "WDescription": "Choanal atresia is a congenital condition associated with the presence of soft or hard tissue in the nasal passage, which blocks the nasal airway. It is diagnosed soon after birth and is more common among females. Affected children have difficulty in breathing, pale colored gums, prolonged expiration, and chocking.",
+            "VideoURL": "Choanal Atresia.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Cholesteatoma",
+            "WDescription": "Cholesteatoma is a skin cyst found in the middle ear and is caused by chronic ear infection. It is caused by the poor functioning of eustachian tube which builds up negative pressure in the middle ear, this pulls the tympanic membrane into the middle ear and develops a cyst. Cyst is filled with old cells and waste materials. cyst may grow and injure any of the structures usually the middle ear bones and can affect hearing, balance and functions of facial muscles.",
+            "VideoURL": "Cholesteatoma.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Chronic sinusitis ",
+            "WDescription": "Chronic sinusitis is associated with Gram negative and anaerobic bacteria. Chronic sinusitis refers to symptoms that persist for 3 months or more, or to sinusitis that responds to therapy and then recurs periodically. Lower socioeconomic status, smoking, allergies and asthma are the most common predisposing factors of the condition.",
+            "VideoURL": "Chronic sinusitis.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Cochlea",
+            "WDescription": "Cochlea is the fluid filled, snail shaped structure in the inner ear that contains the sensory organ of hearing. Cochlea transforms sound vibrations into nerve impulses for transmission to the brain.",
+            "VideoURL": "Cochlea.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Cochlear implant ",
+            "WDescription": "Cochlear implant is a small surgically implanted device deep in the inner ear to treat profound hearing loss. An external microphone and speech processor receive and convert sound waves into electrical signals for transmission to the implanted electrodes which stimulate the auditory nerve that takes messages from the ear to the brain. Cochlear implants are used for people who do not benefit from conventional hearing aids.",
+            "VideoURL": "Cochlear implant.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Dysphagia",
+            "WDescription": "Dysphagia refers to difficulty in swallowing. The patient experiences difficulty as solid or liquid food passes from the mouth, into the throat, and down into the esophagus to the stomach. Dysphagia is caused by weakened or damaged muscles and nerves that are involved in the swallowing process. Dysphagia is common in patients with cancers developing in the gastric cardia or at the esophagogastric junction. ",
+            "VideoURL": "Dysphagia.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Dysphonia",
+            "WDescription": "Dysphonia is a condition characterized by difficulty in speaking. It can occur as a result of spasm or strain of the vocal cord. Commonly observed symptoms of dysphonia are hoarseness in voice, jerking while speaking, weakness, and even loss of voice.",
+            "VideoURL": "Dysphonia.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Ear ",
+            "WDescription": "Ear is the organ which helps in hearing and maintaining the equilibrium. It consists of the outer ear which collects sound, a middle ear which transmits sound, and inner ear which has sensory functions. The tympanic membrane or the ear drum separates outer ear from the middle ear, while a membranous structure separates the middle ear from the inner ear. Ear maintains balance and posture with the help of liquid present in the semicircular canals. ",
+            "VideoURL": "Ear.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Ear canal",
+            "WDescription": "Ear canal is a narrow tube like passage that extends from the outer ear to the tympanic membrane or ear drum. It is through the ear canal that sound enters the ear.",
+            "VideoURL": "Ear canal.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Ear drum  ",
+            "WDescription": "Ear drum, also called the tympanic membrane, is a thin, oval layer of tissue that separates the middle ear from the external ear. The ear drum transmits sound waves from the external environment to the middle ear.",
+            "VideoURL": "Ear drum.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Empty nose syndrome",
+            "WDescription": "Empty nose syndrome refers to an iatrogenic condition characterized by a patent nasal airway but with a sense of impaired nasal breathing. It is caused due to excessive removal of the thin spongy bones within the nose during a surgical procedure called turbinectomy. Affected individuals often complain that their nose is chronically dry and may feel suffocated even though they are able to breathe.",
+            "VideoURL": "Empty Nose Syndrome.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Epistaxis",
+            "WDescription": "Epistaxis or bleeding from the nose can be posterior bleed and anterior bleed. It occurs when the nasal membranes are dried particularly in cold climate. Medications that prevent blood clotting or anti-inflammatory drugs cause nose bleed. Other causes such as nose picking in children, infection, allergic rhinitis, alcohol abuse and hypertension can also lead to epistasis. ",
+            "VideoURL": "Epistaxis.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Esophagus",
+            "WDescription": "Esophagus is the tubular, muscular membranous passage that extends from the pharynx to the stomach for the passage of food.",
+            "VideoURL": "Esophagus.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Ethmoid sinus",
+            "WDescription": "Ethmoidal sinuses are a number of thin-walled cellular cavities arranged in three groups, anterior, middle, and posterior. These cells are interposed between a lateral plate that forms a part of the orbit and a medial plate, which is a part of the corresponding nasal cavity. The ethmoid sinuses are supplied by the branches originating from both the external and internal carotid arteries.",
+            "VideoURL": "Ethmoid sinus.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Eustachian tube",
+            "WDescription": "Eustachian tube or auditory tube or pharyngotympanic tube, is a slender cartilage tube lined with mucus memebrane, which connects the middle ear with the nasopharynx. Its main function is to equalise atmospheric pressure in the middle ear.",
+            "VideoURL": "Eustachian tube.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Frontal sinus",
+            "WDescription": "Frontal air sinuses are two irregular cavities present in front of the ethmoidal notch, on either side of the frontal spine. They extend backward, upward, and lateralward for a variable distance between the two tables of the skull and are separated from one another by a thin bony septum. Each of the sinuses communicates with the corresponding nasal cavity by means of a passage called the frontonasal duct. The frontal sinus is supplied by the ophthalmic artery.",
+            "VideoURL": "Frontal sinus.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Hay fever",
+            "WDescription": "Hay fever or allergic rhinitis is an allergic reaction to pollen, dust or cold affecting the sinus and upper respiratory tract. It is characterised by runny nose, sneezing, itchy throat and eyes. ",
+            "VideoURL": "Hay fever.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Herpangina ",
+            "WDescription": "Herpangina is a viral illness caused by contagious Coxsackie group A viruses that causes ulcerative lesions inside the mouth particularly in posterior oropharyngeal structure. It is usually common in children. Symptoms include fever, ulcers in mouth and throat, headache, loss of appetite and sore throat.  ",
+            "VideoURL": "Herpangina.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Inner ear",
+            "WDescription": "Inner ear is the innermost and most complex part of the ear that is involved in hearing and balance.",
+            "VideoURL": "Inner ear.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Labyrinthitis",
+            "WDescription": "Labyrinthitis is the inflammation of the inner ear and is often associated with symptoms such as dizziness, loss of balance, and hearing loss (in the affected ear). It usually goes away within a few weeks, but may require medications.",
+            "VideoURL": "Labyrinthitis.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Laryngitis",
+            "WDescription": "Laryngitis is the inflammatory condition of the larynx or the voice box, characterized by swelling and irritation in the throat reason, it leads to hoarseness of the voice and half on a result of an infection.",
+            "VideoURL": "Laryngitis.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Larynx",
+            "WDescription": "The larynx is a hollow, tubular structure that extends vertically from the tip of the epiglottis to the cricoid cartilage. Connecting the hypopharynx and the trachea, it is located in the anterior neck region at the level of the cervical vertebrae 3 to 6, and is involved in breathing, voice production, and protecting the trachea against the passage of food and other foreign particles into the lower respiratory tracts. The larynx is also called the voice box as the vocal folds commonly known as vocal cords are located here. ",
+            "VideoURL": "Larynx.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Lemierre Syndrome",
+            "WDescription": "Lemierre syndrome is a lethal form of sore throat caused by Fusobacterium necrophorum. It develops after the strep sore throat that form peritonsillar abscess. Fusobacterium necrophorum present in the abscess invades the jugular vein of the neck and enters the circulatory system and forms an infected clot. This infected clot may move to the lungs and blocks the pulmonary artery resulting in shortness of breath, chest pain, and pneumonia.",
+            "VideoURL": "Lemierre Syndrome.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Lingual tonsillitis",
+            "WDescription": "Lingual tonsillitis is the inflammation of the lingual tonsils that are located posterior to the tongue. It is a part of the immune system and helps protect against infection. Bacterial or viral infections can cause inflammation of these tonsils causing lingual tonsillitis. It more commonly affects individuals who have undergone palatine tonsillectomy and also in children aged five to ten.",
+            "VideoURL": "Lingual tonsillitis.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Maxillary sinus",
+            "WDescription": "The maxillary sinus is a pyramid shaped structure with the nasal wall being the base and the peak pointing toward the zygomatic process. The nasal, orbital, anterior, and infratemporal surfaces of the body of the maxillary bone form the boundaries of the sinus. The maxillary sinus communicates with the nasal cavity through a large, irregular aperture present in the base. The posterior wall of the sinus consists of the alveolar canals that transmit the posterior superior alveolar vessels and nerves to the molar teeth.\r",
+            "VideoURL": "Maxillary sinus.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Meatus",
+            "WDescription": "Meatus is the natural body opening or canal such as external acoustic meatus, the opening of the ear that extends from outer ear to tympanic membrane; internal auditory meatus the tunnel of the temporal bone that carries caranial nerves to middle ear and inner ear; and the superior, middle, and inferior meatuses of the nose. ",
+            "VideoURL": "Meatus.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Meniere's disease",
+            "WDescription": "Meniere's disease is the disorder of the inner ear that affects hearing and balance and leads to vertigo. Increased pressure of the fluid present in the semicircular canal of the inner ear leads to vertigo. Mostly it affects only one ear. It is associated with head injury and inner ear infection. Symptoms include fluctuating hearing loss, tinnitus, dizziness, and feeling of pressure in the ear. ",
+            "VideoURL": "Meniere's disease.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Microtia ",
+            "WDescription": "Microtia is a congenital abnormality of the external ear that affects the ear formation. Ear deformity can be either unilateral or bilateral and varies from small or abnormal shaped ear to absent external ear. In bilateral microtia the bone conduction hearing aid is recommended. People with microtia have difficulty in judging the direction from which the sound is coming. Microtia is usually associated with hemifacial microsomia.",
+            "VideoURL": "Microtia.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Middle ear",
+            "WDescription": "Middle ear is the membrane lined cavity between the tympanic membrane or ear drum and the inner ear that contains the three auditory ossicles or bones, incidentally the smallest bones in the human body that transmit sound waves to the inner ear.  ",
+            "VideoURL": "Middle ear.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Myringotomy",
+            "WDescription": "Myringotomy is a surgical procedure to drain the fluid accumulated in the middle ear by an incision in the ear drum",
+            "VideoURL": "Myringotomy.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Nasal cavity",
+            "WDescription": "Nasal cavity is the space inside the nose, separated into halves by nasal septum. The hair, mucus, blood capillaries, and cilia in the nasal cavity filter, moisten, and warm the air before it reaches the lungs. The nasal cavity also drains the secretion from paranasal sinuses. ",
+            "VideoURL": "Nasal cavity.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Nasal endoscopy",
+            "WDescription": "Nasal endoscopy is a procedure to evaluate nasal and sinus passage by using high-resolution magnifying endoscope. It is used to examine sinonasal anatomy, nasal mucosa, and nasal pathology. It can be either a flexible fiberoptic endoscope or a rigid endoscope. It is used to diagnose infections and polyps and can also be used to obtain tissue samples for further diagnosis.",
+            "VideoURL": "Nasal Endoscopy.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Nasal polyp",
+            "WDescription": "Nasal polyp is an abnormal growth originating from any portion of the nasal mucous membrane or paranasal sinuses.",
+            "VideoURL": "Nasal polyp.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Nasopharyngitis",
+            "WDescription": "Nasopharyngitis are very similar to viral infection and it is difficult to assess the difference between viral and bacterial infections, although some characteristics include the persistence of symptoms beyond 10 days and usually distinguished by the absence of cough, rhinorrhea and conjunctivitis.",
+            "VideoURL": "Nasopharyngitis.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Nausea",
+            "WDescription": "Nausea is the sensation of uneasiness and discomfort in the throat and\/or stomach with an urge to vomit. It is not a sickness, but rather a symptom of several conditions or an adverse effect of many drugs.",
+            "VideoURL": "Nausea.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Nostril",
+            "WDescription": "Nostrils or nares are the external opening of the nose through which the air enters. They are separated into left and right nostrils by the nasal septum. ",
+            "VideoURL": "Nostril.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Odynophagia",
+            "WDescription": "Odynophagia is the term used to define pain felt during swallowing. It occurs as a result of severe inflammation or an obstruction of the food pipe (esophagus).",
+            "VideoURL": "Odynophagia.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Olfactory bulb",
+            "WDescription": "Olfactory bulb is an anatomical enlargement noted at the terminal portion of the olfactory nerve (which helps in odor perception) and is located at the base of our brain, just above the nasal cavity. The olfactory nerve originates from this structure and it is important for sense of smell.",
+            "VideoURL": "Olfactory Bulb.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Ossicles ",
+            "WDescription": "Ossicles are three tiny bones within the middle ear space. They transmit vibrations of the tympanic membrane or ear drum to the inner ear.",
+            "VideoURL": "Ossicles.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Otitis media",
+            "WDescription": "Otitis media is an infection of the middle ear that is located behind the eardrum. More common in children than adults, the infection is marked by the inflammation and accumulation of fluid in the middle ear, bulging of the eardrum and pain in the ear.",
+            "VideoURL": "Otitis media.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Otolaryngology",
+            "WDescription": "Otolaryngology or ENT is the branch of medicine concerned with the study of ear, nose, throat and related structures like sinuses, larynx, pharynx, and oral cavity. It includes the study of anatomy and functions as well as diagnosis, treatment and prognosis of their diseases. ",
+            "VideoURL": "Otolaryngology.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Otomycosis ",
+            "WDescription": "Otomycosis is the fungal infection of the outer ear. It can occur due to physical injury, excessive accumulation of cerumen, frequent exposure to cold water, etc. It can be associated with severe itching, irritation, and throbbing pain in the ear along with discharge from the ear. It is often treated with medicated ear drops.",
+            "VideoURL": "Otomycosis.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Otosclerosis",
+            "WDescription": "Otosclerosis is an unusual condition of the ear characterized by abnormal growth of the bone present in the middle ear, leading to loss of hearing. In addition, ringing sound in the ear (tinnitus) and dizziness can also be observed. It often requires surgical intervention.",
+            "VideoURL": "Otosclerosis.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Otoscope",
+            "WDescription": "Otoscope or auriscope is an instrument used to examine the eardrum. It consists of light, magnifying lens, and cone to insert into the ear canal. The outer part of the ear is gently pulled upwards and backwards. This helps straighten the external auditory canal, which is curved, making it easier to see the eardrum. It is mostly performed when any signs or symptoms of disease are observed such as ear pain or external infection of the ear. ",
+            "VideoURL": "Otoscope.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Outer ear",
+            "WDescription": "Outer ear is the external part of the ear that gathers sound waves and focuses it into the ear drum. It is consists of pinna or auricle is the external visible part of the ear and external acoustic meatus, the canal that connects the pinna and the ear drum. Sound waves from the pinna travel through external acoustic meatus. The cerumen strands present in this canal filters small dust particles.",
+            "VideoURL": "Outer Ear.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Palatine tonsil",
+            "WDescription": "Palatine tonsils are the masses of lymphatic tissue located on either side of the throat and embedded in the lateral walls of the opening between the mouth and the pharynx. It is part of the immune system and helps protect against infection. Bacterial or viral infections causes inflammation of the tonsils called tonsillitis.",
+            "VideoURL": "Palatine Tonsil.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Paranasal sinuses ",
+            "WDescription": "Paranasal sinuses comprise four paired cavities designated frontal, sphenoidal, maxillary, and ethmoidal sinuses. \rThese sinuses are located in the bones of the face and lined by a mucous membrane continuous with that of the nasal cavity. The function of the paranasal sinuses is to reduce the bony mass and weight of the skull and participate in warming and humidification of inspired air.\r",
+            "VideoURL": "Paranasal sinuses.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Perilymph",
+            "WDescription": "Perilymph is the fluid present in cochlea, a part of inner ear. The fluid fills the space between membranous and bony labyrinth of the inner ear. Perilymph is high in sodium and low in potassium that resembles extracellular fluid. Perilymph fistula leads to loss of hearing and dizziness.",
+            "VideoURL": "Perilymph.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Pharyngitis",
+            "WDescription": "Pharyngitis, commonly known as sore throat, is inflammation of the pharynx casued by viral or bacterial infection and characterised by pain, fever and swollen lymph nodes in the neck.",
+            "VideoURL": "Pharyngitis.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Pharyngotympanic tube",
+            "WDescription": "Pharyngotympanic tube or auditory tube or eustachian tube, is a slender cartilage tube lined with mucus memebrane, which connects the middle ear with the nasopharynx. Its main function is to equalise atmospheric pressure in the middle ear.",
+            "VideoURL": "Pharyngotympanic tube.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Pharynx",
+            "WDescription": "The pharynx is a tubular passage located behind the nasal cavities, mouth, and larynx. It is divided into three parts: the nasopharynx- posterior to the nose; oropharynx- posterior to mouth, and laryngopharynx - posterior to the larynx. It is involved in both respiratory and digestive functions by regulating the passage of air into the lungs and food to the esophagus.",
+            "VideoURL": "Pharynx.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Pinna",
+            "WDescription": "Pinna, also called auricle, is the externally visible part of the ear.",
+            "VideoURL": "Pinna.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Retropharyngeal abscess",
+            "WDescription": "Retropharyngeal abscess is the infection that causes collection of pus in the space around the tissues at the back of the throat. Pus builds up in the tissues during or immediately after throat infection. It mostly commonly affects children below the age of 5 and presents with symptoms such as difficulty in breathing and swallowing, severe throat pain, drooling, and high fever.",
+            "VideoURL": "Retropharyngeal abscess.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Rhinosinusitis",
+            "WDescription": "Rhinosinusitis is an inflammatory condition affecting the nasal passages and the sinus cavity. It often occurs following infection or allergy and is associated with runny nose, congestion, headache, and facial pain.",
+            "VideoURL": "Rhinosinusitis.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Serous otitis",
+            "WDescription": "Serous otitis is the inflammation of the middle ear which is associated with the formation of a thick, sticky fluid in the middle ear. It is often asymptomatic and is usually not associated with ear infection. In others, muffled hearing or fullness in the ear may be felt. It is also known as otitis media with effusion.",
+            "VideoURL": "Serous Otitus.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Sinusitis",
+            "WDescription": "Sinusitis is the inflammation of the mucous membranes of one or more of the sinuses caused due to bacterial or viral infections or by allergens. The symptoms include facial tenderness, headache and swelling over the affected sinus area,  nasal congestion, increase in pain associated with head movements and bending forward.",
+            "VideoURL": "Sinusitis.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Sore throat",
+            "WDescription": "Sore throat, commonly known as pharyngitis, is inflammation of the pharynx casued by viral or bacterial infection and characterised by pain, fever and swollen lymph nodes in the neck.",
+            "VideoURL": "Sore throat.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Spheniodal sinus",
+            "WDescription": "Sphenoidal air sinuses are large, irregular cavities hollowed out of the interior of the body of the sphenoid bone, and are separated from each other by a bony septum. They vary considerably in form and size and are often partially subdivided by irregular bony laminae. A round opening is present at the upper part of each sinus by which it communicates with the upper and back part of the nasal cavity and occasionally with the posterior ethmoidal air cells. The posterior ethmoid artery supplies the roof of the sphenoid sinus while the rest of the sinus is supplied by the sphenopalatine artery.",
+            "VideoURL": "Spheniodal sinus.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Stapedius",
+            "WDescription": "Stapedius is the smallest muscle in the human body present in the middle ear. It arises from the wall of tympanum and is attached to the upper portion of the stapes, the inner most bone present in the middle ear. It stabilizes the stapes that conducts the sound vibrations into the inner ear. ",
+            "VideoURL": "Stapedius.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Stapes",
+            "WDescription": "Stapes is the inner most stirrup-shaped bone of a chain of three bones in the middle ear. This is the smallest bone of the human body and is stabilized by the stapedius muscle. It transmits the sound vibrations from incus to the membrane of the inner ear.",
+            "VideoURL": "Stapes.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Strep Throat",
+            "WDescription": "Strep throat is an infection of the throat caused by Group A Streptococcus bacteria. Affecting the mucous lining of pharynx, strep throat can develop into rheumatic fever or other serious conditions if left untreated.",
+            "VideoURL": "StrepThroat.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Swimmer's ear",
+            "WDescription": "Swimmer's ear or otitis eterna is the infection of the outer ear canal that connects ear drum to external ear. It is caused by the pseudomonas bacteria or fungi that invade the ear canal often after swimming. It is also associated with the otitis media (middle ear infection) or upper respiratory tract infection. Symptoms include fluid drainage from the ear, redness, pain, and itching in the ear.",
+            "VideoURL": "Swimmer's ear.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Throat",
+            "WDescription": "The throat is the anterior part of the neck consists of pharynx and larynx. It is a muscular tube that acts as the passage way for air and food. It connects the nose and oral cavity to the air way (trachea) and esophagus, respectively. It has adenoids and tonsils that are involved in the immune system. The vocal cord present in larynx is responsible for voice production. ",
+            "VideoURL": "Throat.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Thrush",
+            "WDescription": "Thrush is a contagious fungal infection of the oral cavity caused by Candida albicans, that most often occurs in infants and children. It is characterised by small whitish eruptions on the mouth, throat and tongue, accompanied by fever, colic and diarrhoea.",
+            "VideoURL": "Thrush.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Tinnitus",
+            "WDescription": "Tinnitus is the ringing sound in the ear that can arise from outer ear, middle ear, inner ear, or by the brain abnormality. It is a symptom of underlying condition such as age-related hearing loss, ear infection, or ear injury that particularly damages the nerve of the inner ear. Tinnitus is also caused by exposure to loud noise that often affects hearing. Certain medications such as aspirin can also cause tinnitus.",
+            "VideoURL": "Tinnitus.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Tonsillectomy ",
+            "WDescription": "Tonsillectomy is a procedure in which infected tonsils are surgically removed. Sophisticated carbon-di-oxide laser tonsillectomy is a quick and painless option.",
+            "VideoURL": "Tonsillectomy.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Tonsillitis",
+            "WDescription": "Tonsillitis is the infection and inflammation of the tonsils caused by either bacteria or viruses. Tonsillitis is painful and debilitating and is accompanied by sore throat, fever, swollen glands of the neck, and difficulty swallowing.",
+            "VideoURL": "Tonsillitis.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Tonsils",
+            "WDescription": "Tonsils are a pair of oval shaped lymphoid tissue located on either side of the throat and embedded in the lateral walls of the opening between the mouth and the pharynx. It is part of the immune system and helps protect against infection.",
+            "VideoURL": "Tonsils.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Turbinectomy",
+            "WDescription": "Turbinectomy is a nasal airway surgery procedure to reduce or remove the enlarged turbinates to improve breathing. It improves the airflow, controls nose bleeds, and improve sinus drainage caused by the nasal obstructions. Complications include empty nose syndrome, chronic nasal drainage, bleeding, eye damage, and septal perforations.",
+            "VideoURL": "Turbinectomy.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Tympanic membrane",
+            "WDescription": "The ear drum, also called tympanic membrane, is a thin, oval layer of tissue that separates the middle ear from the external ear. The ear drum transmits sound waves from the external environment to the middle ear.",
+            "VideoURL": "Tympanic membrane.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Tympanometry  ",
+            "WDescription": "Tympanometry is the method used to test the middle ear disorders. It is used to evaluate the mobility of the ear drum in response to the sound and different air pressures. Tympanometry reveals the presence of the fluid behind the ear drum, tumor or other blockage in the middle ear, impacted ear wax, perforated ear drum, and scarring of tympanic membrane.",
+            "VideoURL": "Tympanometry.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Upper Respiratory Tract Infections (URTIs)",
+            "WDescription": "Upper respiratory tract infections (URTIs) involve the infection and inflammation of the respiratory mucosa of the nose, paranasal sinuses, pharynx, larynx, trachea and bronchi. URTIs range from the common cold,  and catarrhal syndrome of the nasopharynx, to  serious illnesses such as epiglottitis.",
+            "VideoURL": "Upper Respiratory Tract Infections URTIs.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Uvula",
+            "WDescription": "Uvula is the small U, a tear or a grape shaped  piece of fleshy muscular tissue located at the middle portion of the soft palate which helps the swallowed food enter the food pipe.",
+            "VideoURL": "Uvula.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Uvulitis",
+            "WDescription": "Uvulitis is the inflammation of uvula, the muscle tissue at the middle portion of the soft palate which helps the swallowed food to enter the food pipe. It is often caused by an infection that leads to swelling and redness of the uvula. The inflammation is usually associated with pharyngitis, epiglottis, tonsillitis, and the inflammation of the palate.",
+            "VideoURL": "Uvulitis.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Vocal cord",
+            "WDescription": "Vocal cord refers to two folded, 'V' shaped elastic membranes found in the larynx and are responsible for voice production. Vocal cords open during inhalation, close while holding breath and vibrate for voice production.",
+            "VideoURL": "Vocal cord.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Wind pipe",
+            "WDescription": "Wind pipe is a thin, hollow cartilaginous tube through which air passes to and from the lungs. Also referred to as trachea, wind pipe descends from the larynx to the bronchi.",
+            "VideoURL": "Wind pipe.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Wrestler's ear",
+            "WDescription": "Wrestler's ear or cauliflower ear is the deformity of the external ear that occurs due to the injured cartilage. It is commonly observed in wrestlers because of repeated injury to the external ear. This forms blood clot and disrupts the blood supply to the cartilage of the ear and causes cartilage death and scarring resulting deformity.",
+            "VideoURL": "Wrestler's ear.mp4"
+        }
+    ]
+}

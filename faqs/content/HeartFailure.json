@@ -1,0 +1,229 @@
+{
+    "HeartFailure": [
+        {
+            "QuestionText": "What is heart failure?",
+            "AnswerText": "Heart failure is a condition where the heart fails to pump sufficient oxygen-rich blood to meet the requirements of the rest of the body.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "How does the heart function as a pump?",
+            "AnswerText": "The heart  at the center of the circulatory system has a thick muscular wall called septum that divides it down the middle into the left and right side. Both sides are further divided into two chambers, with the upper chambers called atrium and the lower chambers ventricles. The right atrium and right ventricle constitute the right side of the heart, while the left atrium and left ventricle form the left side.  Both the left and right atrium have uni-directional valves that allow blood to flow from the atria into the ventricles at the same time preventing backflow. Together, the heart with its chambers and the valves constitute an effective pump that work in perfect coordination to circulate blood through two major loops simultaneously. The right atrium receives deoxygenated blood from the body,  while the left atrium, at the same time, receives oxygen-rich blood from the lungs.  When the two atria contract, the blood flows down into the respective ventricles.  The ventricles then contractat the same time - the right ventricle emptying the blood into the pulmonary artery connecting the two lungs so that it gets oxygenated, and the left ventricle emptying the oxygen-rich blood into the aorta, the largest artery, for circulation.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What causes heart failure?",
+            "AnswerText": "Heart failure occurs due to damage or weakening of the heart muscle.  The heart muscle can get damaged if its blood supply is reduced, or blocked as in a heart attack.  Infections, alcohol, chemotherapeutic drugs and cocaine can result in a condition called cardiomyopathy where the heart muscle known as myocardium gets weakened and enlarged. Certain illnesses such as high blood pressure increase the work load of the heart by raising the pressure in the arteries against which the heart has to contract.  Excessive thyroid hormones stimulate the heart to beat faster.  Other conditions like myocarditis (inflammation of the heart muscle),, diabetes, diseases of the heart valves and abnormal heart rhythms can also lead to heart failure.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "Is heart failure the same as heart attack?",
+            "AnswerText": "No.  A heart attack occurs when an artery supplying blood to a part of the heart gets blocked.   It results in damage to that particular part of the heart muscle.  On the other hand, in heart failure, the pumping mechanism of the heart weakens.  A heart attack is often a cause of heart failure.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "Who is at high risk for developing heart failure?",
+            "AnswerText": "Heart failure usually affects older people.  Conditions that increase the risk for developing heart failure are diseases of the heart muscle, valves or blood vessels; previous heart attack; hypertension; diabetes; abnormal lipid levels; obesity; sleep apnea (inability to breathe properly at night); collagen vascular disease or problems with the immune system that affects collagen; rheumatic fever or inflammatory disease that develops after a Streptococcal ( bacteria) infection; pheochromocytoma or tumor of the adrenal gland; thyroid disease; alcohol and substance abuse; and history of chemotherapy or radiation to the chest.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "Is heart failure inherited?",
+            "AnswerText": "Some people develop heart failure as a result of a disease of the heart muscle called cardiomyopathy. In many cases, cardiomyopathy has a genetic origin.",
+            "SectionTitle": "Introduction",
+            "Free": "Free"
+        },
+        {
+            "QuestionText": "What are the types of heart failure?",
+            "AnswerText": "Generally heart failure can be classified based on the side of the heart that is involved, abnormal muscle contraction or relaxation, differences in the cardiac output (volume of blood pumped by heart) and also depending on the degree of co-existing illnesses such as heart failure with diabetes, heart failure with renal failure etc.Heart failure can be left sided, right sided or both.  It may also be classified as systolic dysfunction or diastolic dysfunction and low-output or high-output heart failure.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is left-sided heart failure?",
+            "AnswerText": "Left-sided heart failure is a condition where the left side of the heart is unable to pump enough blood to the body.  This leads to accumulation of fluid in the lungs. Breathlessness is commonly observed in patients with left-sided heart failure.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is right-sided heart failure?",
+            "AnswerText": "Patients with right-sided heart failure are unable to pump blood into the lung circulation.  This results in a build up of fluid in the body with signs of fluid retention.  ",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is systolic and diastolic dysfunction?",
+            "AnswerText": "Systolic dysfunction is a condition where the heart cannot pump blood efficiently.  Diastolic dysfunction is a condition where the heart muscles are stiff and do not relax properly.  Thus, they do not allow adequate filling of the heart chambers.  ",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is low-output heart failure?",
+            "AnswerText": "Low-output heart failure is a condition where the cardiac output (the volume of blood pumped by heart) decreases but the demand of blood flow is normal. The heart is unable to meet this demand and fails. Low-output is more common than high-output-heart failure.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is high-output heart failure?",
+            "AnswerText": "High-output heart failure, the result of an increased cardiac output, is a condition where the demand for oxygen-rich blood by the body increases and the heart cannot cope up with this increased demand.  High-output heart failure occurs in conditions like anaemia, hyperthyroidism (excess production of thyroid), septicaemia (presence and multiplication of microbes in blood) some forms of severe hepatic or renal disorders and pregnancy.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "How do the symptoms of heart failure begin?",
+            "AnswerText": "Symptoms of heart failure include shortness of breath, fatigue, edema in legs or ankles, irregular heart beat, persistent cough accompanied by phlegm that may be tinged with blood, abdominal swelling and weight gain due to fluid retention. In many cases of heart failure, the symptoms initially appear only during exercise or periods of high activity.  As the condition worsens, the symptoms start appearing even during rest.  In some cases like a sudden heart attack or arrhythmia (abnormal rhythm of the heart), the symptoms may appear suddenly.",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "What are the symptoms of left-sided heart failure?",
+            "AnswerText": "Breathlessness is a major symptom of left-sided heart failure.  Breathlessness initially occurs with exertion.  As the heart failure worsens, it may appear with normal activity and later even at rest.   Breathlessness may occur in lying down position, the condition being called orthopnea.  Episodes of breathlessness that awaken the patient at night are called paroxysmal nocturnal dyspnea.  Fluid accumulation may occur in the lungs resulting in a condition called pulmonary edema.  The patient may also experience pain or pressure in the chest and palpitations (irregular or rapid heartbeats).  Other associated features include extreme fatigue, loss of appetite, nausea, weight loss, bloating, weakness, frequent urination at night, anxiety, memory impairment and confusion.",
+            "SectionTitle": "Symptoms",
+            "Free": "Free"
+        },
+        {
+            "QuestionText": "Why does the patient experience orthopnea?",
+            "AnswerText": "Orthopnea is breathlessness that starts within a minute or two after lying down while the patient is still awake.  It occurs because the excess fluid from the legs and abdomen moves into the chest in the lying down position and causes lung congestion. It is relieved by raising the head on pillows or by sitting up.  ",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "What is the difference between orthopnea and paroxysmal nocturnal dyspnea?",
+            "AnswerText": "Orthopnea develops immediately on lying down while the patient is awake and is relieved soon after sitting up. Paroxysmal nocturnal dyspnea, on the other hand, is breathlessness that awakens the patient after a couple of hours of sleep.  The patient may be required to be in the upright position for 30 minutes or more to find some relief.",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "What are the symptoms of pulmonary edema?",
+            "AnswerText": "Accumulation of fluid in the lungs is referred to as pulmonary edema.  The patient appears extremely ill, sweaty, with a fast respiratory and heart rate, cough, extremely breathless and with frothy sputum that may be tinged with blood in some cases.",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "Why does the patient experience increase in urination at night?",
+            "AnswerText": "During the day, excretion of fluid is decreased in patients with heart failure due to reduced blood supply to the kidneys.  In lying down position, there is an increase in blood flow to the kidneys resulting in increased urination.",
+            "SectionTitle": "Symptoms",
+            "Free": "Free"
+        },
+        {
+            "QuestionText": "What are the features observed in right-sided heart failure?",
+            "AnswerText": "Patients with right-sided heart failure predominately show features of fluid retention.  These include swelling of the feet, congestion and increase in size of the liver or abdomen, loss of appetite or nausea, and prominent neck veins.  Other symptoms like fatigue and dizziness are also present.",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "How does the NYHA classify heart failure patients?",
+            "AnswerText": "According to the New York Heart Association (NYHA) classification, patients of heart failure are categorized into 4 classes depending on their limitation of physical activity:",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "How do the American College of Cardiology\/American Heart Association (ACC\/AHA) guidelines classify heart failure patients?",
+            "AnswerText": "According to the American College of Cardiology\/American Heart Association (ACC\/AHA) heart failure guidelines, patients with heart failure belong to one of the following stages: •  Stage A patients are at high risk for developing heart failure but have no structural heart disease or symptoms of heart failure.•  Stage B patients have structural heart disease but are asymptomatic.•  Stage C patients have structural heart disease and have mild to moderate symptoms of heart failure which can be managed through medical   treatment.•  Stage D patients have symptoms at rest and possess advanced structural heart disease that may require hospital based support and specialized interventions.",
+            "SectionTitle": "Symptoms"
+        },
+        {
+            "QuestionText": "What are the tests required to diagnose heart failure?",
+            "AnswerText": "Tests such as ECG and echocardiography that evaluate the condition of the heart are used to diagnose heart failure.  Other tests like stress test, cardiac MRI, CT scan and angiography may be performed as necessary.  A chest x-ray and blood test to check for brain natriuretic peptide or BNP level is also useful.  Other blood tests diagnose conditions like anemia and hyperthyroidism that can cause heart failure.",
+            "SectionTitle": "Tests and Diagnosis"
+        },
+        {
+            "QuestionText": "How do blood tests help to diagnose heart failure?",
+            "AnswerText": "In heart failure patients, the level of a hormone called brain natriuretic peptide or BNP, which is secreted by the ventricles of the heart due to the over stretching of heart muscles, rises in the blood. BNP can also be found in brain and their main function is to play a role in controlling systems of renal and cardiovascular mechanisms.  Measurement of BNP levels helps to diagnose heart failure and also serves as a guide to monitor treatment. Other blood tests may also help to diagnose the cause of heart failure.  For example, anemia, hyperthyroidism, diabetes and high cholesterol levels can be detected through blood tests. Kidney function can also be evaluated using blood tests. ",
+            "SectionTitle": "Tests and Diagnosis"
+        },
+        {
+            "QuestionText": "How does ECG help to diagnose heart failure?",
+            "AnswerText": "An ECG or electrocardiogram studies the electrical activity of the heart.  It can detect problems in the heart rate or rhythm.  It can also detect an increased thickness of the heart muscle wall or a current or prior heart attack, which could be responsible for the heart failure.  ",
+            "SectionTitle": "Tests and Diagnosis"
+        },
+        {
+            "QuestionText": "Is chest x-ray useful in diagnosing heart failure?",
+            "AnswerText": "A chest x-ray helps to detect the size of the heart; the size may get enlarged in heart failure.  In addition, it may also help to detect fluid accumulation in the lungs or lung disease.",
+            "SectionTitle": "Tests and Diagnosis",
+            "Free": "Free"
+        },
+        {
+            "QuestionText": "How does echocardiography help to diagnose heart failure?",
+            "AnswerText": "Echocardiography helps to study the size of the heart chambers, which may be enlarged in case of heart failure.  It also helps to detect abnormalities in the heart valves or features associated with a heart attack.  In addition, it also studies the function of the heart and detects abnormalities in the pumping mechanism.",
+            "SectionTitle": "Tests and Diagnosis"
+        },
+        {
+            "QuestionText": "What is the role of cardiac catheterization in heart failure?",
+            "AnswerText": "Cardiac catheterization is a procedure where a thin tube is introduced into the arteries of the heart through the arm or groin.  It is used to identify the presence and extent of disease of blood vessels supplying to the heart.  It may be combined with angiography, in which a dye is injected into the arteries to identify any block.",
+            "SectionTitle": "Tests and Diagnosis"
+        },
+        {
+            "QuestionText": "What are the treatment options for heart failure?",
+            "AnswerText": "Proper control of risk factors can prevent heart failure. While many conditions that lead to heart failure cannot be reversed, in many cases it can be treated with medications and life style changes such as exercising, reducing the salt in the diet, managing stress, treating depression, and losing weight.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "How do medications help in heart failure?",
+            "AnswerText": "There are a number of ways in which medications help in heart failure.  Some medications like digitalis improve the contractility of the heart.  Others like ACE inhibitors relax blood vessels and thus reduce the strain on the heart.  There are yet others like diuretics that reduce the accumulation of fluid.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "How do diuretics help in heart failure?",
+            "AnswerText": "Diuretics are drugs like hydrochlorothiazide and furosemide that help to lose excess water from the body through the urine.  Thus, they help to reduce the work load of the heart.  They also relieve lung congestion caused by heart failure.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What is the role of ACE inhibitors in heart failure?",
+            "AnswerText": "ACE inhibitors are drugs that act in multiple ways:  They relax the arteries as well as the veins, thus reducing the work of the heart.  They reduce fluid retention by causing loss of excess fluid in the urine.  They also help to prevent long-term damage to the structure of the heart due to heart failure.  They work by inhibiting the conversion of Angiotensin 2 from Angiotensin 1. They also stimulate synthesis of nitric oxide the blood vessel relaxant.ACE inhibitors have been shown to reduce mortality in patients with heart failure and are therefore considered to be the preferred drugs along with diuretics in patients with symptomatic heart failure.  They have also been shown to reduce hospitalizations and symptoms in heart failure patients.   ",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "Are Beta blockers useful in heart failure?",
+            "AnswerText": "Beta blockers like carvedilol, bisoprolol and metoprolol have been shown to reduce mortality in heart failure patients.  They reduce the heart rate and blood pressure, thus reducing the work of the heart.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "How do vasodilators help in heart failure?",
+            "AnswerText": "Vasodilators are drugs that relax blood vessels and reduce the work load of the heart.  Drugs like nitroglycerine, isosorbide dinitrate and nesiritide mainly relax veins.  On the other hand, hydralazine mainly relaxes arteries.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What surgeries are recommended for heart failure and how are they performed?",
+            "AnswerText": "Surgery may be useful in some cases of heart failure.  Devices like implantable cardioverter defibrillator, biventricular pacemaker and left ventricular assist device can be surgically implanted.  Coronary revascularisation, a procedure in which the blood supply to the heart is restored, may be required to relieve a blocked artery.  Surgery on the heart valves may be needed if the damaged heart valves are a cause of heart failure.  Heart transplantation may be required in severe cases.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What is an implantable cardioverter defibrillator?",
+            "AnswerText": "An implantable cardioverter defibrillator (ICD) is a small device that helps to control the heart rate and rhythm.  It ensures that the pumping function of the heart is optimal and reduces the incidence of death due to abnormal heart rhythms.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What is a biventricular pacemaker?",
+            "AnswerText": "A biventricular pacemaker is a device that regulates the heart beat.  It synchronises the contractions of the left and right ventricle, thus enabling optimal function of the heart.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What is a left ventricular assist device?",
+            "AnswerText": "A left ventricular assist device is a device that takes over the pumping of the heart.  It is used in patients whose heart beat has slowed to dangerously low levels.  It is sometimes used as a stop gap for patients awaiting a heart transplant.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "Are special precautions required if a person is implanted with a pacemaker or a defibrillator?",
+            "AnswerText": "In a patient is implanted with a pacemaker or a defibrillator, certain precautions may have to be followed such as: •  The pacemaker or ICD may set off an alarm at the airports; it is always recommended to inform the airport security and always carry an ID card or wear a medic alert bracelet or necklace to avoid any problems.  The metal detecting wand should also not be held over the pacemaker for more than a second or two.  •  Avoid MRI or other investigations that use a large magnetic field, or diathermy, where heat is used to treat muscles during physical therapy.  High voltage or radar machinery should also be avoided.•  Large motors, such as cars or boats, should be turned off when working on them.•  Surgeons or dentists should be informed of the presence of a pacemaker or ICD before undergoing any procedure.•  The device should be checked regularly to ensure proper functioning.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "Is heart transplantation recommended for heart failure patients?",
+            "AnswerText": "Heart transplantation is recommended for patients with advanced heart failure who fail to respond to other treatments but are otherwise healthy.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "How is heart transplantation done?",
+            "AnswerText": "Heart transplantation is a procedure in which the heart from a donor is transplanted to a person with a diseased heart. The donor heart is obtained from a brain-dead person with the consent of his family members.  The patient in whom the heart has to be transplanted undergoes surgery to remove the diseased heart.  During the surgery, a large incision is made on the chest to open the ribcage and expose the heart.  The patient is connected to a heart-lung bypass machine during the procedure.  The diseased heart is removed and the new heart is sewn in place by connecting the major blood vessels.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What are the precautions to be taken after the heart transplantation surgery?",
+            "AnswerText": "The patient is administered to take medications to suppress immunity and prevent rejection of the transplanted heart.  Signs of rejection that are regularly watched for are shortness of breath, fever, fatigue, weight gain and reduced urination.   Since the immune-suppressing medications increase the risk of infection, the patient should always be on the lookout for signs of infection.  It may be advisable to avoid crowds or contact with animals during the first few months.  Antibiotics may be prescribed before undergoing dental procedures.  Regular checkups will be required following transplantation.  Women with heart transplant desiring to be pregnant may require special care.  ",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What are the life style modifications necessary to prevent heart failure?",
+            "AnswerText": "It is important to adopt a healthy diet to keep the heart healthy.  Individuals are strongly advised to quit smoking and avoid alcohol.  Weight loss regimens are to be followed in case of overweight people.  Illegal drugs need to be avoided.  Physical activity also has multiple benefits on the heart and general health of a person.  Conditions that could predispose to heart failure like diabetes, hypertension and abnormal lipid levels have to be treated and kept under control.",
+            "SectionTitle": "Management",
+            "Free": "Free"
+        },
+        {
+            "QuestionText": "What exercises help to keep my heart healthy?",
+            "AnswerText": "Physical activity helps to keep the heart healthy.  It is suggested that one has to do at least 150 minutes per week of moderate exercise or 75 minutes per week of vigorous exercise, or a combination of the two.",
+            "SectionTitle": "Management"
+        },
+        {
+            "QuestionText": "What diet is recommended to keep the heart healthy?",
+            "AnswerText": "A healthy diet keeps the heart healthy.  It should include a variety of fruits and vegetables.  It should also include whole grains, fat-free or low-fat dairy products, and protein foods.  It should be low in added sugars, solid fats and refined grains.  Most importantly, people with heart failure need to limit their salt intake to 5 to 6 g per day.",
+            "SectionTitle": "Management"
+        }
+    ]
+}

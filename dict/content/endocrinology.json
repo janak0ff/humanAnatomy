@@ -1,0 +1,580 @@
+{
+    "endocrinology": [
+        {
+            "WID": "1",
+            "WTitle": "Acromegaly",
+            "WDescription": "Acromegaly is the disorder characterised by progressive enlargement of the skull, jaw, hands, feet and also of internal organs due to the excessive release of growth hormone from the pituitary gland. ",
+            "WVideoName": "acromegaly.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Addison's disease",
+            "WDescription": "Addison's disease is a condition in which the adrenal gland produces less amounts of steroid hormones like glucocorticoids and corticosteroids. The primary reason for reduced production of steroid hormones is damage to adrenal gland which may be due to an autoimmune response, or a result of infections like tuberculosis and HIV. Symptoms of Addison's disease include low blood pressure, which falls even more while standing, hyperpigmentation, loss of appetite, craving for salt, lightheadedness, and syncope.",
+            "WVideoName": "Addisons disease.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Adrenal cancer",
+            "WDescription": "Adrenal cancer refers to the tumors present in the adrenal gland. These tumors can be benign or malignant. Adrenal benign tumors, also known as benign adenomas, do not metastasize but can cause hormonal imbalance. The malignant tumors, also known as adrenocortical carcinoma, metastasize to nearby lymph nodes and\/or other organs. Adrenal cancer may lead to overproduction of glucocorticoids, corticosteroids and sex hormones. Some of the symptoms observed during adrenal cancer include abdominal pain, excess body hair growth, weight gain, irregular menstrual cycles, and frequent urination. ",
+            "WVideoName": "Adrenal cancer.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Adrenal glands",
+            "WDescription": "Adrenal glands or Suprarenal glands are two triangular endocrine glands located one on top of each kidney.",
+            "WVideoName": "Adrenal glands.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Adrenaline",
+            "WDescription": "Adrenaline, also called epinephrine, is a hormone synthesised in the adrenal medulla within the adrenal gland and secreted in response to stress and stimulates autonomic nerve action. This hormone secretion is part of the ‘fight or flight’ reactions - quickening of heart beat, opening up of bronchioles in the lungs, etc - which a body has in response to physical or psychological stress.",
+            "WVideoName": "Adrenaline.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "AdrenoCorticoTropic Hormone",
+            "WDescription": "Adrenocorticotropic hormone (ACTH) is secreted by the anterior pituitary gland and stimulates the growth of the adrenal cortex and the secretion of corticosteroids by the adrenal glands. ACTH is released by the pituitary gland in short bursts, for every few hours.",
+            "WVideoName": "AdrenoCorticoTropic Hormone.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Aldosterone",
+            "WDescription": "Aldosterone is a corticosteroid hormone secreted by the cortex of adrenal glands. This hormone secreted in response to low salt levels, regulates electrolyte and water balance.",
+            "WVideoName": "Aldosterone.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Anaplastic thyroid cancer",
+            "WDescription": "Anaplastic thyroid cancer is a cancer of the thyroid gland which progresses rapidly  and also invades the surrounding organs like trachea. It occurs in people above 60 years of age. A few of the symptoms observed during the condition include coughing up blood, difficulty in swallowing, change in voice, loud breathing, and a rapid increase in neck size. Anaplastic thyroid cancers are immensely aggressive; and death mostly occurs in less than a year due to damage of important organs in the neck.",
+            "WVideoName": "Anaplastic thyroid cancer.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Angiotensinogen",
+            "WDescription": "Angiotensinogen is a precursor molecule for angiotensin and is also called as renin substrate. It is an alpha-2-globulin produced by hepatocytes. It is cleaved by renin to form angiotensin-I. Angiotensinogen levels in the plasma are increased by corticosteroids, estrogen, angiotensin-II and thyroid hormones. Regulation is by the production, utilisation and levels of renin. However, elevated levels of angiotensinogen may inhibit normal activity of renin, thus affecting normal blood pressure. ",
+            "WVideoName": "Angiotensinogen.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Angiotensins",
+            "WDescription": "Angiotensins are oligopeptides derived from angiotensinogen, a serum globulin produced by hepatocytes. They are responsible for the constriction of blood vessels that results in an increase of blood pressure. Angiotensins also stimulate the release of aldosterone from the adrenal cortex and promote sodium retention in the distal nephron, which in turn contributes to an increase in blood pressure. There are 4 types of angiotensins – angiotensin-I functions as a precursor for angiotensin-II; angiotensin-II plays an important role in regulating blood pressure; angiotensin-III exhibits vasopressor and aldosterone stimulation effects; and angiotensin-IV is involved in a range of physiological activities, including control of fluid balance and blood.",
+            "WVideoName": "Angiotensins.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Calciphylaxis",
+            "WDescription": "Calciphylaxis is a serious condition during which calcium accumulates in small blood vessels of fat tissue and the skin. This results in a chronic non-healing wound which could be fatal. The condition is especially seen in patients with stage 5 chronic kidney disease who are on dialysis. The extravascular calcification of small blood vessels leads to tissue ischemia, which is observed as black spots on skin.",
+            "WVideoName": "Calciphylaxis.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Calcitonin",
+            "WDescription": "Calcitonin is a hormone produced by the thyroid gland which lowers blood calcium levels. It works in opposition to the parathyroid hormone which increases blood calcium levels. Calcitonin inhibits osteoclast activity on bones, renal tubular reabsorption of calcium, and calcium absorption by the intestine. High blood calcium level stimulates the thyroid gland to release calcitonin and is suppressed when blood calcium level is lower than normal. Synthetic calcitonin is used in the treatment of post-menopausal osteoporosis, and hypercalcemia.\r",
+            "WVideoName": "Calcitonin.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Calcitriol",
+            "WDescription": "Calcitriol, a form of vitamin D, is a steroid hormone produced in the kidneys and plays a vital role in regulating the body’s calcium and phosphorus levels. Calcitriol is synthesized from its precursor molecule calciferol by a series of conversions. The main function of calcitriol is regulating the levels of calcium, phosphorus and mineralization of bone. Calcitriol enhances the absorption of calcium and phosphorous in small intestine; the rate of bone calcification; and along with PTH, it stimulates the breakdown of bone and release of calcium to blood. During reduced blood calcium levels, calcitriol and PTH stimulate renal reabsorption of calcium.",
+            "WVideoName": "Calcitriol.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Circadian rhythms",
+            "WDescription": "Circadian rhythms are a group of physiological, behavioral, and mental changes that follow the 24 hours cycle and are important in maintaining sleeping and feeding patterns of an individual. It depends primarily on the light and darkness in the surrounding environment. Light is the most important factor which influences circadian rhythms, turning on or turning off genes that control an individual's biological clock. ",
+            "WVideoName": "Circadian rhythms.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Corticotropin releasing hormone",
+            "WDescription": "Corticotropin releasing hormone (CRH) is released by the paraventricular nucleus of hypothalamus. CRH acts on the anterior lobe of pituitary gland, stimulating the synthesis and secretion of adrenocorticotropic hormone (ACTH), which is required for the synthesis of corticosteroid hormones. CRH is also synthesized by the placenta and is considered to determine the duration of pregnancy, as well as the action of the mother’s immune system on the fetus. High levels of CRH are found in individuals with Cushing's syndrome.",
+            "WVideoName": "Corticotropin releasing hormone.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Cortisol",
+            "WDescription": "Cortisol is a glucocorticoid hormone released by the adrenal cortex in response to stress (fight or flight situation) and a low level of blood glucocorticoid concentration. The functions of cortisol are to regulate the body’s metabolic activities, blood sugar level and blood pressure, suppress the allergic and inflammatory responses, and enhance the integrity of blood vessels. Cortisol has also been found to decrease the rate of bone formation. A small increase in cortisol level in blood causes a burst in positive energy, enhances memory functions, and lowers the sensation of pain.",
+            "WVideoName": "Cortisol.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Cretinism",
+            "WDescription": "Cretinism, also called as hypothyroidism, is a condition in which fetus\/infants produce inadequate amounts of thyroid hormones. Due to this, infant exhibits dull look, puffy face, thick tongue, stunted growth and also shows less activity, dry brittle hair, sleepiness, and sluggishness. ",
+            "WVideoName": "Cretinism.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Cushing's syndrome",
+            "WDescription": "Cushing’s syndrome  is a hormonal disorder that occurs when the body is exposed to high levels of cortisol for a long time. One of the probable cause of it is adenoma in pituitary gland, due to which the pituitary gland produces high levels of adrenocorticotropic hormone (ACTH). ACTH increases release of cortisol from adrenal glands. Symptoms of Cushing's syndrome includes upper body obesity, rounded face, increased fat around neck, retarded growth in children, excess sweating, dilation of capillaries, purplish pink stretch marks on abdomen, thighs, buttocks, arms, breasts, infertility in men and irregular menstrual cycles in women.",
+            "WVideoName": "Cushing's syndrome.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Diabetes insipidus",
+            "WDescription": "Diabetes insipidus (DI) is a rare condition that occurs when the kidneys fail to conserve water which was controlled by antidiuretic hormone (ADH) called vasopressin. ADH is synthesized in hypothalamus and then stored and released by pituitary gland. DI caused by the deficiency of ADH is called Central diabetes insipidius and the DI caused by the failure of kidneys to respond to ADH is known as nephrogenic diabetes insipidius.",
+            "WVideoName": "Diabetes insipidus.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Diabetes mellitus",
+            "WDescription": "Diabetes mellitus is a chronic metabolic disorder caused by inherited and\/or acquired deficiency in the production of insulin by the pancreas, or by the ineffectiveness of the insulin produced on the body's cells. Such a deficiency or dysfunction of insulin leads to increased concentrations of glucose in the blood, which damages other systems of the body, particularly the nerves and blood vessels. There are two major types of diabetes – Type-1 diabetes, previously known as juvenile diabetes, and Type-2 diabetes.",
+            "WVideoName": "Diabetes mellitus.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Dihydrotestosterone",
+            "WDescription": "Dihydrotestosetrone is a male sex hormone, synthesized from testosterone in prostate, testes, hair follicles and adrenal glands. In males, 5% of testosterone is converted to DHT. DHT has 15-30 times more affinity than testosterone towards androgen receptor. During embryo formation, DHT plays role in formation of external genitalia. In adolescents DHT is responsible for secondary male sexual characteristics like deepening of voice, male body hair pattern, hair on the face, etc. In adults DHT induces increase in physical strength, favorable fat loss, and increased sex drive. ",
+            "WVideoName": "Dihydrotestosterone.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Dopamine",
+            "WDescription": "Dopamine, an important neurotransmitter essential for the normal functioning of the central nervous system, is secreted by substantia nigra and hypothalamus in the brain. Dopamine is a precursor for norepinepherine and epineprine and is responsible for emotion, perception and movement.",
+            "WVideoName": "Dopamine.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Duct",
+            "WDescription": "Duct is a channel which begins from exocrine gland and end at the target site. Exocrine glands secrete hormones, enzymes and other molecules which collect in duct and flow towards the surface to which the ducts are in contact.",
+            "WVideoName": "Duct.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Endocrine glands",
+            "WDescription": "An endocrine gland is a specialised organ that produces and secretes hormones directly into the bloodstream. The endocrine glands include the thyroid, parathyroids, pituitary, pancreas, adrenals, pineal and gonads.",
+            "WVideoName": "Endocrine glands.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Endocrine hormones",
+            "WDescription": "Endocrine hormones are the chemical messengers secreted by endocrine glands into the blood stream where they travel to the target organ and bring about the desired change. Effect of endocrine hormone is insidious, but has prolonged response which lasts for hours to weeks.\r",
+            "WVideoName": "Endocrine hormones.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Endocrine system",
+            "WDescription": "Endocrine system includes 8 major glands than release hormones directly into the blood stream. These include hypothalamus, pituitary, pineal, thyroid, parathyroid, adrenal, pancreas, and reproductive glands, testis in males and ovaries in females. Endocrine system is highly specific. Endocrine glands release many hormones but each hormone works on a specific organ in a specific manner. It regulates processes such as growth and development, metabolism, mood, etc. ",
+            "WVideoName": "Endocrine system.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Endocrinology",
+            "WDescription": "Endocrinology is a branch of biology and medicine which deals with the study of endocrine system, its hormones and diseases related to endocrine system. Endocrinology also deals with synthesis, storage, release and physiological functions of hormones.  ",
+            "WVideoName": "Endocrinology.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Enkephalin",
+            "WDescription": "Enkephalin is a naturally occurring pentapeptide having pain killing activity. It is produced by cells of central nervous system and adrenal medulla. It inhibits pain sensation by reacting with specific receptor sites on the sensory nerve endings. \r",
+            "WVideoName": "Enkephalin.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Estrogen",
+            "WDescription": "Estrogen is a naturally occurring female sex hormone secreted by the ovaries and responsible for the development of female sexual characteristics.",
+            "WVideoName": "Estrogen.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Exocrine glands",
+            "WDescription": "An exocrine gland is a specialised organ that secrets hormones through ducts, onto an external or internal body surface. Most glands in the body are exocrine glands – these include gastrointestinal glands, salivary glands and sweat glands.",
+            "WVideoName": "Exocrine glands.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Exocrine hormone",
+            "WDescription": "Exocrine hormones are secreted by exocrine glands through the ducts into the blood and usually they affect a distant organ. The glands which release exocrine hormones are sweat glands, salivary glands, and mammary glands as well as the stomach, liver, and pancreas. ",
+            "WVideoName": "Exocrine hormone.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Follicle stimulating hormone (FSH)",
+            "WDescription": "Follicle stimulating hormone (FSH) is produced by the anterior pituitary gland to stimulate the follicle development within the ovaries during menustral cycles or the formation of sperm in the testis",
+            "WVideoName": "Follicle stimulating hormone (FSH).mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Follicular thyroid cancer",
+            "WDescription": "Follicular thyroid cancer is a cancer of follicular cells of thyroid. Follicular carcinoma can metastasize to distant organs like the lungs, bones, the liver, brain, bladder etc. via blood stream. It is more common in women than in men and can occur after the age of 40. Follicular thyroid tumors may be detected early and hence can be removed.",
+            "WVideoName": "Follicular thyroid cancer.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Gastrin",
+            "WDescription": "Gastrin is a hormone released by G cells in the antrum of stomach, duodenum, and pancreas. It stimulates the secretion of gastric acid that is HCl by parietal cells of the stomach, thus leading to digestion of food. High levels of gastrin will lead to high levels of gastric acid in stomach which causes peptic ulcers and diarrhea. ",
+            "WVideoName": "Gastrin.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Gestational diabetes mellitus",
+            "WDescription": "Gestational diabetes mellitus (GDM) is a condition where women who do not posses a history of diabetes present with high glucose levels during pregnancy.",
+            "WVideoName": "Gestational diabetes mellitus.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Gigantism",
+            "WDescription": "Gigantism is characterised by excessive growth which occurs due to increased production of growth hormone during childhood, before the bone plates have closed. Such individuals show delayed puberty, large hands and feet, thick fingers and toes, thickening of facial structures, irregular menstruation. Children with gigantism look older than their age. ",
+            "WVideoName": "Gigantism.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Glucagon",
+            "WDescription": "Glucagon is the hormone secreted by the alpha cells of pancreas which stimulate glycogen breakdown in the liver to release glucose into the blood.",
+            "WVideoName": "Glucagon.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Goitre",
+            "WDescription": "Goitre is the enlargement of the thyroid gland due to iodine deficiency.",
+            "WVideoName": "Goitre.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Gonadotropin releasing hormone",
+            "WDescription": "Gonadotropin releasing hormone (GnRH) is released by hypothalamus. GnRH stimulates the synthesis and release of Follicular stimulating hormone (FSH) and Luteinizing hormone (LH) from anterior pituitary. GnRH activity is very low in childhood and increases at puberty. GnRH secretion is pulsatile and is necessary for correct reproductive function. Low frequency of GnRH pulses causes FSH to release and high frequency of GnRH pulses causes luteinizing hormone to release. ",
+            "WVideoName": "Gonadotropin releasing hormone.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Gonads",
+            "WDescription": "Gonad is an organ which produces gametes and hormones. Gonads are situated in pelvic region. Male gonads are called testes and female gonads are called ovaries. Testes produce a hormone, testosterone and ovaries produce estrogen and progesterone. ",
+            "WVideoName": "Gonads.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Graves disease",
+            "WDescription": "Graves disease is a type of hyperthyroidism. Thyroid gland produces triiodothyronine (T3) and thyroxine (T4) hormones. When there is overproduction of thyroid hormones due to autoimmunity, it results in Graves disease. Symptoms of graves disease are bulging of eyes, inflammation of tissue around the eyes, double vision, increased sweating, menstrual irregularity, erectile dysfunction, thick red skin on top of the feet, weight loss, diarrhea, sensitivity to light, depression, etc. ",
+            "WVideoName": "Graves disease.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Growth hormone releasing hormone",
+            "WDescription": "Growth hormone releasing hormone is released by hypothalamus. It stimulates the release of growth hormone (GH) from anterior pituitary. GHRH stimulates the release of growth hormone by binding to GHRH receptor on cells in the anterior pituitary.  ",
+            "WVideoName": "Growth hormone releasing hormone.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Hashimoto's thyroiditis",
+            "WDescription": "Hashimoto's thyroiditis is swelling of a thyroid gland caused by autoimmunity. It reduces the functioning of thyroid gland that is hypothyroidism. Hashimoto's thyroiditis is more common in females than in males. Symptoms observed in Hashimoto's thyroiditis are weight gain, constipation, infertility, muscle cramp, puffy face, hoarse voice, depression, high cholesterol, etc.",
+            "WVideoName": "Hashimoto's thyroiditis.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Human chorionic gonadotropin (hCG)",
+            "WDescription": "Human chorionic gonadotropin (hCG) is the hormone produced during pregnancy. In the early stage of pregnancy hCG is produced by the developing embryo and later by the placenta. hCG maintains the corpus luteum at the beginning of the pregnancy, causing it to secrete progesterone.\r",
+            "WVideoName": "Human chorionic gonadotropin (hCG).mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Hyperglycemia",
+            "WDescription": "Hyperglycemia is a condition characterized by increased levels of glucose in blood due to insufficient production of insulin by pancreas or inability to use the insulin efficiently. It is a common symptom or complication of diabetes. Symptoms of hyperglycemia include increased thirst, frequent urination, dry mouth, weight loss, fatigue and blurred vision.",
+            "WVideoName": "Hyperglycemia.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Hyperthyroidism",
+            "WDescription": "Hyperthyroidism is the excessive production of thyroid hormone thyroxine, due to the abnormal functioning of the thyroid gland. Accompanied by an enlarged thyroid, the excess hormone increases body’s metabolism that, in turn, may lead to weight loss, irregular heart beat, tremors, muscle weakness, diarhhoea and bulging eyes.",
+            "WVideoName": "Hyperthyroidism.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Hypoglyacemia",
+            "WDescription": "Hypoglycaemia is a condition characterised by abnormally low blood sugar levels to a value less than 70mg\/dl, due to poor diet or excess insulin in blood. Symptoms of hypoglycaemia include  dizziness, sweating, hunger and Visual disturbances.",
+            "WVideoName": "Hypoglyacemia.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Hyposmia",
+            "WDescription": "Hyposmia is a condition in which individual has a decreased ability to detect the odor. Hyposmia can occur as a result of allergies, nasal polyps, or viral infections. Hormonal changes, for example during pregnancy can also cause hyposmia.",
+            "WVideoName": "Hyposmia.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Hypothalamus",
+            "WDescription": "Hypothalamus is the complex structure present in the subcortical region of the brain. The hypothalamus controls the sympathetic nervous system and is responsible for vital functions like regulating body temperature, sleep, blood pressure, thirst, hunger and endocrine activities.",
+            "WVideoName": "Hypothalamus.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Hypothyroidism",
+            "WDescription": "Hypothyroidism is the inadequate secretion of thyroxine hormone by the thyroid gland. This adversely affects metabolic processes, digestion and other important functions of the body resulting in fatigue, increased sensitivity to cold, depression and obesity.",
+            "WVideoName": "Hypothyroidism.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Insulin",
+            "WDescription": "Insulin is a peptide hormone secreted by the beta cells in the Islets of Langerhans in the pancreas that regulate blood glucose levels.",
+            "WVideoName": "Insulin.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Iodised salt",
+            "WDescription": "Iodised salt is a form of table salt which is mixed with minute amount of iodine containing salts. Body requires iodine in micro amount. Iodine is naturally present in food in many regions. But in areas where soil contains low levels of iodine, it is not taken up by vegetables which may lead to iodine deficiency and in turn to goiter. To avoid this, iodised salt is used as an iodine supplement. ",
+            "WVideoName": "Iodised salt.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Kallmann's syndrome",
+            "WDescription": "Kallmann's syndrome is a rare genetic disorder that occurs more in men than women. It is normally inherited as X-linked form and is characterized by  delayed or absent puberty and anosmia (absence of smell). This condition develops due to dyfunction in a part of hypothalamus, which results in hormonal  imbalance. \r",
+            "WVideoName": "Kallmann's syndrome.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Leptin",
+            "WDescription": "Leptin, a hormone that plays central role in fat metabolism, is released from the fat cells of the body. When body has more stored fat, leptin signals brain. Leptin exerts its effects through hypothalamic effects on satiety and energy expenditure via the leptin receptor. ",
+            "WVideoName": "Leptin.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Limbic system",
+            "WDescription": "It is a group of brain structures including 4 parts:  amygdala, hippocampus, thalamus and hypothalamus. The hypothalamus regulates the release of hormones in the body; the amygdala regulates the ‘fight or flight’ response and the hippocampus helps with memory. It stimulates endocrine and autonomic systems and controls functions like the sense of smell, behavior, learning, long-term memory, emotions and drives.",
+            "WVideoName": "Limbic system.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Luteinzing hormone",
+            "WDescription": "Leuteinizing hormones are gonadotropic hormones produced by the pituitary gland that stimulates female ovulation and production of androgen in male.",
+            "WVideoName": "Luteinzing hormone.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Medullary thyroid cancer",
+            "WDescription": "Medullary thyroid cancer (MTC) is a form of thyroid cancer that arises from “C cell” of the thyroid gland. C cell is the main site of calcitonin secretion, a hormone that maintains blood calcium levels. MTC is of two forms: sporadic MTC and inherited MTC. MTC presents with goiter, diarrhea, cough, and cough with blood.",
+            "WVideoName": "Medullary thyroid cancer.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Melanocyte stimulating hormone",
+            "WDescription": "Melanocyte stimulating hormone (MSH) is a peptide hormone released from the pituitary gland of the brain. It stimulates melanocytes to release melanin pigment in skin and hair. Increased production of MSH results in darkening of skin and hair. During pregnancy MSH production increases along with estrogen causing hyperpigmentation in pregnant women.",
+            "WVideoName": "Melanocyte stimulating hormone.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Melatonin",
+            "WDescription": "Melatonin is derivative of serotonin, secreted from the pineal gland of brain. It mainly responsible for sleep–wake cycle and skin color maintenance. It also regulates release of female hormones. Dark condition stimulates the brain to produce melatonin while under bright conditions melatonin production decreases and more seratonin is produced. Melatonin is sometimes prescribed for patients with insomnia. ",
+            "WVideoName": "Melatonin.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Menopause",
+            "WDescription": "Menopause is the time of the woman’s life when her menstrual cycles stop completely. Considered a normal part of ageing, menopause results from hormonal changes that bring about a reduction in the number of ovum produced from ovaries.",
+            "WVideoName": "Menopause.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Multiple endocrine neoplasia",
+            "WDescription": "Multiple endocrine neoplasia (MEN) is a very rare genetic disorder affecting the endocrine system by forming tumors. MEN is mainly divided into two types, type 1 and type 2 based on the genes and glands involed as well as the signs and symptoms exhibited. Type 1 affects  parathyroid gland, pituitary gland, and pancreas causing hyperthyroidism, while type 2 mainly affects the thyroid gland causing thyroid cancer.",
+            "WVideoName": "Multiple endocrine neoplasia.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Nelson's syndrome",
+            "WDescription": "Nelson’s syndrome is the rapid growth of pituitary tumor (adenoma) that produces abnormal amounts of adrenocarticotropic hormone (ACTH). Bilateral adrenalectomy is a surgery performed for people suffering from Cushing's disease. Due to this, pre-existing pituitary tumors start growing as Cortisol feedback is absent, leading to pituitary adenoma. People with Nelson’s disease have pigmented skin, headache, and vision loss.",
+            "WVideoName": "Nelson's syndrome.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Noradrenaline",
+            "WDescription": "Noradrenaline, also known as norepinephrine, is a catecholamine that acts as a hormone as well as a neurotransmitter. Secreted by the adrenal gland and nerve endings of sympathetic nervous system, it causes vasoconstriction and increases heart rate, blood pressure, and the sugar level of the blood.",
+            "WVideoName": "Noradrenaline.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Obesity",
+            "WDescription": "Obesity is a condition of being abnormally overweight due to excessive accumulation of body fat. It occurs as a result of excessive eating and lack of sufficient physical exercise. Hormonal imbalance can also cause obesity. Hormones like liptin, insuling, and growth hormones play a major role in regulating metabolism and fat distibution in the body. When hormone production is inadequate or when body does not respond to these hormone, metabolism is disturbed which results in obesity. ",
+            "WVideoName": "Obesity.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Ovary",
+            "WDescription": "Ovary is one of a pair of oval shaped female reproductive organs located in the pelvis on either side of the uterus and attached to the fallopian tube. They produce ovum and the sex hormones, oestrogen and progesterone.",
+            "WVideoName": "Ovary.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Oxytocin",
+            "WDescription": "Oxytocin is a peptide hormone released by the pituitary gland that stimulates, uterine contractions  during labour and lactation.",
+            "WVideoName": "Oxytocin.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Paget's disease",
+            "WDescription": "Paget's disease is a chronic bone disorder, mainly found in older people. It affects both males and females. This disease occurs due to imbalance in bone remodelling.  Bone pain, headache, hair loss, joint pain, enlarged head, and reduced weight are common symptoms of 's disease. ",
+            "WVideoName": "Paget's disease.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Pancreas",
+            "WDescription": "Pancreas is gland in the digestive system, situated behind the stomach that secretes hormones such as insulin, glucagon and somatostatins into the blood stream. Pancreas functions both as an endocrine as well as an exocrine gland. The metabolic processes and pancreatic juices that reach the small intestine aid in digestion.",
+            "WVideoName": "Pancreas.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Papillary thyroid cancer",
+            "WDescription": "Papillary thyroid cancer is most common form of thyroid cancer more than 70% of thyroid cancer belongs to papillary thyroid cancer. Exposure to radiation is one of the major causes of the disease. The early stages are symptom free. As the lump grows, it can cause symptoms like neck and throat pain, changes in voice, difficulty in swallowing, etc.",
+            "WVideoName": "Papillary thyroid cancer.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Parathyroid gland",
+            "WDescription": "Parathyroid glands are two pairs of pea shaped endocrine glands that lie behind the thyroid gland in the neck. They secrete parathyroid hormone (parathormone) critical for the regulation of calcium and phosphorus metabolism.",
+            "WVideoName": "Parathyroid gland.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Parathyroid hormone",
+            "WDescription": "Parathyroid hormone or parathormone is a hormone secreted from the parathyroid gland. It plays an important role in maintaining blood calcium level in the body. Calcium is essential to maintain the structure and functioning of nervous, muscular and skeletal system. Parathyroid hormone stimulates the bones to release calcium in to blood stream and also stimulates kidney to produce Vitamin D that helps in absorption of calcium by the intestine, thus increasing the blood calcium levels. Parathyroid hormone also regulates the excretion of calcium in urine.",
+            "WVideoName": "Parathyroid hormone.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Polycystic ovary syndrome",
+            "WDescription": "Polycystic ovarian syndrome is the most common hormonal disorder among women of reproductive age. The condition is characterised by enlarged ovaries with numerous small cysts located on the outer edge of each ovary which result in infrequent or prolonged menstrual periods, acne and obesity.",
+            "WVideoName": "PCOS.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Pineal gland",
+            "WDescription": "Pineal gland, also called Pineal body or Epiphysis, is a small cone shaped endocrine gland located deep in the brain that secretes melatonin which regulates the sleep \/ wake cycle.",
+            "WVideoName": "Pineal gland.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Pituitary dwarfism",
+            "WDescription": "Pituitary dwarfism occurs due to deficiency of growth hormone. Growth hormone is secreted from the anterior lobe of the pituitary gland. A Dysfunctional anterior pituitary results in stunted growth in children and loose, wrinkled skin in older people. Children with pituitary dwarfism usually have proportionate body, but show decreased growth when compared to their peers. Pituitary dwarfism is also known as hypopituitary dwarfism, hypopituitarism, panhypopituitarism, and growth hormone deficiency. ",
+            "WVideoName": "Pituitary dwarfism.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Pituitary gland",
+            "WDescription": "Pituitary gland or hypophysis, also referred to as the \"master gland\", is a pea shaped endocrine gland located beneath the hypothalamus. The pituitary gland secretes hormones that control other endocrine glands, and influence growth, metabolism and maturation.",
+            "WVideoName": "Pituitary gland.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Progesterone",
+            "WDescription": "Progesterone is a steroid hormone secreted in the ovaries during the menstrual cycle. It helps to prepare the uterus for implantation of the fertilised ovum and maintain the lining of the uterus to support pregnancy.",
+            "WVideoName": "Progesterone.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Prolactin",
+            "WDescription": "Prolactin is a gonadotropic hormone released by the anterior pituitary gland responsible for the activation of mammary glands and lactation. Prolactin also regulates ovulation.",
+            "WVideoName": "Prolactin.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Prolactinoma",
+            "WDescription": "Prolactinoma is a benign tumor located in the pituitary gland of brain that produces a hormone called prolactin. Prolactin stimulates lactation, maintains the immune system and also plays a role in ovulation. Prolactinomas results in excess production of prolactin that leads to brest tenderness, infertility, decreased interest in sex, visual disturbances and headache. ",
+            "WVideoName": "Prolactinoma.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Relaxin",
+            "WDescription": "Relaxin is a female hormone secreted from the corpus luteum of placenta during last days of the pregnancy. It softens the cervix and relaxes the pelvic ligaments during childbirth. Relaxin also loosens the tissues of joints. The effects of relaxin can prevail for several weeks after delivery. Hence it is advisable for pregnant women to avoid doing vigorous exercises during the last stages of pregnancy and also for few weeks after childbirth. ",
+            "WVideoName": "Relaxin.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Renin",
+            "WDescription": "Renin is a proteolytic enzyme secreted by the juxtaglomerular cells of the kidneys, involved in the regulation of blood pressure. When blood pressure falls, renin catalyses the conversion of angiotensinogen into angiotensin-I which elevates and normalises the blood pressure. It is also called as angiotensinogenase",
+            "WVideoName": "Renin.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Silent thyroiditis",
+            "WDescription": "Silent thyroiditis is also called as lymphocytic thyroiditis or painless thyroiditis. Thyroiditis is the inflammation of the thyroid gland without causing pain. It occurs mostly in young women following pregnancy. In this condition thyroid hormone level in blood keeps changing (hypothyroidism or hyperthyroidism). ",
+            "WVideoName": "Silent thyroiditis.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Somatostatin",
+            "WDescription": "Somatostatin, also called as growth hormone-inhibiting hormone (GHIH) or somatotropin release-inhibiting factor (SRIF), is a polypeptide neurohormone mainly present in the hypothalamus, also in intestine and pancreas. It inhibits the growth hormone in brain, inhibits the release of insulin and glucagon in pancreas, and also suppresses the release of gastrin in stomach and intestine. Hence it is used to treat diabetes and gastrointestinal bleeding. ",
+            "WVideoName": "Somatostatin.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Somatotropin",
+            "WDescription": "Somatotropin, also called Human Growth Hormone, is a peptide hormone secreted by the anterior pituitary gland which stimulates the release of somatomedin, a hormone secreted by the liver, that promotes growth of bones and muscles and maintains tissues and organs. ",
+            "WVideoName": "Somatotropin.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Testosterone",
+            "WDescription": "Testosterone, also known as male sex hormone or androgen, is secreted from the testes. It is responsible for male secondary sex characteristics such as, more facial hair, larger hands and feet than women, broader shoulders and chest, larger skull and bone structure, greater muscle mass, a more prominent Adam's apple and deeper voice etc.",
+            "WVideoName": "Testosterone.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Thrombopoietin",
+            "WDescription": "Thrombopoietin is a glycoprotein hormone release from the liver and the kidney. It stimulates the proliferation and maturation of bone marrow megakaryocytes, results in increased platelet production, by a process known as thrombopoiesis. ",
+            "WVideoName": "Thrombopoietin.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Thymus",
+            "WDescription": "Thymus, mainly responsible for T cell differentiation, is a small, ductless, glandular organ situated in the upper chest behind the breast bone. These glands grow and function actively till puberty to build the stock of T-lymphocytes and become dormant thereafter. ",
+            "WVideoName": "Thymus.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Thyroid gland",
+            "WDescription": "Thyroid gland is an endocrine gland shaped like a shield, located in front of, and on either side of the trachea. Thyroid gland releases iodine containing hormones (thyroxine and triiodothyronine) into the blood stream.",
+            "WVideoName": "Thyroid gland.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Thyroid nodules",
+            "WDescription": "Thyroid nodules are solid or fluid filled sack like abnormal growth or lump of cells of the thyroid gland. They may be benign or cancerous. If the nodules are large in size, it can cause pain in neck, difficulty in breathing and swallowing, goiter and rarely hoarseness in voice.",
+            "WVideoName": "Thyroid nodules.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Thyrotropin releasing hormone",
+            "WDescription": "Thyrotropin releasing hormone is secreted by hypothalamus. It regulates the release of thyrotropin stimulating hormone from anterior pituitary which in turn stimulates thyroid gland. Thyrotropin releasing hormone is also present in gastrointestinal tract, islets of pancreas, and brain.",
+            "WVideoName": "Thyrotropin releasing hormone.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Thyrotropin",
+            "WDescription": "Thyrotropin or thyroid stimulating hormone is a hormone secreted by the anterior pituitary gland that promotes the growth of the thyroid gland. It stimulates the production and release of the thyroid hormones.",
+            "WVideoName": "Thyrotropin.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Thyroxine",
+            "WDescription": "Thyroxine is an iodine containing hormone synthesized by the thyroid gland that increases rate of cell metabolism and regulates growth.",
+            "WVideoName": "Thyroxine.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Triiodothyronine",
+            "WDescription": "Triiodothyronine is a hormone synthesized and released by the thyroid gland that has three iodine molecules in its molecular structure. Triiodothyronine maintains body process like, body temperature, metabolism, growth, development, and heart beat. It is also used to treat hypothyroidism.",
+            "WVideoName": "Triiodothyronine.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Turner syndrome",
+            "WDescription": "Turner syndrome occurs only in females and is characterized by missing or incomplete X chromosome. Women with turner syndrome have swollen hands and feet, wide and webbed neck, retarded body growth, broad chest, cardiovascular abnormalities, sexual underdevelopment, etc. Hormone therapy with growth hormones and estrogen helps to attain normal growth.",
+            "WVideoName": "Turner syndrome.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Type 1 diabetes",
+            "WDescription": "Also known as juvenile  diabetes or insulin-dependent diabetes, type 1 diabetes is a chronic condition that occurs when the pancreas does not produce enough insulin to control blood sugar levels in the normal range",
+            "WVideoName": "Type 1 diabetes.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Type 2 Diabetes",
+            "WDescription": "Type 2 diabetes or noninsulin-dependent diabetes mellitus is a condition where the body does not produce enough insulin or is unable to use it properly. As there is insufficient insulin to let glucose enter the cells, glucose levels in the blood rise and the cells are starved of energy.",
+            "WVideoName": "Type 2 Diabetes.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Vasopressin",
+            "WDescription": "Vasopressin or anti-diuretic hormone (ADH) is a hormone produced by the hypothalamus and stored in the posterior pituitary gland. It enhances water resorption in the tubules of the kidney, increases peristalsis and constricts blood vessels, thus increasing the blood pressure.",
+            "WVideoName": "Vasopressin.mp4"
+        }
+    ]
+}

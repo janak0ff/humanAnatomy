@@ -1,0 +1,224 @@
+{
+    "Diabetes": [
+        {
+            "QuestionText": "What is Diabetes?",
+            "AnswerText": "Diabetes is a chronic metabolic condition characterized by high levels of glucose in blood. It results from insufficient insulin production or as a consequence of body cells not responding to normal amounts of insulin. Diabetes is of two types – Type 1 and Type 2 diabetes.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is insulin?",
+            "AnswerText": "Insulin is a hormone produced by the organ pancreas. Insulin is necessary to regulate blood glucose levels. Normally, when we eat, food is converted to a simple molecule – glucose, which is transported to body cells through the blood. Cells take up glucose as an energy source. Insulin, thus, helps the cells take up glucose from blood. Excess blood glucose is converted into glycogen.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is glucose?",
+            "AnswerText": "Glucose is the simple sugar and an important carbohydrate that the body uses to derive energy. It is obtained from food after digestion. The amount of glucose to be present in blood is regulated by insulin. When there is excess of glucose in blood, the condition is termed as diabetes.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is glycogen? What is its role in the body?",
+            "AnswerText": "Glycogen is the storage form of glucose which is utilized when cells require energy. Most of the body’s stores of glycogen are in the liver, while smaller quantities are stored in muscles. Excess glucose present in blood is converted and stored as glycogen. When glucose is exhausted, glycogen is converted to glucose for use.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "How does diabetes occur?",
+            "AnswerText": "Normally, our body maintains blood sugar or blood glucose levels with the help of two hormones - insulin and glucagon. Insulin is produced by beta cells and glucagon by alpha cells in the pancreas. The presence of glucose stimulates insulin release and inhibits glucagon secretion. Excess glucose is stored in the form of glycogen in the liver or muscle cells. When blood glucose levels decrease, glucagon is released, which breaks down glycogen to glucose. Diabetes occurs as a result of increased glucose levels in blood due to lack or decreased production of insulin, or production of defective insulin molecules. As high levels of glucose build-up in the bloodstream, the body cells are deprived of glucose as a source of energy. ",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What are the causes for diabetes?",
+            "AnswerText": "Type 1 diabetes results when the beta cells do not produce enough insulin. The beta cells are believed to be damaged due to autoimmune reaction, diseases, trauma, surgery, or the effects of drugs. Type-2 diabetes results when the body’s cells do not respond appropriately to the action of insulin produced by the pancreatic beta cells. Type 2 diabetes is primarily due to poor diet habits, lack of physical activity, and excess weight. ",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "Does pancreas have a role in diabetes?",
+            "AnswerText": "The pancreas plays a vital role in diabetes. Pancreas produces two important hormones – insulin and glucagon, both responsible for regulating glucose levels in the blood. Certain cells in the regions of pancreas called Islets of Langerhans produce these hormones. Beta cells of Langerhans produce and secrete insulin, and the alpha cells produce and secrete glucagon. Insulin is responsible for regulating glucose levels in the blood. Insulin is vital for cells to take up glucose as energy source. Excess glucose is converted to glycogen and stored in liver and muscles. Glucagon is essential for the conversion of glycogen to glucose, when necessary. Diabetes is a result of insufficient insulin production or inability of cells to respond appropriately to insulin. ",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is the difference between Type 1 and Type 2 diabetes?",
+            "AnswerText": "Type 1 diabetes can occur at any age, but it usually occurs early in life and is most often diagnosed in children, adolescents, or young adults. In Type 1 diabetes the beta cells of pancreas produce inadequate or no insulin. Type 2 diabetes generally occurs in adults and results when the body’s cells do not respond appropriately to the amount of insulin produced.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "Are there other types of diabetes apart from Type 1 and Type 2 diabetes?",
+            "AnswerText": "Yes! There are different types of diabetes apart from Type 1 and Type 2 diabetes - •  gestational diabetes, which occurs during pregnancy; •  inherited forms of diabetes such as maturity-onset diabetes of the young (MODY) associated with genetic defects in beta-cell function; •  diabetes resulting from injury to pancreas due to diseases like pancreatitis, pancreatic carcinoma, trauma and infection; •  diabetes resulting from altered levels of hormones like growth hormone, cortisol, glucagons and adrenaline; •  drug-induced diabetes resulting from the use of certain drugs that can alter insulin secretion and precipitate diabetes in individuals with insulin resistance.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is hyperglycemia?",
+            "AnswerText": "Hyperglycemia is a condition where the level of blood sugar is higher than normal and is the result of body being unable to regulate blood sugar levels due to decreased or no insulin production from pancreas. The normal blood sugar or blood glucose level is 60-100 mg\/dL. Blood sugar levels exceeding 126 mg\/dL is termed as hyperglycemia and can lead to diabetes.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What is hypoglycemia and what are the symptoms associated with this condition?",
+            "AnswerText": "Hypoglycemia is a condition characterized by abnormally low levels of blood sugar. Hypoglycemia is generally reported in diabetics, especially when glucose levels in blood drastically reduce as a result of taking excess insulin or diabetes medicine, taking medicines or insulin at the wrong time, or skipping meals. If hypoglycemia is not treated immediately, it can lead to severe complications and even death. The brain neither produces nor stores glucose; however it requires a steady supply of glucose for normal functioning. If glucose levels reduce, as with hypoglycemia, it can result in confusion, abnormal behavior, inability to complete routine tasks, visual disturbances such as double vision and blurred vision, and, rarely, seizures and loss of consciousness. Hypoglycemia can also cause palpitations of heart, tremors, anxiety, sweating, and hunger.",
+            "SectionTitle": "Introduction"
+        },
+        {
+            "QuestionText": "What are the signs and symptoms of diabetes?",
+            "AnswerText": "The signs and symptoms of Type 1 and Type 2 diabetes are similar. In both, blood sugar levels are high. Due to inadequate or lack of production of insulin, or resistance to insulin there is insufficient supply of glucose to the cells, resulting in lack of energy. The primary symptoms of Type 1 diabetes are frequent urination, unusual thirst, increased hunger, extreme fatigue, and irritability, followed by rapid and unusual weight loss. Dehydration is usually observed due to electrolyte disturbance. Type 2 diabetes patients also exhibit symptoms of type 1 diabetes such as increased thirst, urination, hunger and fatigue. Other symptoms that are observed include blurred vision, loss of sensation or tingling sensation in feet, susceptibility to infections, and poor wound healing.",
+            "SectionTitle": "Knowing the symptoms"
+        },
+        {
+            "QuestionText": "Who is at risk of developing Type 2 diabetes?",
+            "AnswerText": "Type 2 diabetes is most common in persons who are overweight. Other factors that increase the risk for Type 2 diabetes include elderly age, family history, lack of exercise, high blood pressure, high levels of cholesterol, and races such as aboriginal, African, Asian or Latin American.",
+            "SectionTitle": "Knowing the symptoms"
+        },
+        {
+            "QuestionText": "Is there a type of diabetes that is associated with pregnancy? Does it affect the baby?",
+            "AnswerText": "Diabetes associated with pregnancy is termed gestational diabetes. Usually gestational diabetes presents in late pregnancy. Gestational diabetes occurs from pregnancy hormones which prevent normal functioning of insulin, leading to high blood sugar levels. Increased glucose levels in the mother’s blood results in too much glucose entering into the baby’s blood. This leads to the baby's pancreas producing extra insulin to regulate high blood glucose levels. The overall result of increased sugar levels in blood is storage of glucose as fat in the baby’s body and overweight. This may lead to a condition termed macrosomia or “fat” baby. Fat babies may face problems during delivery, including damage to shoulder during birth, breathing problems, or hypoglycemia due to over production of insulin. ",
+            "SectionTitle": "Knowing the symptoms"
+        },
+        {
+            "QuestionText": "What are the complications of diabetes?",
+            "AnswerText": "Diabetes can damage the blood vessels, preventing normal flow of blood through them. When blood vessels of the heart are affected, it results in heart attack. Reduced blood supply to brain and eyes due to damaged blood vessels result in stroke and diabetic retinopathy, respectively. Diabetic retinopathy may lead to blurred vision, severe loss of vision, or even blindness. Erectile dysfunction in men is the consequence of reduced blood supply through the blood vessels of the penis. Diabetes can also cause diabetic neuropathy (nerve damage), and diabetic nephropathy (kidney disease). Diabetes increases the risk for infections such as urinary tract infection in women, oral infections, and lung infections. Diabetes also affects the digestive system, reducing the digestion process.",
+            "SectionTitle": "Complications of diabetes"
+        },
+        {
+            "QuestionText": "How does diabetes affect the heart?",
+            "AnswerText": "Diabetes greatly increases the risk of heart disease. High blood sugar levels damage the blood vessels of heart by increasing fat accumulation in the walls of blood vessels and reduced blood supply through them. This is primarily because people with diabetes, particularly type 2 diabetes, often have high blood pressure, and abnormal cholesterol and triglycerides. They are generally obese, and smokers who have lack of physical activity, all which contributes to the risk for developing cardiovascular disease. ",
+            "SectionTitle": "Complications of diabetes"
+        },
+        {
+            "QuestionText": "How does high blood sugar affect the kidneys?",
+            "AnswerText": "High blood sugar can affect the kidneys, causing a condition known as diabetic nephropathy. The small blood vessels in the kidneys of a diabetic person are affected due to long standing high blood glucose levels. The kidneys gradually lose their normal function of filtering waste out of blood, which leads to accumulation of toxic waste substances in blood, damaging the cells of the body. ",
+            "SectionTitle": "Complications of diabetes"
+        },
+        {
+            "QuestionText": "Why are diabetic patients at risk of blindness?",
+            "AnswerText": "Diabetic patients are at a risk of developing eye disorders leading to severe vision loss and even blindness. Common diabetic eye disorders include diabetic retinopathy, cataract, and glaucoma. Diabetic retinopathy is due to damage of blood vessels in the retina. Cataract results from clouding of the lens in the eye with proteins. In people with diabetes, cataract develops at an earlier age. Glaucoma is due to increased fluid pressure inside the eye that causes nerve damage and loss of vision. A person with diabetes is nearly twice as likely to get glaucoma as other adults.",
+            "SectionTitle": "Complications of diabetes"
+        },
+        {
+            "QuestionText": "How does diabetes affect the nerves?",
+            "AnswerText": "Diabetic neuropathies are a family of nerve disorders that develop in people with long standing diabetes. Nerves throughout the body may be damaged and the common symptoms include pain, tingling, or numbness to loss of sensation in the hands, arms, feet, and legs. Nerve problems can also occur in organ systems including the digestive tract, heart, and sex organs.",
+            "SectionTitle": "Complications of diabetes"
+        },
+        {
+            "QuestionText": "What are the tests for diabetes?",
+            "AnswerText": "Common laboratory investigations or tests done for diabetes are blood glucose tests – Fasting Blood Sugar (FBS), Post Prandial Blood Sugar (PPBS), Random Blood Sugar (RBS), and Oral Glucose Tolerance Test (OGTT), HbA1c, and urine analysis. ",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "What is FBS and how is it measured?",
+            "AnswerText": "Fasting Blood Sugar (FBS) test is a diagnostic test that measures blood glucose in a person who has not eaten anything for at least 8-10 hours. This test is used to detect diabetes and prediabetes. The FBS test is most reliable when done in the morning on an empty stomach. The normal FBS level is 60-100 mg\/dL. FBS levels of100-126 mg\/dL are considered as Impaired Fasting Glucose (IFG), an indication of prediabetes. FBS greater than 126 mg\/dL consistently implies diabetes.",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "What is PPBS? Why is PPBS important?",
+            "AnswerText": "Post-Prandial Blood Sugar (PPBS) is a measure of your blood sugar after consumption of a meal. Normally, after food is consumed, depending on the type of food, the level of sugar or glucose in the blood rises. The PPBS test is done at two hours after a meal, usually breakfast. A PPBS value of over 180 mg\/dL indicates diabetes. PPBS, along with FBS, are considered an important test, to diagnose prediabetes or early diabetes. The PPBS values indicate inability of the pancreas to produce enough insulin to regulate glucose levels in blood.",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "What is the importance of RBS test?",
+            "AnswerText": "Random Blood Sugar (RBS) test is a diagnostic test for blood sugar that is done on any random blood sample. A random blood sugar level of 200 mg\/dL or higher can mean a person has diabetes. However, an abnormal RBS result only warrants for an FBS and PPBS test to confirm if the patient is a diabetic. ",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "What is the HbA1c test?",
+            "AnswerText": "Glycated hemoglobin or HbA1c, also known as hemoglobin A1c, HbA1c, A1C, or Hb1c, is a form of hemoglobin that is used to measure the average plasma glucose concentration over prolonged periods of time. Glycated hemoglobin is formed by the exposure of hemoglobin to plasma glucose. Normal levels of glucose produce a normal amount of glycated hemoglobin. As the average amount of plasma glucose increases, the fraction of glycated hemoglobin increases in a predictable way. This serves as a marker for average blood glucose levels over the previous months prior to the measurement. The normal level for HbA1c is ≥48 mmol\/mol (<5.7%), pre-diabetes range is 39–46 mmol\/mol (5.7%–6.4%), and diabetes is ≥47 mmol\/mol (>6.5%).",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "How important is HbA1c test for a diabetic patient?",
+            "AnswerText": "HbA1c, also known as glycated hemoglobin test, or glycohemoglobin test, is used to determine how well blood sugars have been under control over a period of time. HbA1c provides an average of blood sugar control over a 6-12 week period. If blood sugar levels have been high over recent weeks, HbA1c value will be higher. HbA1c, along with other blood sugar monitoring tests, plays a vital role in making adjustments in diabetes medications.",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "How often should one test for diabetes?",
+            "AnswerText": "For individuals with normal blood sugar levels, a blood test every 3 years or on the doctor’s recommendation is suggested. In case of a prediabetic patient, a blood test every one or two years is recommended to check for Type 2 diabetes. If an individual is at risk of developing diabetes, a blood test is recommended at least once in six months. However, the intervals for blood test depends on the medications prescribed, blood sugar at diagnosis, and blood sugar control by the patient.",
+            "SectionTitle": "Tests and diagnosis"
+        },
+        {
+            "QuestionText": "What is prediabetes?",
+            "AnswerText": "Prediabetes is a stage between normal and diabetic stage. It is an alarming sign for upcoming diabetes. The blood sugar levels are slightly higher than the normal, but not high enough to qualify as Type 2 diabetes. Unlike diabetes, prediabetes is a reversible stage. Other terms used to describe prediabetes are ‘borderline diabetes’, ‘chemical diabetes’, or ‘touch of diabetes’, however, the term ‘prediabetes’ is universally accepted. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "How do we identify prediabetes?",
+            "AnswerText": "Prediabetes can take a long time, around 10 years, to transform into diabetes. It has been generally observed that prediabetes will eventually convert to diabetes but, at the same time, there are greater possibilities to revert back to normal, if taken care of. Often, prediabetes is asymptomatic, but some of the signs and symptoms associated with the condition include excessive thirst, tingling sensations in feet and fingers, excess hunger, frequent urination, irritability, frequent infections, blurred vision, darkened areas and itching of skin. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "How is prediabetes diagnosed?",
+            "AnswerText": "Persons at risk of prediabetes or those who exhibit any of the symptoms of prediabetes are recommended the following tests are advised periodic blood tests. The three laboratory investigations that can determine prediabetes are glycated hemoglobin (A1C) test, fasting blood sugar (FBS) test, and oral glucose tolerance test (OGTT).",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "What are the tests for prediabetes?",
+            "AnswerText": "Prediabetes is diagnosed based on the results of three blood tests - glycated hemoglobin (A1C) test, fasting blood sugar (FBS) test, and oral glucose tolerance test (OGTT).Glycated hemoglobin or A1C serves as a marker for average blood glucose levels over the previous two to three months. Glycated hemoglobin is formed by the exposure of hemoglobin to plasma glucose. As the average amount of plasma glucose increases, the fraction of glycated hemoglobin increases in a predictable way. A1C levels of 39–46 mmol\/mol (5.7%–6.4%) indicates pre-diabetes.A fasting blood sugar (FBS) level under 100 mg\/dL is considered normal. If blood sugar level ranges from 100–126 mg\/dL, it implies impaired fasting glucose (IFG) and denotes prediabetes. In prediabetics, both FBS and PPBS fluctuate easily. Oral glucose tolerance test (OGTT) measures the amount of glucose in blood after consumption of glucose or a sugary solution. An FBS test is done after fasting for at least eight hours or overnight, following which the patient is given an oral dose of 75 gm glucose, or a sugary solution. The blood sugar level is measured two hours of consuming glucose. A blood glucose level of 140-199 mg\/dL (7.8–11.0 mmol\/L) after two hours indicates prediabetes. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "What is Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)?",
+            "AnswerText": "Impaired fasting glucose (IFG) is most commonly known as prediabetes. It denotes a consistently elevated level of FBS above the normal range, but below the range that indicates diabetes. A reading of 100–126 mg\/dL for FBS test is considered an IFG or a prediabetes state. Impaired glucose tolerance (IGT) represents the amount of glucose present in blood, two hours after consuming glucose or sugary syrup. Blood glucose levels of 140-199 mg\/dL in an oral glucose tolerance test indicate Impaired glucose tolerance (IGT), and in turn prediabetes. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "How is prediabetes different from diabetes?",
+            "AnswerText": "Prediabetes is a stage where the blood sugar levels are higher than normal, yet not high enough to be categorized as Type 2 diabetes. It serves as an early warning to diabetes. Prediabetes is a reversible condition, and lifestyle changes such as weight loss, healthy diet, and regular exercise prevents diabetes. On the other hand, diabetes is determined by abnormally high blood sugar levels. Diabetes should be treated to avoid diabetes-related complications. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "What are the adverse health effects of prediabetes?",
+            "AnswerText": "One of the major complications of prediabetes is the risk of developing diabetes. The other complications that are associated with prediabetes include impaired vision or blindness, heart diseases, stroke, kidney failure, nerve damage, infections and wound that do not heal easily, high blood pressure, eating disorders, erectile dysfunction, allergies, and asthma.",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "What is the treatment for prediabetes?",
+            "AnswerText": "Unlike diabetes, prediabetes is a reversible condition. With proper medication and life style modification prediabetes can be resolved. The three important factors to borne in mind to treat prediabetes include: Healthy food: The selection of right type of food is extremely important at this stage. Restrict to food with low fat and low calories. Include fresh fruits and vegetables loaded with antioxidants, as part of daily diet.  Lifestyle modification: Individuals with less physical activity and sedentary lifestyle are at the risk of developing prediabetes and eventually diabetes. Changing the lifestyle and indulging in physical activities helps prevent prediabetes and diabetes. The best way to keep active is by regular walking, using stairs instead of elevators as much as possible and spending about 30 minutes everyday on some specific exercises like yoga. Maintain an ideal body weight: Overweight and obesity can cause complications in the maintenance of normal blood sugar levels. Reduce excess of weight and strive to maintain a healthy body weight. ",
+            "SectionTitle": "Prediabetes – tests and diagnosis:"
+        },
+        {
+            "QuestionText": "How is diabetes treated?",
+            "AnswerText": "Type 1 diabetes is treated by supplementing the body with insulin. Type 2 diabetes is treated with medications, and\/or insulin as well as implementing lifestyle changes such as losing weight, healthy diet, and regular exercise.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "What medications are available to bring down my sugar levels?",
+            "AnswerText": "Type 1 diabetes, also known as insulin-dependent diabetes, is treated with insulin. Type 2 diabetes, also known as non insulin-dependent diabetes, is the most common form of diabetes. This condition arises as a result of the body's inability to respond appropriately to the levels of insulin produced, a condition called insulin resistance. There are three classes of oral medications prescribed to treat Type 2 diabetes and include1)  Drugs that make cells more sensitive to insulin –Thiazolidinediones, for example, rosiglitazone, and pioglitazone; Biguanides, for example, metformin.2)  Drugs that increase the production of insulin – Sulfonylureas and Meglitinides3)  Drugs that slow down or prevent the breakdown of starch and sugars – Alpha-glucosidase inhibitors, for example, acarbose and meglitol4)  Insulin is prescribed if sugar levels cannot be controlled with lifestyle modifications and medications. Self medication for diabetes is never advised. Always consult your physician before starting on any medications.5)  Medications that prevent the action of enzyme dipeptidyl peptidase-4 (DPP-4) - DPP-4 enzyme inhibitors6)  Incretin mimetics that act on the receptors of hormone glucagon-like peptide-1 (GLP-1), increase insulin secretion from pancreas7)  Synthetic forms of amylin, the hormone that is secreted by the pancreas along with insulin, reduce blood sugar levels after a meal",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "How is insulin administered to a diabetic patient?",
+            "AnswerText": "In people with diabetes, the right amounts of insulin have to be given at regular intervals. Insulin can be administered either as an injection, or using an insulin pen, jet injector or an insulin pump. Insulin injections are administered using a needle and a syringe. The dose of insulin as prescribed by the doctor is filled into the syringe and injected. Insulin pen is similar to an old-fashioned cartridge pen, and contains a needle, a pre-filled insulin cartridge, and numbers to dial the measure of dose to be taken. There are two types of insulin pen – disposable and reusable. A disposable pen is prefilled with certain volume of insulin. Once the entire volume of insulin is used, the entire instrument is disposed off. On the other hand, a reusable insulin pen has prefilled, disposable cartridges that are changed when necessary. The insulin jet injector looks like a large pen, and sends a fine spray of insulin through the skin with high-pressure air instead of a needle. Jet injectors contain a pen shaped injector device, a disposable nozzle to inject insulin, and a disposable vial adapter. An insulin pump is a small machine that is worn around the abdomen, on a belt or in a pocket or pouch. The pump, with controls, processing module and batteries, is connected to a needle, via a tubing system. The needle is inserted under the skin, usually on the abdomen. Insulin is pumped from the disposable reservoir in the machine through the tube into the body. Insulin is now available as an inhalation powder. It is a rapid-acting, dry powder form of insulin that inhaled using an inhaler. It is considered an alternative for daily, painful doses of insulin through injections.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "What happens if I skip a dose of insulin?",
+            "AnswerText": "Insulin is generally to be taken 15–30 minutes before a meal or snacks, and therefore the dosing schedule should be timed accordingly. If a dose of insulin is missed, the blood sugar levels shoot up and remain high after the meals. This could result in symptoms such as nausea, vomiting, difficulty in breathing, and fatigue. Never use an extra dose of insulin to make up for the missed dose. ",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "What happens if I take an overdose of insulin?",
+            "AnswerText": "An overdose of insulin can cause blood glucose levels to drop below normal levels. An insulin overdose can cause life-threatening hypoglycemia. Symptoms of severe hypoglycemia include extreme weakness, blurred vision, sweating, trouble in speaking, tremors, stomach pain, confusion, and seizures. If you realize you have taken an overdose of insulin, seek emergency medical attention.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "Can Type 2 diabetes be prevented?",
+            "AnswerText": "Yes, Type 2 diabetes can be prevented by maintaining a healthy weight through diet and regular exercise. Consuming nutritious, low fat diet, accompanied by an active lifestyle helps keeping diabetes at bay. Consult your physician if you think you are at risk of developing diabetes.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "Is there a cure for diabetes?",
+            "AnswerText": "At the moment, there is no cure for diabetes. Diabetes can either be prevented by adopting a healthy lifestyle – healthy height to weight ratio, healthy diet, and regular exercise regimen. Once diagnosed with diabetes, medications alone, or in combination with insulin is the choice of treatment.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "What is the recommended diet for diabetes?",
+            "AnswerText": "Diabetics must be cautious about the source and quantity of calorie intake. Non-starchy vegetables, skimmed milk, lean chicken, high fiber fruits and low glycemic food products are recommended. Oil low in saturated fat content should be preferred. A balanced diabetic diet contains some important nutrients and useful supplements to help control blood sugar levels. Some of these include biotin, vitamins C, D, E, and B6, chromium, magnesium, zinc, and omega-3 and alpha lipoic acids. The diet recommended varies from person to person. Hence, consult a dietician for a personal diet chart.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "Does exercise and weight control have a role in diabetes?",
+            "AnswerText": "Yes, regular exercise and weight control is a vital part of diabetes management program. A healthy weight is achieved through a well-balanced diet. Regular exercise is important for everyone and more important for those diagnosed with diabetes. Exercise increases the rate of heartbeat and breathing is faster. This helps in lowering blood sugar levels without medication. It also burns the extra calories and fat, which is ideal for weight management. Exercise also improves blood flow and blood pressure. It increases the body's energy level, lowers tension, and improves stress handling ability.",
+            "SectionTitle": "Managing diabetes"
+        },
+        {
+            "QuestionText": "Do I need to follow some guidelines to manage my condition?",
+            "AnswerText": "Diabetes and the diseases arising as a result of diabetes can be managed effectively by following a few guidelines. General guidelines advised for diabetics include:•  Control blood glucose levels•  Follow a well balanced and healthy diet•  Reduce fat and salt intake•  Drink plenty of fluids•  Maintain healthy body weight and follow a regular exercise regime •  Maintain blood pressure and cholesterol levels at recommended ranges  •  Take prescribed medications or doses of insulin as recommended•  Avoid smoking or use of tobacco •  Treat urinary tract infections and erectile dysfunction•  Sit or stand slowly to prevent dizziness•  Regular eye examination is advised for people with diabetes•  Discuss any vision changes with the ophthalmologist•  Visual rehabilitation is encouraged for patients with partial or complete blindness•  Manage stress effectively•  Regular eye examination is also recommended for pregnant women with pre-existing diabetes. The initial eye examination is recommended during the first trimester, with regular follow-up through out the pregnancy.•  Use dental floss to prevent plaque build-up•  Brush and rinse your teeth after every meal or snack•  Get the teeth and gums examined by the dentist twice a year•  If using false teeth, keep them clean•  Diabetic foot can be prevented by regular inspection and good foot care•  Wash the foot with lukewarm water or mild soap and dry them using a soft towel•  Do not walk bear foot•  Have the sensation of feet tested regularly by the physician.",
+            "SectionTitle": "Managing diabetes"
+        }
+    ]
+}

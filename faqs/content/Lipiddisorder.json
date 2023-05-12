@@ -1,0 +1,226 @@
+{
+    "Lipiddisorder": [
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "1",
+            "QuestionText": "What are lipids?",
+            "AnswerText": "Lipids are naturally occurring water insoluble substances that are soluble in some other solvents like ether, alcohol or acetone. Lipids in the human body are classified based on their structure and functions they perform. The basic structure of lipids contains fatty acids, the derivatives of fatty acids, glycerol and sterols (such as cholesterol). The building blocks of lipids include subunits of ketoacyl and isoprene groups. ",
+            "Free": "free"
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "2",
+            "QuestionText": "What are the different types of lipids?",
+            "AnswerText": "Lipids have building blocks called ketoacyl and isoprene. Based on the type of subunits they are formed of lipids can be divided into eight groups:• Lipids obtained from ketoacyl subunits: Fatty acids, glycerolipids, sphingolipids, glycerophospholipids, polyketides and saccharolipids• Lipids obtained from isoprene subunits: Sterol lipids and prenol lipids.",
+            "Free": "free"
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "3",
+            "QuestionText": "What are the functions of lipids?",
+            "AnswerText": "Lipids are a chief constituent of the human body apart from carbohydrates and proteins. Lipids serve a wide variety of functions that are vital for the survival of the person. These functions include the following:• They act as a main reserve for energy in the body which can be utilized in the event of an emergency when no food is available.• They act as a thermal insulator for all the organ systems and help in protecting them.• They form an important part of cellular membranes such as plasma membrane and also form an important part of intercellular membranes.• They have also been known to play a role as cellular messengers that help in a wide variety of functions such as cell growth, inflammation, immunity, regulation of metabolism, blood pressure, reproduction, etc."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "4",
+            "QuestionText": "Are all lipids synthesized in the human body?",
+            "AnswerText": "Only some of the lipid synthesis happens within the human body. Essential fatty acids are fats that are derived through the food as their synthesis cannot be performed within the human body. Some of the derivatives of essential fatty acids are triglycerides derived from plant and animal foods, membrane phospholipids and sterols."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "5",
+            "QuestionText": "What are the types of essential lipids?",
+            "AnswerText": "Essential lipids are types of fatty acids that cannot be synthesized within the human body. It has to be ingested in the form of food to be available for performing the functions that they do. The two essential fatty acids that are primarily important for the human body include alpha-linolenic acid and linolenic acid. These are both omega fatty acids and are also called short chain polyunsaturated fats (SC-PUFA).These omega fatty acids can be derived from foods such as leafy vegetables, pumpkin and sunflower seeds, vegetable oils, walnuts and fish."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "6",
+            "QuestionText": "What are lipoproteins?",
+            "AnswerText": "Lipoprotein as the name indicates is a compound unit that contains lipids and proteins. The lipids are bound to these proteins. This compound structure enables the movement of lipids through the body. The proteins also help in the lipid emulsification. A few examples of lipoproteins include high-density lipoproteins (HDL), low-density lipoproteins (LDL), enzyme transporters, antigens, mitochondrial transmembrane proteins, etc."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "7",
+            "QuestionText": "What are the various types of lipoproteins?",
+            "AnswerText": "Lipoproteins are classified based on the protein to lipid ratio. This classification based on density includes the following types of lipoproteins:• Chylomicrons (density <0.95g\/mL)• Very-low-density lipoproteins (density 0.95-1.006g\/mL) – also known as VLDL• Intermediate-density lipoproteins (density 1.006-1.019g\/mL) – also known as IDL• Low-density lipoproteins (density 1.019-1.063g\/mL) – also known as LDL• High density lipoproteins (density > 1.063g\/mL) – also known as HDL"
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "8",
+            "QuestionText": "What are the main functions of lipoproteins, in general?",
+            "AnswerText": "The main function of lipoproteins is to aid the movement of lipids in the blood stream. They are also a main part of cell membranes and acts as building blocks for the formation of these membranes. As part of the cell membrane, they help in regulating water content within the cells as well as regulating the elements that are present within in the cells."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "9",
+            "QuestionText": "What is the function of chylomicron?",
+            "AnswerText": "Chylomicrons are the largest lipoproteins and are made up mainly of triglycerides. These lipoproteins help to transport dietary lipids from intestine to various organs of the body namely liver, fat tissue and muscles."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "10",
+            "QuestionText": "What is the role of VLDL?",
+            "AnswerText": "Very Low Density Lipoproteins (VLDL) is produced by the liver using triglycerides, cholesterol and apolipoproteins. It transports endogenous products like triglycerides, phospholipids, cholesterol and cholesteryl esters to peripheral tissues. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "11",
+            "QuestionText": "What is the function of LDL?",
+            "AnswerText": "LDL is rich is cholesterol and is formed from VLDL. The main function of LDL is to transport cholesterol from the liver to the rest of the body. LDL is commonly known as ‘bad cholesterol’ as it enters blood vessel walls and readily deposits cholesterol, thus increasing the risk of plaque formation."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "12",
+            "QuestionText": "What is the role of HDL?",
+            "AnswerText": "HDLs are a class of protective lipoproteins. HDL carries cholesterol deposited in the body back to the liver for further processing. Thus cholesterol is transported away from atherosclerotic lesions to the liver, for excretion via the bile. HDL is therefore called \"good cholesterol\"."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "13",
+            "QuestionText": "What are triglycerides?",
+            "AnswerText": "Triglycerides are a type of ester that is formed by three fatty acids and a glycerol. Triglycerides can be derived from vegetable sources (such as vegetable oils) or from animal sources (fat). Triglycerides can be divided into unsaturated and saturated types. Unsaturated types are usually in the liquid form as they have lower melting point while saturated types are more solid as they have a higher melting point."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "1",
+            "QuestionText": "What are the factors responsible for high levels of cholesterol in the body?",
+            "AnswerText": "There are many factors that can affect the level of cholesterol in the body. Some of these factors include the following:• Diet: This is a major factor for increased levels of cholesterol in the body. A diet rich in saturated fatty acids can lead to a rise in the level of cholesterol.• Exercise: Regular exercises help in lowering the levels of cholesterol in the body and increase HDL cholesterol (good cholesterol). Lack of exercise and sedentary lifestyle leads to weight gain as well as increase the levels of cholesterol in the body.• Weight: The weight of the person has an effect on increasing levels of triglycerides in the body. Also, being overweight has an adverse effect on reducing the levels of HDL cholesterol.• Heredity: This might also play a role in levels of cholesterol as it has a direct effect on the weight of a person.• Age: The age of the person also matters in level of cholesterol in the body. This might also be a result of reduced physical activity as the person ages. Before menopause, the level of cholesterol in women is much lesser than men but after menopause, the level of cholesterol might rise in women.• Stress: High levels of stress might have an adverse effect on levels of cholesterol in the body. This might be because a person under stress might go on binge eating thus causing an increase in weight and cholesterol."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "2",
+            "QuestionText": "Can other health conditions result in increased levels of cholesterol?",
+            "AnswerText": "Increased blood cholesterol or hypercholesterolemia is a disease characterized an increase in the levels of LDL or bad cholesterol and triglyceride (fatty material) in blood. The condition can be inherited or caused by other medical conditions or environmental factors. Other health conditions that can lead to the development of hypercholesterolemia are diabetes or insulin resistance, hypothyroidism, metabolic syndrome and kidney or liver problems. Metabolic syndrome is defined as the clustering of metabolic abnormalities that increase an individual’s risk of developing atherosclerotic cardiovascular diseases. Metabolic syndrome is associated with central obesity, elevated blood pressure, dyslipidemia and insulin resistance. Insulin resistance, a physiological condition in which the body cells do not respond appropriately to insulin, is associated with metabolic disturbances like dyslipidemia, hypercoagulability, and vascular inflammation. Insulin resistance in fat cells results in increased lipolysis and excessive release of free fatty acids (FFA) into circulation. Insulin resistance also decreases the clearance of circulating VLDL particles. This VLDL is converted to LDL and remnant lipoproteins that accumulate in the blood vessels. Hypothyroidism decreases the breakdown of LDL resulting in increased blood cholesterol levels."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "1",
+            "QuestionText": "What is dyslipidemia?",
+            "AnswerText": "Dyslipidemia is a term that refers to an increased or decreased level of lipid content in the body. It is also used to refer to an increased or decreased level of lipoproteins in the body. Mixed dyslipidemias refer to an abnormal level of lipid and lipoproteins in the body.",
+            "Free": "free"
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "2",
+            "QuestionText": "What are the types of dyslipidemia?",
+            "AnswerText": "Dyslipidemia can be classified into different types based on etiology (reason) or phenotype (the change cause in the body that includes the type of abnormal lipid or lipoprotein level). Based on the changes in the levels of lipid, lipoprotein or both, dyslipidemia can be classified into further types:• Increased levels of lipids (hyperlipidemia): This includes increased levels of cholesterol (hypercholesterolemia), familial hypercholesterolemia, hyperglyceridemia, hypertriglyceridemia.• Reduced levels of lipids (hypolipidemia) : This includes decreased levels of cholesterol (hypocholesterolemia)• Increased levels of lipoproteins: This includes increased levels of LDL cholesterol (hyperlipoproteinemia), hyperchylomicronemia (increased levels of chylomicrons)• Reduced levels of lipoproteins: This includes hypolipoproteinemia, abetalipoproteinemia, and Tangier disease• Mixed dyslipidemias: This includes combined hyperlipidemia wherein the levels of triglycerides and LDL cholesterol are both raised."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "3",
+            "QuestionText": "What is hyperlipidemia?",
+            "AnswerText": "Hyperlipidemia is a condition wherein the levels of lipids or lipoproteins are significantly elevated. Usually, the levels of LDL and VLDL cholesterol are elevated while the levels of HDL cholesterol are reduced in people suffering from hyperlipidemia. This is the commonest type of dyslipidemia that can be encountered. This elevated level of lipids carry a high risk of heart disease and peripheral vascular disease."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "4",
+            "QuestionText": "What are the causes that contribute to hyperlipidemia?",
+            "AnswerText": "Hyperlipidemias can be caused either due to hereditary causes or due to a secondary (acquired) cause. Usually, secondary causes will be due to a disruption of the metabolism of lipoproteins and lipids. Some of the hereditary types of hyperlipidemia include hypercholesterolemia, familial hypertriglyceridemia, familial hyperchylomicronemia, and hyperlipoproteinemia. Secondary causes to hyperlipidemia might include diabetes mellitus, hypothyroidism, nephrotic syndrome, renal failure, drugs such as beta blockers, diuretics, etc."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "5",
+            "QuestionText": "What is hypertriglyceridemia?",
+            "AnswerText": "Hypertriglyceridemia is an elevated level of triglycerides in the blood. A condition similar to this is hyperglyceridemia which is used to describe an increased level of other types of glycerides such as monoglycerides and diglycerides. An elevated level of triglycerides carries the high risk of the development of atherosclerosis (hardening of the arterial walls)."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "6",
+            "QuestionText": "What are the causes that contribute to hypertriglyceridemia?",
+            "AnswerText": "There are many causes that contribute to the development of hypertriglyceridemia. Some of these causes might include the following:• Rich carbohydrate diet • Being excessively overweight • Diabetes Mellitus • Hereditary causes • Hypothyroidism • Nephrotic syndrome • Renal failure • Enzyme deficiency such as lipase as this enzyme is responsible for triglyceride hydrolysis • Some drugs like beta blockers and diuretics can increase the levels of triglycerides • Idiopathic (no known cause) "
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "7",
+            "QuestionText": "Name some risk factors to hyperlipidemia and hypertriglyceridemia?",
+            "AnswerText": "There are many factors that can increase the chances of a person developing hyperlipidemia and hypertriglyceridemia. Some of these factors might include the following:• Diet: A regular carbohydrate rich diet might form one of the predisposing factors for development of hyperlipidemia or hypertriglyceridemia.• Genetics might also form a predisposing factor• Diabetes Mellitus• Being overweight can also be a predisposing factor• Lack of physical activity and exercise• As age advances, people are more likely to develop increased levels of cholesterol and triglycerides. This change is seen more in women who reach the age of menopause.• The use of drugs such as beta blockers, diuretics, etc can also be a predisposing factor for the increased levels."
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "8",
+            "QuestionText": "How is dyslipidemia diagnosed?",
+            "AnswerText": "Dyslipidemia is diagnosed based on the values of cholesterol and triglycerides from blood samples. Cholesterol tests primarily measure parameters like total cholesterol (the sum of all types of cholesterol circulating in blood), and high density lipoprotein (HDL) or good cholesterol, and triglycerides. Low density lipoprotein (LDL) or bad cholesterol is calculated from these values. The optimal desirable levels of cholesterol in an adult are as follows.Total cholesterol - below 5.2 mmol\/lLDL - below 2.5 mmol\/lHDL - above 1.5 mmol\/l andTriglycerides - below 1.7 mmol\/l"
+        },
+        {
+            "SectionTitle": "Dyslipidemia",
+            "QuestionId": "9",
+            "QuestionText": "What are the complications of increased levels of cholesterol in the body?",
+            "AnswerText": "Increased levels of cholesterol carry the risk of other systemic conditions. Most of the complications that occur due to high levels of cholesterol are because the blood vessels to major organ systems such as the heart and the brain get blocked leading to decreased blood supply to these vital areas. Some such conditions that might develop due to increased levels of cholesterol in the body include:• Coronary Heart Disease: The increased levels of cholesterol can cause it to accumulate in the walls of the arteries supplying blood to heart muscles leading to atherosclerosis (hardening of the arteries). This accumulation (known as plaque) can cause narrowing of the arteries reducing blood supply to the areas of the heart muscles. This can lead to a heart attack which can be a life threatening condition.• Peripheral Vascular Disease: Plaque can also build up in other areas of the blood circulation. This reduces the blood supply to the peripheral areas of the extremities resulting in numbness.• Stroke: If plaque deposits cause narrowing of arteries that supply the brain, it can lead to a stroke. This is also a potential life-threatening situation.• High Blood Pressure: The narrowing of the arteries that supply the heart muscles will cause reduced blood supply to these areas of the heart. So, your heart will be forced to work harder to supply blood to these areas leading to an increase in the blood pressure.• Type 2 Diabetes: People with increased levels of cholesterol are more likely to develop type 2 diabetes. Also, diabetic people are more likely to have an increase in levels of triglycerides and reduction in the levels of HDL. Sometimes, they may also see an increase in the levels of LDL."
+        },
+        {
+            "SectionTitle": "Atherosclerosis and Lipid Disorders",
+            "QuestionId": "1",
+            "QuestionText": "What is atherosclerosis?",
+            "AnswerText": "Atherosclerosis is the narrowing and hardening of arteries caused by damage to the endothelial lining of the arteries. The damage to the endothelium results in plaque formation that will lead to atherosclerosis. Atherosclerosis can occur anywhere in the body although if it occurs in the blood vessels that lead to the heart or the brain, it can be highly life-threatening.",
+            "Free": "free"
+        },
+        {
+            "SectionTitle": "Atherosclerosis and Lipid Disorders",
+            "QuestionId": "2",
+            "QuestionText": "How is plaque formed?",
+            "AnswerText": "Many factors can predispose to the formation of atherosclerosis. Atherosclerosis is primarily caused by damage to the endothelial lining of the arteries. This damage can be initiated by high cholesterol levels, hypertension or by habits such as smoking. Once damage to the endothelium occurs, it can help cholesterol components such as LDL cholesterol to enter the damaged area of the arteries.This entry will initiate the body to send white blood cells to fight the cholesterol entry. The white blood cells along with the cholesterol will contribute to formation of plaques that causes narrowing down and hardening of the arterial walls causing atherosclerosis."
+        },
+        {
+            "SectionTitle": "Atherosclerosis and Lipid Disorders",
+            "QuestionId": "3",
+            "QuestionText": "Name some risk factors of atherosclerosis?",
+            "AnswerText": "There are many risk factors that can result in atherosclerosis. Some of these factors include:• High cholesterol levels• Hypertension• Habits like smoking and excessive alcohol intake• High levels of stress• Diabetes mellitus• Being overweight• Irregular and fat rich diet• Lack of physical exercise and activity."
+        },
+        {
+            "SectionTitle": "Atherosclerosis and Lipid Disorders",
+            "QuestionId": "4",
+            "QuestionText": "How is atherosclerosis diagnosed?",
+            "AnswerText": "Atherosclerosis is diagnosed on the basis of findings of personal and family history, physical examination and from diagnostic tests. During the physical examination, the doctor will use a stethoscope to check for abnormal heart sounds that might be indicative of reduced blood flow to the heart.Some of the diagnostic tests that might be conducted include the following:• Blood tests that will measure the levels of cholesterol, blood sugar and levels of certain proteins to check for risk of atherosclerosis• Stress test: This is a test where you will be asked to walk on a treadmill so that your heart will work faster during which the blood supply to the heart will be assessed.• A chest x-ray might be ordered to see if there are any abnormalities present.• Electrocardiogram• Echocardiography• CT scan• Angiography: This is a specific test to detect atherosclerosis. A dye is injected through a catheter to reach the arteries. Special x-rays are then taken. If a block is occurring due to atherosclerosis, it will be clearly identified due to the dye that has been injected. This will help your doctor identify the area of the block, the extent of the block and the amount of blood flow through these arteries."
+        },
+        {
+            "SectionTitle": "Atherosclerosis and Lipid Disorders",
+            "QuestionId": "5",
+            "QuestionText": "What are the complications of atherosclerosis?",
+            "AnswerText": "Depending on the location of the plaque and the size of the plaque, atherosclerosis can lead to many health complications which can be many a time life-threatening. Some of the risk factors of atherosclerosis include the following:• Coronary Heart Disease• Stroke• Peripheral Vascular Disease"
+        },
+        {
+            "SectionTitle": "Myocardial Infarction and Lipid Disorders",
+            "QuestionId": "1",
+            "QuestionText": "What is Myocardial Infarction?",
+            "AnswerText": "Myocardial infarction is the medical term for heart attack. It is condition wherein there is a irreversible necrosis of the muscles of the heart caused to prolonged ischemia (reduced blood flow to these muscles). When muscles of the heart do not receive proper blood supply, it gets insufficient oxygen supply gradually leading to irreversible necrosis.",
+            "Free": "Free"
+        },
+        {
+            "SectionTitle": "Myocardial Infarction and Lipid Disorders",
+            "QuestionId": "2",
+            "QuestionText": "What causes myocardial infarction?",
+            "AnswerText": "Myocardial infarction happens due to atherosclerosis. High cholesterol levels can cause damage to endothelial lining of blood vessels that supply the heart muscles. This can aid cholesterol to enter the damaged endothelial lining eventually leading to plaque formation. The formed plaque reduces blood flow to the muscles of the heart. Due to the lack of oxygen supply to the muscles of the heart, it slowly starts undergoing irreversible necrosis. This causes scar tissue formation in the heart muscles leading to disruption of the heart’s normal functions leading to heart attack that can be a potentially life-threatening situation. "
+        },
+        {
+            "SectionTitle": "Myocardial Infarction and Lipid Disorders",
+            "QuestionId": "3",
+            "QuestionText": "What are the risk factors to myocardial infarction?",
+            "AnswerText": "There are many risk factors to myocardial infarction. Some of these factors are controllable while some are not. Some of the risk factors associated with myocardial infarction include the following:• High levels of blood cholesterol• High blood pressure• Being overweight• Lack of physical exercise and activity• Diabetes mellitus• Habits like smoking• Familial history of heart attack• Age above 45 years."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "1",
+            "QuestionText": "How is dyslipidemia managed?",
+            "AnswerText": "The management of dyslipidemia will include changes in lifestyle that includes planned changes in the diet, development of a regular exercise regime and avoiding habits like alcohol. Diet modification is the first-line treatment option to lower blood cholesterol levels. Low-fat diets or cholesterol lowering diets reduce the total fat intake and increase the consumption of good fat. Also, if the dyslipidemia is occurring as a result of a secondary cause such as diabetes type 2 or hypothyroidism, these secondary causes also should be checked and managed to bring the dyslipidemia under control. ",
+            "Free": "free"
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "2",
+            "QuestionText": "What medications are used to treat dyslipidemia?",
+            "AnswerText": "Sometimes, only lifestyle management will not be enough to suffice the management of dyslipidemia. In such a scenario, the patient might have to take some medications in addition to the lifestyle changes to bring the levels of cholesterol and triglycerides under control. Cholesterol lowering medicines not only reduce blood LDL levels, but also increase HDL or good cholesterol levels. The five major types of cholesterol lowering medicines are statins, ezetimibe, nicotinic acid, fibrates and bile acid sequestrants or bile acid binding resins, which can be prescribed as a single drug or in combinations of two like a statin and the ezetimibe. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "3",
+            "QuestionText": "How is atherosclerosis managed?",
+            "AnswerText": "The management of atherosclerosis involves an all round approach taking into account the severity of the disease, risk factors, symptoms and evaluation of existing treatment to improve the life expectancy and quality of life in high risk patients. The management of atherosclerosis includes the following:• Lifestyle changes that involve a planned diet, introducing a regular exercise regime and avoiding habits like smoking and alcohol intake.• Medications to control the underlying causes such as high cholesterol levels and hypertension can help reduce the rate of progress of atherosclerosis thus helping in reducing the risk of coronary heart disease and stroke."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "4",
+            "QuestionText": "How is myocardial infarction managed?",
+            "AnswerText": "The management of myocardial infarction is divided into two parts:• Immediate management• Management after the patient leaves the hospitalMyocardial infarction is potentially fatal if the person does not receive immediate medical attention. Immediate management is initiated prior to the diagnosis of myocardial infarction. The patient will need the following treatment procedures if a heart attack is suspected:• Oxygen• Anticoagulant therapy to prevent clotting of blood• Nitroglycerin that will help in improving blood flow to the heart muscles.Once myocardial infarction is diagnosed, the patient will be provided medications such as beta blockers, ACE inhibitors, anticoagulants to help improve blood flow to the heart muscles and to prevent clotting of blood. Additional medical procedures such as angioplasty might be planned to clear the plaque formed so that blood flow to the affected areas is improved. If angioplasty will not help clear the plaque formed, a coronary artery bypass graft might be planned which is a procedure wherein a graft from a vein is placed such that the blocked area is bypassed and blood flow to the affected areas is maintained preventing further necrosis of the heart muscles.Once the person is stabilized and released from the hospital, lifestyle changes will be advised so that the risk of another attack is reduced. Lifestyle changes will include diet planning, exercise and physical activity, and stopping habits like smoking. The person will also be advised to take medications to control blood pressure, diabetes (if present) and cholesterol levels."
+        }
+    ]
+}

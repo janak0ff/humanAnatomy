@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css?family=Hind:300,400&display=swap");
+
+.containerfaq {
+  padding: 1em 3em;
+  max-width: 100%;
+  /* max-width: 90%; */
+  margin: 0 auto;
+}
+
+.accordion .accordion-item {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.accordion .accordion-item button[aria-expanded=true] {
+  border-bottom: 1px solid #03b5d2;
+}
+
+.accordion button {
+  position: relative;
+  display: block;
+  text-align: left;
+  width: 100%;
+  /* padding: 1em 0; */
+  color: #c0c0c0;
+  font-size: 1.15rem;
+  font-weight: 400;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.accordion button:hover,
+.accordion button:focus {
+  cursor: pointer;
+  color: #03b5d2 !important;
+}
+
+.accordion button:hover::after,
+.accordion button:focus::after {
+  cursor: pointer;
+  color: #03b5d2 !important;
+  border: 1px solid #03b5d2 !important;
+}
+
+.accordion button .QuestionText {
+  padding: 1em 1.5em 0px 0;
+}
+
+.accordion button .iconplus {
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  right: 0;
+  width: 22px;
+  height: 22px;
+  border: 1px solid;
+  border-radius: 22px;
+}
+
+.accordion button .iconplus::before {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 9px;
+  left: 5px;
+  width: 10px;
+  height: 2px;
+  background: currentColor;
+}
+
+.accordion button .iconplus::after {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 5px;
+  left: 9px;
+  width: 2px;
+  height: 10px;
+  background: currentColor;
+}
+
+.accordion button[aria-expanded=true] {
+  color: #03b5d2;
+}
+
+.accordion button[aria-expanded=true] .iconplus::after {
+  width: 0;
+}
+
+.accordion button[aria-expanded=true]+.AnswerText {
+  opacity: 1;
+  padding: 10px 8px 10px 30px;
+  max-height: max-content;
+  transition: all 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.accordion .AnswerText {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 200ms linear, max-height 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.accordion .AnswerText h1 {
+  font-size: 1rem;
+  font-weight: 300;
+  margin: 1em 0;
+  line-height: 22px;
+}
+
+.QuestionText>.questionid {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  /* float: left; */
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  border-radius: 50% !important;
+  text-align: center;
+  /* color: #ffffff; */
+  padding-top: 0px;
+  padding-left: 1px;
+  font-size: 15px;
+  margin-right: 12px;
+  border: 1px solid #ffffff;
+}
+
+h1,
+h2 {
+  font-size: 20px;
+  color: rgb(204, 204, 204);
+}
+
+@media (max-width:500px) {
+  .containerfaq {
+    padding: 2em 1rem;
+    max-width: 1300px;
+  }
+
+  h1,
+  h2 {
+    font-size: 18px;
+  }
+
+  .accordion button {
+    font-size: 16px !important;
+  }
+
+  .accordion .AnswerText p {
+    font-size: 16px !important;
+  }
+
+  .it-tabs {
+    margin-top: 5px !important;
+  }
+}
+
+.VideoURL {
+  float: right;
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.VideoURL i {
+  margin-right: 6px;
+}

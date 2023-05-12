@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Login, Sign-up, and Forget Password</title>
+	</head>
+
+	<body>
+		<style>
+			.container {
+			    display: flex;
+			    justify-content: center;
+			    align-items: center;
+			    height: 100vh;
+			}
+
+			.form-container {
+			    display: flex;
+			    flex-direction: column;
+			    align-items: center;
+			    width: 350px;
+			    padding: 20px;
+			    background-color: #fff;
+			    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+			}
+
+			form {
+			    display: flex;
+			    flex-direction: column;
+			    align-items: center;
+			    width: 100%;
+			}
+
+			input {
+			    width: 100%;
+			    margin-bottom: 10px;
+			    padding: 5px;
+			    border: none;
+			    border-radius: 5px;
+			    background-color: #f5f5f5;
+			    box-shadow: inset 0px 0px 5px rgba(0, 0, 0, 0.2);
+			}
+
+			button {
+			    width: 100%;
+			    padding: 10px;
+			    border: none;
+			    border-radius: 5px;
+			    background-color: #4CAF50;
+			    color: #fff;
+			    font-size: 16px;
+			    cursor: pointer;
+			}
+
+			button:hover {
+			    background-color: #3e8e41;
+			}
+		</style>
+		<div class="container">
+			<div class="form-container">
+				<form id="login-form">
+					<h2>Login</h2>
+					<input type="text" placeholder="Email" id="login-email" required />
+					<input type="password" placeholder="Password" id="login-password" required />
+					<button type="submit">Login</button>
+				</form>
+				<form id="signup-form">
+					<h2>Sign Up</h2>
+					<input type="text" placeholder="Email" id="signup-email" required />
+					<input type="password" placeholder="Password" id="signup-password" required />
+					<input type="password" placeholder="Conform Password" id="signup-conform-password" required />
+					<button type="submit">Sign Up</button>
+				</form>
+				<form id="forgot-password-form">
+					<h2>Forgot Password</h2>
+					<input type="text" placeholder="Email" id="forgot-password-email" required />
+					<button type="submit">Reset Password</button>
+				</form>
+			</div>
+		</div>
+
+		<script>
+
+			// Creating a JSON object to store user data
+			let users = [
+			    {
+			        "email": "user1@email.com",
+			        "password": "password1"
+			    },
+			    {
+			        "email": "user2@email.com",
+			        "password": "password2"
+			    }
+			];
+
+			// Function to handle user registration
+			function signUp() {
+			    event.preventDefault();
+
+			    let email = document.getElementById("signup-email").value;
+			    let password = document.getElementById("signup-password").value;
+			    let conformPassword = document.getElementById("signup-conform-password").value;
+
+			    // Check if email already exists
+			    let emailExists = users.find(user => user.email === email);
+			    if (emailExists) {
+			        alert("Email already exists. Please use a different email.");
+			        return false;
+			    }
+			    // Check if email already exists
+			    let ConformPas = (conformPassword != password)
+			    if (ConformPas) {
+			        alert("Different Password. Please use a same Password.");
+			        return false;
+			    }
+
+			    // Add user to JSON object
+			    let newUser = {
+			        "email": email,
+			        "password": password
+			    };
+			    users.push(newUser);
+			    alert("User successfully registered.");
+			}
+
+
+			// Function to handle user login
+			function login() {
+			    event.preventDefault();
+
+			    let email = document.getElementById("login-email").value;
+			    let password = document.getElementById("login-password").value;
+
+			    // Check if email and password match
+			    let user = users.find(user => user.email === email && user.password === password);
+			    if (user) {
+			        alert("Login successful.");
+			    } else {
+			        alert("Invalid email or password.");
+			    }
+			}
+
+			// Function to handle forget password
+			function forgotPassword() {
+			    event.preventDefault();
+
+			    let Email = document.getElementById("forgot-password-email").value;
+
+			    // Check if email or email exists in JSON object
+			    let user = users.find(user => user.email === Email);
+			    if (user) {
+			        let newPassword = prompt("Please enter your new password.");
+			        user.password = newPassword;
+			        alert("Password successfully reset.");
+			    } else {
+			        alert("Invalid email or email.");
+			    }
+			}
+
+			// Add event listeners to forms
+			document.getElementById("signup-form").addEventListener("submit", signUp);
+			document.getElementById("login-form").addEventListener("submit", login);
+			document.getElementById("forgot-password-form").addEventListener("submit", forgotPassword);
+		</script>
+	</body>
+</html>

@@ -1,0 +1,316 @@
+{
+    "Lungcancer": [
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "1",
+            "QuestionText": "What is cancer?",
+            "AnswerText": "The cells of the body normally undergo a regular cycle of multiplication and death. A cancer results when cells proliferate very rapidly and show uncontrolled growth resulting in a large number of abnormal cells. Unlike benign tumors, cancers can spread locally or to distant organs."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "2",
+            "QuestionText": "What is the structure of the lungs?",
+            "AnswerText": "The lungs are a pair of spongy, elastic, conical organs situated in the chest, with their broad bases near the diaphragm and narrow apices near the root of the neck. They contain small air sacs called alveoli, through which oxygen diffuses into the blood. They are covered by two layers of membranes, referred to as the pleura. The outer layer of the pleura is pain sensitive. Air enters the lungs through the trachea or windpipe, which is located in the centre of the chest. The trachea divides into two branches, the left and right bronchi. The point where the bronchi enter the lungs along with blood vessels, lymphatics and nerves is called the hilum. The bronchi divide into smaller and smaller branches in the lungs and finally form the terminal bronchioles which connect with the alveoli. The space between the lungs in the center of the chest is referred to as the mediastinum. The mediastinum contains some important organs like heart, trachea and bronchi, food pipe, nerves and lymph nodes. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "3",
+            "QuestionText": "How common is lung cancer?",
+            "AnswerText": "Lung cancer is the most commonly diagnosed cancer in the world, accounting for over 12% of cancers globally. Figures from 2008 indicate there were an estimated 1.61 million new cases all over the world. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "4",
+            "QuestionText": "How common is death due to lung cancer?",
+            "AnswerText": "Lung cancer is the leading cause of death due to cancer in the United States. It was estimated that 157 300 deaths would occur due to lung cancer in 2010 in the United States, which is more than colorectal, breast and prostate cancer combined. Globally, around 1.35 million deaths due to lung cancer occurred in 2007. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "5",
+            "QuestionText": "Is lung cancer more common in men or women?",
+            "AnswerText": "Lung cancer is responsible for a large number of cancer-related deaths in men and women. Lung cancer is more common in men than in women. However, an increase in lung cancer cases in women in the recent years may be due to more and more women taking up smoking."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "6",
+            "QuestionText": "What are carcinoid tumors?",
+            "AnswerText": "Carcinoid tumors are rare cancers that arise from neuroendocrine cells. Neuroendocrine cells are in some aspects like nerve cells and otherwise like endocrine or hormone-producing cells. Typical carcinoid tumors grow slowly and rarely spread beyond the lungs. Atypical carcinoid tumors grow faster and are more likely to spread. Carcinoid tumors of the lungs may be classified as central or peripheral depending on their location. Rarely, carcinoid tumors of the lungs release hormone-like substances resulting in a condition called carcinoid syndrome where the one experiences facial flushing, severe diarrhea, wheezing, and fast heartbeat. Carcinoid tumors may also release a hormone called ACTH, which leads to an increase in corticosteroid level in the blood."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "7",
+            "QuestionText": "How does lung cancer spread?",
+            "AnswerText": "Lung cancer may spread locally along tissues. It may also spread to lymph nodes or through the blood stream to distant sites like the liver, adrenal glands, bones (usually the backbone, ribs and the thighbone), pericardium (the covering of the heart), spinal cord and the brain."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "1",
+            "QuestionText": "How commonly does lung cancer cause symptoms?",
+            "AnswerText": "Lung cancer causes symptoms in 90 to 93% cases. However, the symptoms may be mistaken for some other condition, thus resulting in a delay in diagnosis. In conditions where the individual does not suffer from any symptoms, the presence of cancer may be detected through a chest x-ray done for some other purpose."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "2",
+            "QuestionText": "What could be symptoms of lung cancer due to?",
+            "AnswerText": "Symptoms of lung cancer may be due to the tumor itself, spread of the tumor locally or to distant sites, or due to hormonal changes brought about by the tumor."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "3",
+            "QuestionText": "What are the symptoms caused by the lung cancer tumor per se?",
+            "AnswerText": "Symptoms caused by the lung cancer tumor per se depend on the location of the tumor. Tumors located centrally in the airways, as in the case of most squamous cell carcinomas and small cell carcinomas, obstruct the free flow of air. Thus, they cause symptoms of cough, breathlessness and wheezing. They may result in complications like lung infection and collapse. The tumor may ulcerate resulting in coughing up of blood. Cancers located peripherally like adenocarcinomas or large cell carcinomas cause cough and breathlessness. They may also result in chest pain due to infiltration of the cancer into the pleura or chest wall. They may be accompanied by accumulation of fluid in the pleural space, the condition called pleural effusion. "
+        },
+        {
+            "SectionTitle": "Causes and Risk factors",
+            "QuestionId": "1",
+            "QuestionText": "What is the most common cause of lung cancer?",
+            "AnswerText": "Cigarette smoking is the most common cause of lung cancer, accounting for more than 90% cases. Cigarette smoke contains at least 40 known carcinogens. The development of lung cancer depends on the number of cigarettes smoked per day, the age when the person started smoking and the duration. It also depends on the tar and nicotine content of the cigarettes. Cigarette smoking is more commonly associated with cancer as compared to pipe or cigar smoking. Passive smokers, that is, people who are exposed to cigarette smoke without smoking themselves, are also at a risk for lung cancer. "
+        },
+        {
+            "SectionTitle": "Causes and Risk factors",
+            "QuestionId": "2",
+            "QuestionText": "Does the risk for lung cancer reduce if a person stops smoking?",
+            "AnswerText": "Yes, the risk for lung cancer reduces if a person stops smoking. However, this may take a number of years after quitting smoking."
+        },
+        {
+            "SectionTitle": "Causes and Risk factors",
+            "QuestionId": "3",
+            "QuestionText": "What are the other risk factors for lung cancer?",
+            "AnswerText": "Other risk factors for lung cancer are:• Exposure to   Environmental radon gas as seen in uranium miners and in areas where radium in the soil causes significant indoor air contamination   Asbestos; asbestos exposure along with cigarette smoking increases the risk of lung cancer 50 times   Metals like arsenic, chromium, nickel or iron oxide   Industrial carcinogens like bis-chloromethyl ether• Hereditary factors• Diseases affecting the lungs like pulmonary fibrosis, chronic obstructive pulmonary disease, sarcoidosis and tuberculosis."
+        },
+        {
+            "SectionTitle": "Causes and Risk factors",
+            "QuestionId": "4",
+            "QuestionText": "Does lung cancer have a genetic origin?",
+            "AnswerText": "Mutations have been associated with lung cancer; thus it is possible that lung cancer does have a genetic origin in some cases."
+        },
+        {
+            "SectionTitle": "Causes and Risk factors",
+            "QuestionId": "5",
+            "QuestionText": "Does alcohol cause lung cancer?",
+            "AnswerText": "No. Alcohol has not been found to cause lung cancer."
+        },
+        {
+            "SectionTitle": "Types of Lung cancer",
+            "QuestionId": "1",
+            "QuestionText": "What are the types of lung cancer?",
+            "AnswerText": "Lung cancer may be primary or secondary. Primary lung cancer arises from the lung or airway tissues, whereas secondary lung cancer spreads from another part of the body to the lungs. For the purpose of staging and treatment, primary lung cancer is classified as small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC). "
+        },
+        {
+            "SectionTitle": "Types of Lung cancer",
+            "QuestionId": "2",
+            "QuestionText": "What are the characteristics of SCLC?",
+            "AnswerText": "SCLC, also called oat cell carcinoma, is a less common form of lung cancer, comprising of 10 to 15% of all cases of primary lung cancer. It arises from the cells lining the bronchi. It is a fast-growing and aggressive tumor and is more likely than NSCLC to spread to distant sites including the brain. Quite often, the cancer would have spread to distant organs at the time of diagnosis. SCLC is exquisitely sensitive to radiotherapy and chemotherapy and is frequently associated with paraneoplastic syndromes (organ dysfunction). Surgery is rarely used in the treatment of SCLC. SCLC is classified into a number of types like pure small cell, mixed small cell, and combined small cell."
+        },
+        {
+            "SectionTitle": "Types of Lung cancer",
+            "QuestionId": "3",
+            "QuestionText": "What are the types of NSCLC?",
+            "AnswerText": "NSCLC is of the following types: • Adenocarcinoma, which arises from mucus-secreting glands lining the bronchi. Adenocarcinoma is the most common form of NSCLC and accounts for 35 to 40% of primary lung cancers. It is usually located peripherally in the lungs. Bronchoalveolar cell carcinoma is a type of adenocarcinoma that arises from the terminal bronchioles. It comprises 2% of all cases of primary lung cancer. • Squamous cell carcinoma, which arises from the lining of the bronchi. It comprises 20% cases of primary lung cancer. The tumors commonly arise in the centre of the lungs in the bronchi and may grow to large sizes, forming cavities in the lungs.• Large cell carcinoma, which comprises 3 to 5% of all cases. The cancer shows the presence of large undifferentiated cells. It is an uncommon, aggressive pulmonary tumor that arises at the central bronchi."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "1",
+            "QuestionText": "At what age is lung cancer usually diagnosed?",
+            "AnswerText": "Lung cancer is usually diagnosed in individuals between 50 and 70 years of age."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "2",
+            "QuestionText": "How is lung cancer diagnosed?",
+            "AnswerText": "A number of tests are used to diagnose and stage lung cancer. These include sputum cytology, fiberoptic bronchoscopy, mediastinoscopy, biopsy, thoracentesis, fine needle aspiration of lymph nodes, and imaging studies like CT scan, PET scan and chest x-ray. Patients being considered for surgery in addition undergo pulmonary function tests."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "3",
+            "QuestionText": "What is sputum cytology?",
+            "AnswerText": "Sputum cytology is a test where cells in the sputum are studied to check for or rule out cancer. It is a simple test and does not need an invasive procedure. It is useful in diagnosing cancers in the central airways like squamous cell cancer, but is unable to detect all cancers."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "4",
+            "QuestionText": "How does fiberoptic bronchoscopy help to diagnose lung cancer?",
+            "AnswerText": "Fiberoptic bronchoscopy is examination of the bronchi using a long tube with a camera at the end. The procedure allows direct visualization of the main airways and is preferred for central tumors. It enables the collection of cell samples as well as biopsy of abnormal areas including lymph nodes. It also helps to determine the extent of airway obstruction. The use of fluorescence bronchoscopy helps to identify early lesions, whereas the use of endobronchial and transesophageal endoscopic ultrasound improves the yield of fine needle aspiration of mediastinal lymph nodes."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "5",
+            "QuestionText": "Which lung cancers can be diagnosed using transthoracic needle biopsy?",
+            "AnswerText": "Transthoracic needle biopsy is a procedure wherein a biopsy sample is obtained by passing a specialized needle through the chest under the guidance of CT or fluoroscopy. It is used to diagnose peripheral lung cancers."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "6",
+            "QuestionText": "How does thoracentesis help to diagnose lung cancer?",
+            "AnswerText": "Thoracentesis is a procedure in which a small amount of fluid is collected from a pleural effusion and tested for the presence of cancer cells. The procedure may be repeated if the first test is negative."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "7",
+            "QuestionText": "What is fine needle aspiration?",
+            "AnswerText": "Fine needle aspiration is a procedure where a small amount of tissue is obtained using a specialized needle and subjected to examination for cancer. The procedure is often carried out on enlarged lymph nodes to check for the spread of cancer. This procedure helps in the diagnosis of adenocarcinoma, squamous cell carcinoma and other malignancies. Fine needle aspiration can also be combined with ultrasound or sonography to help in the diagnosis as well as staging of malignant lung tumors. The latter procedure is particularly helpful in prognosis of small cell lung cancer."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "8",
+            "QuestionText": "How does a CT scan help in lung cancer?",
+            "AnswerText": "A CT scan helps to define and stage the lung cancer. It also helps to detect the presence of a collapsed lung or pleural effusion. Some differences are observed between SCLC and NSCLC on a CT scan. For example, massive lymph node enlargement and invasion of the cancer in the mediastinum, as observed on CT scan, are commonly associated with SCLC. A mass in or close to the hilum is more suggestive of SCLC. Thus, a presumptive diagnosis of SCLC can be made. A CT scan that includes the liver and the adrenal glands helps in determining the spread of the cancer."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "9",
+            "QuestionText": "Is PET scan useful in lung cancer?",
+            "AnswerText": "A PET scan helps to identify spread of the cancer to the mediastinum or to distant sites. A combination of CT and PET scan has been found to be more useful in staging a cancer than either of the tests used alone. PET scan combines two imaging tests, therefore reducing the number of additional imaging tests."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionId": "10",
+            "QuestionText": "Is there any role for chest x-ray in lung cancer?",
+            "AnswerText": "A chest x-ray is often the first test ordered when a lung cancer is suspected. However, with more precise imaging tests available, chest x-ray may not always be helpful in diagnosing lung cancer. It may show the presence of a nodule, mass or infiltrate in the lungs, widening of the mediastinum, collapse of a lung, hilar enlargement and pleural effusion."
+        },
+        {
+            "SectionTitle": "Staging",
+            "QuestionId": "1",
+            "QuestionText": "What is staging of cancer?",
+            "AnswerText": "Cancers are staged depending on the size of the growth and spread of the cancer to lymph nodes or distant sites. Staging allows the doctor to decide the treatment and estimate the prognosis of the cancer."
+        },
+        {
+            "SectionTitle": "Staging",
+            "QuestionId": "2",
+            "QuestionText": "What are the tests advised for staging of lung cancer?",
+            "AnswerText": "Tests recommended for staging of lung cancer include CT scan of chest and upper abdomen, complete blood counts with differential, blood chemistry studies including serum calcium, blood creatinine and electrolytes, alkaline phosphatase and aminotransferase. In addition, pulmonary function tests, mediastinoscopy and PET scan may be required if the patient has to undergo surgery."
+        },
+        {
+            "SectionTitle": "Staging",
+            "QuestionId": "3",
+            "QuestionText": "How is NSCLC staged?",
+            "AnswerText": "NSCLC is staged according to the TNM staging. The ‘T’ in TNM stands for tumor size, the ‘N’ for spread of the cancer to lymph nodes and ‘M’ depicts spread of the cancer to distant sites. Accordingly, NSCLC is staged from I to IV. Patients with stage I and stage II disease suffer from early-stage disease and are often cured by surgery. Patients with IIIA disease have cancer that has spread locally and may benefit from surgery. Patients in stage IIIB or more do not benefit from surgery.Non-small cell lung cancers are staged as follows:STAGES         DESCRIPTIONStage 0  ->   Carcinoma in situ      Spread of cancer beyond the inner lining of lungStage I   ->    No spread of cancer to lymph nodes Stage IA ->    Tumor size less than 3 cms and not spread to nearby lymph nodes or tissuesStage IB ->    Tumor size more than 3 cms and spread of cancer to bronchus and pleuraStage II  ->Stage IIA ->   Tumor size is less than 3 cms and spread to some lymph nodes near the original tumorStage IIB ->   Tumor size is more than 3 cms and spread to some lymph nodes near the original tumorStage III ->Stage IIIA ->    Spread of cancer to nearby tissues like pleura and chest wall, and to lymph nodes in the middle of the chest but not to the other sideStage IIIB ->    Spread of cancer to nearby tissues like esophagus, heart, and trachea, to lymph nodes in the middle and other side of the lung, and pleural effusionStage IV ->    Spread of cancer to other organs of the body such as to other lung, brain or liver."
+        },
+        {
+            "SectionTitle": "Staging",
+            "QuestionId": "4",
+            "QuestionText": "How is SCLC staged?",
+            "AnswerText": "SCLC is staged as either limited disease, where the cancer is limited to the same side of the chest, or extensive disease, where the cancer has progressed beyond the same side of the chest. Patients with limited disease benefit from chemotherapy and radiation to the chest as well as the head region (to treat any possible spread to the head).Small cell carcinomas are staged as follows:STAGES                     DESCRIPTIONLimited stage  ->   Tumor is found in one lung and in nearby lymph nodesExtensive stage ->   Spread of cancer beyond one lung or to other organs"
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "1",
+            "QuestionText": "What are the symptoms caused by lung cancer affecting the mediastinum?",
+            "AnswerText": "Tumors affecting the mediastinum produce symptoms like breathlessness, wheezing, coughing after a meal, difficulty with breathing due to airway obstruction, hoarseness of voice, palpitations due to infiltration of the cancer in the pericardium, the covering of the heart, or difficulty with swallowing due to compression of the food pipe by enlarged lymph nodes."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "2",
+            "QuestionText": "What happens when the tumor affects the pleura?",
+            "AnswerText": "Cancer affecting the pleura often results in chest pain, difficulty with breathing and cough. A pleural effusion may be present."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "3",
+            "QuestionText": "What happens when lung cancer affects nerves?",
+            "AnswerText": "When lung cancer involves nerves, the symptoms depend on which nerve is affected. For example, involvement of the brachial plexus that supplies to the arm results in arm weakness and abnormal sensations. Involvement of the sympathetic chain results in Horner’s syndrome. Involvement of the phrenic nerve that supplies to the diaphragm results in breathlessness. Involvement of the recurrent laryngeal nerve that supplies to the muscles of the larynx results in hoarseness of voice."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "4",
+            "QuestionText": "What are the symptoms observed when lung cancer spreads to distant sites of the body?",
+            "AnswerText": "A person whose cancer has spread to other organs shows severe weight loss and wasting. If the cancer has spread to the brain, the patient may suffer from headache, altered mental status, seizures, unstable gait, nausea, vomiting, blurring of vision and signs of meningeal irritation like neck rigidity. Spread to blood vessels may result in inflammation and clotting. Spread to bones results in bone pain. Spread to the spinal cord may bring about symptoms due to compression like decreased sensation in the lower half of the body, decreased strength, loss of bowel and\/or bladder control. Spread to the liver may result in tender enlargement of the liver."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "5",
+            "QuestionText": "Why does the voice change in lung cancer?",
+            "AnswerText": "The voice may change in a patient with lung cancer due to infiltration of the cancer in the recurrent laryngeal nerve, a nerve the controls the muscles of the larynx or voice box."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "6",
+            "QuestionText": "What is superior vena cava syndrome?",
+            "AnswerText": "Lung cancer may obstruct the flow of blood in the superior vena cava, which is a main vein that drains deoxygenated blood from the upper part of the body into the heart. This results in dilated veins above the collar bone, a condition referred to as superior vena cava syndrome. Other symptoms of this condition include swelling of the face and upper limb, headache and dizziness. Superior vena cava syndrome is more commonly caused by SCLC than NSCLC."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "7",
+            "QuestionText": "What is Horner syndrome?",
+            "AnswerText": "Horner syndrome is a group of symptoms that arise when superior sulcus tumor or pancoast tumor compresses the sympathetic ganglion. Horner syndrome is characterized by three features – ptosis or drooping of an eyelid, pinpoint pupil and loss of sweating on one side of the face. It occurs due to infiltration of the sympathetic nerves by the tumor."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "8",
+            "QuestionText": "What are paraneoplastic syndromes?",
+            "AnswerText": "Paraneoplastic syndromes are organ dysfunctions that are usually seen in patients with SCLC, though they may sometimes also occur in patients with NSCLC. They may be seen before, during or after the diagnosis of cancer. Patients with SCLC and sometimes NSCLC may develop a condition that affects the adrenal glands called syndrome of inappropriate ADH secretion (SIADH). Patients with squamous cell cancer may develop high calcium levels due to a parathyroid-like hormone production. Other paraneoplastic syndromes include clubbing of the fingers, increase in ACTH production, anemia, increased coagulability of blood, peripheral neuropathy and Lambert-Eaton myasthenia syndrome (characterized by muscle weakness)."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "9",
+            "QuestionText": "What are pancoast tumors?",
+            "AnswerText": "Pancoast tumors are tumors that grow at the apex of the lungs. They compress the the brachiocephalic vein, subclavian artery, vagus nerves and brachial plexus. The brachial plexus are a group of nerves that supply to the upper limbs. Thus, pancoast tumors result in severe pain radiating into the arm and then to the chest wall or to the neck."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "1",
+            "QuestionText": "How is NSCLC treated?",
+            "AnswerText": "NSCLC is treated with surgery, chemotherapy and\/or radiotherapy. Stage I and stage II cancers are usually treated with surgery. Stage IB and stage II cancers may also be recommended chemotherapy. Stage IIIA patients are treated with surgery, chemotherapy and\/or radiotherapy. Stage IIIB patients have been treated with concurrent chemotherapy and radiotherapy, along with surgery in some cases. Stage IV patients are treated with chemotherapy and\/or palliative treatment."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "2",
+            "QuestionText": "What is the expected prognosis for a patient with NSCLC?",
+            "AnswerText": "The prognosis for a patient with NSCLC depends on the stage of the cancer. The survival rates for the cancer in the United States are 49% for local disease, 16% for regional disease and 2% for advanced disease."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "3",
+            "QuestionText": "What are the treatment options for an early stage cancer in people who cannot undergo surgery?",
+            "AnswerText": "People with early stage NSCLC who cannot undergo surgery have the option of stereotactic radiosurgery or radiotherapy. In stereotactic radiosurgery or cyberknife, multiple non-parallel radiation beams converge on the cancer, thus delivering a high dose of radiation directly on the cancer."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "4",
+            "QuestionText": "How radiation therapy helps to treat lung cancer?",
+            "AnswerText": "Radiotherapy or radiation therapy is the use of ionizing radiation such as X-rays to destroy rapidly dividing cancer cells in a localized area and control cancer. External beam radiotherapy and internal radiotherapy are the two types of radiation therapy. In external beam radiation therapy, high-energy radiation is delivered to the tumor from outside the body, where as in internal beam therapy a radioactive source is placed near the tumor that delivers radiation to a specific area. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "5",
+            "QuestionText": "What is radiofrequency ablation?",
+            "AnswerText": "Radiofrequency ablation is a minimally invasive therapy for cancers. It is used to treat peripheral tumors. The basic principle behind radiofrequency ablation is converting radiofrequency waves into heat, leading to coagulative necrosis of tumor."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "6",
+            "QuestionText": "How effective is photodynamic therapy in treating lung cancer?",
+            "AnswerText": "Photodynamic therapy, based on drug-light interactions, uses a photosensitizing drug and light of particular wavelength to destroy cancer cells. The photosensitizing drug is injected and is absorbed by cells all over the body but stays longer in cancer cells. Bronchoscopy is then carried out where in a tube is threaded down the bronchoscope that shines light of specific wavelength at the tumor, activating the drug. This activated drug forms toxic radicals leading to death of cancer cells. The therapy is effective for both early stage and late stage lung cancer."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "7",
+            "QuestionText": "What is the difference between adjuvant and neoadjuvant chemotherapy?",
+            "AnswerText": "Adjuvant chemotherapy is given following surgery or radiotherapy to ensure complete destruction of the remaining cancer cells. On the other hand, neoadjuvant chemotherapy is administered before surgery or radiation to ensure better results. The benefit of neoadjuvant chemotherapy in lung cancer has not been established."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "8",
+            "QuestionText": "What is molecular-targeted therapy?",
+            "AnswerText": "It has been suggested that lung cancer could be due to mutations resulting in changes at the molecular level, and targeting these mutations could help in the treatment of the cancer. This approach is referred to as molecular-targeted therapy. For example, quite often, NSCLC is associated with overexpression of epidermal growth factor receptor (EGFR), which leads to increased autophosphorylation of the tyrosine kinase pathway. These changes finally result in increased growth potential, increased ability to metastasize, and increased formation of blood vessels within the cancer. Targeting EGRF using EGFR tyrosine kinase inhibitors (TKIs) like gefitinib and erlotinib may help in treating the cancer."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "9",
+            "QuestionText": "What is the treatment for SCLC?",
+            "AnswerText": "SCLC is treated with chemotherapy with drugs like cisplatin and etoposide. Thoracic radiation may be given in addition to people with limited disease. Cranial irradiation reduces the chances of spread of the cancer to the brain."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "10",
+            "QuestionText": "What is the expected prognosis for a patient with SCLC?",
+            "AnswerText": "Patients with SCLC who undergo treatment have a median survival duration of 20 months in case of limited disease and 12 months in case of extensive disease."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionId": "11",
+            "QuestionText": "How can lung cancer be prevented?",
+            "AnswerText": "It is important to quit smoking to prevent lung cancer. This not only protects the individual from lung cancer, but prevents cancer in passive smokers as well. Public education is essential in this regard. Nicotine alternatives like gum, patch and spray may be opted for to help quit smoking. Occupational exposure especially to asbestos should be controlled. People working in environments with high concentration of carcinogens should wear protective masks."
+        }
+    ]
+}

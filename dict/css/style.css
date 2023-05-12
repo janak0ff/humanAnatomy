@@ -1,0 +1,280 @@
+/* shop */
+
+.shop-wrap {
+	width: 95%;
+	/* max-width: 1024px; */
+	margin: 0 auto;
+}
+
+.shop,
+.shop li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.shop {
+	margin-bottom: 120px;
+}
+
+.shop>li {
+	float: left;
+	position: relative;
+	width: 32%;
+	margin-bottom: 10px;
+}
+
+.shop .thumb {
+	position: relative;
+	background-color: #222;
+}
+
+.shop .thumb img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+/* .shop .thumb:hover img {
+	opacity: 0.8;
+} */
+/* 
+.shop .price {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 50px;
+	height: 50px;
+	background-color: #ff7573;
+	text-align: center;
+	z-index: 10;
+	line-height: 50px;
+	border-radius: 25px;
+}
+
+.shop .price span {
+	color: #fff;
+	font-weight: bold;
+}
+
+.shop .badges {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 20;
+}
+
+.shop .badges span {
+	display: block;
+	width: 32px;
+	height: 32px;
+} */
+
+/* .shop .badges .badge-new {
+	background: url('../images/badge.webp') no-repeat 0 -64px;
+}
+
+.shop .badges .badge-bestseller {
+	background: url('../images/badge.webp') no-repeat 0 -32px;
+}
+
+.shop .badges .badge-polarized {
+	background: url('../images/badge.webp') no-repeat 0 0;
+} */
+
+/* .shop .buy {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	z-index: 20;
+}
+
+.shop .buynow {
+	color: #fff;
+	background: #444;
+	padding: 5px 15px;
+	line-height: 1;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: bold;
+} */
+
+.shop .WTitle {
+	position: absolute;
+	/* bottom: 2px; */
+	/* right: 2px; */
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 24px;
+	font-weight: bold;
+	width: 95%;
+	color: rgb(31, 31, 31);
+	padding: 5px 10px;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.shop .WTitle:hover {
+	font-size: 26px;
+	text-decoration: underline;
+	font-weight: 800;
+}
+
+
+
+@media only screen and (max-width: 1024px) {
+	.shop>li {
+		width: 49%;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	.shop>li {
+		margin-right: 0 !important;
+		width: 100%;
+	}
+
+	.shop-wrap {
+		width: 85%;
+	}
+}
+
+
+/* UniFilter */
+
+#filters {
+	margin: 50px 0 7px;
+}
+
+#filters .uf-filter {
+	margin-top: 5px;
+}
+
+#filters .uf-filter-wrap,
+#filters .uf-search-wrap,
+#filters .uf-sort-wrap {
+	margin-bottom: 0;
+}
+
+#filters .uf-filter-wrap {
+	float: right;
+	margin-right: 10px;
+}
+
+#filters .uf-search-wrap,
+#filters .uf-sort-wrap {
+	float: left;
+	margin-right: 10px;
+}
+
+#filters .uf-tags a {
+	border: 0;
+}
+
+#filters .uf-tags .uf-reset {
+	margin-top: 5px;
+}
+
+#filters .uf-tags a:hover,
+#filters .uf-tags .uf-selected a {
+	color: #2fd8f3;
+	font-size: 18px;
+	background: none;
+}
+
+#filters .uf-search-box {
+	width: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+	#filters .uf-filter-wrap {
+		float: none;
+	}
+}
+
+
+/* Smaller than Desktop HD */
+@media only screen and (max-width: 1200px) {}
+
+/* Smaller than desktop */
+@media only screen and (max-width: 1000px) {}
+
+/* Smaller than tablet */
+@media only screen and (max-width: 750px) {}
+
+/* Smaller than phablet (also point when grid becomes active) */
+@media only screen and (max-width: 550px) {}
+
+/* Smaller than mobile */
+@media only screen and (max-width: 400px) {}
+
+
+
+li>.WDescription {
+	box-sizing: border-box;
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 100%;
+	height: 100%;
+	/* height: auto; */
+	align-items: center;
+	transition: .5s ease;
+	opacity: 0.01;
+	/* display: none; */
+	color: #c9c9c9;
+	font-size: 18px;
+	line-height: 22px;
+	padding: 10px 8px;
+	text-align: center;
+	overflow: auto;
+	border-radius: 10px;
+	cursor: default;
+}
+
+ li:hover .WDescription  {
+	/* display: block; */
+	opacity: 1;
+	width: 100%;
+	z-index: 1;
+	background: rgb(29, 29, 29);
+	height: auto;
+} 
+.WDescription>span {
+	float: right;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	padding: 3px 8px;
+	cursor: pointer;
+	border-radius: 5px;
+	border: 1px solid rgb(255, 0, 0);
+}
+
+.WDescription>span:hover {
+	background-color: red;
+}
+
+.vidplayfaq {
+	float: left;
+	margin: 5px;
+	padding: 3px 30px;
+}
+
+.vidplayfaq i {
+	/* margin-right: 6px; */
+	font-size: 20px;
+
+}
+
+center h1 {
+	/* margin-top: 100px; */
+	/* position: relative; */
+	/* top:100px; */
+	/* display: inline-block; */
+	padding-top: 100px;
+	text-transform: capitalize;
+}

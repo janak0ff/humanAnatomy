@@ -1,0 +1,288 @@
+{
+    "pcos": [
+        {
+            "SectionTitle": "Introduction",
+            "ImageTitle": "Female reproductive system",
+            "lightgalleryImgID": "Femalereproductivesystem",
+            "ImageUrl": "./pcos/Female reproductive system.webp",
+            "VideoUrl": "./pcos/Female reproductive system.webp",
+            "QuestionId": "1",
+            "QuestionText": "What is an ovary and what are its functions?",
+            "AnswerText": "The female reproductive system is made up of a pair of gamete producing organs called ovaries that are situated in the pelvis. The main function of ovaries is to release an ovum every month, after puberty. The ovaries also secrete hormones estrogen and progesterone that are essential for a female to develop the secondary sexual characters. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "2",
+            "VideoUrl": "./pcos/Female reproductive system.webp",
+            "QuestionText": "What is an ovum?",
+            "AnswerText": "An ovum, or egg, is a female gamete released from the ovary. It is haploid in nature, meaning containing a single set of genetic material. The ovum fuses with the male gamete, sperm, during the process called fertilization to produce a zygote which develops into an infant."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "ImageTitle": "Female reproductive system",
+            "lightgalleryImgID": "Femalereproductivesystem1",
+            "ImageUrl": "./pcos/Female reproductive system.webp",
+            "QuestionId": "3",
+            "QuestionText": "What is ovulation?",
+            "AnswerText": "The process of release of ovum from the ovary into the fallopian tube that surrounds the ovary is called ovulation. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "4",
+            "QuestionText": "What is estrogen and what are its functions? ",
+            "AnswerText": "Estrogen is a female sex hormone secreted by the ovaries. It is responsible for the development of secondary female sexual characteristics. Estrogen stimulates the development of characteristic female body features such as growth and fat distribution in the breasts, narrow shoulders, broad hips, pubic hair distribution, and production of prolactin. It also helps in the development and maintenance of female reproductive organs, the growth of external genitalia, contraction and ciliary activity of uterine tubes, and mucous secretion in the cervix."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "5",
+            "QuestionText": "What is progesterone and what are its functions?",
+            "AnswerText": "Progesterone, also called as pregnancy hormone, is another female sex hormone that is released during menstrual cycles. Progesterone prepares the inner lining of the uterus, endometrium, for implantation of the fertilized egg. It decreases the contraction of the uterine tubes, thus helping to maintain pregnancy. Progesterone also stimulates breast growth, particularly the glandular tissue, and inhibits lactation during pregnancy. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "6",
+            "QuestionText": "What is menstrual cycle and menstruation? ",
+            "AnswerText": "The female reproductive system releases one functional ovum per 28 days. Every month the ovum and the lining of uterus grows. Once the ovum matures, it leaves the ovary and moves through the fallopian tube to the uterus where it gets ready for fertilization. If the egg is not fertilized, it breaks. The busted egg and the thickened lining of the uterus are shed during the menstrual period. .Again the uterus lining grows and gets ready for implantation. This monthly process of shedding the egg and the uterus lining is called the menstrual cycle. Menstruation or menses is the periodic shedding of the uterine lining and unfertilized egg accompanied by blood loss in women of reproductive age during the menstrual cycle. Menstrual blood flows from the uterus through the cervix and passes out of the body through a small opening called the vagina."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "7",
+            "QuestionText": "When is an ovum produced and released? ",
+            "AnswerText": "The ovary contains the cells to produce ovum, by birth. But the process of ovum formation, maturation and release takes place after the pubertal age. During the reproductive years, the follicle stimulating hormone (FSH), produced by the pituitary gland, stimulates the ovaries and one ovum develops and becomes ready for release. The ovum is released after the ovulation period, once in every 28 days of the menstrual cycle."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "8",
+            "QuestionText": "What is a cyst?",
+            "AnswerText": "Cysts are abnormal closed sacs that develop within a tissue anywhere in the body and may be filled with gaseous, fluid or semisolid substance. A cyst may also develop in the ovary. Immature ovarian follicles (sacs that contain the ovum) turn to cysts and form a ring around the edge of the ovary. As the cysts accumulate, the ovarian volume increases and the ovaries enlarge."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "9",
+            "QuestionText": "What is polycystic ovary syndrome (PCOS)? ",
+            "AnswerText": "Polycystic ovarian syndrome (PCOS) is the most common hormonal disorder among women of reproductive age. The condition is characterised by enlarged ovaries with numerous small cysts located on the outer edge of each ovary which result in irregular or prolonged menstrual periods."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "10",
+            "QuestionText": "How does PCOS develop?",
+            "AnswerText": "PCOS is a condition that originates possibly at the time of puberty. The ovaries do not produce sufficient quantities of hormones that are required for the follicle to mature; as a result the follicles remain in the ovary. Some follicles may be immature containing an egg, while others are empty. These immature follicles turn to cysts and form a ring around the edge of the ovary. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "11",
+            "QuestionText": "Who is affected by PCOS?",
+            "AnswerText": "PCOS is an endocrine dysfunction that affects nearly 5 - 10% of all women in the reproductive age. PCOS can occur in girls as young as 11 years old. It affects 60% of obese women, 20% of lean women, and 20% of women with normal BMI. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "12",
+            "QuestionText": "Does the appearance of cysts in ovaries mean it is PCOS?",
+            "AnswerText": "Having ovarian cysts is actually quite common and does not mean it is PCOS. The hormonal changes that are associated with PCOS differentiate it from other ordinary ovarian cysts. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "13",
+            "QuestionText": "Is it possible to have polycystic ovaries without having the symptoms? ",
+            "AnswerText": "Yes, it is possible to develop polycystic ovaries without the symptoms. It is estimated that out of 20 to 30% of women, only 5 to 10% are diagnosed as having PCOS based on their symptoms. Others may not exhibit any symptoms. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "14",
+            "QuestionText": "Is it possible to have PCOS without having cysts?",
+            "AnswerText": "Yes, there are instances where women are diagnosed as having PCOS, but without exhibiting ovarian cysts. Women, in such cases, exhibit other symptoms of PCOS such as facial hair, weight gain, loss of hair and hormonal imbalance. However, it could be difficult to make a firm diagnosis of PCOS without the presence of either an increased number of small cysts or ovarian enlargement. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "15",
+            "QuestionText": "Is PCOS fatal? ",
+            "AnswerText": "No! Even though there are a number of complications associated with it, PCOS is easily controlled by a few simple lifestyle changes, and in some cases, medications."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "16",
+            "QuestionText": "What is a ruptured ovarian cyst?",
+            "AnswerText": "The immature follicles that develop in the ovaries may slowly start accumulating excess amount of fluid, which eventually weakens the walls of the follicle. This could result in a hole or opening in the follicle wall and leaking of the fluid. This condition is referred to as ruptured cyst."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "17",
+            "QuestionText": "If one has PCOS, will her daughter or sister develop the condition? ",
+            "AnswerText": "Family members who are closely related to a PCOS patient are at an increased risk of having some or all of the symptoms of PCOS, as the condition can be hereditary. However, it cannot be confirmed that any of the relatives will develop PCOS."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "18",
+            "QuestionText": "What is menopause?",
+            "AnswerText": "Menopause, a normal part of ageing in women, results from hormonal changes that bring about a reduction in the number of ovum produced from ovaries. During menopause, the primary functions of the ovaries - maturation and release of ova, and the release of hormones that bring about thickening of the uterine lining and its subsequent shedding - cease, accompanied by a large drop in the production of estrogen by the ovaries. This affects the normal menstrual cycle, bringing in psychological and social changes in a woman."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "19",
+            "QuestionText": "Does PCOS change at menopause? ",
+            "AnswerText": "Yes and no. Some women tend to improve their symptoms of PCOS during menopause. But, there are women who continue to suffer from many symptoms such as excessive hair growth, male-pattern baldness, or thinning of hair, which may worsen during or after menopause. The risk of complications (health problems) from PCOS such as heart attack, stroke, and diabetes increase as a woman gets older."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "1",
+            "QuestionText": "What causes PCOS?",
+            "AnswerText": "The cause of PCOS is unknown. But most experts believe that several factors, including genetics, could play a role. The main underlying problem with PCOS is hormonal imbalance. In women with PCOS, the ovaries make more androgens than normal. Androgens are male hormones that are also produced in females, but in very less amount. High levels of these hormones affect the development and release of eggs during ovulation. It is also thought that insulin may be linked to PCOS. Insulin is a hormone that controls blood glucose levels. Many women with PCOS have too much insulin in their bodies because it is not used effectively by the cells. Excess insulin appears to increase the production of androgen. High androgen levels can also lead to acne, excessive hair growth, and weight gain."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "2",
+            "QuestionText": "How does PCO relate to insulin resistance? ",
+            "AnswerText": "PCOS is directly caused by excessive weight gain and obesity brought on by insulin resistance. Insulin, a hormone secreted by the pancreas, helps the body maintain blood glucose level. Insulin resistance is the inability of cells to respond to insulin and take up glucose, resulting in excess glucose in blood. Insulin resistance may stimulate the ovaries to produce androgens. Immature follicles in the ovaries are unable to convert the excess androgen to estrogen, resulting in cyst formation."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "3",
+            "QuestionText": "Why do PCOS and insulin resistance cause excessive food craving? ",
+            "AnswerText": "Both PCOS and insulin resistance are the result of imbalances in insulin and glucose. These imbalances can cause dramatic swings in the blood sugar level. The biological effect is that the brain continues to send signals for hunger. As a result, one continues to feel hungry, and consume food."
+        },
+        {
+            "SectionTitle": "Risk factors",
+            "QuestionId": "1",
+            "QuestionText": "What increases the risk of PCOS?",
+            "AnswerText": "The main risk factor for PCOS is a family history of the condition. A combination of genes is said to play a role in PCOS. A family history of diabetes may also increase one's risk for PCOS because of the strong relationship between diabetes and PCOS. Obesity and anti-seizure drugs are also considered risk factors for the onset of PCOS."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "1",
+            "QuestionText": "What are the symptoms of PCOS?",
+            "AnswerText": "The symptoms of PCOS can vary from woman to woman. Some of the commonly observed symptoms of PCOS include: a) Infrequent, irregular, and\/or absent menstrual periodsb) Hirsutism  excessive hair growth on the face, chest, stomach, back, thumbs, or toec) Acne, oily skin, or dandruffd) Weight gain or obesity, usually with extra weight around the waiste) Alopecia - male-pattern baldness or thinning of hairf) Dark, thick patches of skin on the neck, arms, breasts, or thighs (acanthosis nigricans)g) Skin tags (acrochordons) - excess flaps of skin in the armpits or neck areah) Pelvic paini) Anxiety or depression, exhaustion, decreased sex drivej) Sleep apnea - when breathing stops for short periods of time during sleep k) High blood pressure"
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "2",
+            "QuestionText": "What are the symptoms of a ruptured ovarian cyst?",
+            "AnswerText": "The most common symptoms of an ovarian cyst rupture include:- severe pain in the abdomen- bloating- vaginal spotting- weakness- fatigue- fever- increase or decrease in blood pressure- clammy skin"
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "3",
+            "QuestionText": "When do PCOS symptoms develop? ",
+            "AnswerText": "PCOS symptoms differ from one person to another. It is difficult to ascertain exactly when symptoms begin to appear, as they are often similar to those experienced at puberty, including irregular periods, increased hair growth, and acne. This often delays the diagnosis of PCOS to until the end of puberty when these symptoms persist. There are also many women who are not diagnosed until they are trying to get pregnant."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionId": "4",
+            "QuestionText": "When to consult the doctor regarding PCOS?",
+            "AnswerText": "When one finds the following symptoms, she has to consult her doctor -Symptoms in a teenage girla) Not started menstruating by age 14 and has excessive hair growth on the chest, back, belly, or face (hirsutism)b) Not started menstruating by age 15 or within 2 years of breast and genital hair developmentc) Fewer than eight menstrual cycles a year that has lasted for 2 years after one has started menstruationd) Severe acne and loss of hair from scalpe) Menstrual cycles that are consistently less than 21 days apart or more than 45 days apartf) Any symptoms of diabetes, such as increased thirst and frequent urination (especially at night), unexplained increase in appetite, unexplained weight loss, fatigue, blurred vision, or tingling or numbness in hands or feet g) Skin problems such as oily skin, dandruff, skin tags in the armpits or neck area, or dark skin patches  in skin folds or on the neck, groin, or underarmsh) Depression or mood swings. This may be related to the emotions related to the physical symptoms of PCOS, such as excess hair, obesity, or infertility.i) Excess weight gain or upper body obesity (more abdominal fat than hip fat)Symptoms in a woman between 20 and 40 years of agea) Menstrual cycles that are consistently less than 21 days apart or more than 35 days apart b) Regular menstrual cycles but unsuccessful attempts to become pregnant for more than 12 monthsc) Vaginal bleeding that lasts for more than 8 days, large clots, or excessive spottingd) Pelvic pain that lasts for more than 4 weeks e) Excessive hair growth on the chest, back, belly, or face (hirsutism)f) Any symptoms of diabetes, such as increased thirst and frequent urination (especially at night), unexplained increase in appetite, unexplained weight loss, fatigue, blurred vision, or tingling or numbness in hands or feet g) Acne, oily skin, dandruff, skin tags in the armpits or neck area, or dark skin patches in skin folds or on the neck, groin, or underarms h) Depression or mood swingsi) Excess weight gain or upper body obesity related to increased male hormone (testosterone) levels.Symptoms in women older than 40a) Vaginal bleeding that lasts more than 8 days, large clots, or excessive spottingb) Pelvic pain that lasts for more than 4 weeks c) Symptoms of diabetes d) Any symptoms of heart disease such as chest pain or pressure, shortness of breath, unusual fatigue, or high blood pressure (hypertension)e) Depression or mood swings"
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "1",
+            "QuestionText": "Does PCOS put women at risk for other health problems? ",
+            "AnswerText": "Women with PCOS have greater chances of developing several health complications including life-threatening diseases. Recent studies have found that: a) More than 50 percent of women with PCOS will have diabetes or pre-diabetes (impaired glucose tolerance) before the age of 40 b) Women with PCOS are at greater risk of having high blood pressure c) Women with PCOS have high levels of LDL (bad) cholesterol and low levels of HDL (good) cholesterold) The risk of heart attack is 4 to 7 times higher in women with PCOS than women of the same age without PCOSe) Women with PCOS can develop sleep apneaf) They might also develop anxiety and depressiong) PCOS leads to weight gain, and h) Women with PCOS are at risk for endometrial cancer. Irregular menstrual periods and the lack of ovulation result in the production of hormone estrogen, but not progesterone. Progesterone brings about shedding of endometrium (lining of the womb) during menstruation. Without progesterone, the endometrium becomes thick, which can cause heavy or irregular bleeding. Over time, this can lead to endometrial hyperplasia or too much thickening of the endometrium. Eventually, this can lead to cancer.  "
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "2",
+            "QuestionText": "What can one do to prevent complications? ",
+            "AnswerText": "It is important to keep the symptoms under control at an earlier age to help reduce the chances of developing complications like diabetes and heart disease. Regular test for diabetes is advisable. Other steps one can take to lower the chances of complications include: -  Eating right -  Exercising, and -  Not smoking"
+        },
+        {
+            "SectionTitle": "Pregnancy and PCOS",
+            "QuestionId": "1",
+            "QuestionText": "Why do women with PCOS have trouble with their menstrual cycle and fertility? ",
+            "AnswerText": "In women with PCOS, the ovary doesn't make all of the hormones it needs for an egg to fully mature. The ovary may start to form the egg, but the process is not complete. Instead, some follicles may remain as cysts. Hence, ovulation does not occur. As a result, menstruation is not regulated resulting in irregular menstrual cycles. Since the ovum does not mature and are not released, it leads to infertility."
+        },
+        {
+            "SectionTitle": "Pregnancy and PCOS",
+            "QuestionId": "2",
+            "QuestionText": "What if one has PCOS and is trying to get pregnant? ",
+            "AnswerText": "Many women with PCOS have no trouble getting pregnant, while some have. Having PCOS is also associated with a higher risk of miscarriage. In case a woman has problem with pregnancy, she would have to seek medical help."
+        },
+        {
+            "SectionTitle": "Pregnancy and PCOS",
+            "QuestionId": "3",
+            "QuestionText": "How does PCOS affect a woman while pregnant? ",
+            "AnswerText": "Women with PCOS appear to have higher rates of: -  Miscarriage -  Gestational diabetes -  Pregnancy-induced high blood pressure (preeclampsia) -  Premature delivery-  Babies born to women with PCOS have a higher risk of spending time in a neonatal intensive care unit or of dying before, during, or shortly after birth. Most of the time, these problems occur in multiple-birth babies (twins, triplets)."
+        },
+        {
+            "SectionTitle": "Tests and diagnosis",
+            "QuestionId": "1",
+            "QuestionText": "How can PCOS be diagnosed? ",
+            "AnswerText": "There is no single test to diagnose PCOS and the following tests in mixture can be recommended. a) Medical History - A detailed description of menstrual periods, weight changes, and other symptoms are noted.b) Physical Exam -  Blood pressure, body mass index (BMI), and waist size are measured along with the areas of increased hair growth.c) Pelvic Exam  -  Is performed to check if the ovaries are enlarged or swollen.d) Blood Tests  -  Are performed to check the androgen hormone and glucose (sugar) levels in blood.e) Vaginal Ultrasound (sonogram) - Here sound waves are used to take pictures of the pelvic area. It might be used to examine the ovaries for cysts and check the endometrium (lining of the womb). This lining could appear thicker if the periods are not regular."
+        },
+        {
+            "SectionTitle": "Tests and diagnosis",
+            "QuestionId": "2",
+            "QuestionText": "How are polycystic ovaries diagnosed by ultrasound?",
+            "AnswerText": "Ultrasonography is the confirmatory test for PCOS. An ultrasound of the ovaries is usually done by placing a probe into the vagina to view the ovaries. Sometimes, an abdominal ultrasound is done but a transvaginal ultrasound is preferred. A classic PCOS ovary is enlarged and has a 'string of pearls' appearance, where the 'pearls' are the cysts. Ultrasound diagnosis of polycystic ovaries is made if there are at least 8-10 cysts that are less than 10 mm in size on each ovary. The polycystic ovary tends to be enlarged from 1.5 to 3 times the size of a normal ovary."
+        },
+        {
+            "SectionTitle": "Tests and diagnosis",
+            "QuestionId": "3",
+            "QuestionText": "How is the hormone level tested?",
+            "AnswerText": "Blood or urine tests are used to determine the levels of various hormones in the body. The following changes in hormone levels are observed during PCOS. 1. FSH levels are decreased and hence the immature follicles present in the ovaries cannot convert excess androgens to estrogen2. Luteinizing hormone (LH) is constantly high instead of the mid-cycle surge. A surge in LH is required for ovulation, so a lack of it prevents ovulation.3. Estrogen levels should increase just before ovulation. But in women with PCOS, estrogen remains constantly high or constantly low. 4. Progesterone is not produced or produced in lesser quantity during PCOS. "
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "1",
+            "QuestionText": "How is polycystic ovarian syndrome treated? ",
+            "AnswerText": "PCOS cannot be cured, it needs to be managed to prevent problems. Many women will need a combination of treatments to meet these goals. Some treatments for PCOS include:a) Lifestyle modification - Many women with PCOS are overweight or obese. The first line of treatment for PCOS includes weight reduction via lifestyle changes and regular exercise. Eating healthy helps maintain a healthy weight. Exercising regularly helps tone muscles, burn calories, remove toxins from the body, reduce blood glucose levels, improve the body's use of insulin, and normalize hormone levels in the body. Reducing body weight helps control the symptoms of PCOS.b) Birth control pills - For women who do not want to get pregnant, birth control pills can:  -  Control menstrual cycles -  Reduce male hormone levels -  Help to clear acneBut there are chances that the menstrual cycle will become abnormal again once the pills are stopped.c)  \"Ovarian drilling\" is a surgical procedure that may increase the chance of ovulation. d) Diabetes medications - Insulin-sensitizing drugs such as metformin are used to enable normal ovulation by controlling blood glucose levels, which restore normal hormonal balance."
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "2",
+            "QuestionText": "What are the treatment options available to increase fertility? ",
+            "AnswerText": "Fertility medications - Lack of ovulation is usually the reason for fertility problems in women with PCOS. For those patients trying to conceive, losing weight would help improve ovulation. Several oral medications are recommended that stimulate ovulation and can help women with PCOS become pregnant. In vitro fertilization (IVF) - IVF offers the best chance of becoming pregnant in any given cycle. "
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "3",
+            "QuestionText": "Why a gradual weight loss is recommended? ",
+            "AnswerText": "Gradual weight reduction results in a more permanent change in the way cells respond to insulin. Because the body has a memory, the body recognizes the weight as its normal state. When one loses weight quickly, the body will not have time to habituate. It sees the rapid weight loss as abnormal and, once a diet is stopped, it makes an effort to get back as quickly as possible to the normal previous stage. "
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "4",
+            "QuestionText": "Can surgery treat PCOS?",
+            "AnswerText": "There are two surgical procedures recommended for PCOS, only in cases where infertility has not been cured by medications. The two surgical procedures are ovarian wedge resection and ovarian drilling. Surgery has been successful in treating infertility in few women, but has been unsuccessful in many, as there are risks of scar tissue formation after the surgery."
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "5",
+            "QuestionText": "Will removing my ovaries cure my PCOS?",
+            "AnswerText": "Removing ovaries is not a cure for PCOS. PCOS is a result of hormonal imbalance, which is not restored even if the ovaries are removed. It is possible that removing the ovaries will lessen the symptoms, but this is an extreme approach that is not generally recommended. "
+        },
+        {
+            "SectionTitle": "Treatment",
+            "QuestionId": "6",
+            "QuestionText": "What surgery methods are used for the treatment of PCOS?",
+            "AnswerText": "Two types of surgical interventions have been used to treat PCOS:  Ovarian wedge resection - In this procedure a portion of the ovary is removed to enhance the chances of ovulation and hence increase fertility. The procedure is rarely recommended due to high risk of damaging the ovary and scar tissue formation. Laparoscopic ovarian drilling - In this procedure, two small ports are created in the lower abdominal region and a laproscope is introduced into it. The procedure involves puncturing of ovary with a laser or electrosurgical needle. This enhances the chances of ovulation as the androgen production is controlled, which in turn regulates menstrual cycle. "
+        },
+        {
+            "SectionTitle": "Alternative treatment modalities ",
+            "QuestionId": "1",
+            "QuestionText": "What are the alternative methods of treatment for PCOS?",
+            "AnswerText": "Natural or Alternative treatments for PCOS include- Evening primrose oil and vitamin B3, B5, and B6 supplements aid in combating some of the symptoms of PCOS. The evening primrose oil helps to provide important fatty acids that are some of the building blocks of sex hormones like estrogen and progesterone. B vitamins are important for glucose metabolism, control fat metabolism, and balance hormone levels. - Eat a diet that has a low glycemic index, low carbohydrate, low animal products, and high fiber content. This helps to reduce weight and regulate the blood glucose and insulin levels, in turn regulating the menstrual cycle."
+        },
+        {
+            "SectionTitle": "Alternative treatment modalities ",
+            "QuestionId": "2",
+            "QuestionText": "Can PCOS be treated with herbal supplements? ",
+            "AnswerText": "Some women with PCOS have found relief from their symptoms through alternative therapies such as herbs, acupuncture, homeopathic remedies, and other alternative approaches. Herbal supplements are unregulated and may interact with prescription medications. It is important to consult the doctor before taking these medications."
+        },
+        {
+            "SectionTitle": "Preventive measures",
+            "QuestionId": "1",
+            "QuestionText": "How to prevent PCOS?",
+            "AnswerText": "PCOS cannot be prevented, but early diagnosis and treatment helps to prevent long-term complications such as- Infertility- Metabolic syndrome- Obesity- Diabetes, and - Heart disease"
+        },
+        {
+            "SectionTitle": "Self care",
+            "QuestionId": "1",
+            "QuestionText": "What are the self care tips for PCOS?",
+            "AnswerText": "PCOS, though not curable, can be managed effectively. The self care tips for managing PCOS include:- Reducing weight- Maintain a healthy diet. Diet should include high-fiber carbohydrate foods. Dietary plans should be implemented after consulting a doctor or a dietician.- Avoid processed foods - Processed foods contain chemicals, additives, and artificial colourings, which can worsen hormonal imbalance.- Avoid sugar, artificial sweeteners, soda, fruit juice, and refined carbohydrates, which impact insulin resistance. Eat only complex carbohydrates, such as whole wheat or grains, oatmeal, cereals, and brown rice.- Eat essential fatty acids (EFA's) ' EFA's help to regulate hormonal balance. This is very important when trying to conceive. Eat plenty of fresh vegetables like broccoli, cauliflower, carrots, and dark green vegetables, which contain high amounts of EFA. - Avoid excessive alcohol consumption as alcohol can disturb the hormonal balance.- Quit smoking as it may affect fertility."
+        },
+        {
+            "SectionTitle": "Self care",
+            "QuestionId": "2",
+            "QuestionText": "How can one cope with the emotional effects of PCOS?",
+            "AnswerText": "People having PCOS may feel embarrassed by their appearance, feel depressed, and worry about pregnancy. Taking medications can reduce the symptoms and boost their self esteem. Professional help should be sought if the person is suffering from depression. Joining self-help groups and online forums helps to increase confidence and to cope up with the condition."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "Obesity": [
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "1",
+            "QuestionText": "What is obesity?",
+            "AnswerText": "Most people assume that being obese means weighing more than they should, which is not true. Obesity refers to excessive fat accumulation in the body due to which there can be an increase in weight and have hazardous effect on the overall health of the person. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "2",
+            "QuestionText": "Is obesity a disease?",
+            "AnswerText": "Although obesity by itself is not considered a disease, it is more of a medical condition due to complications that arise as a result of obesity and lowered life expectancy in many obese individuals due to these complications."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "3",
+            "QuestionText": "How is being obese and being overweight different?",
+            "AnswerText": "If a person is overweight, it need not necessarily mean that he\/she is obese. Obesity refers to excessive body fat, and not just being overweight. There is a difference in the body mass index (BMI) ratios in a person who is obese and a person who is overweight. A person who is overweight has a slightly lesser BMI ratio than a person who is obese. A BMI that ranges between 18.5 to 24.9 kg\/m2 indicates normal weight; BMI >25 is considered overweight; and BMI above 30 is obese. But, if proper control measures are not taken, it is highly likely that an overweight person will turn obese. Individuals who have well built muscles may weigh more than their normal recommended weight, for example weight lifters or wrestlers. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "4",
+            "QuestionText": "Can anybody become obese?",
+            "AnswerText": "Nobody is born obese but it is possible for anyone to turn obese. But, obesity seems to affect some people more than others as it develops because of an imbalance between the calories that are eaten and the calories that are expended through physical activity."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "5",
+            "QuestionText": "Where does the fat accumulate in men and women?",
+            "AnswerText": "There seems to be gender specification in the tendency of fat to accumulate in different areas in men and women. This is considered to be influenced by hormones as well. In women, fat tends to accumulate in areas such as thighs, buttocks and the pelvic region. In men, the fat tends to accumulate more in the area of the abdomen. It is interesting to note that these are the specific areas where the accumulated fat cannot be lost easily and is usually the last regions from where fat gets reduced when the person undertakes dietary modifications and performs regular exercise."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "6",
+            "QuestionText": "Are children prone to become obese? What factors lead to obesity in children?",
+            "AnswerText": "Currently, obesity is on the rise both in children and adolescents primarily owing to improved nutrition and affordability, especially in the developed countries. Obesity has more to do with eating habits than genes. Thus, obese parents are likely to set a wrong example in terms of eating habits and hence are likely to have obese children. Some of the factors that are contributing to increased incidence of obesity in children include:> Hereditary factors> Eating high fat foods> Eating junk foods and more of processed foods> Eating as a distraction during other activities such as watching TV, or while doing the homework> Increased inactivity due to watching TV, using the internet, or playing video games> Not involving in any kind of physical activity or active sports> Certain congenital and acquired syndromes such as congenital leptin deficiency, Bardet-Biedl syndrome, MOMO syndrome, Prader-Willi syndrome, Cushing syndrome, hypothyroidism, etc."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "7",
+            "QuestionText": "What is the mechanism underlying fat accumulation in body?",
+            "AnswerText": "After we eat, food is broken down to release glucose which is absorbed into the bloodstream and supplied to all parts of the body. Glucose from the blood moves into the cells where they use it to make energy. Excess glucose is stored in the form of glycogen, another form of sugar, in liver or muscle cells. Body can only store glycogen in small quantities. Once the glycogen stores are full, any extra glucose is stored in cells as fat in the adipose tissue, a type of connective tissue. Adipose tissue is present underneath the skin (subcutaneous fat) and also around internal organs (called visceral fat). It is also found in the bone marrow and breasts. While subcutaneous fat is helpful in protecting us from thermal changes, the visceral fat helps protect the internal organs. As the intake of food increases, the levels of glucose increase, in turn increasing the amount of fat accumulation in the body.The accumulation of fat is also influenced by hormones produced by the adipose tissue that include leptin, resistin, and estradiol. These influence the appetite of the person and the feeling of hunger, thereby increasing the accumulation of fat in the body. Stress is another factor that influences obesity."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionId": "8",
+            "QuestionText": "Are any brain chemicals involved in obesity?",
+            "AnswerText": "A chemical in the brain that is responsible for long term memory is also considered responsible for controlling the appetite. This chemical is known as Brain Derived Neurotrophic Factor (BDNF) and is released by the region called hypothalamus in the brain. BDNF, along with the hormone leptin, regulates the feeling of hunger and appetite, which in turn influence obesity."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "1",
+            "QuestionText": "What causes obesity?",
+            "AnswerText": "There are many factors that contribute to a person becoming obese, the major factors being unhealthy eating habits and sedentary lifestyle. These are the major factors that seem to be affecting the modern world, with more and more people turning obese.However, obesity can also be due to hereditary factors, some other medical problems such as hypothyroidism and Cushing's disease, intake of certain medications that cause people to put on weight, for example insulin, antipsychotics, antidepressants, steroids, etc. Some psychiatric problems such as depression and eating disorders also contribute to a person becoming obese. Obesity has also been attributed to certain environmental factors that cause disturbances in fat metabolism. Ageing is another factor that contributes to obesity. Reduced metabolic rate and decreased physical activity during ageing increases fat accumulation in the body, leading to obesity."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "2",
+            "QuestionText": "How do unhealthy eating habits contribute to obesity?",
+            "AnswerText": "Unhealthy eating habits include eating more than necessary, frequent snacking between meals, irregular times for eating food, eating high calorie foods, consumption of carbonated and sweetened drinks, eating junk and processed food, little or no daily physical activity, etc. are the most important risk factors for developing obesity.Food is necessary for meeting the energy requirements of the body. When the food consumed is in excess of the energy requirement, it is converted to glycogen which is stored in muscle and liver cells for later use. However, if the caloric intake is in excess of that which can be stored as glycogen, the extra glucose is converted into fat and stored in the adipose tissue."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "3",
+            "QuestionText": "How do sedentary lifestyles contribute to a person developing obesity?",
+            "AnswerText": "Sedentary lifestyles include lack of physical activity and exercise. Mechanizations have brought about a lot of lifestyle changes, which are mainly sedentary. Also, traveling in the modern world has become more of using vehicles and less of walking. Compounded to this are the work habits of many in the modern world where people are confined to one place, with less movement and very little exercise.Sedentary lifestyle and lack of exercise leads to lesser calorie burn. Also, the lack of exercise causes reduced muscle mass, leading to lower energy utilization. Obesity results when lesser number of calories are burnt in comparison to the amount of calories consumed in a day."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "4",
+            "QuestionText": "What are the genetic causes for obesity?",
+            "AnswerText": "There is definitely a connection between heredity and obesity. While some attribute similar lifestyle and dietary habits in the family to be a cause, disturbances in genes that help regulate appetite as well as metabolism seems to have been causes for a person to become obese. Defects in genes that control fat accumulation in the body or regulating the synthesis of hormone leptin are considered to result in obesity."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "5",
+            "QuestionText": "What other systemic conditions result in obesity directly or indirectly?",
+            "AnswerText": "Many systemic conditions have been identified to cause obesity directly or indirectly. Congenital problems such as Cohen Syndrome, Bardet-Biedl syndrome, MOMO syndrome and Prader-Willi syndrome; Cushing's syndrome; hypothyroidism; polycystic ovarian syndrome; growth hormone deficiency; etc. are said to contribute to increased body fat. Certain psychiatric disorders such as depression and eating disorders are also known to result in obesity."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "6",
+            "QuestionText": "Is there a relation between depression and obesity?",
+            "AnswerText": "People who are depressed tend to eat more in a way that has no relation to feeling hungry. They also avoid exercising, and become more sedentary. This overeating makes them obese, which in turn can cause emotional distress about their appearance. Obesity can again increase depression and the tendency to eat more, making them severely obese."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "7",
+            "QuestionText": "How are sleep and obesity connected?",
+            "AnswerText": "Getting adequate sleep is not only essential to provide rest to body but there seems to be a connection between sleep deprivation and obesity. Lack of sleep is considered to bring about a change in the levels of hormone controlling the appetite, leading to an increase in appetite. A sleep deprived person produces more quantities of the hormone ghrelin that increases appetite and reduces the level of leptin that controls or prevents appetite."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "8",
+            "QuestionText": "What medications cause obesity?",
+            "AnswerText": "Some medications have a tendency to increase fat accumulation in the body. A few examples of the medications that can lead to a person gaining weight include corticosteroids, antidepressants, antipsychotics, some anticonvulsants, insulin, steroids, beta blockers, sulfonylureas and thiazolidinediones. Even hormonal contraceptives are known to cause weight gain in women."
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "9",
+            "QuestionText": "How does smoking affect obesity?",
+            "AnswerText": "Smoking is associated with increased visceral fat accumulation, insulin resistance, metabolic syndrome, and Type 2 diabetes. Smokers have an increased waist circumference, which is related to increased amount of cortisol concentration. Nicotine from cigarettes are said to raise metabolic rates, in turn increasing fat accumulation in the body. Smokers are at risk of obesity when they quit smoking, as quitting can also improve appetite. "
+        },
+        {
+            "SectionTitle": "Causes",
+            "QuestionId": "10",
+            "QuestionText": "How is hormonal imbalance related to obesity?",
+            "AnswerText": "Many hormones influence the body weight of a person. So, hormonal imbalances can be one of the causes of obesity. An imbalance of any of the following hormones can lead to obesity:> Insulin: Insulin is a hormone that is secreted by the pancreas and helps regulate blood sugar levels in the body. An imbalance in the levels of insulin affects blood sugar levels and also the way the body stores fat. The body tends to store more of the converted food into fat if insulin levels are high and the energy formed is not being utilized. > Leptin: This is a hormone released by the adipose tissue, which regulates the feeling of hunger. Many people have resistance to leptin produced within their body, a condition called leptin resistance, which might cause increased levels of leptin in the body as the body tries to produce more leptin to compensate for reduced mechanism by the hormone, thereby affecting appetite, increasing hunger, and resulting in obesity.> Serotonin: This is another hormone that affects appetite. When serotonin levels are high, the person has the feeling of being full. When serotonin levels decrease, for example during depression, the person tends to eat more and this can lead to obesity.> Estrogen: Higher levels of estrogen can lead to weight gain. This is one of the reasons why women on hormonal contraceptives have a tendency to gain weight. Estrogen levels also increase when a woman reaches menopause. For this reason, it is common to see many women nearing menopause suffer from weight issues.> Thyroid: Hormones produced by the thyroid gland affect the body's metabolism. When thyroid hormones are deficient, metabolic rate decreases, increasing the accumulation of fat and the chances of a person becoming obese."
+        },
+        {
+            "SectionTitle": "Diagnosis",
+            "QuestionId": "1",
+            "QuestionText": "How is a person diagnosed to be obese?",
+            "AnswerText": "A person is diagnosed to be obese by using measurements such as Body Mass Index (BMI) and total body fat percentage. Determining the percentage of body fat one carries is the measure of obesity. However, it is neither easy nor practical to use the scientific tests for measuring body fat therefore, a simpler system ' BMI ' has been developed. BMI can vary depending on the activity levels of an individual and is a statistical measurement."
+        },
+        {
+            "SectionTitle": "Diagnosis",
+            "QuestionId": "2",
+            "QuestionText": "What is BMI?",
+            "AnswerText": "BMI or Body Mass Index is a screening measurement that helps identify weight problems, and is a good indicator of obesity. BMI is a measurement that is calculated using the person's height and weight. It is usually expressed in the metric system as kilograms per square meter or as pounds per square inch.BMI measurements help to categorize a person as obese or overweight. If a person has a BMI value of less than 18.5, then the person is considered underweight. A BMI value between 18.5 and 24.9 is considered to be ideal or normal weight. If the values are above 25 but below 29.9 the person is considered to be overweight. Any value above 30, the person is considered to be obese. If the values reach 45 (or above) the person is considered to be suffering from morbid obesity."
+        },
+        {
+            "SectionTitle": "Diagnosis",
+            "QuestionId": "3",
+            "QuestionText": "How is BMI calculated?",
+            "AnswerText": "BMI is calculated using the height and weight of the person. BMI measurement uses the formula of weight in kilograms divided by the square of the height in meters. BMI can also be calculated as follows:First, weight (in lbs) is multiplied with 705The result is divided by the value of height (in inches)This is followed by dividing the result once again with height (in inches)The result is the measure of BMI.In Metric units, BMI = Weight in kilograms                                          (Height in meters)2In British units, BMI = Weight in pounds x 703                                         (Height in inches)2"
+        },
+        {
+            "SectionTitle": "Diagnosis",
+            "QuestionId": "4",
+            "QuestionText": "How is body fat percentage calculated?",
+            "AnswerText": "Body fat percentage is calculated using different methods. Although this method is believed to be more accurate in helping to assess a person for obesity, BMI is more popular as it is much easier to calculate and does not need any specialized equipment or devices. Typical ranges of body fat are 14-30% in women and 6-24% in men. Any values of body fat percentage above 32% in women and 25% in men indicate obesity.Some of the methods employed to calculate body fat percentage include:1.\tAir-displacement plethysmography Using this method, the body composition is derived from its density. Body is modelled into a fat compartment and a fat-free compartment. The fat free compartment consists of protein, water, minerals, and glycogen. Higher the density, lower the body fat percentage; lesser the density, higher the body fat percentage.The body density is measured using a chamber. Volume of the chamber is measured and the volume with the person is measured. Subtracting this gives the volume of the person.Density = Mass\/VolumeDensity is converted into body fat percentage using the formula:Percentage fat = (495\/density) - 4502.  Biometric impedance analysis In this procedure the body's impedance or resistance exerted by the body to flow of current through it is noted. Two sets of electrodes are connected to the body, one to pass the current and the other to measure the current coming out of the body. The percentage of body fat is calculated using the readings for impedance. 3.\tBody average density measurementsThe average body density is obtained by dividing total mass by total volume. Using this measurement, the percentage of body fat is calculated.4.\tDual energy X-ray absorptiometryThis method uses 2 different energy X-rays to take images and compares them to give the body composition.5.\tUsing the BMIBMI is the most common technique used to measure body fat percentage. This takes into account the age and gender of a person. Body fat percentage is calculated from BMI using the formula:Body fat % = (1.51 - BMI) ? (0.70 - age) ? (3.6 - gender) + 1.4, for child and Body fat % = (1.20 - BMI) + (0.23 - age) ? (10.8 - gender) ? 5.4, for adults(Gender is 1 for male and 0 for female)6.\tSkin fold testSkin fold test is a simple method for measuring body fat. In this test a pinch of skin is precisely measured to determine the thickness of the subcutaneous fat layer which is indicative of the body fat.7.\tUltrasoundUltrasound is an accurate technique to measure subcutaneous fat thickness. Thickness is measured at multiple sites on the body and body fat percentage is calculated. Ultrasound is also useful to measure muscle thickness and intramuscular fat."
+        },
+        {
+            "SectionTitle": "Complications",
+            "QuestionId": "1",
+            "QuestionText": "What are the complications associated with obesity?",
+            "AnswerText": "Obesity is not just a cosmetic disaster; it can wreak havoc with the body and increase the risk of developing many serious chronic conditions. There are many health risks associated with obesity such as:> Excess of fat accumulation in the body reduces uptake of glucose into the cells, increasing its concentration in blood. Excessive glucose in blood reduces the effectiveness of insulin, thus leading to Type 2 diabetes> Obesity, abdominal obesity in particular, increases the risk of cholesterol accumulation in blood vessels, the process known as atherogenesis, which often culminates heart and vascular diseases and stroke> Excessive weight due to obesity can also lead to osteoarthritis (degenerative disease of the joints) of the knee and other joints, frequent falls and fractures> Sleep apnea and breathing difficulties while sleeping are commonly observed in obese children> Obesity can also increase the risk for formation of gallbladder stones > Obesity affects children and adolescents most profoundly through loss of self esteem, social isolation, and depression> Obesity can also lead to certain types of cancers like cancers of the breast, uterus, cervix, ovaries, colon, rectum, gallbladder and prostate "
+        },
+        {
+            "SectionTitle": "Management of Obesity",
+            "QuestionId": "1",
+            "QuestionText": "How is obesity controlled?",
+            "AnswerText": "Primary management of obesity is by inducing lifestyle changes that include regulated and decreased calorie intake in a day, along with increase in physical activity. The reduced food intake coupled with exercise for about 30 minutes, five times a week will help in reducing body weight to a large extent. Increasing the amount of physical activity such as using the stairs, walking to the store, etc. causes more energy utilization and helps reduce fat storage."
+        },
+        {
+            "SectionTitle": "Management of Obesity",
+            "QuestionId": "2",
+            "QuestionText": "What are the medical options for obesity?",
+            "AnswerText": "Medical management of obesity is opted if the induced lifestyle measures do not have much effect even after prolonged efforts, and\/or obesity is increasing the chances of associated health risks. For people who are morbidly obese, medical management is the primary option for obesity which is then followed up with lifestyle changes to support the results gained after treatment. Medical management of obesity is by the use of anti-obesity medications and surgery. These methods are however not the primary management options for controlling obesity."
+        },
+        {
+            "SectionTitle": "Management of Obesity",
+            "QuestionId": "3",
+            "QuestionText": "What are the medications that are available to help control obesity?",
+            "AnswerText": "Two drugs are currently commonly prescribed to help control obesity in people who have not been able to lose weight even with prolonged diet control and regular exercise. These medications include:Sibutramine - This prescription medication works by reducing hunger pangs and increasing the feeling of a full stomach which in turn helps in reduced food intake. However, the person should have a will to avoid taking food, despite not feeling hungry, for the medication to work. The average weight loss that a person can see after intake of Sibutramine is about 5-10%. The drug is not recommended for people who are hypertensive or for patients on antidepressants.Orlistat - This is another prescription medication for obesity and is indicated for use in patients with a BMI more than 30. But, this medication needs strict diet control to help achieve weight loss. It helps by decreasing fat absorption in the intestines. Adverse effects of this medication might include incontinence and diarrhea."
+        },
+        {
+            "SectionTitle": "Management of Obesity",
+            "QuestionId": "4",
+            "QuestionText": "What are the surgical options for obesity?",
+            "AnswerText": "Surgery for obesity is performed only after all other means and methods to control obesity have failed or when the person's excessive weight has caused reduction in life expectancy or is likely to induce health issues of a very serious nature. For those with a very high BMI of more than 40 or those with a BMI between 35 and 39.9 and suffering from serious chronic conditions, weight loss surgeries or bariatric surgeries are recommended.Bariatric surgery not only helps to lose weight but also helps reduce many other health related issues such as high blood sugar, high cholesterol, heart problems induced by excess weight, and sleep apnea caused due to respiratory distress.Bariatric surgery is of two different types:> Restrictive procedure: In this type of surgery, the size of the stomach is reduced by the use of bands or staples. With the reduced size of stomach, the person will begin to feel full with lesser food consumption, which gradually results in reduced intake of food. > Restrictive procedure: In this type of surgery, the size of the stomach is reduced by the use of bands or staples. With the reduced size of stomach, the person will begin to feel full with lesser food consumption, which gradually results in reduced intake of food. "
+        },
+        {
+            "SectionTitle": "Management of Obesity",
+            "QuestionId": "5",
+            "QuestionText": "Is surgery for obesity risky?",
+            "AnswerText": "Like any other surgical procedure, bariatric surgeries carry their own risk. Some of the possible risks and complications that can develop during or after a bariatric surgery include:> Infections due to seepage of fluid through staples or the sutures that are placed at the time of the surgery> Blood clots may form in the lower extremities which can travel to the veins and block them, preventing blood flow through them> Hernia in the incision site can occur although laparoscopic methods have far reduced this possibility> Infections can occur in the area of incision, but laparoscopic methods have reduced the risk of infection> Possibility of formation of scar tissues in the intestine, causing blockage and complications> Occurrence of ulcers either in the stomach or intestine> Nutritional deficiency occurs in majority of the patients who have undergone malabsorptive bariatric surgery. Additional supplementation of nutrients is necessary to correct the deficiency.> Dehydration can occur after bariatric surgery, as liquid consumption is also reduced."
+        },
+        {
+            "SectionTitle": "Preventive measures and self care",
+            "QuestionId": "1",
+            "QuestionText": "What preventive measures can be taken to avoid becoming obese?",
+            "AnswerText": "Following a balanced diet and checking the caloric intake helps to maintain a healthy metabolism. This has to be a planned procedure and a qualified dietician should be approached to help plan the daily diet. Following the advised diet as diligently as possible is necessary to meet the energy requirements of the body and to monitor the calories consumed.Along with dietary changes, lifestyle changes are also needed to avoid gaining weight and becoming obese. Most importantly, undertaking enough physical activity so that body metabolisms are fit and fine, and to utilize the consumed food for energy requirements of the body helps reduce fat accumulation. This can be done through structured exercises or by doing household chores or by including some physical activity in the daily routine. Exercising regularly is quite important to maintain fitness and to prevent obesity. No matter how much of dieting or dietary changes are being done, one might still gain weight if it is not supported by an active exercise regimen. It is essential to have a moderate to vigorous exercise regime depending on the physical abilities. Seek help of an experienced fitness trainer to determine the exercise schedule and try to stick to it diligently."
+        },
+        {
+            "SectionTitle": "Preventive measures and self care",
+            "QuestionId": "2",
+            "QuestionText": "What preventive measures should be taken to avoid becoming obese again after losing weight?",
+            "AnswerText": "It is essential to plan long term to follow the lifestyle changes so that one will not gain back any weight that is lost. Strong determination is required to retain the present lifestyle so that it will help in keeping one fit and fine without becoming obese again.If weight loss is aided through medical means, following up with proper lifestyle changes helps to maintain the weight loss. The instructions given by the medical caregiver about dietary changes and lifestyle changes have to be followed after medical intervention. As nutritional deficiencies are common after surgical options, one has to carefully take nutritional supplements as advised by the medical caregiver."
+        },
+        {
+            "SectionTitle": "Preventive measures and self care",
+            "QuestionId": "3",
+            "QuestionText": "What are the other remedies to prevent or manage obesity?",
+            "AnswerText": "It is important to stay motivated to the goal plan in order to help prevent or manage obesity. Although it is easy to plan, it is difficult to execute any plan into action and maintain it. It is very easy to lose focus and shift from the aims and objectives of losing or maintaining the lost weight. For this reason, it is best to seek professional help or to join self-help groups that motivate one to stick to the plans of controlling weight gain."
+        },
+        {
+            "SectionTitle": "Preventive measures and self care",
+            "QuestionId": "4",
+            "QuestionText": "What are the dietary modifications recommended for obesity?",
+            "AnswerText": "Diet plays an important role in regulating and controlling weight gain. Dietary modifications are therefore very important for a person who is obese if they intend to lose weight. Some of the recommended dietary modifications include:> Intake of low calorie diet with a planned diet chart that is recommended by a qualified dietician> Avoiding sweetened drinks and the consumption of alcohol> Avoiding binge eating and over-eating and reducing the number of caloric intake> Eating only planned proportions of food at the recommended times while avoiding snacking in between meals> Avoiding calorie dense foods like fried fast food, red meat, chocolates, dessert, sugary colas, processed foods and junk foods as they can be easily digested and absorbed in the body> Consumption of more whole grains and fibers as these provide optimal nutrition> Do not distract yourself by watching TV or reading while eating. Chew slowly, so that the meal will last longer."
+        },
+        {
+            "SectionTitle": "Preventive measures and self care",
+            "QuestionId": "5",
+            "QuestionText": "What exercises should I do to prevent\/manage obesity?",
+            "AnswerText": "Generally, a planned exercise regime should be in place to help obese people lose weight and also for a person who is trying to avoid becoming obese. It is very important to stick to this exercise regime to help achieve the objective of reducing obesity. Usually, 30-60 minutes exercise regimes of moderate to high intensity workouts are recommended.The person can undertake cardiovascular training like walking, jogging, running, swimming or even high intensity sport activities like badminton, tennis, etc. Many people are under the wrong belief that weight training will not help lose weight and will only help bulk up muscles. Building up or toning the muscles through weight training improves energy burn not only during exercise but also afterwards as an increased muscle mass needs more energy even in the sedentary state."
+        }
+    ]
+}

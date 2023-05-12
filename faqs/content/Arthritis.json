@@ -1,0 +1,239 @@
+{
+    "Arthritis": [
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is arthritis?",
+            "AnswerText": "Arthritis is a condition that results in symptoms like pain, stiffness, and swelling of one or more joints with\/without limitation of movement. Though the word ‘arthritis’ literally means inflammation of a joint, arthritis includes more than 100 diseases, some of which may not be directly associated with inflammation."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "Is arthralgia the same as arthritis?",
+            "AnswerText": "Arthralgia refers to joint pain, which is often a symptom of arthritis."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "How common is arthritis?",
+            "AnswerText": "Arthritis is a very common condition affecting over 350 million people all over the world including men, women and children."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "How is the joint affected in arthritis?",
+            "AnswerText": "A joint is the part between two bones that permits movement of one bone on the other. The bones are held in place at the joint by ligaments. The joint is surrounded by a capsule. The surface of each bone at the joint is covered with cartilage and lined by a thin tissue called the synovium. A fluid called the synovial fluid bathes the joint. In arthritis, the smooth movement of one bone on the other is affected. This could be due to a number of reasons like erosion of cartilage or bone, lack of synovial fluid, or formation of spurs on the bony surfaces."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What are the types of arthritis?",
+            "AnswerText": "There are more than 100 types of arthritis. These include:• Arthritis due to wear and tear of joints like osteoarthritis• Arthritis due to autoimmune conditions like rheumatoid arthritis and systemic lupus erythematosus• Arthritis due to abnormal metabolism like gout and pseudogout• Arthritis due to infections like Lyme disease, gonorrhoea and tuberculosis"
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "Which is the most common type of arthritis?",
+            "AnswerText": "The most common type of arthritis is osteoarthritis. Osteoarthritis is characterized by degeneration of cartilage at the joint with narrowing of joint space and growth of small bone spurs called osteophytes at the margins. Inflammation of the joint is usually absent in this type of arthritis. Osteoarthritic changes in weight-bearing joints are observed in 90% individuals over the age of 40 years, though not all may suffer from symptoms."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is secondary osteoarthritis?",
+            "AnswerText": "Osteoarthritis that occurs in a previously damaged joint is called secondary osteoarthritis. The damage may have occurred due to prior injury or a disease like rheumatoid arthritis, hyperparathyroidism or other conditions."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is rheumatoid arthritis?",
+            "AnswerText": "Rheumatoid arthritis is an inflammatory type of arthritis that causes inflammation of the synovium. It is more common in women. It affects multiple joints symmetrically in the body especially the small joints of the hands and feet. If left untreated, rheumatoid arthritis can cause joint destruction and disability."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is gouty arthritis due to?",
+            "AnswerText": "Gout is a condition where the uric acid levels in the blood are high. Gout may be primary or secondary. Primary gout is usually hereditary. Secondary gout occurs due to certain medications, or conditions like myeloproliferative diseases, multiple myeloma, kidney disease, psoriasis and sarcoidosis. Arthritis occurs in gout due to deposition of uric acid crystals in the joints. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "How does tuberculosis affect a joint?",
+            "AnswerText": "Tuberculosis arthritis is a relatively rare condition with the available treatment for tuberculosis. The Mycobacterium tuberculosis bacteria travel through the blood from organs like the lungs to the joints. Tuberculosis arthritis usually affects a single weight-bearing joint and can result in abscess formation and joint destruction. In some cases of active lung tuberculosis, the bacteria may be absent in the joints but the patient may suffer a form of reactive arthritis in multiple joints. This type of arthritis is called Poncet’s disease."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is reactive arthritis?",
+            "AnswerText": "Reactive arthritis, formerly called Reiter’s syndrome, is a type of arthritis that often follows an attack of dysentery or a sexually transmitted disease like chlamydia. It occurs due to a reaction of the immune system against the infection, and is accompanied by other features like conjunctivitis (inflammation of the lining of the eye), urethritis (inflammation of the urethra) and mouth ulcers. It is more common in young men than in women and in those with a gene called HLA-B27. Bacteria are usually absent within the joints in reactive arthritis. "
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is juvenile idiopathic arthritis?",
+            "AnswerText": "Juvenile idiopathic arthritis is a term used to describe arthritis in children. It includes several types of arthritis that occur due to no apparent cause in children less than or equal to16 years of age and last for more than 6 weeks. Juvenile arthritis may result in joint pain, deformity and growth impairment in children."
+        },
+        {
+            "SectionTitle": "Introduction",
+            "QuestionText": "What is psoriatic arthritis?",
+            "AnswerText": "Psoriasis is an autoimmune disease that usually causes large plaques on the skin. It also sometimes affects the joints, resulting in psoriatic arthritis. Psoriatic arthritis manifests in a number of ways. It is usually asymmetric with sausage-shaped deformities of the fingers and toes. It may appear like rheumatoid arthritis in some cases. It may also affect the sacroiliac joint. "
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "What are the symptoms of arthritis in general?",
+            "AnswerText": "Symptoms of arthritis vary according to the type of arthritis. Common symptoms of arthritis include pain, stiffness and limitation of movement of the affected joints. The joints may show redness, tenderness, swelling and\/or warmth. Symptoms may disappear or show repeated flare ups. In later stages, the joints may be deformed."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "Which types of arthritis usually affect single joints?",
+            "AnswerText": "Conditions like gout, trauma, infection and osteoarthritis usually affect single joints."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "Which conditions affect multiple joints?",
+            "AnswerText": "Conditions like reactive arthritis, psoriatic arthritis and inflammatory bowel disease affect 2 to 4 joints, whereas conditions like rheumatoid arthritis and systemic lupus erythematosus (SLE) affect more than 4 joints."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "What are the symptoms of osteoarthritis?",
+            "AnswerText": "A patient of osteoarthritis suffers from stiffness of joints for usually less than 15 minutes. This later develops into pain with movement which gets worse with activity, thus resulting in limitation of motion. The pain is relieved with rest. Small bony enlargements called Heberden nodes and Bouchard nodes may be observed in the joints of the fingers. Crepitus or a crackling sensation may be felt over the knee joint."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "What are the symptoms of rheumatoid arthritis?",
+            "AnswerText": "Rheumatoid arthritis causes symmetrical swelling of multiple joints with pain. Stiffness of the joints in the morning is present. Rheumatoid arthritis usually affects the joints of the fingers, wrists, ankles, knees and toes. Joints of the neck may also be involved. Other features include subcutaneous nodules, dryness of mucus membranes, and inflammation of the eye, lung and other soft tissues."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "What are the symptoms of gouty arthritis?",
+            "AnswerText": "Gout usually affects the big toe, though other joints may also be involved. The pain is sudden in onset and usually occurs at night. The affected joint is swollen, tender and the skin overlying the joint becomes dusky red, tense and warm. Fever may be present. In the long run, gout may cause joint deformities."
+        },
+        {
+            "SectionTitle": "Symptoms",
+            "QuestionText": "What are the symptoms of psoriatic arthritis?",
+            "AnswerText": "Psoriatic arthritis usually affects the joints asymmetrically. It causes morning stiffness, pain and swelling in one or more joints like the wrists, knees, ankles, and joints at end of fingers and toes. It could result in deformities called sausage deformities of the digits. Nail changes may be observed. The skin changes are usually obvious in a case of psoriasis. "
+        },
+        {
+            "SectionTitle": "Causes and risk factors",
+            "QuestionText": "What are the risk factors for arthritis in general?",
+            "AnswerText": "Risk factors for arthritis include:1. Age: The chances of developing arthritis usually increase with age2. Sex: Most types of arthritis are more common in women as compared to men3. Genetic: Some people are genetically predisposed to developing certain types of arthritis4. Excess weight: Excess weight can increase the stress on the knees and ankles resulting in osteoarthritis5. Infections: Infections like Lyme disease, gonorrhoea and tuberculosis can affect joints and result in arthritis6. Occupation: Occupations that put excessive and repeated stress on certain joints can cause osteoarthritis."
+        },
+        {
+            "SectionTitle": "Causes and risk factors",
+            "QuestionText": "What are the risk factors for osteoarthritis?",
+            "AnswerText": "Obesity tends to put excessive stress on weight-bearing joints like the knee and the hip, resulting in osteoarthritis. In addition, contact sports like football which can cause injury, prolonged physical activity that increase wear and tear like marathon running, and jobs requiring repeated bending and carrying heavy objects increase the risk for developing osteoarthritis."
+        },
+        {
+            "SectionTitle": "Causes and risk factors",
+            "QuestionText": "Does physical activity increase the chances of suffering from arthritis?",
+            "AnswerText": "Moderate physical activity does not lead to arthritis by itself. However, if physical activity results in repeated injury such as in footballers, it may lead to arthritis. Also, osteoarthritis could occur due to joint overuse as in long-distance runners."
+        },
+        {
+            "SectionTitle": "Causes and risk factors",
+            "QuestionText": "Does weather affect arthritis?",
+            "AnswerText": "Symptoms like joint stiffness and pain may worsen under certain weather conditions in some individuals."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "How is arthritis diagnosed?",
+            "AnswerText": "The type of arthritis is often diagnosed based on clinical features. Hence, a good history to understand the pattern of joint involvement should be elicited from the patient. This should be followed by a complete physical examination. Associated features like skin plaques in psoriasis, and conjunctivitis and urethritis in reactive arthritis should be looked for to help to arrive at a diagnosis. Following history and physical examination, the doctor may advise the patient to undergo certain tests to confirm the diagnosis and understand the extent of the disease. These include blood tests, imaging tests and tests on joint fluid."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "How is the presence of morning sickness useful in the diagnosis of arthritis?",
+            "AnswerText": "Morning stiffness of a prolonged duration of 45 minutes or more may indicate rheumatoid arthritis or lupus. The reduction in stiffness following treatment indicates response to treatment. Stiffness or pain due to osteoarthritis usually improves within 30 minutes but may get worse later during the day with repeated use of the affected joints."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "Which blood tests used to diagnose arthritis?",
+            "AnswerText": "Blood tests used to diagnose arthritis include general tests and specialized tests. General tests include complete blood counts and chemistry panels. Changes in complete blood count may indicate the presence of inflammation or infection. A chemistry panel may include measurement of uric acid level to check for the presence of gout, and kidney functions to check if the kidneys are affected by the disease or to monitor any side effect of arthritis medication. Specialized blood tests include measurement of erythrocyte sedimentation rate (ESR), complement and C-reactive protein to check for the presence of inflammation; measurement of levels of rheumatoid factor and anti-CCP antibody to detect rheumatoid arthritis; antinuclear antibody test, lupus erythematosus test, anti-DNA and anti-Sm to diagnose SLE, and HLA B27 typing to study genetic predisposition to certain types of arthritis. The specialized tests are usually ordered depending on the type of arthritis suspected."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "Is rheumatoid factor positive in all patients with rheumatoid arthritis?",
+            "AnswerText": "No. Tests for rheumatoid factor are positive in nearly 80% of patients with rheumatoid arthritis, but may be negative in the remaining 20%. Rheumatoid factor may also be absent in the initial stages of rheumatoid arthritis. On the other hand, it may be positive in conditions other than rheumatoid arthritis, though the levels may be lower in these cases."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "Is there any other blood test more specific for rheumatoid arthritis?",
+            "AnswerText": "The anti-cyclic citrullinated peptide antibody test (anti-CCP) is a more specific test for rheumatoid arthritis than rheumatoid factor. It may be ordered if rheumatoid arthritis is suspected."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "Why is HLA-B27 typing required in arthritis?",
+            "AnswerText": "HLA-B27 is a genetic marker that is positive in some types of arthritis like reactive arthritis and ankylosing spondylitis, and may help in the diagnosis of these conditions."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "Which imaging tests are used to diagnose arthritis?",
+            "AnswerText": "Imaging tests help to diagnose conditions like loss of bone, damage to bone or cartilage, or inflammation or swelling in the joint. Imaging tests to diagnose arthritis usually include x-rays of the joints and surrounding tissues. Other tests that may be ordered depending on the individual case are MRI and ultrasound of the joint."
+        },
+        {
+            "SectionTitle": "Tests and Diagnosis",
+            "QuestionText": "What is arthrocentesis?",
+            "AnswerText": "Arthrocentesis is a procedure where a small amount of fluid is aspirated with a needle from a joint and subjected to tests to diagnose the cause of arthritis. Arthritis due to conditions like gout and infections can be identified using arthrocentesis."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "How is arthritis treated?",
+            "AnswerText": "Treatment of arthritis depends on the type of arthritis and the severity of the condition. The aim of the treatment is to relieve pain and discomfort and to minimize deformity and disability. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What are the medications used to treat arthritis?",
+            "AnswerText": "Arthritis is usually treated with non-steroidal anti-inflammatory drugs, which may be administered orally, topically or via injection. Topical use of capsaicin cream may also help to relieve the pain. Other drugs may be administered depending on the type of arthritis. For example, injections of corticosteroids or sodium hyaluronate may be administered into the joint. Disease-modifying antirheumatic drugs and biological agents may be used to treat rheumatoid arthritis. Drugs that reduce uric acid levels are used to treat gouty arthritis. Chondroitin sulphate and glucosamine may be used to regenerate the cartilage. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What are disease-modifying antirheumatic drugs?",
+            "AnswerText": "Disease-modifying antirheumatic drugs (DMARDs) are drugs used to treat some forms of arthritis like rheumatoid arthritis. They suppress disease activity and prevent deformity. DMARDs may be synthetic drugs like methotrexate, sulfasalazine, leflunomide, hydroxychloroquine and minocycline, or may be biological agents like tumor necrosis factor inhibitors, abatacept, rituximab and tocilizumab."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What are the biological treatments for arthritis?",
+            "AnswerText": "Biological treatments are treatments that stimulate or restore the ability of the body’s immune system to fight against disease or infection. Various biological agents approved for the treatment of rheumatoid arthritis include tumor necrosis factor inhibitors, abatacept, rituximab and tocilizumab."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "How do tumor necrosis factor inhibitors act in rheumatoid arthritis?",
+            "AnswerText": "Tumor necrosis factor inhibitors act by blocking the action of tumor necrosis factor, a mediator of inflammation implicated in causing rheumatoid arthritis. Currently, five drugs from this class are approved for use, etanercept, infliximab, adalimumab, golimumab and certolizumab pegol."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Are there any specific medications to treat gouty arthritis?",
+            "AnswerText": "An acute attack of gout is treated with NSAIDs and corticosteroids. Drugs that are be used to prevent attacks of gouty arthritis include colchicine which acts as an anti-inflammatory, probenecid and sulfinpyrazone which bring about increased excretion of uric acid by the kidney, and allopurinol and febuxostat which decrease production of uric acid by the body. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Is surgery necessary for arthritis?",
+            "AnswerText": "Surgery is advised for people with arthritis with intolerable pain or inability to perform simple activities of daily living. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What is joint replacement surgery?",
+            "AnswerText": "A joint replacement surgery is an operative procedure where a damaged joint is partly or completely removed and replaced with a prosthetic joint. Since the prosthetic joint may last for a maximum of 10 to 15 years, it is likely that the patient may require a repeat procedure if it is done in very young individuals."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Should a person with arthritis exercise regularly?",
+            "AnswerText": "Regular physical activity that is moderate in intensity like walking, swimming or bicycling is recommended for people with arthritis for at least 30 minutes a day for 5 days a week. Exercise helps an arthritis patient in multiple ways. It relieves pain and stiffness of joints, gives more energy, reduces weight, lifts up the mood and makes the person feel more positive. Exercise may need to be restricted during flare-ups."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What are the non-pharmacological treatments used to treat arthritis?",
+            "AnswerText": "Weight reduction is advised to reduce excessive stress on joints like knees and ankles. Activities that increase stress on the joints may need to be restricted. The patient may have to undergo physical and occupational therapy to maintain function of the joint. Splints or joint assistive aids may be required in some cases. "
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Are alternative treatments effective in arthritis?",
+            "AnswerText": "A number of alternative treatments are tried out by people with arthritis. These sometimes help to relieve the pain, though they have not been evaluated in large studies for the treatment of arthritis."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Should diet be restricted in people with arthritis?",
+            "AnswerText": "Diet restriction can help some people with arthritis. For example, people with gout should avoid foods that increase the level of uric acid in the blood like red meats, shellfish and lobster, and alcohol. Though there are no specific recommendations regarding diet restrictions in other types of arthritis, patients are advised to identify and avoid foods that tend to worsen the arthritis symptoms in them."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "Can a person get completely cured of arthritis?",
+            "AnswerText": "Though there is no complete cure for arthritis, some people may experience a remission, with complete relief of symptoms like joint pain, swelling, and fatigue. However, most of the patients will have to continue to take their medications to maintain the remission."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "What is the prognosis of rheumatoid arthritis?",
+            "AnswerText": "Most patients with rheumatoid arthritis suffer from a chronic, progressive disease that requires long-term treatment. Some people suffer from intermittent symptoms, which appear as flares. Around 10 to 20% patients may not suffer for symptoms for many years after the initial attack; this situation is referred to as prolonged remission."
+        },
+        {
+            "SectionTitle": "Management",
+            "QuestionText": "How can arthritis be prevented?",
+            "AnswerText": "Various measures can be taken to prevent arthritis. For example, weight reduction, and protecting joints from injuries and overuse can prevent osteoarthritis. Regular treatment of gout with medications and diet control can prevent gouty arthritis."
+        }
+    ]
+}

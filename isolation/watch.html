@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+   <!-- Required meta tags -->
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Human Anatomy</title>
+   <!-- Favicon -->
+   <link rel="shortcut icon" href="images/favicon.webp" />
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="css/bootstrap.min.css" />
+   <!-- Typography CSS -->
+   <link rel="stylesheet" href="css/typography.css">
+   <!-- Style -->
+   <link rel="stylesheet" href="css/style.css" />
+   <!-- Responsive -->
+   <link rel="stylesheet" href="css/responsive.css" />
+   <!-- ----------player ----------  -->
+   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CDNSFree2/Plyr/plyr.css" /> -->
+   <link rel="stylesheet" href="https://cdn.plyr.io/3.7.3/plyr.css" />
+   <style>
+      .plyr__video-embed {
+         --plyr-color-main: #ff0000;
+         --plyr-video-control-color: #ffffff;
+         --plyr-tab-focus-color: #0ccc5c;
+         --plyr-badge-background: #9826ac !important;
+         --plyr-captions-background: #00000069;
+         --plyr-control-icon-size: 22px;
+         --plyr-captions-text-color: #ffffff;
+         --plyr-font-size-xlarge: 25px;
+         margin: auto;
+         width: 86%;
+
+      }
+   </style>
+   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.7/plyr.min.js"></script> -->
+   <!-- <script src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script> -->
+   <script src="https://cdn.plyr.io/3.7.3/plyr.js"></script>
+
+</head>
+
+ <body>
+   <!-- <div id="loading">
+      <div id="loading-center">
+      </div>
+   </div> -->
+   <!-- Video Start -->
+   <div class="height-100-vh iq-main-slider">
+      <!-- <video class="video d-block" style="width:100%; height:100%;" controls>
+         <source src="video/trailer.mp4" type="video/mp4">
+      </video> -->
+      <div class="plyr__video-embed  video d-block">
+         <video controls data-poster="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-HD.webp" width="1280"
+            height="650" class="player">
+            <source src="Bipolar Disorder.mp4" type="video/mp4" size="576">
+            <source src="Bipolar Disorder.mp4" type="video/mp4" size="720">
+            <source src="Bipolar Disorder.mp4" type="video/mp4" size="1080">
+            <track kind="captions" label="English" srclang="en" src="Bipolar Disorder.vtt" default />
+            <track kind="captions" label="Français" srclang="fr" src="Bipolar Disorder.vtt" />
+         </video>
+      </div>
+   </div>
+
+
+   <script>
+      var controls = ['play-large', 'restart', 'rewind', 'play', 'fast-forward', 'progress', 'current-time', 'duration', 'mute', 'volume', 'captions',
+         'settings', 'pip', 'airplay', 'download', 'fullscreen'];
+      const player = new Plyr('.player', { controls, captions: { active: true } });
+   </script>
+   <!-- Vdeo End -->
+   <!-- jQuery, Popper JS -->
+   <script src="js/jquery-3.5.1.min.js"></script>
+   <script src="js/popper.min.js"></script>
+   <!-- Bootstrap JS -->
+   <script src="js/bootstrap.min.js"></script>
+   <!-- owl carousel Js -->
+   <script src="js/owl.carousel.min.js"></script>
+   <!-- select2 Js -->
+   <script src="js/select2.min.js"></script>
+   <!-- Magnific Popup-->
+   <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- Custom JS-->
+      <script src="./js/custom.js"></script>
+      <script src="./js/mycustom.js"></script>
+   
+   <script src="./js/custom.js"></script>
+      <script src="./js/mycustom.js"></script>
+ 
+     <script src="https://kit.fontawesome.com/a7d3f41661.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

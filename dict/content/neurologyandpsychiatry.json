@@ -1,0 +1,484 @@
+{
+    "neurologyandpsychiatry": [
+        {
+            "WID": "1",
+            "WTitle": "ADHD",
+            "WDescription": "Attention deficit hyperactivity disorder or ADHD is a behavioral and developmental disorder of childhood that often persists into adolescence and adulthood. ADHD has been associated with structural and functional brain differences especially in the frontal lobes, striatum and cerebellar regions.",
+            "VideoURL": "ADHD.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Adrenal glands",
+            "WDescription": "Adrenal glands or suprarenal glands are two triangular endocrine glands located one on top of each kidney.",
+            "VideoURL": "Adrenalglands.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Adrenaline",
+            "WDescription": "Adrenaline, also called epinephrine, is a hormone synthesised in the adrenal medulla within the adrenal gland and secreted in response to stress and stimulates autonomic nerve action. This hormone secretion is part of the ‘fight or flight’ reactions - quickening of heart beat, opening up of bronchioles in the lungs, etc - which a body has in response to physical or psychological stress.  ",
+            "VideoURL": "Adrenaline.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Adrenocorticotropic hormone",
+            "WDescription": "Adrenocorticotropic hormone (ACTH) is secreted by the anterior pituitary gland and stimulates the growth of the adrenal cortex and the secretion of corticosteriods by the adrenal glands. ACTH is released by the pituitary gland in short bursts, for every few hours.",
+            "VideoURL": "Adrenocorticotropic hormone.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Alzheimer's Disease",
+            "WDescription": "Alzheimer's disease (AD) is a progressive neurodegenerative disease, which results in a gradual loss of mental functions due to the deterioration of brain tissue. It is the most common cause of dementia.",
+            "VideoURL": "Alzheimer's Disease.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Amnesia",
+            "WDescription": "Amnesia is a partial or total loss of memory. Damage to the part of the brain that stores, processes and recalls memory causes amnesia, and could be the initial symptoms of some neurodegenerative diseases.",
+            "VideoURL": "Amnesia.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Auditory nerve",
+            "WDescription": "Auditory nerve is the nerve that connects the inner ear with the brain. These eighth pair of cranial nerves transmit sensory impulses concerned with hearing and balance.",
+            "VideoURL": "Auditory nerve.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Autism",
+            "WDescription": "Autism is a developmental disability caused by a neurological disorder that typically appears in the first three years of a child. Autism affects parts of the brain concerning social interaction and communication, and is characterised by difficulties in verbal and non-verbal communication and extremely limited range of activities.",
+            "VideoURL": "Autism.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Basal Ganglia",
+            "WDescription": "Basal ganglia is a region located at the base of the brain consisting of three groups of nuclei - the caudate nucleus, putamen, and the globus pallidus - and plays an important role in coordinating voluntary movement.",
+            "VideoURL": "BasalGanglia.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Bell'sPalsy",
+            "WDescription": "Bell's palsy, the most common form of facial palsy, is the paralysis of the facial nerve, the nerve that stimulates the muscles on one side of the face. ",
+            "VideoURL": "BellsPalsy.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "BeriBeri",
+            "WDescription": "Beriberi is a nutritional disorder resulting from deficiency of Thiamine (Vitamin B1). Beriberi mainly affects the heart and nervous system, characterised by fatigue, limb numbness and weakness.",
+            "VideoURL": "BeriBeri.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Bipolar disorder",
+            "WDescription": "Bipolar disorder is a mood disorder characterised by episodes of shifts in mood, energy and activity levels, with the patient experiencing periods of deep depression alternating with periods of mania or mixed episodes.",
+            "VideoURL": "Bipolar disorder.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Bradykinesia",
+            "WDescription": "Bradykinesia is a condition characterised by  the slowing of voluntary movement and speech. It is a symptom of neurological disorders, particularly Parkinson's disease, resulting from the side effects of antipsychotic medications.",
+            "VideoURL": "Bradykinesia.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Brain stem",
+            "WDescription": "Brain stem is the stem-like lower part of the brain adjoining and structurally continuous with the spinal cord. It consists of the medulla oblongata, midbrain and the pons, and controls basic body functions such as breathing, swallowing, heart rate and blood pressure.",
+            "VideoURL": "Brain stem.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Brain tumour",
+            "WDescription": "A brain tumour is an abnormal growth of cells within the brain. Primary brain tumours from uncontrolled proliferation of tissue within the brain are benign, but secondary tumours that spread to the brain from a cancer elsewhere in the body are malignant.",
+            "VideoURL": "Brain tumour.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Brain",
+            "WDescription": "Brain is the basic functional unit of the nervous system located in the cranium or skull, continuous with the spinal cord and regulates behaviour, sensory and motor functions.",
+            "VideoURL": "Brain.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Carnial nerves",
+            "WDescription": "Cranial nerves are twelve pairs of nerves that emanate directly from the brainstem. Primarily serving the sensory and motor system in the head and neck region, most cranial nerves are responsible for all the sensory stimulus in this region.",
+            "VideoURL": "Carnial nerves.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Cerebellum",
+            "WDescription": "Cerebellum, the second largest part of brain occupies just 10% of the brain volume and is located in the inferior posterior portion of the head, below the cerebrum. With more than 50% of all the neurons in the brain, cerebellum plays an important role in sensory perception, coordination and motor control.",
+            "VideoURL": "Cerebellum.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Cerebral palsy",
+            "WDescription": "Cerebral Palsy is a group of movement disorders that occurs in early childhood. Caused by damage to the brain cells before, during or shortly after birth, it affects movement, balance and posture of the body.",
+            "VideoURL": "Cerebral palsy.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Cerebrum",
+            "WDescription": "Cerebrum is the largest and most developed part of  the brain consisting of two symmetric hemispheres - left cerebral hemisphere and right cerebral hemisphere. Cerebrum controls voluntary movements and complex intellectual activities.",
+            "VideoURL": "Cerebrum.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Chorea",
+            "WDescription": "Chorea is an abnormal involuntary movement disorder caused by over-activity of the neurotransmitter dopamine, marked by involuntary, jerky movements, especially of the limbs and facial muscles.",
+            "VideoURL": "Chorea.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "CNS",
+            "WDescription": "Central nervous system (CNS) is one of the two major divisions of the nervous system, consisting of the brain in the cranial cavity and the spinal cord in the spinal cavity, both enclosed in the meninges.",
+            "VideoURL": "CNS.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Corticosteroids",
+            "WDescription": "Corticosteroid is a steroid hormone produced by the adrenal cortex that has anti-inflammatory and immune suppressing properties. Corticosteroids also play a role in carbohydrate metabolism, protein catabolism and maintaining blood electrolyte levels. Synthetic analogues of corticosteroids are administered as anti-inflammatory agents, salt and water balancing agents, etc.",
+            "VideoURL": "Corticosteroids.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Creutzfeldt - Jakob disease",
+            "WDescription": "Creutzfeldt-Jakob disease, also called spongiform encephalopathy, is a rare and fatal degenerative brain disease caused by prions. This infection is characterised by progressive mental deterioration, dementia, encephalopathy and coma. ",
+            "VideoURL": "Creutzfeldt - Jakob disease.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "CSF",
+            "WDescription": "Cerebrospinal fluid (CSF) is a clear colorless fluid that circulates through the ventricles of the brain, the spinal cord cavity and subarachnoid space, to cushion as well as nourish them. CSF is continuously released by choroid plexus and the excess fluid is absorbed into the venous system.",
+            "VideoURL": "CSF.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Deep brain Stimulation",
+            "WDescription": "Deep brain stimulation is a neurosurgical treatment involving the implantation of a brain pacemaker that sends mild electrical signals to stimulate particular parts of the brain, especially in patients with neurological disorders like Parkinson’s disease or chronic depression.",
+            "VideoURL": "DeepbrainStimulation.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Dementia",
+            "WDescription": "Dementia is a group of symptoms that suggest severe loss of mental ability to cope with normal day-to-day activities for over six months. This progressive decline of cognitive functions such as reasoning, memory, etc occurs when the neurons in the brain are damaged as a result of ageing, disease or injury to the brain. ",
+            "VideoURL": "Dementia.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Depression",
+            "WDescription": "Depression is a psychological disorder, which presents with feelings of helplessness and hopelessness, inability to experience pleasure, loss of interest, sleep disturbance, loss of appetite, weight loss, retardation or agitation, low energy levels, poor concentration or recurrent suicidal thoughts, that occur for an extended period of time.",
+            "VideoURL": "Depression.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Diabetic neuropathy",
+            "WDescription": "Diabetic neuropathy is a family of nerve disorders associated with diabetes. Hyperglycemic condition over a long period of time damages the nerves leading to symptoms such as numbness, pain or tingling.",
+            "VideoURL": "Diabetic neuropathy.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Dopamine",
+            "WDescription": "Dopamine, an important neurotransmitter essential for the normal functioning of the central nervous system, is secreted by substantia nigra and hypothalamus in the brain. Dopamine is a precursor for norepinepherine and epinepherine and is responsible for emotion, perception and movement.",
+            "VideoURL": "Dopamine.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Dura mater",
+            "WDescription": "Dura mater is the tough, outermost of the three membranes (meninges) that covers the brain and the spinal cord. Being two layered, it also lines the inner surface of the skull. Dura mater helps transport blood from the brain to the heart.",
+            "VideoURL": "Dura mater.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Dysaesthesia",
+            "WDescription": "Dysaesthesia is abnormal sensations such as numbness, tingling, burning, or pain caused by lesions in the sensory nerves in the central or peripheral nervous system",
+            "VideoURL": "Dysaesthesia.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "ElectroEncephaloGraphy (EEG)",
+            "WDescription": "Electroencephalography (EEG) is a diagnostic test that detects abnormalities related to electrical activity of the brain. Multiple electrodes are placed on the scalp to record the brain's spontaneous electrical activity over a short period of time.",
+            "VideoURL": "ElectroEncephaloGraphy EEG.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Electromyography",
+            "WDescription": "Electromyography (EMG) is a test that measures muscle response to stimulation. An electrode is used to record electrical activity generated in the muscle at rest and during contraction to diagnose muscle response to nervous stimulation.",
+            "VideoURL": "Electromyography.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Encephalitis",
+            "WDescription": "Encephalitis is an acute infection and inflammation of the brain. Usually caused by virus, encephalitis is characterised by headache, photophobia, drowsiness and nausea.",
+            "VideoURL": "Encephalitis.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Epilepsy",
+            "WDescription": "Epilepsy is a chronic neurological disorder caused by abnormal firing of electric impulses in the brain, resulting in loss of consciousness, spontaneous seizures, sensory disturbances and convulsions.",
+            "VideoURL": "Epilepsy.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Epinephrine",
+            "WDescription": "Adrenaline, also called epinephrine, is a hormone synthesised in the adrenal medulla within the adrenal gland and secreted in response to stress and stimulates autonomic nerve action. This hormone secretion is part of the ‘fight or flight’ reactions - quickening of heart beat, opening up of bronchioles in the lungs, etc - which a body has in response to physical or psychological stress.",
+            "VideoURL": "Epinephrine.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Epiphysis",
+            "WDescription": "Pineal gland, also called Pineal body or Epiphysis, is a small cone shaped endocrine gland located deep in the brain that secretes melatonin which regulates the sleep \/ wake cycle.",
+            "VideoURL": "Epiphysis.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Herpes zoster",
+            "WDescription": "Shingles or herpes zoster is an infection of the nerves supplying certain areas of the skin, caused by Varicella-zoster virus, which also causes chickenpox. After an episode of chickenpox, the virus can remain dormant in nerve cells for several years and re-emerge as shingles. Symptoms include itching, tingling, pain and rash that turns into blisters which gradually crust over leaving scars, usually on one side of the body.",
+            "VideoURL": "Herpes zoster.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Huntington's disease",
+            "WDescription": "Huntington's disease is a progressive neurodegenerative hereditary disorder characterised by deteriorating mental and physical health, depression and slurred speech. It usually occurs in middle age.",
+            "VideoURL": "Huntingtons disease.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Hypophysis",
+            "WDescription": "Pituitary gland or hypophysis, is a pea shaped endocrine gland located beneath the hypothalamus. The pituitary gland secretes hormones that control other endocrine glands, and influence growth, metabolism and maturation.",
+            "VideoURL": "Hypophysis.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Hypothalamus",
+            "WDescription": "Hypothalamus is the complex structure present in the subcortical region of the brain. \rThe hypothalamus controls the sympathetic nervous system and is responsible for vital functions \rlike regulating body temperature, sleep, blood pressure, thirst, hunger and endocrine activities.",
+            "VideoURL": "Hypothalamus.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Infantile paralysis",
+            "WDescription": "Polio or infantile paralysis is an acute and contagious viral disease affecting the central nervous system.\r Caused by poliovirus, the disease primarily affects children causing asymmetric paralysis, most often \rin the legs.",
+            "VideoURL": "Infantile paralysis.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Insomnia",
+            "WDescription": "Insomnia is the inability to get an adequate measure of quality sleep. It is characterised by inadequate sleep which might be difficulty in falling asleep or staying asleep. Insomnia can occur due to hormonal changes like decreased melatonin, medical conditions like asthma, stress, heartburn or addiction to alcohol and drugs.",
+            "VideoURL": "Insomnia.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Knee jerk reflex",
+            "WDescription": "A sudden involuntary extension or forward jerk of the lower leg resulting from a reflex contraction of the quadriceps muscle in response to a firm tap to the tendon below the kneecap. This is a common test that is a part of clinical neurological examination.",
+            "VideoURL": "Knee jerk reflex.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Lumbar puncture",
+            "WDescription": "Lumbar puncture or Spinal tap is a procedure performed to collect cerebrospinal fluid for diagnostic \rtesting, particularly for infections in the central nervous system, spinal cord tumour and cancer in the \rCNS. The spinal fluid is collected from the spinal canal using a special needle.  ",
+            "VideoURL": "Lumbar puncture.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "MedullaOblongata",
+            "WDescription": "Medulla oblongata is the lowest portion of the brainstem, continuous with the spinal cord, responsible for regulation of vital involuntary functions such as breathing and blood flow.",
+            "VideoURL": "MedullaOblongata.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Meninges",
+            "WDescription": "Meninges are very fine, tough and durable membranes that line the skull and bones of vertebral canal.",
+            "VideoURL": "Meninges.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Meningitis",
+            "WDescription": "Meningitis is inflammation of the meninges, the protective membranous covering of the central nervous system, due to bacterial or viral infection that spread into the cerebrospinal fluid, causing headache, fever, and rigidity of the neck muscles.",
+            "VideoURL": "Meningitis.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Migraine",
+            "WDescription": "Migraine is a throbbing or pulsating headache, usually on one side of the head, that is accompanied by nausea, vomiting and visual disturbances.",
+            "VideoURL": "Migraine.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Multiple sclerosis",
+            "WDescription": "Multiple sclerosis is a progressive disease of the central nervous system that is caused due to the destruction of myelin sheath or the protective layer covering the nerve fibers. Being either autoimmune or of viral origin, multiple sclerosis results in diminished or loss of signalling capabilities leading to muscular weakness, coordination problems and visual disturbances.",
+            "VideoURL": "MultipleSclerosis.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Myelin",
+            "WDescription": "Myelin is the insulating sheath that lines nerve fibers, providing a safe electrical conduit for quick and accurate signal transmission from one nerve cell to the other. Damage to the myelin covering results in the transmission of incorrect signals.",
+            "VideoURL": "Myelin.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Nerves",
+            "WDescription": "Nerves are a bundle of fibres comprising of neurons present throughout the body to conduct impulses between central nervous system and various parts of the body.",
+            "VideoURL": "Nerves.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Nervous system",
+            "WDescription": "Nervous system is a network of nerves connecting different parts of the body that activate, coordinate and control all functions of the body.  The nervous system is divided into – the central nervous system (brain and spinal cord) and the peripheral nervous system (cranial nerves and the spinal nerves).",
+            "VideoURL": "NervousSystem.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Neurons",
+            "WDescription": "Neurons are nerve cells that transmit messages between brain and body in the form of electrical impulses.",
+            "VideoURL": "Neurons.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Neuropathic pain",
+            "WDescription": "Neuropathic pain is the chronic pain caused by injury to the nerve fiber that can occur after trauma or as a result of a disease. The injury can impact and cause changes in nerve function both at the site of injury and areas around the injury.",
+            "VideoURL": "NeuropathicPain.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Nociceptors",
+            "WDescription": "Nociceptors are a network of peripheral nerves and nerve endings that initiate the sensation of pain. They are located throughout the body in the skin, internal organs, joints, muscles and tendons, and the unpleasant stimuli such as cuts; burns and pressure on the body are transmitted as electrical impulses via peripheral nerves to the spinal cord, from where they travel up to the brain. The brain interprets these messages as pain and assesses the location, intensity and danger.",
+            "VideoURL": "Nociceptors.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Obsessive compulsive disorder",
+            "WDescription": "Obsessive compulsive disorder is an anxiety disorder characterised by recurrent and persistent, \runpleasant and unwanted thoughts coupled with repetitive and ritualistic behaviour that the person \rfeels driven to perform as a result of the irrational anxiety.",
+            "VideoURL": "OCD.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Olfactory nerve",
+            "WDescription": "Olfactory nerve is the first of the cranial nerves that transmits sense of smell to the brain.",
+            "VideoURL": "Olfactory nerve.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Paralysis",
+            "WDescription": "Paralysis refers to partial or complete loss of the ability to move a body part as a result of damage to its nerve supply. There may be a loss of sensation in affected areas.",
+            "VideoURL": "Paralysis.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Parkinson's Disease",
+            "WDescription": "Parkinson's disease is a progressive neurological disorder characterised by tremor, debilitated muscular coordination, weakness and posture instability. Parkinson's disease is caused due to degeneration of dopamine cells in movement-control centers of the brain. ",
+            "VideoURL": "ParkinsonsDisease.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Peripheral neuropathy",
+            "WDescription": "Pain originating from a damaged nerve or nervous system is called Neuropathic pain. The pain is often severe and is described as burning. It is a disease of the peripheral nervous system. Peripheral neuropathy affects the peripheral nervous system including nerves in the face, arms, legs, torso, and some nerves in the skull. ",
+            "VideoURL": "Peripheral neuropathy.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Pineal gland",
+            "WDescription": "Pineal gland, also called Pineal body or Epiphysis, is a small cone shaped endocrine gland located deep in the brain that secretes melatonin which regulates the sleep \/ wake cycle.",
+            "VideoURL": "PinealGland.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Pituitary gland",
+            "WDescription": "Pituitary gland or hypophysis, is a pea shaped endocrine gland located beneath the hypothalamus. The pituitary gland secretes hormones that control other endocrine glands, and influence growth, metabolism and maturation.",
+            "VideoURL": "Pituitary gland.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Polio",
+            "WDescription": "Polio or infantile paralysis is an acute and contagious viral disease affecting the central nervous system. Caused by poliovirus, the disease primarily affects children causing asymmetric paralysis, most often in the legs.",
+            "VideoURL": "Polio.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Schizophrenia",
+            "WDescription": "Schizophrenia is a mental disorder characterised by delusions, hallucinations, disorganised speech, \rbehaviour and general loss of emotions about things that were of interest earlier, as a result of \rdistortions in the perception or expression of reality.",
+            "VideoURL": "Schizophrenia.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Seizure",
+            "WDescription": "Seizure is a sudden and uncontrolled electrical activity in the brain causing involuntary muscle movements, convulsions and altered consciousness.",
+            "VideoURL": "Seizure.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Selective Dorsal Rhizotomy",
+            "WDescription": "Selective Dorsal Rhizotomy is a surgical procedure to alleviate spasticity in lower extremities and involves ablation (cutting) of posterior spinal nerve roots between the nerves L2 and S1 or S2",
+            "VideoURL": "Selective Dorsal Rhizotomy.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Shingles",
+            "WDescription": "Shingles or herpes zoster is an infection of the nerves supplying certain areas of the skin, caused by Varicella-zoster virus, which also causes chickenpox. After an episode of chickenpox, the virus can remain dormant in nerve cells for several years and re-emerge as shingles. Symptoms include itching, tingling, pain and rash that turns into blisters which gradually crust over leaving scars, usually on one side of the body.",
+            "VideoURL": "Shingles.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Spasticity",
+            "WDescription": "Spasticity refers to an abnormal, involuntary and velocity-dependent rise in muscle tone that does not coordinate with other muscles. It is a complex motor disorder caused due to damage or injury to a part of the brain or spinal cord that controls muscle movements. ",
+            "VideoURL": "Spasticity.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Spinal cord",
+            "WDescription": "Spinal cord is the long, thick bundle of nerve tissues that extend down through the vertebral column from the brain. Its primary function is to conduct sensory and motor nerve impulses between the brain and the rest of the body through pairs of spinal nerves that emerge from it. The spinal cord can also independently control numerous reflexes.",
+            "VideoURL": "Spinal cord.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Spinal stimulator",
+            "WDescription": "Spinal stimulator is an implanted device which generates electric impulses to block chronic neurological pains. It consists of leads and pulse generator, which are implanted into the epidural space of the spinal cord and the abdomen or buttock, respectively.",
+            "VideoURL": "Spinal stimulator.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Spinal tap",
+            "WDescription": "Spinal tap or lumbar puncture is a procedure performed to collect cerebrospinal fluid for diagnostic testing, particularly for infections in the central nervous system, spinal cord tumour and cancer in the CNS. The spinal fluid is collected from the spinal canal using a special needle. ",
+            "VideoURL": "Spinal tap.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Stroke",
+            "WDescription": "Stroke is the sudden death of some brain cells that occurs due to lack of oxygen when blood flow is impaired as a result of a blockage or rupture in a blood vessel to the brain.",
+            "VideoURL": "Stroke.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Synapse",
+            "WDescription": "Synapse is a specialized junction between two neurons across which nerve impulses travel with the help of chemicals known as neurotransmitters that diffuse across the junction",
+            "VideoURL": "Synapse.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Tetanus",
+            "WDescription": "Tetanus, commonly called lockjaw, is a fatal disease affecting the central nervous system. Tetanus is caused by a toxin ( tetanospasmin) produced by the bacterium Clostridium tetani  that typically infects the body through a deep wound. The toxin affects the nerves controlling muscle activity especially those of the neck and jaw, and the symptoms associated with it include jaw or neck stiffness and difficulty in swallowing.",
+            "VideoURL": "Tetanus.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Thalamus",
+            "WDescription": "Thalamus is one of a pair of large, ovoid organs, centrally located in the posterior fore brain – one beneath each cerebral hemisphere. All incoming sensory impulses, except some of those concerned with smell, are routed through the thalami which transmit them to the cerebral cortex for interpretation.",
+            "VideoURL": "Thalamus.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Trigeminal Nerve",
+            "WDescription": "Trigeminal nerve is the fifth and the largest cranial nerve that arises from the brainstem and extends to the forehead, eye, lower face and cheeks. It is the chief sensory nerve for the face having sensory functions like pain, touch and temperature as well as a motor nerve for controlling the muscles of mastication.",
+            "VideoURL": "Trigeminal Nerve.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Xenophonia",
+            "WDescription": "Xenophonia is a speech defect characterised by an alteration in accent and intonation or the quality of voice.",
+            "VideoURL": "Xenophonia.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Zygon",
+            "WDescription": "Zygon is a short cross-bar or stem that connects the two branches of a zygal fissure, the fissures on the cerebral cortex.",
+            "VideoURL": "Zygon.mp4"
+        }
+    ]
+}
