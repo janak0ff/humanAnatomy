@@ -448,17 +448,27 @@
 													// Create the answer div with the image
 													const answerDiv = document.createElement('div');
 													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = `
+				answerDiv.innerHTML = `
 				        <h1 style="overflow: auto;">
 				            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
 				                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
 				                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
 				                </span>
 				            </div>
-				            <a href="${question.VideoUrl}" class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+				            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
 				            ${question.AnswerText}
 				        </h1>
 				    `;
+
+									// Add and remove href attribute by event listener to video link
+									const videoPlayButton = answerDiv.querySelector('.VideoURL');
+									videoPlayButton.addEventListener('click', function () {
+										videoPlayButton.setAttribute('href', question.VideoUrl);
+										setTimeout(function () {
+											videoPlayButton.removeAttribute('href', question.VideoUrl);
+										}, 1000);
+									});
+
 													// Add an event listener to the image span element that calls the lightGallery function
 													const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
 													const imageSpan = answerDiv.querySelector(`span[data-src="${question.ImageUrl}"]`);
@@ -499,10 +509,19 @@
 													answerDiv.classList.add('AnswerText');
 													answerDiv.innerHTML = `
 				        <h1 style="overflow: auto;">
-				              <a href="${question.VideoUrl}" class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+				              <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
 				            ${question.AnswerText}
 				        </h1>
 				    `;
+
+					// Add and remove href attribute by event listener to video link
+					const videoPlayButton = answerDiv.querySelector('.VideoURL');
+									videoPlayButton.addEventListener('click', function () {
+										videoPlayButton.setAttribute('href', question.VideoUrl);
+										setTimeout(function () {
+											videoPlayButton.removeAttribute('href', question.VideoUrl);
+										}, 1500);
+									});
 													// Append the button and answer div to the accordion item
 													accordionItem.appendChild(button);
 													accordionItem.appendChild(answerDiv);
