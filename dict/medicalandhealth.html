@@ -394,7 +394,15 @@
 									// Create video link
 									const videoLink = document.createElement('a');
 									videoLink.classList.add('video-open', 'playbtn', 'btn-hover', 'VideoURL');
-									videoLink.setAttribute('href', item.VideoURL);
+									// videoLink.setAttribute('href', item.VideoURL);
+
+								   // Add and remove href attribute by event listener to video link
+								   videoLink.addEventListener('click', function (event) {
+									  videoLink.setAttribute('href', item.VideoURL);
+									  setTimeout(() => {
+									  	 videoLink.removeAttribute('href', item.VideoURL);
+									  }, 1500);
+								   });
 
 									// Create video icon
 									const videoIcon = document.createElement('i');
