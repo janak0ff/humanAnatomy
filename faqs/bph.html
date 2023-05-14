@@ -347,265 +347,338 @@
 			</center>
 			<div id="bph-faq"></div>
 			<script>
-							// Fetch the JSON data from the server
-							fetch('content/bph.json')
-								.then(response => response.json())
-								.then(data => {
-									// Create a container for the FAQ section
-									const mainContainer = document.getElementById('bph-faq');
+									// Fetch the JSON data from the server
+				fetch('content/bph.json')
+				    .then(response => response.json())
+				    .then(data => {
+				        // Create a container for the FAQ section
+				        const mainContainer = document.getElementById('bph-faq');
 
-									// Create the div element
-									const div = document.createElement('div');
-									div.classList.add('it-tabs',);
-									div.setAttribute('data-it-tabs-options', '{"position":"top-left", "animation":"fade", "style":"underline", "size":"small", "gradient":"true", "autoHeight":"true", "deepLink":"false", "cleanContent":"false"}');
+				        // Create the div element
+				        const div = document.createElement('div');
+				        div.classList.add('it-tabs', );
+				        div.setAttribute('data-it-tabs-options', '{"position":"top-left", "animation":"fade", "style":"underline", "size":"small", "gradient":"true", "autoHeight":"true", "deepLink":"false", "cleanContent":"false"}');
 
-									// Create the ul element
-									const ul = document.createElement('ul');
-									ul.classList.add('it-nav');
+				        // Create the ul element
+				        const ul = document.createElement('ul');
+				        ul.classList.add('it-nav');
 
-									// Create the outer div element
-									const outerDiv = document.createElement('div');
-									outerDiv.classList.add('it-contents');
+				        // Create the outer div element
+				        const outerDiv = document.createElement('div');
+				        outerDiv.classList.add('it-contents');
 
-									div.appendChild(ul);
-									div.appendChild(outerDiv);
+				        div.appendChild(ul);
+				        div.appendChild(outerDiv);
 
-									// Loop through the "bph" array and create an li element for each unique SectionTitle
-									const sectionTitles = [];
-									data.bph.forEach(item => {
-										if (!sectionTitles.includes(item.SectionTitle)) {
-											sectionTitles.push(item.SectionTitle);
+				        // Loop through the "bph" array and create an li element for each unique SectionTitle
+				        const sectionTitles = [];
+				        data.bph.forEach(item => {
+				            if (!sectionTitles.includes(item.SectionTitle)) {
+				                sectionTitles.push(item.SectionTitle);
 
-											// Create the li element
-											const li = document.createElement('li');
-											li.classList.add('it-tab');
-											if (item.SectionTitle === 'Introduction') {
-												li.classList.add('it-active');
-											}
-											li.style.width = 'auto';
-											li.setAttribute('data-link', item.SectionTitle);
-											// for same icon
-											li.innerHTML = `<a><i class="fas fa-chevron-down"></i> ${item.SectionTitle}</a>`;
+				                // Create the li element
+				                const li = document.createElement('li');
+				                li.classList.add('it-tab');
+				                if (item.SectionTitle === 'Introduction') {
+				                    li.classList.add('it-active');
+				                }
+				                li.style.width = 'auto';
+				                li.setAttribute('data-link', item.SectionTitle);
+				                // for same icon
+				                li.innerHTML = `<a><i class="fas fa-chevron-down"></i> ${item.SectionTitle}</a>`;
 
-											// // Set the icon for the li element based on the SectionTitle value
-											// switch (item.SectionTitle) {
-											// 	case 'Introduction':
-											// 		li.innerHTML = `<a><i class="fas fa-question-circle"></i> ${item.SectionTitle}</a>`;
-											// 		break;
-											// 	case 'Causes':
-											// 		li.innerHTML = `<a><i class="fas fa-lightbulb"></i> ${item.SectionTitle}</a>`;
-											// 		break;
-											// 	case 'Symptoms':
-											// 		li.innerHTML = `<a><i class="fas fa-exclamation-triangle"></i> ${item.SectionTitle}</a>`;
-											// 		break;
-											// 	case 'Diagnosis':
-											// 		li.innerHTML = `<a><i class="fas fa-stethoscope"></i> ${item.SectionTitle}</a>`;
-											// 		break;
-											// 	case 'Treatment':
-											// 		li.innerHTML = `<a><i class="fas fa-notes-medical"></i> ${item.SectionTitle}</a>`;
-											// 		break;
-											// 	default:
-											// 		li.innerHTML = `<a><i class="fas fa-chevron-down"></i> ${item.SectionTitle}</a>`;
-											// }
-											ul.appendChild(li);
+				                // // Set the icon for the li element based on the SectionTitle value
+				                // switch (item.SectionTitle) {
+				                // 	case 'Introduction':
+				                // 		li.innerHTML = `<a><i class="fas fa-question-circle"></i> ${item.SectionTitle}</a>`;
+				                // 		break;
+				                // 	case 'Causes':
+				                // 		li.innerHTML = `<a><i class="fas fa-lightbulb"></i> ${item.SectionTitle}</a>`;
+				                // 		break;
+				                // 	case 'Symptoms':
+				                // 		li.innerHTML = `<a><i class="fas fa-exclamation-triangle"></i> ${item.SectionTitle}</a>`;
+				                // 		break;
+				                // 	case 'Diagnosis':
+				                // 		li.innerHTML = `<a><i class="fas fa-stethoscope"></i> ${item.SectionTitle}</a>`;
+				                // 		break;
+				                // 	case 'Treatment':
+				                // 		li.innerHTML = `<a><i class="fas fa-notes-medical"></i> ${item.SectionTitle}</a>`;
+				                // 		break;
+				                // 	default:
+				                // 		li.innerHTML = `<a><i class="fas fa-chevron-down"></i> ${item.SectionTitle}</a>`;
+				                // }
+				                ul.appendChild(li);
 
-											// Create the inner div element
-											const innerDiv = document.createElement('div');
-											innerDiv.classList.add('it-content');
-											if (item.SectionTitle === 'Introduction') {
-												innerDiv.classList.add('it-active');
-											}
-											innerDiv.setAttribute('data-content', `${item.SectionTitle}`);
+				                // Create the inner div element
+				                const innerDiv = document.createElement('div');
+				                innerDiv.classList.add('it-content');
+				                if (item.SectionTitle === 'Introduction') {
+				                    innerDiv.classList.add('it-active');
+				                }
+				                innerDiv.setAttribute('data-content', `${item.SectionTitle}`);
 
-											// Create the nested div element
-											const nestedDiv = document.createElement('div');
-											nestedDiv.classList.add('it-inner');
+				                // Create the nested div element
+				                const nestedDiv = document.createElement('div');
+				                nestedDiv.classList.add('it-inner');
 
-											// Create the container div
-											const containerDiv = document.createElement('div');
-											containerDiv.classList.add('containerfaq');
+				                // Create the container div
+				                const containerDiv = document.createElement('div');
+				                containerDiv.classList.add('containerfaq');
 
-											// Create the accordion div
-											const accordionDiv = document.createElement('div');
-											accordionDiv.classList.add('accordion');
+				                // Create the accordion div
+				                const accordionDiv = document.createElement('div');
+				                accordionDiv.classList.add('accordion');
 
-											// Loop through the questions for this SectionTitle and create an accordion item for each one
-											const sectionQuestions = data.bph.filter(q => q.SectionTitle === item.SectionTitle);
-											sectionQuestions.forEach((question, index) => {
-												// Create the accordion item
-												const accordionItem = document.createElement('div');
-												accordionItem.classList.add('accordion-item');
+				                // Loop through the questions for this SectionTitle and create an accordion item for each one
+				                const sectionQuestions = data.bph.filter(q => q.SectionTitle === item.SectionTitle);
+				                sectionQuestions.forEach((question, index) => {
+				                    // Create the accordion item
+				                    const accordionItem = document.createElement('div');
+				                    accordionItem.classList.add('accordion-item');
 
-												// Create the button element
-												const button = document.createElement('button');
-												button.setAttribute('aria-expanded', 'false');
-												button.innerHTML = `
-				    <p class="QuestionText"><span class="questionid">${index + 1}</span>${question.QuestionText}</p>
-				    <span class="iconplus" aria-hidden="true"></span>
-				`;
+				                    // Create the button element
+				                    const button = document.createElement('button');
+				                    button.setAttribute('aria-expanded', 'false');
+				                    button.innerHTML = `
+						    <p class="QuestionText"><span class="questionid">${index + 1}</span>${question.QuestionText}</p>
+						    <span class="iconplus" aria-hidden="true"></span>
+						`;
 
-												// Check if there is an image associated with the question
-												if (question.ImageUrl && question.VideoUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-				answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
-				                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
-				                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
-				                </span>
-				            </div>
-				            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
+				                    // Check if there is an image associated with the question
+				                    if (question.ImageUrl && question.VideoUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
 
-									// Add and remove href attribute by event listener to video link
-									const videoPlayButton = answerDiv.querySelector('.VideoURL');
-									videoPlayButton.addEventListener('click', function () {
-										videoPlayButton.setAttribute('href', question.VideoUrl);
-										setTimeout(function () {
-											videoPlayButton.removeAttribute('href', question.VideoUrl);
-										}, 1000);
-									});
-
-													// Add an event listener to the image span element that calls the lightGallery function
-													const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
-													const imageSpan = answerDiv.querySelector(`span[data-src="${question.ImageUrl}"]`);
-													imageSpan.addEventListener('click', function () {
-														lightGallery(document.getElementById(lightGalleryID));
-													});
-
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else if (question.ImageUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
-				                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
-				                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
-				                </span>
-				            </div>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
-													// Add an event listener to the image span element that calls the lightGallery function
-													const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
-													const imageSpan = answerDiv.querySelector(`span[data-src="${question.ImageUrl}"]`);
-													imageSpan.addEventListener('click', function () {
-														lightGallery(document.getElementById(lightGalleryID));
-													});
-
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else if (question.VideoUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				              <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
-
-					// Add and remove href attribute by event listener to video link
-					const videoPlayButton = answerDiv.querySelector('.VideoURL');
-									videoPlayButton.addEventListener('click', function () {
-										videoPlayButton.setAttribute('href', question.VideoUrl);
-										setTimeout(function () {
-											videoPlayButton.removeAttribute('href', question.VideoUrl);
-										}, 1500);
-									});
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else {
-													// Create the answer div without the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = question.AnswerText;
-
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												}
-
-												// Append the accordion item to the accordion div
-												accordionDiv.appendChild(accordionItem);
-											});
-
-											// Append the accordion div to the container div
-											containerDiv.appendChild(accordionDiv);
-
-											// Append the container div to the nested div element
-											nestedDiv.appendChild(containerDiv);
-
-											// Append the nested div element to the inner div element
-											innerDiv.appendChild(nestedDiv);
-
-											// Append the inner div element to the outer div element
-											outerDiv.appendChild(innerDiv);
-										}
-
-									});
-
-									// Add the active class to the appropriate li and div elements
-									const introTab = ul.querySelector('[data-link="Introduction"]');
-									const introContent = outerDiv.querySelector('[data-content="Introduction"]');
-									if (introTab && introContent) {
-										introTab.classList.add('it-active');
-										introContent.classList.add('it-active');
-									}
-
-									// Append the new div element to the mainContainer
-									mainContainer.appendChild(div);
-
-									$(document).ready(function () {
-
-										$('.it-tabs').ideaboxTab();
-
-										$('.prevButton').on('click', function (e) {
-											e.preventDefault();
-											$('.it-tabs').data('ideaboxTab').prev();
-										});
-
-										$('.nextButton').on('click', function (e) {
-											e.preventDefault();
-											$('.it-tabs').data('ideaboxTab').next();
-										});
-
-										$('.goToButton').on('click', function (e) {
-											e.preventDefault();
-											$('.it-tabs').data('ideaboxTab').goto(4);
-										});
-									});
+				                        if (question.ImageUrl3) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl3}" data-sub-html="<h1>${question.ImageTitle3}</h1>">
+						                    <img src="${question.ImageUrl3}" alt="${question.ImageTitle3}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else if (question.ImageUrl2) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        }
 
 
-									const items = document.querySelectorAll(".accordion button");
+				                        // Add and remove href attribute by event listener to video link
+				                        const videoPlayButton = answerDiv.querySelector('.VideoURL');
+				                        videoPlayButton.addEventListener('click', function() {
+				                            videoPlayButton.setAttribute('href', question.VideoUrl);
+				                            setTimeout(function() {
+				                                videoPlayButton.removeAttribute('href', question.VideoUrl);
+				                            }, 1000);
+				                        });
 
-									function toggleAccordion() {
-										const itemToggle = this.getAttribute('aria-expanded');
+				                        // Add an event listener to the image span element that calls the lightGallery function
+				                        const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
+				                        const imageSpan = answerDiv.querySelector(`div[id="lightgallery${question.lightgalleryImgID}"]`);
+				                        imageSpan.addEventListener('click', function() {
+				                            lightGallery(document.getElementById(lightGalleryID));
+				                        });
 
-										for (i = 0; i < items.length; i++) {
-											items[i].setAttribute('aria-expanded', 'false');
-										}
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
 
-										if (itemToggle == 'false') {
-											this.setAttribute('aria-expanded', 'true');
-										}
-									}
+				                    } else if (question.ImageUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
 
-									items.forEach(item => item.addEventListener('click', toggleAccordion));
+				                        if (question.ImageUrl3) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl3}" data-sub-html="<h1>${question.ImageTitle3}</h1>">
+						                    <img src="${question.ImageUrl3}" alt="${question.ImageTitle3}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else if (question.ImageUrl2) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        }
+										 // Add an event listener to the image span element that calls the lightGallery function
+				                        const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
+				                        const imageSpan = answerDiv.querySelector(`div[id="lightgallery${question.lightgalleryImgID}"]`);
+				                        imageSpan.addEventListener('click', function() {
+				                            lightGallery(document.getElementById(lightGalleryID));
+				                        });
 
-								})
-								.catch(error => console.error(error));
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    } else if (question.VideoUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
+				                        answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						              <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+
+				                        // Add and remove href attribute by event listener to video link
+				                        const videoPlayButton = answerDiv.querySelector('.VideoURL');
+				                        videoPlayButton.addEventListener('click', function() {
+				                            videoPlayButton.setAttribute('href', question.VideoUrl);
+				                            setTimeout(function() {
+				                                videoPlayButton.removeAttribute('href', question.VideoUrl);
+				                            }, 1500);
+				                        });
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    } else {
+				                        // Create the answer div without the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
+				                        answerDiv.innerHTML = question.AnswerText;
+
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    }
+
+
+				                    // Append the accordion item to the accordion div
+				                    accordionDiv.appendChild(accordionItem);
+				                });
+
+				                // Append the accordion div to the container div
+				                containerDiv.appendChild(accordionDiv);
+
+				                // Append the container div to the nested div element
+				                nestedDiv.appendChild(containerDiv);
+
+				                // Append the nested div element to the inner div element
+				                innerDiv.appendChild(nestedDiv);
+
+				                // Append the inner div element to the outer div element
+				                outerDiv.appendChild(innerDiv);
+				            }
+
+				        });
+
+				        // Add the active class to the appropriate li and div elements
+				        const introTab = ul.querySelector('[data-link="Introduction"]');
+				        const introContent = outerDiv.querySelector('[data-content="Introduction"]');
+				        if (introTab && introContent) {
+				            introTab.classList.add('it-active');
+				            introContent.classList.add('it-active');
+				        }
+
+				        // Append the new div element to the mainContainer
+				        mainContainer.appendChild(div);
+
+				        $(document).ready(function() {
+
+				            $('.it-tabs').ideaboxTab();
+
+				            $('.prevButton').on('click', function(e) {
+				                e.preventDefault();
+				                $('.it-tabs').data('ideaboxTab').prev();
+				            });
+
+				            $('.nextButton').on('click', function(e) {
+				                e.preventDefault();
+				                $('.it-tabs').data('ideaboxTab').next();
+				            });
+
+				            $('.goToButton').on('click', function(e) {
+				                e.preventDefault();
+				                $('.it-tabs').data('ideaboxTab').goto(4);
+				            });
+				        });
+
+
+				        const items = document.querySelectorAll(".accordion button");
+
+				        function toggleAccordion() {
+				            const itemToggle = this.getAttribute('aria-expanded');
+
+				            for (i = 0; i < items.length; i++) {
+				                items[i].setAttribute('aria-expanded', 'false');
+				            }
+
+				            if (itemToggle == 'false') {
+				                this.setAttribute('aria-expanded', 'true');
+				            }
+				        }
+
+				        items.forEach(item => item.addEventListener('click', toggleAccordion));
+
+				    })
+				    .catch(error => console.error(error));
 			</script>
 		</main>
 

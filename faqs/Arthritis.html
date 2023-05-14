@@ -443,98 +443,170 @@
 				    <span class="iconplus" aria-hidden="true"></span>
 				`;
 
-												// Check if there is an image associated with the question
-												if (question.ImageUrl && question.VideoUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-				answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
-				                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
-				                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
-				                </span>
-				            </div>
-				            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
+												  // Check if there is an image associated with the question
+				                    if (question.ImageUrl && question.VideoUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
 
-									// Add and remove href attribute by event listener to video link
-									const videoPlayButton = answerDiv.querySelector('.VideoURL');
-									videoPlayButton.addEventListener('click', function () {
-										videoPlayButton.setAttribute('href', question.VideoUrl);
-										setTimeout(function () {
-											videoPlayButton.removeAttribute('href', question.VideoUrl);
-										}, 1000);
-									});
+				                        if (question.ImageUrl3) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl3}" data-sub-html="<h1>${question.ImageTitle3}</h1>">
+						                    <img src="${question.ImageUrl3}" alt="${question.ImageTitle3}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else if (question.ImageUrl2) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						            </div>
+						            <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        }
 
-													// Add an event listener to the image span element that calls the lightGallery function
-													const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
-													const imageSpan = answerDiv.querySelector(`span[data-src="${question.ImageUrl}"]`);
-													imageSpan.addEventListener('click', function () {
-														lightGallery(document.getElementById(lightGalleryID));
-													});
 
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else if (question.ImageUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
-				                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
-				                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
-				                </span>
-				            </div>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
-													// Add an event listener to the image span element that calls the lightGallery function
-													const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
-													const imageSpan = answerDiv.querySelector(`span[data-src="${question.ImageUrl}"]`);
-													imageSpan.addEventListener('click', function () {
-														lightGallery(document.getElementById(lightGalleryID));
-													});
+				                        // Add and remove href attribute by event listener to video link
+				                        const videoPlayButton = answerDiv.querySelector('.VideoURL');
+				                        videoPlayButton.addEventListener('click', function() {
+				                            videoPlayButton.setAttribute('href', question.VideoUrl);
+				                            setTimeout(function() {
+				                                videoPlayButton.removeAttribute('href', question.VideoUrl);
+				                            }, 1000);
+				                        });
 
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else if (question.VideoUrl) {
-													// Create the answer div with the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = `
-				        <h1 style="overflow: auto;">
-				              <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
-				            ${question.AnswerText}
-				        </h1>
-				    `;
+				                        // Add an event listener to the image span element that calls the lightGallery function
+				                        const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
+				                        const imageSpan = answerDiv.querySelector(`div[id="lightgallery${question.lightgalleryImgID}"]`);
+				                        imageSpan.addEventListener('click', function() {
+				                            lightGallery(document.getElementById(lightGalleryID));
+				                        });
 
-					// Add and remove href attribute by event listener to video link
-					const videoPlayButton = answerDiv.querySelector('.VideoURL');
-									videoPlayButton.addEventListener('click', function () {
-										videoPlayButton.setAttribute('href', question.VideoUrl);
-										setTimeout(function () {
-											videoPlayButton.removeAttribute('href', question.VideoUrl);
-										}, 1500);
-									});
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												} else {
-													// Create the answer div without the image
-													const answerDiv = document.createElement('div');
-													answerDiv.classList.add('AnswerText');
-													answerDiv.innerHTML = question.AnswerText;
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
 
-													// Append the button and answer div to the accordion item
-													accordionItem.appendChild(button);
-													accordionItem.appendChild(answerDiv);
-												}
+				                    } else if (question.ImageUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
+
+				                        if (question.ImageUrl3) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl3}" data-sub-html="<h1>${question.ImageTitle3}</h1>">
+						                    <img src="${question.ImageUrl3}" alt="${question.ImageTitle3}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else if (question.ImageUrl2) {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						                <span data-src="${question.ImageUrl2}" data-sub-html="<h1>${question.ImageTitle2}</h1>">
+						                    <img src="${question.ImageUrl2}" alt="${question.ImageTitle2}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        } else {
+				                            answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						            <div title="Double click to open" style="float: left; margin-right: 10px; " id="lightgallery${question.lightgalleryImgID}">
+						                <span data-src="${question.ImageUrl}" data-sub-html="<h1>${question.ImageTitle}</h1>">
+						                    <img src="${question.ImageUrl}" alt="${question.ImageTitle}" width="180" height="180" />
+						                </span>
+						            </div>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+				                        }
+										 // Add an event listener to the image span element that calls the lightGallery function
+				                        const lightGalleryID = `lightgallery${question.lightgalleryImgID}`;
+				                        const imageSpan = answerDiv.querySelector(`div[id="lightgallery${question.lightgalleryImgID}"]`);
+				                        imageSpan.addEventListener('click', function() {
+				                            lightGallery(document.getElementById(lightGalleryID));
+				                        });
+
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    } else if (question.VideoUrl) {
+				                        // Create the answer div with the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
+				                        answerDiv.innerHTML = `
+						        <h1 style="overflow: auto;">
+						              <a class="video-open playbtn btn-hover VideoURL"><i class="ri-play-fill"></i>play video</a>
+						            ${question.AnswerText}
+						        </h1>
+						    `;
+
+				                        // Add and remove href attribute by event listener to video link
+				                        const videoPlayButton = answerDiv.querySelector('.VideoURL');
+				                        videoPlayButton.addEventListener('click', function() {
+				                            videoPlayButton.setAttribute('href', question.VideoUrl);
+				                            setTimeout(function() {
+				                                videoPlayButton.removeAttribute('href', question.VideoUrl);
+				                            }, 1500);
+				                        });
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    } else {
+				                        // Create the answer div without the image
+				                        const answerDiv = document.createElement('div');
+				                        answerDiv.classList.add('AnswerText');
+				                        answerDiv.innerHTML = question.AnswerText;
+
+				                        // Append the button and answer div to the accordion item
+				                        accordionItem.appendChild(button);
+				                        accordionItem.appendChild(answerDiv);
+				                    }
 
 												// Append the accordion item to the accordion div
 												accordionDiv.appendChild(accordionItem);

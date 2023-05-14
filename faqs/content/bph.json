@@ -27,6 +27,13 @@
         {
             "SectionTitle": "Conditions associated with prostate",
             "QuestionId": "1",
+            "lightgalleryImgID": "21ProstatitisdadsgaklldfgPNG",
+            "ImageUrl": "bph/21Benign prostatic hyperplasia (BPH).PNG",
+            "ImageTitle": "Benign prostatic hyperplasia (BPH)",
+            "ImageUrl2": "bph/21Prostatitis.PNG",
+            "ImageTitle2": "Prostatitis",
+            "ImageUrl3": "bph/21Prostate cancer.PNG",
+            "ImageTitle3": "Prostate cancer",
             "QuestionText": "What are the conditions associated with prostate?",
             "AnswerText": "Three main conditions are associated with the prostate. They are:1) Benign prostatic hyperplasia (BPH)2) Prostatitis (swelling of prostate) and 3) Prostate cancerBPH and prostate cancer are the common prostate-related disease that affects majority of the men."
         },
