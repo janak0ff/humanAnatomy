@@ -339,7 +339,8 @@
 }
 
 .it-tabs.it-tablet>.it-nav {
-    right: 0
+    right: 0;
+    border-top: 5px solid #07617d;
 }
 
 .it-tabs.it-mobile>.it-nav>.it-tab>a {
