@@ -85,6 +85,10 @@ window.addEventListener('offline', function (e) {
 }, false);
 // ============= end =====================
 
+// current year in footer
+const currentYear = new Date().getFullYear();
+const currentYearSpan = document.getElementById("current-year");
+currentYearSpan.textContent = currentYear;
 
 // ================ cookie ====================
 // if (document.cookie.indexOf('hideElements=true') === -1) {
