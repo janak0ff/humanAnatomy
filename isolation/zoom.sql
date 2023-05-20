@@ -37,17 +37,17 @@ const setLink = (id, url) => {
   const diabetes = () => setLink("diabetes", "https://short.ink/fQ47mAI5xh");
   
   // Essential Atlas of human anatomy and psychology
-  const IntroductiontoCell = () => setLink("IntroductiontoCell", "https://short.ink/23yBPOWomPSAll");
-  const circulatorysystem = () => setLink("circulatorysystem", "https://short.ink/qxYXMXz8e7iz0OW");
-  const DigestiveandExcretorysystem = () => setLink("DigestiveandExcretorysystem", "https://short.ink/Vm60MYKL0KSKM9D");
-  const Endocrinesystem = () => setLink("Endocrinesystem", "https://short.ink/kqWgMekagRf9lj");
-  const immunesystem = () => setLink("immunesystem", "https://short.ink/xgawDJBGkQHkK4y");
-  const integumentarysystem = () => setLink("integumentarysystem", "https://short.ink/aqo96aqwPbHx6W2");
-  const Muscularsystem = () => setLink("Muscularsystem", "https://short.ink/oGGaaQ0xadtJ4oJ");
-  const Nervoussystem = () => setLink("Nervoussystem", "https://short.ink/Xxv6O8VvdJSDrMM");
-  const Reproductivesystem = () => setLink("Reproductivesystem", "https://short.ink/1bx3eVbg3xFx4a");
-  const Respiratorysystem = () => setLink("Respiratorysystem", "https://short.ink/lGwBYobOlXC7Ljg");
-  const Skeletalsystem = () => setLink("Skeletalsystem", "https://short.ink/kZpkv8o16ohOzbk");
+  const IntroductiontoCell = () => setLink("IntroductiontoCell", "https://short.ink/jzPQZELT8k");
+  const circulatorysystem = () => setLink("circulatorysystem", "https://short.ink/SM2zjhgW-");
+  const DigestiveandExcretorysystem = () => setLink("DigestiveandExcretorysystem", "https://short.ink/72oqch9RR");
+  const Endocrinesystem = () => setLink("Endocrinesystem", "https://short.ink/uqc3TJdtE");
+  const immunesystem = () => setLink("immunesystem", "https://short.ink/eJEfVq0EF");
+  const integumentarysystem = () => setLink("integumentarysystem", "https://short.ink/Sc9-4IoVP");
+  const Muscularsystem = () => setLink("Muscularsystem", "https://short.ink/EeavWsH8h");
+  const Nervoussystem = () => setLink("Nervoussystem", "https://short.ink/wRWrkQ2SRA");
+  const Reproductivesystem = () => setLink("Reproductivesystem", "https://short.ink/QBfuWpBNY");
+  const Respiratorysystem = () => setLink("Respiratorysystem", "https://short.ink/1zPpL5-h7");
+  const Skeletalsystem = () => setLink("Skeletalsystem", "https://short.ink/vIeYUrwV3");
   
   // Gynecology
   const menopause = () => setLink("menopause", "https://short.ink/kIGNTI17f");
