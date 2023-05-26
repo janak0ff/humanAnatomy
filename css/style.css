@@ -6605,3 +6605,6 @@ div [class="media-body"]>h6 {
 	padding: 0 !important;
 }
 
+#google_translate_element{
+	float: left;
+}
