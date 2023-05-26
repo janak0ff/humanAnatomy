@@ -6521,14 +6521,14 @@ input {
 	position: fixed;
 	padding: 20px;
 	top: 0;
-	background-color: rgba(209, 200, 200, 0.9);
+	background-color: rgba(209, 200, 200);
 	color: rgb(0, 0, 0);
 	width: 100%;
 	text-align: center;
 	justify-content: center;
 	align-items: center;
 	z-index: 10000001;
-	height: 68px;
+	height: 65px;
 	font-size: 18px;
 	/* display: none; */
 	/* border-left: 0.3em solid #bf000a;
@@ -6604,3 +6604,4 @@ div [class="media-body"]>h6 {
 	margin: 0 !important;
 	padding: 0 !important;
 }
+

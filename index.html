@@ -157,9 +157,9 @@
 						<div id="buttonsub" onclick="sendfeedback()">Submit</div>
 					</form>
 				</div>
-				<center>
+				<!-- <center>
 					<div id="google_translate_element"></div>
-				</center>
+				</center> -->
 			</div>
 		</div>
 		<!-- ----------------- end --------------  -->
@@ -322,6 +322,12 @@
 												<ul class="sub-menu">
 													<li class="menu-item"><a href="./discussion.html">Discussion group</a></li>
 													<li class="menu-item"><a href="contact.html">Suggestion</a></li>
+												</ul>
+											</li>
+											<li class="menu-item">
+												<a href="#"><img src="./images/language.png" height="32" width="32" alt="lang"></a>
+												<ul class="sub-menu" style="background: white;">
+													<li><div id="google_translate_element"></div></li>
 												</ul>
 											</li>
 										</ul>
@@ -1788,12 +1794,13 @@
 			// Determine the appropriate message to display
 			let message = document.querySelector('#info0ff p');
 			if (deviceWidth < 380) {
-			   message.innerHTML = '<b>Translate Page</b>:&nbsp; Long press.'
+			   message.innerHTML = "<b>We're Under construction.</b>"
 			} else if (deviceWidth < 900) {
-			   message.innerHTML = '<b>Translate Page</b>:&nbsp;Long press on screen.'
+			   message.innerHTML = '<b>Currently, we are under construction.</b>'
 			} else {
-			   message.innerHTML = '<b>Translate Page</b>:-&nbsp;Right-click or long press on the screen and pick a language.'
+			   message.innerHTML = '<b>Attention!</b>:-&nbsp; Our website is currently under construction. Stay tuned for updates and exciting upcoming content!'
 			}
+
 			// setTimeout(() => {
 			// 	document.querySelector('#info0ff').style.display = "block";
 			// }, 5000);
