@@ -1,42 +1,17 @@
 <!doctype html>
 <html lang="en-US">
 
-<head>
-   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CDNSFree2/Plyr/plyr.css" /> -->
-   <link rel="stylesheet" href="https://cdn.plyr.io/3.7.3/plyr.css" />
-   <style>
-      .plyr__video-embed {
-         --plyr-color-main: #ff0000;
-         --plyr-video-control-color: #ffffff;
-         --plyr-tab-focus-color: #0ccc5c;
-         --plyr-badge-background: #9826ac !important;
-         --plyr-captions-background: #00000069;
-         --plyr-control-icon-size: 16px;
-         --plyr-captions-text-color: #ffffff;
-         --plyr-font-size-xlarge: 25px;
-         margin: auto;
-         max-width: 50%;
-      }
-   </style>
-   <script src="https://cdn.plyr.io/3.7.3/plyr.js"></script>
-</head>
-
 <body>
-   <!-- Video Start -->
    <div class="plyr__video-embed  video d-block">
-      <video controls data-poster="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-HD.webp"
+      <video controls data-poster="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-HD.jpgd"
          style="aspect-ratio: 16/9;" class="player">
          <source src="./Coronary Artery Bypass.mp4" type="video/mp4">
-         <track kind="captions" label="vtt" srclang="en" src="./Coronary Artery Bypass.vtt" default />
+         <track kind="captions" label="English" srclang="en" src="./Coronary Artery Bypass.vtt" default />
       </video>
    </div>
 
-   <script>
-      var controls = ['play-large', 'rewind', 'play', 'fast-forward', 'progress', 'current-time', 'duration', 'mute', 'volume', 'captions',
-         'settings', 'pip', 'airplay', 'fullscreen'];
-      const player = new Plyr('.player', { controls, captions: { active: true } });
-   </script>
-
+   <link rel="stylesheet" href="../css/plyr.css" />
+   <script src="../js/plyr.js"></script>
 </body>
 
 </html>
