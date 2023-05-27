@@ -6606,10 +6606,10 @@ div [class="media-body"]>h6 {
 }
 
 #google_translate_element {
-	position: absolute;
-	width: 56px;
-	bottom: 20%;
-	overflow: hidden;
+	position: absolute !important;
+	width: 56px !important;
+	bottom: 20% !important;
+	overflow: hidden !important;
 	height: 40px !important;
 }
 
