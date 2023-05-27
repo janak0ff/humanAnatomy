@@ -4,7 +4,7 @@
 function applyFunctionality() {
     // Add your custom functionality here
     const menuLinks = document.querySelectorAll('.menu-item > a');
-    const outd = document.querySelectorAll('.sub-menu');
+    // const outd = document.querySelectorAll('.sub-menu');
 
     menuLinks.forEach(link => {
         link.addEventListener('click', () => {
@@ -23,7 +23,14 @@ function checkWidth() {
 window.addEventListener('resize', checkWidth);
 checkWidth();
 
+// const menuLinks = document.querySelectorAll('.menu-item > a img');
 
+// menuLinks.forEach(link => {
+//   link.addEventListener('click', () => {
+//     const subMenu = link.parentElement.nextElementSibling;
+//     subMenu.classList.toggle('active');
+//   });
+// });
 
 // ------------ scroll function  ------------
 window.onscroll = (e) => {

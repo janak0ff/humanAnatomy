@@ -6606,12 +6606,14 @@ div [class="media-body"]>h6 {
 }
 
 #google_translate_element {
-	float: left;
-	width: 100%;
-	padding: 4px 0 0 2px;
+	position: absolute;
+	width: 56px;
+	bottom: 20%;
+	overflow: hidden;
+	height: 40px !important;
 }
 
-.navbar ul li .sub-menu>li[id="glanguage"] {
+/* .navbar ul li .sub-menu>li[id="glanguage"] {
 	position: absolute;
 	top: 0;
 	overflow: hidden;
@@ -6620,8 +6622,13 @@ div [class="media-body"]>h6 {
 	-webkit-box-shadow: 0em 0.063em 1.875em 0em rgb(36 38 43 / 10%);
 	-moz-box-shadow: 0em 0.063em 1.875em 0em rgba(36, 38, 43, 0.10);
 	box-shadow: 0em 0.063em 1.875em 0em rgb(36 38 43 / 10%);
-}
+} */
 
 .goog-te-combo {
+	opacity: 0.000001 !important;
+	cursor: pointer !important;
 	border: none !important;
+	margin-left: -6px !important;
+	margin-right: 0px !important;
+	padding: 20px !important;
 }
