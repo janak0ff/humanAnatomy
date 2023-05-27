@@ -10,5 +10,6 @@
     --plyr-captions-text-color: #ffffff;
     --plyr-font-size-xlarge: 25px;
     margin: auto;
+    /* float: right; */
     max-width: 50%;
  }

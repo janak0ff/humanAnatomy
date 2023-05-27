@@ -1,0 +1,724 @@
+{
+    "pediatrics": [
+        {
+            "WID": "1",
+            "WTitle": "Acne",
+            "WDescription": "Acne is a common skin condition noted in teenagers which is associated with the formation of pimple or ‘zits’. The term acne is also used to refer to blackheads, whiteheads, and inflamed patches of skin. Acne results due to clogging of the tiny pores present over the skin surface. Hormonal changes noted during puberty often trigger the formation of acne. Other causes can include heredity, oily skin, use of certain oily or greasy cosmetic products, and high levels of sweating. Acne is commonly noted over the face and shoulders, but may also appear over the arms, trunk, buttocks, and legs. ",
+            "VideoURL": "Acne.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Adenoid hypertrophy",
+            "WDescription": "Adenoid hypertrophy refers to the swelling of the lymphatic tissues (called adenoids) present in the passage between the nose and the back of the throat. It is characterized by mouth breathing, dry mouth, runny nose, and snoring. While it regresses by itself in many, antibiotic therapy or surgical removal may be needed if the symptoms persist for a long time.",
+            "VideoURL": "Adenoid hypertrophy.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "AIDS",
+            "WDescription": "AIDS or Acquired Immune Deficiency Syndrome is a disorder which destroys the body’s immune system making it vulnerable to other infections. It is caused by a virus known as Human Immunodeficiency Virus (HIV) which can spread through blood and body fluids. Infected mothers can transmit the virus to their unborn (through blood) or newborn (through breast milk). Symptoms may not be evident for very long periods and when present, it mainly involves those related to different types of infections. Fever, weakness, and unexplained weight loss can be some of the general symptoms.",
+            "VideoURL": "AIDS.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Alagille syndrome",
+            "WDescription": "Alagille syndrome is a hereditary condition characterized by the progressive loss of small tubules (known as bile ducts) present in the liver. The bile ducts carry the liquid produced by the liver which contains certain digestive enzymes (bile) to the small intestine. Children with alagille syndrome lose bile ducts which are present within liver. They also suffer the narrowing of bile ducts outside the liver in first year of their life. The lack of these bile ducts leads to accumulation of the bile within the liver. This results in liver cirrhosis in 30–50% of affected children. Such children show symptoms as jaundice, loose stools, and poor growth in first three months. In later period of early childhood persistent jaundice, stunted growth and fatty deposits in skin are observed. ",
+            "VideoURL": "Alagille syndrome.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Allergy",
+            "WDescription": "Allergy is a condition which results from overreaction of the body’s immune system to substances which are harmless to most individuals. Substances eliciting such reactions are referred to as allergens. Some of the common allergens include dust, pollen, animal dander, spores, certain foods, and medicines. Allergy is associated with symptoms such as rashes, runny nose, itching, and swelling. ",
+            "VideoURL": "Allergy.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Amebiasis",
+            "WDescription": "Amebiasis refers to an intestinal infection caused by microorganism known as Entamoeba histolytica. It belongs to the group of organisms classified as amoeba and hence the name amebiasis. This organism lives within the intestine without resulting in any disorder. However, in some cases, it may invade the walls of the intestine to cause an infection leading to symptoms such as long-term (chronic) diarrhea, inflammation of the intestinal cells and tissues, cramping or fever. The infection can often spread to the liver and other organs. It spreads through contaminated food and water and through close contact. ",
+            "VideoURL": "Amebiasis.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Anemia",
+            "WDescription": "Anemia is one of the commonest blood cell disorders characterized by a reduction in the number of red blood cells (RBCs). The RBCs carry oxygen with the help of a pigment known as hemoglobin and supplies it to all the cells and tissues in the body. Anemia can occur due to a wide variety of causes ranging from simple infection to severe abnormalities. Basically, anemia results due to excessive destruction of the RBCs, loss of blood or inadequate production of new RBCs. A decrease in the RBC count and subsequent decrease in the oxygen supply can cause numerous symptoms such as dizziness, tiredness, shortness of breath and lack of energy.",
+            "VideoURL": "Anemia.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Apgar score",
+            "WDescription": "Apgar score is a test performed to quickly asses the health of the newborn in order to determine the need for extra medical or emergency care. The test is based on five factors - activity and muscle tone, pulse, grimace response, appearance and respiration.",
+            "VideoURL": "Apgar score.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Appendicitis",
+            "WDescription": "Appendicitis is the inflammation of a small pouch attached to the large intestine known as appendix. It can become blocked with feces, foreign objects or in rare cases, a mass of cells, resulting in infection and swelling. Pain in the lower right portion of the abdomen is the most common symptom noted in appendicitis. It may be mild initially and may be felt in the region of the belly button. Pain then shifts to the lower right region and worsens over time. Other symptoms can include fever, vomiting, constipation, or diarrhea. ",
+            "VideoURL": "Appendicitis.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Asthma",
+            "WDescription": "Asthma is a long term (chronic) disorder of the airways. It is associated with the soreness and swelling of the tubes that carry air in and out of the lungs. Such episodes of swelling and soreness called ‘asthma attacks’ are often triggered by substances such as dust, pollen, certain foods, and physical exertion. Asthma attacks are associated with symptoms such as wheezing, difficulty in breathing, chest tightness, and coughing. These may often be severe in the morning and at night. Children have smaller airways than adults making asthma more serious for them. ",
+            "VideoURL": "Asthma.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Attention deficit hyperactivity disorder (ADHD)",
+            "WDescription": "Attention deficit hyperactivity disorder or ADHD is a behavioral and developmental disorder of childhood that often persists into adolescence and adulthood. ADHD is characterized by inattention, hyperactivity and impulsivity that are particularly severe when compared with most same-age individuals. Children with ADHD exhibit six or more symptoms of either inattention and\/or hyperactivity\/impulsivity as defined by the fourth edition of the Diagnostic and Statistical Manuel of Mental Disorders, or DSM-IV. These symptoms generally cause difficulties in multiple settings such as home, school, or with friends. Hyperactive\/impulsive symptoms are generally detected prior to the beginning of school. Inattentive symptoms are often not evident until age 8 or 9, or even later in some cases.",
+            "VideoURL": "ADHD.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Auditory processing disorder",
+            "WDescription": "Auditory processing disorder (APD) is a complex problem noted in about 10% of children characterized by lack of co-ordination between ears and the brain. The brain of affected children is unable to recognize and interpret certain sounds of speech. Some of the symptoms can include: difficulty to differentiate between similar sounding words and following speech in noisy environments; asking for repetition or clarification of words; problems in remembering instructions and inability to concentrate.",
+            "VideoURL": "Auditory processing disorder.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Autism",
+            "WDescription": "Autism is a developmental disability caused by a neurological disorder that typically appears in the first three years of a child. Autism affects parts of the brain concerning social interaction and communication, and is characterised by difficulties in verbal and non-verbal communication and extremely limited range of activities.",
+            "VideoURL": "Autism.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Avian flu",
+            "WDescription": "Avian flu refers to the infection caused by the influenza virus in birds. This virus can spread from infected birds to humans, when humans come in contact with them. Children are more prone to develop avian flu as the body’s defense system is not mature enough. The symptoms are similar to regular flu and can include eye infections, fever, cough, muscle aches, and pneumonia. Exposure to infected birds must be avoided to prevent getting infected. ",
+            "VideoURL": "Avian flu.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Behcet syndrome",
+            "WDescription": "Behcet syndrome, or Behcet’s disease\/syndrome, is the name given to the group of conditions associated with chronic inflammation of the blood vessels in all parts of the body. The exact cause of this condition is unknown; however, factors such as hereditary defects and environmental factors (such as viral infections) may trigger it. It occurs due to an abnormality in the body’s immune system, where the immune cells begin attacking the normal cells and tissues of the blood vessels. Symptoms may include soreness in the mouth, sexual organs and skin (on any part of the body), inflammation of the eyes, or swelling and stiffness in the joints. ",
+            "VideoURL": "Behcet syndrome.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Biliary atresia",
+            "WDescription": "Biliary atresia is a rare disorder of the liver found in new born babies (between their 1st and 2nd months). It is associated with obstruction of the tubes that are known as bile ducts, present in the liver. These tiny ducts carry bile produced by the liver to the small intestine. Waste products from the liver are also sent out through these ducts. Obstruction of the ducts leads to accumulation of bile and toxic products within the liver, eventually resulting in liver failure. Jaundice in the second or third week after birth, is one of the common symptoms. Gradual weight loss and irritability may be the other features. ",
+            "VideoURL": "Biliary atresia.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Bronchiolitis",
+            "WDescription": "Bronchiolitis is a viral infection of the lungs frequently noted in infants aged below 6 months. It occurs commonly during winter and is associated with symptoms similar to that of common cold in the initial stages, which eventually progresses to more severe symptoms such as cough and wheezing. The airways become inflamed and filled with mucus, making it difficult for the infant to breathe. The infection can spread through air and contact with the infected baby. ",
+            "VideoURL": "Bronchiolitis.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Celiac disease",
+            "WDescription": "Celiac disease, or sprue, is a condition associated with damage of the portions of the intestine that help absorb certain important nutrients. This disorder is often diagnosed when the child is about 6 months to 2 years old. The exact cause of celiac disease is unknown. However, it is said to be a hereditary condition which is caused due to the damage initiated by gluten, a protein present in wheat and barley. Exposure to gluten in children who are prone to develop celiac disease triggers the immune system and the immune cells attack the cells of the small intestine, eventually destroying them. Symptoms include abdominal pain, diarrhea, constipation and unintended weight loss.",
+            "VideoURL": "Celiac disease.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Cerebral palsy",
+            "WDescription": "Cerebral palsy is one of the most common birth defects associated with abnormality in functions such as learning, movement, hearing, thinking, and seeing. Although the exact cause is unknown, it is thought to occur as a result of injury to the brain of the baby during pregnancy or during first 2 years of life, as brain is growing actively in this period. Symptoms vary widely with the severity of damage to the brain and the nervous system, and can include: inability to sit, crawl or walk normally, lack of coordination between the movements, tightened muscles, and problems with speech, hearing or vision. ",
+            "VideoURL": "Cerebral palsy.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Chickenpox",
+            "WDescription": "Chickenpox or varicella is a viral infection commonly noted in children aged below 12 years. It is characterized by the formation of blisters all over the body that are extremely itchy. This infection is caused by the varicella-zoster virus and is highly contagious. Children may have fever, stomach ache, and headache before the rashes appear. ",
+            "VideoURL": "Chickenpox.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Chlamydia",
+            "WDescription": "Chlamydia is a sexually transmitted infection caused by the bacteria known as Chlamydia trachomatis. Infected mothers can transmit the infection to their children during childbirth. Chlamydia in infants is characterized by infections involving the eyes, oral cavity, upper portion of the throat, genital region and the rectum. Chlamydia may also be noted in adolescents who are sexually active and can be associated with discharge from the genital region, pain in the lower abdominal region and burning sensation during urination.",
+            "VideoURL": "Chlamydia.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Cold sores",
+            "WDescription": "Cold sores are fluid filled eruptions caused by infection by a virus known as the herpes simplex virus type 1 (HSV 1). The blisters typically appear over the lip and around the nose and can be triggered by factors such as stress, illness, and cold. The blisters last for about 10-14 days and the infection can easily spread through touch. The sores may reappear frequently in infected individuals.\r\r",
+            "VideoURL": "Cold sores.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Common cold",
+            "WDescription": "Common cold is one of the most common viral infections. It is characterized by a runny nose, sneezing and nasal congestion. Other symptoms can include sore throat, cough, and headache. Common cold can be observed throughout the year and virus spreads through air. Children typically suffer about eight colds every year. The symptoms usually last for a period of one week and resolve without any treatment. ",
+            "VideoURL": "Common cold.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Congenital heart defect",
+            "WDescription": "Congenital heart defect is an abnormality in the heart structure which is present since birth. It usually arises as a result of altered or incomplete development of the heart during pregnancy. Such abnormalities may involve the walls of the heart, heart valves (which regulate the flow of blood through the heart) or the major blood vessels in or associated with the heart. Congenital heart defects may lead to complications such as slowing down of the heart, mixing of pure and impure blood and heart blocks. The symptoms may range from mild to life-threatening ones. ",
+            "VideoURL": "Congenital heart defect.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Coxsackievirus infections",
+            "WDescription": "Coxsackievirus infections are usually noted in young children, mostly during summer and fall. It is caused by a group of viruses called enteroviruses, which can spread through touch. Symptoms vary from mild to severe, and can include fever, rash, sore throat, joint pain and headache.",
+            "VideoURL": "Coxsackievirus infections.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Cradle cap",
+            "WDescription": "Cradle cap, or infantile seborrheic dermatitis, is a relatively common condition found in infants.  It is characterized by the appearance of scaly patches over the scalp. It is thought to be a hereditary condition and does not spread by touch. The patches usually occur where skin is oily or greasy such as over and around the ears, eyelids, nose, lips, or groin regions. ",
+            "VideoURL": "Cradle cap.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Croup",
+            "WDescription": "Croup is an infection of the airway associated with the inflammation of the vocal cords (larynx) and the windpipe (trachea). It is characterized by a specific kind of cough referred to as “barking” cough and is common among infants and children. Other symptoms can include difficulty in breathing which may worsen during night. Croup is often caused by viral infection, but may also occur due to bacterial infections and allergies.",
+            "VideoURL": "Croup.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Cryptorchidism",
+            "WDescription": "Cryptorchidism is a genital condition noted in boys where the testicle (male genital organ) fails to move into its position within the scrotum (a bag of skin present behind the penis) before birth. Also referred as undescended testicles, this condition is common in infants who are born prematurely. It is not associated with any symptoms other than the absence of the testicle in the scrotum.",
+            "VideoURL": "Cryptorchidism.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Cyanosis",
+            "WDescription": "Cyanosis is the bluish discoloration noted over the skin, nail beds or the lips, and indicates the lack of oxygen in the body. It is a symptom and not a disorder. Cyanosis is commonly noted in children with disorders of the heart, lungs or blood cells, which affect the amount of oxygen supplied through the blood. It can also be noted in cases of exposure to severe cold.",
+            "VideoURL": "Cyanosis.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Cytomegalovirus",
+            "WDescription": "Cytomegalovirus (CMV) belongs to the herpes virus family and is associated with mild to severe infections in children. It may also affect adults with weakened immune system. It can spread from the mother to the child either through blood (during pregnancy or delivery) or through breast milk. Symptoms can include problems with hearing, development of nervous system and vision. ",
+            "VideoURL": "Cytomegalovirus.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Dacryosystitis",
+            "WDescription": "Dacryocystitis is an infection of the part of the eye that helps in clearing the tears (lacrimal sac) through a duct which drains into the nose. This is a common condition in new born babies which occurs due to a blockage in the tear duct. Symptoms can include excessive tearing, and tenderness and reddening of the area at the base of the nose (near the inner corner of the eye).",
+            "VideoURL": "Dacryosystitis.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Dandruff",
+            "WDescription": "Dandruff, also known as seborrheic dermatitis, is an inflammatory condition affecting the scalp and inner portions of the ear. This condition which mostly affects the oily areas of the skin is characterized by formation of flaky, white, or yellowish scales in the affected regions. The scalp may be itchy with mild redness. Hair loss is another common symptom of dandruff. Heredity, stress, extreme weather, infrequent cleansing of the scalp, oily skin, and conditions such as acne can increase the risk of developing dandruff. \r",
+            "VideoURL": "Dandruff.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Diaper rash",
+            "WDescription": "Diaper rash refers to a skin infection noted in area below the baby’s diaper. It is a fungal infection common in babies aged between 4 and 15 months. Failure to change wet diapers frequently, covering diapers with plastic pants and diarrhea are some of the factors that increase the risk of diaper rashes. Affected areas are bright red in color. Other symptoms can include presence of rashes, scales or pimples in these regions.",
+            "VideoURL": "Diaper rash.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Diarrhea",
+            "WDescription": "Diarrhea is a condition characterized by loose, runny\/watery stools occurring more frequently than normal. It is often a sign of an underlying disorder\/condition affecting the digestive system. The commonest cause of diarrhea is infection of the digestive system which may be viral, bacterial or parasitic. Such infections are highly contagious and most often affect infants, occasionally leading to life threatening situations. Diarrhea usually lasts for a few days and mainly leads to loss of water and essential salts. ",
+            "VideoURL": "Diarrhea.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Diphtheria",
+            "WDescription": "Diphtheria is a bacterial infection of the airways (nose and throat are the most commonly affect regions) caused by a group of bacteria known as Corynebacterium diphtheriae. It is a highly contagious infection and is common among children below the age of 5 years. Diphtheria causes gradual blockage of the airways leading to symptoms such as bluish discoloration of the skin, breathing difficulties, bloody drainage from the nose, chills, fever, and sore throat. ",
+            "VideoURL": "Diphtheria.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Dyslexia",
+            "WDescription": "Dyslexia is a reading disorder characterized by the inability of the brain to recognize certain symbols. Affected children have difficulty in reading, although their vision and intelligence are normal. This condition occurs as a result of certain abnormalities in the regions of the brain that help to interpret language. The characteristic features of dyslexia can include inability to identify or differentiate certain written words or letters such as ‘b’and‘d’, and difficulty in understanding simple sentences.",
+            "VideoURL": "Dyslexia.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Enterobiasis",
+            "WDescription": "Enterobiasis, or pinworms, is one of the most common worm infections noted in school-aged children. Intense itching in the anal region is the most common symptom which can result in irritability and disturbed sleep. It can spread from one person to another through touch; can also spread through air in some cases.",
+            "VideoURL": "Enterobiasis.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Epilepsy",
+            "WDescription": "Epilepsy is a disorder of the brain which is characterized by occurrence of repeated seizures or convulsions (rapid involuntary movements). This condition occurs due to abnormal functioning of the brain’s electric activity which normally helps in performing coordinated body movements (such as walking). The exact cause is often unknown, but factors such as head trauma, infections, stroke, decreased blood supply to brain, and birth defects can result in epilepsy. ",
+            "VideoURL": "Epilepsy.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Fifth disease",
+            "WDescription": "Fifth disease is a viral infection which is associated with formation of rashes on the cheeks. It is named so as it is the fifth in the historical classification of the most common skin conditions in children. The rashes may also be noted over the arms, trunk and legs. It is often seen in young children. Fever and joint pain may also be noted in the affected children.",
+            "VideoURL": "Fifth disease.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Gastroenteritis",
+            "WDescription": "Gastroenteritis refers to the inflammation of the tissues forming a lining of the intestines. It may be caused by a virus (most common cause), bacteria, or parasite. Gastroenteritis spreads through ingestion of contaminated food or water, or through physical contact with infected individuals. Diarrhea, abdominal discomfort, headache, fever, and chills are some of the common symptoms. It can be life threatening in infants. \r\r",
+            "VideoURL": "Gastroenteritis.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Giardiasis",
+            "WDescription": "Giardiasis, commonly known as traveler’s diarrhea is an infection of the small intestine. It is caused due to a parasite known as Giardia lamblia which attaches itself to the small intestine and affects the absorption of fats and carbohydrates. This disorder is common in developed and developing countries due to contamination of drinking water. Diarrhea is the most common symptom apart from abdominal cramps, bloating, appetite loss, vomiting, headaches, and fever. ",
+            "VideoURL": "Giardiasis.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Gonorrhea",
+            "WDescription": "Gonorrhea is one of the sexually transmitted bacterial infections which are caused by bacteria known as Neisseria gonorrhoeae. It is common among sexually active adolescents and adults. The bacteria grow in the genital and reproductive organs of the body. Common symptoms can include burning sensation while urinating, increased frequency of urination, discharge from the genital organs, and sore throat. Fever and severe pain in the lower abdominal region is commonly noted among girls.",
+            "VideoURL": "Gonorrhea.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Hand, foot and mouth disease",
+            "WDescription": "Hand, foot and mouth disease is a viral infection which is commonly found in infants and children the age of 10. It is a contagious condition associated with the formation of sores\/ulcers in the mouth and rashes over the hands and feet. It is different from the foot and mouth disease noted in animals.",
+            "VideoURL": "Hand  Foot and Mouth Disease.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Hearing screen",
+            "WDescription": "Hearing screening is a common procedure performed in new born babies to detect hearing loss. Either of the two types of tests, known as otoacoustic emissions (OAE) test or auditory brain stem response (ABR) test, or both, are used to evaluate the hearing ability of the baby. These are simple and painless procedures and can be performed when the baby is resting quietly. Early detection of hearing loss is important to prevent further complications.",
+            "VideoURL": "Hearing screening.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Heart murmurs ",
+            "WDescription": "Heart murmurs are abnormal sounds heard during the rhythmic heartbeat cycle. Normally, two heart sounds referred to as ‘lubb-dupp’ are heard when the heart is beating. Any additional sound heart apart from this may be referred to as a murmur. This is detected with the help of a stethoscope. The murmurs may be present from birth or may develop during later life. They are usually a result of some underlying heart defect or condition. While some murmurs may be harmless (often termed as innocent murmurs) others can indicate serious underlying condition which needs immediate treatment. ",
+            "VideoURL": "Heart murmurs.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Helicobacter pylori",
+            "WDescription": "Helicobacter pylori are a type of bacteria that can cause an infection of the stomach or intestine. H. pylori infections are particularly noted in developing countries. The infection is commonly acquired during childhood and the bacteria enter the body through contaminated food or water, or through direct contact with infected saliva, vomit, or fecal matter. H. pylori do not cause any symptoms during childhood and it may go undetected in many. Left untreated it can lead to conditions such as gastritis or peptic ulcer, that are associated with symptoms such as stomach pain\/discomfort, nausea, vomiting, frequent burping and bloating. H. pylori infections can also increase the risk of developing cancer of the stomach during adulthood. ",
+            "VideoURL": "Helicobacter pylori.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Hepatitis",
+            "WDescription": "Hepatitis is an inflammation of the liver. It is often caused by infection with one of the three viruses - hepatitis A, B or C virus. The virus may be contracted through contact with infected stool, infected food\/water, infected blood, and blood products, infected body fluids (saliva, semen) or during birth. Other causes of hepatitis can include abnormal functioning of the body’s immune system, exposure to poisons and overdose of certain medications. Symptoms may include tiredness, loss of appetite, nausea, vomiting, diarrhea, stomach pain, and jaundice (yellowing of skin and eyes). ",
+            "VideoURL": "Hepatitis.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Hives",
+            "WDescription": "Hives, also known as urticaria, is a common skin condition characterized by red, raised, itchy bumps (welts) on the surface of the skin. The welts may vary in size from small to large, and may occur anywhere on the body. The cause in most cases is an allergic reaction to food, insect bites, animal dander, or medicine. People who have a tendency to allergies are more likely to develop it. Nonetheless, hives can affect anyone at any age and at any time. If they persist, or if the symptoms are severe, they need immediate treatment with medications. ",
+            "VideoURL": "Hives.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Impetigo",
+            "WDescription": "Impetigo is a bacterial infection of the skin associated with the formation of blisters or sores over the face, neck, hands and regions covered by the diaper. It is common among preschool and school aged children.",
+            "VideoURL": "Impetigo.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Inborn error of metabolism",
+            "WDescription": "Inborn error of metabolism is a rare genetic disorder characterized by the inability of the body to convert certain foods into energy. Recurrent episodes of vomiting, tiredness, lack of activity and seizures are some common symptoms of this condition. This condition is basically caused by defects in certain specific proteins required to breakdown the foods being consumed. It may result in either accumulation of the unbroken food parts or deficiency of certain substances necessary for different purposes in the body. Galactosemia and fructose intolerance are some examples of this condition.",
+            "VideoURL": "Inborn error of metabolism.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Influenza",
+            "WDescription": "Influenza (commonly called flu) is a viral infection of the nose, throat, and lungs caused by the influenza virus. Although anyone can be affected, it is most often seen in young children and older adults with a weak defense system. The infection easily spreads from one person to another through droplets released when the infected person coughs, sneezes or talks; or when a person touches an object or surface that has been used by an infected person. Symptoms appear suddenly and can include body ache, chills, cough, fever, headache, and sore throat. ",
+            "VideoURL": "Influenza.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Irritable bowel syndrome",
+            "WDescription": "Irritable bowel syndrome (IBS) is a common, long-standing problem of the intestines that causes abdominal pain and cramping, bloating, gas, constipation, diarrhea, feeling of incomplete emptying after passing stools, and mucus in the stools. It, however, does not cause any permanent harm to the intestines. ",
+            "VideoURL": "Irritable bowel syndrome.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Jaundice",
+            "WDescription": "Jaundice refers to the yellowish discoloration of the skin and the whites of the eyes due to high levels of a pigment known as bilirubin in blood. Jaundice can occur at any age. Newborn jaundice is normal as before birth in mother’s womb, placenta removes bilirubin from baby’s body but after birth, baby’s liver has to remove it. This takes a while. When jaundice occurs in adults, it is basically a sign of an underlying problem and can develop due to many reasons such as blood disorders, genetic or birth defects, liver diseases, infections and medications. It may develop suddenly or gradually over a period of time. The typical features are yellowish appearance of the skin and the whites of the eyes, dark urine, itching, light-colored stools, and other features, depending on the underlying problem. Often, when the underlying cause is resolved, jaundice disappears. ",
+            "VideoURL": "Jaundice.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Jumper's Knee (Patellar Tendonitis)",
+            "WDescription": "Jumper’s knee is an injury of the patellar tendon - the cord-like tissue that joins the kneecap to the shin bone. It is often a repetitive injury associated with jumping activities or sports such as basketball, running, volleyball, and soccer. It is therefore common in children who are actively involved in sports. Knee pain and stiffness are the usual symptoms. ",
+            "VideoURL": "Jumper's Knee.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Juvenile idiopathic arthritis",
+            "WDescription": "Juvenile idiopathic arthritis is a common type of joint disorder (arthritis) seen in children. It can affect joints in any part of the body and is usually a long-lasting disease. The exact cause of it, however, is not known. It is observed that it occurs before the age of 16. The usual symptoms are joint stiffness, pain or swelling in the joints, limited movement or trouble walking, limping, fever, rash, and eye problems. ",
+            "VideoURL": "Juvenile idiopathic arthritis.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Kawasaki disease",
+            "WDescription": "Kawasaki disease is a rare illness that occurs in children causing inflammation of the blood vessels, especially those that carry blood to the heart. The cause for the disease is not known. Symptoms often include high, persistent fever lasting at least five days reddened eyes, lips, tongue, palms and soles, body rash, cracked lips, swollen tongue, hands, feet, and glands (lymph nodes) in the neck, and peeling of the skin. The disease is usually treatable, but the treatment should begin as early as possible to prevent heart damage. ",
+            "VideoURL": "Kawasaki disease.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Kernicterus",
+            "WDescription": "Kernicterus is a serious condition found in babies with severe jaundice (a condition associated with high bilirubin levels, leading to yellowish skin) which can lead to brain damage. Bilirubin, a yellow colored pigment is formed when the old blood cells are broken down. If this pigment is not cleared from the body, it can accumulate leading to jaundice. Kernicterus, which usually develops during the first week after birth, can result in several complications which affect the growth and development of the newborn infant.",
+            "VideoURL": "Kernicterus.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Lactose intolerance",
+            "WDescription": "Lactose intolerance is the inability of the human body to digest or absorb lactose, a major sugar found in milk and other dairy products. It occurs due to shortage or absence of an enzyme known as lactase in the body. Lactose intolerance is common in adults, but observed in premature babies and children older than 3 years. The condition is usually harmless but the symptoms that develop following ingestion of milk or milk products can be very uncomfortable. Symptoms include stomach cramps or pain, nausea, bloating, gas and loose stools. ",
+            "VideoURL": "Lactose intolerance.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Leber congenital amaurosis ",
+            "WDescription": "This condition is present in children from birth (congenital) and becomes evident after the second or third month. Uncontrolled movement of the eyes called ‘shaking’ or ‘dancing’ eyes; and known medically as nystagmus is one of the common symptoms along with poor vision and sensitivity to light.",
+            "VideoURL": "Leber congenital amaurosis.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Measles",
+            "WDescription": "Measles is a highly contagious viral infection affecting children who have not been vaccinated for measles. The infection spreads through droplets from the nose, mouth, or throat when an infected person coughs or sneezes. The usual symptoms are runny nose, high fever, cough, full-body rash, small white spots inside the mouth, and red and watery eyes. ",
+            "VideoURL": "Measles.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Meconium aspiration syndrome",
+            "WDescription": "Meconium aspiration syndrome is a complication noted in infants during child birth. This condition arises in the womb when the infant accidentally inhales the mixture of the fluid known as meconium which is composed of the baby’s feces and amniotic fluid, the fluid in which the baby is kept afloat during pregnancy. It is associated with breathing difficulties, bluish coloration of the skin and limpness.",
+            "VideoURL": "Meconium aspiration syndrome.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Mononucleosis",
+            "WDescription": "Mononucleosis is a viral infection associated with symptoms such as sore throat, fever, and swelling of the lymph nodes present in the neck. Often known as the ‘kissing disease’ because it spreads through saliva and close contact with the infected individual, mononucleosis is common in children between the ages, 15 to 17 years.",
+            "VideoURL": "Mononucleosis.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Moro reflex",
+            "WDescription": "Moro reflex is one of the normal reflexes (involuntary response) observed in newborn infants. This is also known as the ‘startle’ reflex and is characterized by a series of movements including sudden throwing back of the head, extending the arms and legs and crying, when the baby is startled by a loud sound or sudden movement. Following this, the arms and legs are pulled back in. This reflex lasts until the baby is about 5-6 months old. Absence of this reflex in newborn infants or its persistence in older infants, are both considered abnormal.",
+            "VideoURL": "Moro reflex.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Mumps",
+            "WDescription": "Mumps is an acute viral infection caused by paramyxovirus affecting salivary glands. It causes inflammatory swelling of parotid glands associated with fever, illness and pain during chewing\/swallowing.",
+            "VideoURL": "Mumps.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Myelodysplastic syndrome (MDS) ",
+            "WDescription": "Myelodysplastic syndrome (MDS) is a rare disease that occurs when the blood-forming cells in the bone marrow fail to make enough healthy blood cells (red blood cells, white blood cells, or platelets). It can affect at any stage of life but usually occurs in adults over 60 years, however can affect children as well. The exact cause is not known. Exposure to certain chemicals, chemotherapy, or radiation is known to increase the risk. The symptoms are usually due to low levels of one or more types of blood cells and include fatigue, shortness of breath, paleness of the skin, unusual bruising or bleeding, and frequent infections. ",
+            "VideoURL": "Myelodysplastic syndrome.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Neonatal Hemochromatosis",
+            "WDescription": "Neonatal hemochromatosis is a rare disorder seen in newborn babies. It occurs due to deposition of toxic amounts of iron in the baby’s body - the cause for which is not known. Symptoms observed may be a swollen liver, abdominal pain, changes in skin color (brownish, grayish or bronze) and generalized body swelling. In most cases, the babies do not survive beyond a few weeks after birth or they die in the womb. Death is mainly due to liver failure. ",
+            "VideoURL": "Neonatal Hemochromatosis.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Neonatal infections",
+            "WDescription": "Neonatal infections refer to infections affecting newborn babies. Newborn babies can get infections very easily because their immune system is immature or not well developed to fight the bacteria, viruses, and parasites that cause the infections. Some of the common neonatal infections are: skin infections, urinary tract infections, sepsis, meningitis, conjunctivitis, candidiasis, and pneumonia. Poor feeding, irritability, fever, unusual skin rash or change in skin colour, breathing difficulty and persistent crying are some of the possible symptoms seen when the baby has developed an infection. ",
+            "VideoURL": "Neonatal infections.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Neonatology",
+            "WDescription": "Neonatology is the branch of medicine which is concerned with the care of the newborn and, identification and treatment of disorders of  newborn infants.",
+            "VideoURL": "Neonatology.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Neuroblastoma",
+            "WDescription": "Neuroblastoma is a cancer that begins in the nerve cells of infants and young children (below the age of five). It can occur anywhere in the body, but usually begins in the nerve tissue of the adrenal glands (the glands on top of each kidney in the abdomen). By the time it is diagnosed, the cancer would have usually spread to the other parts of the body. Symptoms vary depending on the location of neuroblastoma. Tumor in abdomen causes abdominal swelling, pain, and constipation; in neck or chest it results in breathlessness and difficulty in swallowing; it appears as small blue coloured lumps under the skin; and in spinal cord it affects leg movements. ",
+            "VideoURL": "Neuroblastoma.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Newborn screening test",
+            "WDescription": "Newborn screening test is usually a routine blood test performed in all newborn babies. The blood sample is obtained by pricking the baby’s heel. The purpose is to identify any harmful or potentially serious disorders that are otherwise not apparent at birth. Although most babies are healthy and do not have any problems, the few babies that may have a problem will benefit enormously from the test. The testing helps provide appropriate early treatment that can be life saving or improve the baby’s health and prevent severe disability\/impairment.",
+            "VideoURL": "Newborn screening test.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Nosebleeds",
+            "WDescription": "Nosebleeds, known medically as epistaxis, refer to bleeding from inside the nose. It is a common occurrence, especially in children. It occurs when the tissue lining in the inner side of the nose is irritated or disturbed. Common causes in children are dryness, picking or rubbing the nose, blowing the nose, injury to the nose or face, allergies, cold, and sinus infections. Bleeding may occur from one nostril or sometimes from both the nostrils. It may be either light or heavy, lasting for a few seconds to more than ten minutes. ",
+            "VideoURL": "Nosebleeds.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Osgood-schlatter (OS) disease",
+            "WDescription": "Osgood-Schlatter (OS) disease is a condition which commonly affects adolescents and children. It is characterized by the presence of a painful bump just below the knee. This condition is common during puberty and occurs most often in children involved in sports which require running, jumping, and sudden changes of direction - such as football, volleyball, basketball, etc. It can be found on one or both the legs, and is more common in boys.",
+            "VideoURL": "Osgood-schlatter (OS) disease.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Osteomylitis",
+            "WDescription": "Osteomyelitis is a bone infection, often caused by a bacterium called Staphylococcus aureus. The bacteria may enter the bone through blood from infection in another part of the body or directly through open wounds and fractures, during bone surgery, or from contaminated objects that pierce the bone. Most commonly, young children and older adults are affected. In children, the long bones of the legs and arms are usually involved. Some of the common symptoms are malaise, fever, bone pain, swelling, and redness of skin over the bone and painful movement.",
+            "VideoURL": "Osteomylitis.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Otitis media",
+            "WDescription": "Otitis media is an infection of the middle ear that is located behind the eardrum. More common in children than adults, the infection is marked by the inflammation and accumulation of fluid in the middle ear, bulging of the eardrum and pain in the ear.",
+            "VideoURL": "Otitis media.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Overflow tearing ",
+            "WDescription": "Overflow tearing refers to excessive tearing. It is a common condition seen in infants and babies. It occurs due to narrowing or obstruction of the tear drainage system. As a result, tears do not drain properly and collect inside the tear drainage system - eventually overflowing onto the cheek, even when not crying. The poor drainage of tears may also lead to an eye infection which causes discharge from the eye and crusting of the eyelashes. ",
+            "VideoURL": "Overflow tearing.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Patent ductus arteriosus (PDA)",
+            "WDescription": "Patent ductus arteriosus (PDA) is a disorder of the heart found in young infants. It is characterized by abnormal persistence of a connecting blood vessel (called ductus arteriosus) between two major blood vessels of the heart. The ductus arteriosus which allows blood to by-pass the lung while the baby is in the womb (as the lung is inactive before birth), is no longer necessary after the baby is born (it closes shortly after birth when the lung becomes active and starts purifying blood). PDA leads to mixing of pure and impure blood which results in symptoms such as shortness of breath, rapid pulse rate, poor growth and poor feeding habits.",
+            "VideoURL": "Patent ductus arteriosus (PDA).mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Pediatric beriberi",
+            "WDescription": "Pediatric beriberi is a disease noted in infants and children, which occurs due to deficiency of vitamin B1 or thiamine. This condition is common among children who eat milled rice (thiamine is present on the outer coat of rice which is destroyed during polishing), have a diet that lacks thiamine or suffer from a genetic disorder which affects the body’s ability to take up the vitamin present in foods. Breast-fed infants can develop this disorder if their mothers have thiamine deficiency. Symptoms may vary with the type of beriberi and age of the child, and can include continuous crying, restlessness, rapid heart rate, difficulty in walking, etc.",
+            "VideoURL": "Pediatric beriberi.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Pediatric sarcoidosis",
+            "WDescription": "Pediatric sarcoidosis is a rare condition found in children. It is associated with the swelling or inflammation of the lymph nodes, liver, lungs, eyes or skin. The cause of this disorder is unknown, but factors such as heredity, infections and environmental influences (such as exposure to certain triggering factors) can increase the risk of occurrence. It is common among children aged between 13 and 15 years, and the symptoms may vary depending on the organs affected. Rashes, infections of the eyes and joint inflammation may be diagnostic in certain cases.",
+            "VideoURL": "Pediatric sarcoidosis.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Pediatrics",
+            "WDescription": "Pediatrics is a branch of medicine that is concerned with the development, medical care and disease of infants, children and adolescents.",
+            "VideoURL": "Pediatrics.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Phenylketonuria",
+            "WDescription": "Phenylketonuria (PKU) is a rare birth defect characterized by increased levels of phenylalanine in blood. Phenylalanine is a protein present in most foods. Due to an abnormality in the genes, the body cannot break down phenylalanine and as a result it builds up in the blood. Very high levels can cause brain damage and mental retardation. Usually, most newborns have no symptoms and appear normal at birth. However, without treatment, the child begins to develop symptoms within a few months. Symptoms include seizures, delayed development, behavioral problems, light skin and hair, and a musty body odor. ",
+            "VideoURL": "Phenylketonuria.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Pinkeye (Conjunctivitis)",
+            "WDescription": "Pinkeye or conjunctivitis is an inflammation or infection of the conjunctiva, the thin layer that lines the inside of the eyelid and covers the white part of the eye. Common causes of a pink eye are bacterial or viral infections, allergies, use of contact lenses and chemicals. Viral and bacterial conjunctivitis are contagious and can easily spread from one person to another. Common symptoms are eye redness, itching, irritation, burning, a gritty feeling in one or both eyes, increased tearing, swelling of the eyelids, pus discharge, and crusting. ",
+            "VideoURL": "Pinkeye or conjunctivitis.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Pinworm",
+            "WDescription": "Pinworm (scientific name: Enterobius vermicularis) is a white colored slender worm with a pointed tail which causes pinworm infection. Their length can vary from 2–5 mm (male worms) to 8–13 mm (female worms). These reside in the intestine and lay their eggs in the anal region during night. Pinworm infection or enterobius are common in children and can result in intense itching in the anal region.",
+            "VideoURL": "Pinworm.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Pneumonia",
+            "WDescription": "Pneumonia is a common lung infection characterized by the collection of pus and other liquids in the lung air sacs (alveoli). It affects millions of people worldwide and although anyone can get affected, young children and older adults are most at risk. It can be caused by many kinds of micro organisms including bacteria, viruses, fungi, or parasites. When an infected person coughs or sneezes, these organisms get into the air and breathing-in of this air leads to contraction of the illness. It is, therefore, a contagious disease. Symptoms include rapid or difficult breathing, cough, fever, chills, loss of appetite, chest pain, and wheezing.",
+            "VideoURL": "Pneumonia.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Polio",
+            "WDescription": "Polio or infantile paralysis is an acute and contagious viral disease affecting the central nervous system. Caused by poliovirus, the disease primarily affects children causing asymmetric paralysis, most often in the legs.",
+            "VideoURL": "Polio.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Premature babies",
+            "WDescription": "Premature babies are babies born before the normal term of pregnancy is completed (usually before the 37th week of pregnancy). The underlying cause may often be unknown. However, babies may be born before term if there are underlying disorders in the mother, nutrition deficiency, or structural abnormalities within the womb. Such babies are often underweight and their organs may be underdeveloped. They need additional care to prevent the occurrence of complications, until all the vital organs have developed sufficiently.",
+            "VideoURL": "Premature babies.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Primary juvenile sjögren syndrome ",
+            "WDescription": "Primary juvenile sjögren syndrome is an inflammatory condition affecting the exocrine glands (which secrete their products into a duct\/tube) such as the tear glands or salivary glands. It is commonly found in children between the ages of 10-15 years and is characterized by enlargement of the affected glands, dry eyes, decreased saliva production (resulting in dry mouth, chapped lips), stiffness and pain in the joints. Girls are more commonly affected. It occurs as a result of abnormal functioning of the defense system of the body (the immune system) which attacks the exocrine glands. The condition occurs on its own and is not associated with any other underlying genetic disorders (hence the name - primary).",
+            "VideoURL": "Primary juvenile sjogren syndrome.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Rabies",
+            "WDescription": "Rabies is a serious infection caused by a virus called the rabies virus. It can affect human beings as well as animals such as dogs, cats, bats, raccoons, skunks, and foxes. A person usually contracts rabies when an animal (usually a dog) that has rabies bites him\/her. The signs and symptoms usually appear 30-90 days after the animal bite. Early symptoms of rabies include pain or tingling at the site of the bite, fever, headache, and tiredness. As the disease progresses, other symptoms such as hyperactivity, excited behavior, hydrophobia (fear of water), and paralysis develop - resulting in death. \r\r",
+            "VideoURL": "Rabies.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Reactive airway disease",
+            "WDescription": "Reactive airway disease is a term used to describe shortness of breath, coughing and wheezing which occurs when the airways in the lungs react to certain irritants such as fumes, smoke, chemicals, pet dander, molds, pollen, vigorous exercise, weather changes, stress and drugs. ",
+            "VideoURL": "Reactive airway disease.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Retinoblastoma",
+            "WDescription": "Retinoblastoma is a rare type of eye cancer. It usually occurs in children younger than five years. In most cases it is due to an abnormal gene. Usually only one eye is affected. Signs and symptoms include an unusual whiteness in the pupil (small opening in the centre of the dark portion of the eye), crossed eyes (strabismus), redness or irritation, persistent eye pain, and blindness or decreased vision (in the affected eye).",
+            "VideoURL": "Retinoblastoma.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Reye's syndrome",
+            "WDescription": "Reye’s syndrome is a rare but serious illness of swelling in the cells and tissues of the liver and brain. It most commonly affects children and teenagers (between 4-12 years) recovering from a viral infection. The exact cause is not known but certain studies suggest a link between the use of aspirin and Reye’s syndrome. Symptoms of the disease are nausea and vomiting, tiredness, irritability, confusion, delirium, convulsions and loss of consciousness.",
+            "VideoURL": "Reye’s syndrome.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Rhabdomyosarcoma",
+            "WDescription": "Rhabdomyosarcoma is a cancer of a certain type of muscle tissues which are attached to the bone. It is considered to be one of the most common types of cancer affecting the soft tissues in children. Rhabdomyosarcoma can occur in any part of the body, but is commonly observed around the head and neck region, genital region and the arms or legs. It is associated with the formation of a painless mass in the affected region. Symptoms such as bleeding from nose, nasal congestion, vision abnormalities, hearing loss, and trouble with urination may be noted when the tumor begins pressing on the adjacent structures. These symptoms may vary based on the area where the tumor is present.",
+            "VideoURL": "Rhabdomyosarcoma.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Rheumatic fever",
+            "WDescription": "Rheumatic fever is an inflammatory condition which develops as a complication of group A streptococcal (bacterial) throat infection, and affects multi-organs of the body such as heart, joints, skin, and brain. The condition is most commonly seen in children between 5 and 15 years of age. Factors such as family history, poor immunity, and compromised environmental conditions (such as overcrowding and poor sanitation) can increase the risk of rheumatic fever. Symptoms include fever, fatigue, breathlessness, redness, pain and swelling of the joints, skin nodules and rashes, rapid involuntary movements like twitching, palpitations, and chest pain. ",
+            "VideoURL": "Rheumatic fever.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Rickets",
+            "WDescription": "Rickets is a bone disorder resulting from deficiency of vitamin D that leads to poor absorbtion of calcium from the blood. Often occurring in children, rickets leads to defective bone growth, bowed legs, narrow chest, soft bones and twich muscles.",
+            "VideoURL": "Rickets.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Roseola",
+            "WDescription": "Roseola is a very common viral infection affecting babies and young children aged between six months and three years. Most children have it before they are two years old. It is caused by the herpes virus. It is contagious and is easily passed on through saliva. Symptoms are high fever lasting for 3–5 days, runny nose, irritability, and tiredness. As the fever subsides, a raised, red rash appears on the face and body.",
+            "VideoURL": "Roseola.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Rotavirus",
+            "WDescription": "Rotavirus is a type of virus that commonly causes diarrhea in babies and young children. Sometimes the diarrhea is severe and may be accompanied by vomiting, fever, and dehydration. Almost all children are likely to be infected with rotavirus before they are five years old. Most often, the infection occurs during winter and spring months. It is highly contagious and spreads through close contact or hand-to-mouth contact (putting the hand in mouth after touching infected stools water or objects such as toys). ",
+            "VideoURL": "Rotavirus.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Rubella",
+            "WDescription": "Rubella is an infection of the skin and lymph nodes caused by the virus known as rubella virus. It is common among young, non-immunized adults and spreads through air and close contact. It is also known as German measles or 3-day measles. It is associated with appearance of rashes over the skin. Other symptoms include fever, swollen lymph nodes (those on the back of the neck are initially involved along with those behind the ear), headache, inflammation of the eye lids, and joint swelling. Children may have fewer symptoms than adults.\r\r",
+            "VideoURL": "Rubella.mp4"
+        },
+        {
+            "WID": "97",
+            "WTitle": "Scarlet fever",
+            "WDescription": "Scarlet fever is an infection caused by bacteria and is associated with fever and formation of scarlet colored rashes (hence the name). Other symptoms can include sore throat and swollen glands in the neck. It often develops as a result of throat infection (known as strep throat infections) and can spread through the droplets released in the air during coughing or sneezing.",
+            "VideoURL": "Scarlet fever.mp4"
+        },
+        {
+            "WID": "98",
+            "WTitle": "Scoliosis",
+            "WDescription": "Scoliosis is a disorder characterized by abnormal curving of the backbone (spine). The backbone may often be curved enough to resemble the letter ‘C’ or ‘S’. It can be noted in children during infancy or later (11–18 years of age) and commonly affects girls. Apart from the appearance of the back, symptoms and signs such as low backache, uneven shoulder or hips, and tiredness felt in the spine after standing\/sitting for long hours are also noted.",
+            "VideoURL": "Scoliosis.mp4"
+        },
+        {
+            "WID": "99",
+            "WTitle": "Sever's disease",
+            "WDescription": "Sever's disease is a painful condition of the heel found in growing children. It commonly occurs during early puberty and is caused by the heel bone growing faster than the muscles and tendons and pressing against the soft tissues.\r\r",
+            "VideoURL": "Sever's disease.mp4"
+        },
+        {
+            "WID": "100",
+            "WTitle": "Sexually transmitted disease",
+            "WDescription": "Sexually transmitted disease (STD) is an infection that spreads through unprotected sexual contact with an infected individual. It can be caused by bacteria, viruses or other microorganisms. These infectious agents are present in the body fluids such as blood, saliva and semen of infected individuals. STDs can also spread through intimate physical contact other than sex, while transmission through blood (either during blood transfusion, or during pregnancy or sharing infected needles and syringes) also occurs. Some of the common sexually transmitted disorders include gonorrhea, Chlamydia, genital herpes, AIDS, syphilis and human papilloma virus infections. Symptoms can vary with the type of infection. While some of the conditions can be treated, others (such as AIDS) do not have any cure and can be fatal.",
+            "VideoURL": "Sexually transmitted disease.mp4"
+        },
+        {
+            "WID": "101",
+            "WTitle": "Shaken baby syndrome",
+            "WDescription": "Shaken baby syndrome refers to the head trauma caused in infants below 2 years of age following violent shaking of the infant. It can also be caused by a direct blow to the head and by dropping or throwing the infant. Shaken baby syndrome is considered to be severe type of child abuse which can often lead to fatal complications. It is characterized by seizures, extreme irritability, loss of consciousness, vision loss and, vomiting in the affected infant.",
+            "VideoURL": "Shaken baby syndrome.mp4"
+        },
+        {
+            "WID": "102",
+            "WTitle": "Shigella",
+            "WDescription": "Shigella is a family of bacteria which can cause infections of the intestine, resulting in a condition called shigellosis. Such infections are mainly characterized by the occurrence of diarrhea, which may be bloody. Other symptoms can include high fever, abdominal cramps, loss of appetite and painful bowel movements. Shigella spreads through contact with infected feces or through consumption of contaminated food or water. It is common in children aged 2-4 years. ",
+            "VideoURL": "Shigella.mp4"
+        },
+        {
+            "WID": "103",
+            "WTitle": "Sinusitis",
+            "WDescription": "Sinusitis is the inflammation of the hollow air spaces known as sinuses present behind the forehead, cheeks, nasal bones and eyes. The sinuses can often be affected by viruses, bacteria or fungus, which occur following mucus build up within the sinuses. Conditions that can increase the risk of sinusitis include allergies, throat infections, and bony abnormalities of the nose. Symptoms can include cough, loss of smell, tiredness, facial tenderness, fever, headache, nasal congestion and sore throat.",
+            "VideoURL": "Sinusitis.mp4"
+        },
+        {
+            "WID": "104",
+            "WTitle": "Smallpox",
+            "WDescription": "Smallpox is a severe viral infection which is mainly characterized by the formation of numerous pus-filled-blisters over the skin. Other symptoms can include backache, confusion, diarrhea, tiredness, high fever, bleeding and severe headache. It is a contagious condition and spreads through air or close contact with an infected individual\/child. Small pox vaccines are given to children\/adults suspected to have been infected. ",
+            "VideoURL": "Smallpox.mp4"
+        },
+        {
+            "WID": "105",
+            "WTitle": "Strep throat",
+            "WDescription": "Strep throat is an infection of the throat commonly noted in school-aged children. It is the most common infection of the throat and is caused by bacteria that belong to the family of streptococcus. It spreads through droplets released while sneezing or coughing. Symptoms include high fever, reddening of the throat, sore throat, headache, loss of appetite and difficulty in swallowing. In rare cases, strep throat can lead to complications such as ear infections, sinusitis, rheumatic fever and infections of the kidneys.",
+            "VideoURL": "Strep throat.mp4"
+        },
+        {
+            "WID": "106",
+            "WTitle": "Stuttering",
+            "WDescription": "Stuttering or stammering is a type of speech disorder where syllables, sounds or words may be repeated or prolonged during speech. It is commonly observed in children between the ages of 2 and 5 years old, and may last for few years. In some children, it may persists beyond this age. Affected children tend to repeat certain words, struggle to speak continuously, or may drag out a word too long.",
+            "VideoURL": "Stuttering.mp4"
+        },
+        {
+            "WID": "107",
+            "WTitle": "Sudden infant death syndrome",
+            "WDescription": "Sudden infant death syndrome (SIDS) is the sudden death of infants aged below 1 year. The cause is often unknown, but factors such as sleeping on the stomach, exposure to cigarette smoke while in the womb or after birth, soft bedding, premature birth and others, increase the risk of sudden infant deaths. Such deaths occur without any symptoms. ",
+            "VideoURL": "Sudden infant death syndrome.mp4"
+        },
+        {
+            "WID": "108",
+            "WTitle": "Swimmer's ear",
+            "WDescription": "Swimmer's ear is an infection of the outer ear associated with inflammation and irritation of the affected ear. It is common among teenagers and is often caused by swimming in polluted water. Other causes can include: scratching the ear, objects stuck within the ear, and damage or irritation of the outer ear. Symptoms include pain in the ear, yellowish or foul smelling discharge from the ear, itching of the ear and loss of hearing.",
+            "VideoURL": "Swimmer's ear.mp4"
+        },
+        {
+            "WID": "109",
+            "WTitle": "Tapeworm",
+            "WDescription": "Tapeworm is a type of parasite that survives in the intestine of animals and humans. It commonly spreads from animals to humans when we consume raw or uncooked meat containing the eggs of the worm. They grow within the intestine and can lay more eggs. The severity of tapeworm infection can vary based on the location of the worm within the body, and can be associated with symptoms such as weakness, nausea, appetite loss, abdominal pain, fever, unexplained weight loss and seizures.",
+            "VideoURL": "Tapeworm.mp4"
+        },
+        {
+            "WID": "110",
+            "WTitle": "Tetanus",
+            "WDescription": "Tetanus is a serious bacterial infection which affects the nervous system and results in painful muscular contractions. It commonly affects the jaw and neck muscles leading to a condition known as ‘lock jaw.’ And it can also lead to life threatening situations. Tetanus bacteria live in the soil and can spread through wounds\/injuries. Once inside the body, the bacteria begin forming toxins which affect the nervous system, resulting in the symptoms such as difficulty in breathing and swallowing, uncontrolled urination or defecation.",
+            "VideoURL": "Tetanus.mp4"
+        },
+        {
+            "WID": "111",
+            "WTitle": "Thrush",
+            "WDescription": "Thrush is a common infection noted in infants below 6 years of age that causes irritation, in and around the mouth. It is caused by an abnormal growth of yeast (fungus) which is normally present in the mouth and digestive tract. Some of the symptoms include: cracked skin in the corner of the mouth or white patches on the lips, tongue, or inside the cheeks that cannot be wiped away. Trying to scrape these patches causes bleeding.",
+            "VideoURL": "Thrush.mp4"
+        },
+        {
+            "WID": "112",
+            "WTitle": "Tinea",
+            "WDescription": "Tinea is a type of fungus which causes skin infections. Such infections can be noticed in different areas of the body including the beard (cheeks), feet, scalp or groin. It can spread through touch and through the use of objects that have been used by an infected individual. Symptoms include itchy, round, red patches that appear like a ring, in the affected regions. Hair loss with bald patches may be found in cases of scalp infections.",
+            "VideoURL": "Tinea.mp4"
+        },
+        {
+            "WID": "113",
+            "WTitle": "Tonsillitis",
+            "WDescription": "Tonsillitis refers to infection and inflammation of the tonsils (lymph nodes in the back of the mouth and top of the throat). It is commonly seen in children and adolescents, and is mainly caused by bacterial or viral infection, which can spread through close contact with infected individuals. The early indicating signs can include redness of the tonsils and the presence of white spots on them. The lymph nodes in the jaw and neck may also be swollen and tender to the touch. Some of the other symptoms can include difficulty in swallowing, fever with chills, ear pain, headache, sore throat (which may be severe), jaw tenderness and loss of voice.",
+            "VideoURL": "Tonsillitis.mp4"
+        },
+        {
+            "WID": "114",
+            "WTitle": "Toxocariasis ",
+            "WDescription": "Toxocariasis is a type of worm infection caused by certain organisms (parasites) which resides in intestines of animals such as dogs and cats. It is common in children aged below 10 years, and is most often noted in children with the habit of putting things into their mouth. Toxocariasis is characterized by symptoms such as fever, abdominal pain, cough or wheezing, poor appetite and rashes. In some cases, it can also lead to vision abnormalities.",
+            "VideoURL": "Toxocariasis.mp4"
+        },
+        {
+            "WID": "115",
+            "WTitle": "Urinary incontinence",
+            "WDescription": "Urinary incontinence is a condition characterized by loss of urinary control. It is associated with signs such as bed wetting during sleep or accidental urination (can be as less as a few drops sometimes) during the day. This is a common phenomenon in children below 5 years of age who are yet to master toileting practices. Presence of the condition beyond this age needs consultation with a doctor to identify the underlying cause and treat it appropriately. Common causes can include anxiety, infrequent voiding, dietary habits, and certain structural abnormalities in the urinary system.",
+            "VideoURL": "Urinary incontinence.mp4"
+        },
+        {
+            "WID": "116",
+            "WTitle": "Vaccination",
+            "WDescription": "Vaccination or immunization is a process where a child is made immune to certain common infectious conditions. It involves the administration of small amounts of weakened or dead microorganisms as oral drops or injections. Exposure to such microorganisms helps the body’s immune system to form antibodies against them. This helps in preventing the occurrence of an infection when exposed to the active microorganism at any point of time. Many vaccinations are administered at different ages during childhood and help protect the child against several life-threatening infections.",
+            "VideoURL": "Vaccination.mp4"
+        },
+        {
+            "WID": "117",
+            "WTitle": "von Willebrand Disease",
+            "WDescription": "von Willebrand disease is one of the most common bleeding disorders. It affects the body’s ability to clot blood in case of an internal or external injury. It is an inherited condition and occurs due to the deficiency of a factor known as von Willebrand factor. Symptoms can include bleeding gums, easy bruising, skin rashes and nose bleeds.",
+            "VideoURL": "von Willebrand Disease.mp4"
+        },
+        {
+            "WID": "118",
+            "WTitle": "Warts",
+            "WDescription": "Warts are skin infections caused by a virus known as the human papilloma virus (HPV). The virus spreads through touch and can cause different types of warts that are categorized based on their location. Types can include common warts, plantar warts, flat warts and filiform warts. They are characterized by growths over the skin (flat, raised or finger like) in the affected regions. They are often painless.",
+            "VideoURL": "Warts.mp4"
+        },
+        {
+            "WID": "119",
+            "WTitle": "Whooping cough",
+            "WDescription": "Whooping cough or pertussis is a bacterial infection of the respiratory system associated with uncontrolled, violent cough. The bacteria can spread through air. The infection begins as a common cold and is followed by gradual development of coughing episodes. Coughing is often associated with a ‘whoop’ noise and makes it difficult to breathe; vomiting and loss of consciousness may also ensue.",
+            "VideoURL": "Whooping cough.mp4"
+        },
+        {
+            "WID": "120",
+            "WTitle": "Wilm's tumor",
+            "WDescription": "Wilm’s tumor or nephroblastoma is a rare type of kidney cancer observed in children. The exact cause of this condition is unknown. One or both kidneys may be affected and the common symptoms include abdominal pain, fever, constipation, uneasiness, increased blood pressure, abnormal growth, appetite loss, vomiting and abdominal swelling.\n",
+            "VideoURL": "Wilm's tumour.mp4"
+        }
+    ]
+}

@@ -1,0 +1,2104 @@
+{
+    "conciseophthalmology": [
+        {
+            "WID": "1",
+            "WTitle": "Aberration ",
+            "WDescription": "Aberration is the inability of light entering the eye to converge on the retina. This condition is perceived as distortion and is usually associated with astigmatism. ",
+            "VideoURL": "aberration.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Accommodation disorder",
+            "WDescription": "Accommodation disorder is the inability of the eye to change focus from one distance to another. This results from decreased elasticity of the lens in the eye. There are three major accommodation disorders. They are Myopia or short-sightedness wherein the image gets focused in front of the retina and hypertropia or long-sightedness that results from image getting focused behind the retina. The third condition astigmatism is the absence of sharp focus.",
+            "VideoURL": "Accomodation disorder.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Accomodation",
+            "WDescription": "Accommodation refers to the flexibility of eye lens to change its shape while viewing objects at different distances.",
+            "VideoURL": "Accommodation.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Achromatopsia ",
+            "WDescription": "Achromatopsia, also known as colour blindness, is a hereditary vision disorder that manifests as a deficiency in perception of colour due to monochromatic vision. This is due to insufficient photoreceptors called cones, which are normally present in the retina. In the absence of cones, another type of photoreceptor called rods take-up the function of providing vision. But, rods, which are basically for dark-adapted vision, do not provide colour vision or good detailed vision, and are very sensitive to bright light. Hence individuals with achromatopsia are totally or almost totally colour blind and have hazy vision or their vision is completely washed out in daylight. ",
+            "VideoURL": "Achromatopsia.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Acuity",
+            "WDescription": "Acuity is the clearness and sharpness of vision. Acuity depends on the sharpness of the retinal focus within the eye as well as central nervous system sensitivity. ",
+            "VideoURL": "Acuity.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Age-related macular degeneration",
+            "WDescription": "Age-related macular degeneration (AMD) is a degenerative condition that occurs due to advancing age. It affects the macula lutea or the central part of the retina where the rods and cones are most dense, causing some degree of vision loss.  It impairs the sharp central vision needed for tasks such as reading and color vision.",
+            "VideoURL": "Age-related macular degeneration.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Amaurosis ",
+            "WDescription": "Amaurosis is partial or total blindness of eye, a condition that does not involve any lesions. It results from disease of the optic nerve, spine or brain. It may also result from systemic causes such as diabetes, neurological diseases, kidney disease, or excessive alcohol intake or tobacco use rather than conditions that directly affect the eye.",
+            "VideoURL": "Amaurosis.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Amblyopia",
+            "WDescription": "Amblyopia is also known as lazy eye. It is the impairment of vision in one eye and is caused by developmental abnormalities in the vision. ",
+            "VideoURL": "Amblyopia.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Amsler grid testing",
+            "WDescription": "Amsler grid testing is a sensitive screening test to identify central visual field defect, particularly age related macular degeneration. Amsler grid consists of horizontal and vertical black lines on a white background, forming a square grid with a small central spot. The test is performed by wearing normal spectacles at normal readable distance by covering one eye, while the other eye is allowed to focus on the central spot of the grid. Patients with macular disease may see wavy lines or some lines may appear missing.",
+            "VideoURL": "Amsler grid testing.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Aniridia",
+            "WDescription": "Aniridia is a rare congenital hereditary condition characterised by underdeveloped iris and sometimes the absence of the iris. The condition usually occurs in both eyes due to poor development of the retina. A circular stump of tissue is observed using a gonioscope.",
+            "VideoURL": "Aniridia.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Anisometropia",
+            "WDescription": "Anisometropia is inequality of vision between the eyes. It is caused by different refractive powers in the two eyes, that is, one eye may be myopic (near sighted) and the other hyperopic (far sighted). In newborns and young children the condition may lead to amblyopia (vision impairment in one eye). ",
+            "VideoURL": "Anisometropia.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Anophthalmos ",
+            "WDescription": "Anophthalmos, also known as Anophthalmia, is the absence of one or both eyes due to developmental abnormalities in the foetus during the early stages of pregnancy. The condition is classified into three types -   primary anophthalmia that occurs due to complete absence of eye tissue as a result of failure in part of the brain that forms the eye, secondary anophthalmia that occurs when the eye starts developing but later terminates abruptly and degenerative anophthalmia that occurs when eye starts developing normally but later the ocular tissue gets disintegrated. ",
+            "VideoURL": "Anophthalmos.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Anterior chamber",
+            "WDescription": "Anterior chamber is the area between the cornea and the iris. The anterior chamber contains a fluid called aqueous humor.",
+            "VideoURL": "Anterior chamber.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Anterior ciliary sclerotomy (ACS)",
+            "WDescription": "Anterior ciliary sclerotomy (ACS) is a surgical procedure to treat glaucoma. Also known as anterior sclerotomy, it involves a surgical incision into the sclera of the anterior chamber of the eye. The incisions are symmetrical, radial and in partial-thickness that provides expansion of the sclera. It allows the eye to view close objects.",
+            "VideoURL": "Anterior ciliary sclerotomy (ACS).mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Anterior ischemic optic neuropathy (AION) ",
+            "WDescription": "Anterior ischemic optic neuropathy (AION), caused by eye stroke or stroke of the optic nerve, is a condition wherein the optic nerve is affected. AION occurs due to poor blood supply to the front or anterior portion of the optic nerve, which results in inadequate supply of nutrients and oxygen to the nerve tissues. This condition is often accompanied by change in visual perception, peripheral vision loss and light sensitivity.",
+            "VideoURL": "Anterior Ischemic Optic Neuropathy (AION).mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Anterior sclerotomy",
+            "WDescription": "Anterior sclerotomy is a surgical procedure to treat glaucoma. Also known as anterior ciliary sclerotomy (ACS), it involves a surgical incision into the sclera of the anterior chamber of the eye. The incisions are symmetrical, radial and in partial-thickness that provides expansion of the sclera. It allows the eye to view close objects. ",
+            "VideoURL": "Anterior sclerotomy.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Anterior vitrectomy",
+            "WDescription": "Anterior vitrectomy is the surgical removal of the vitreous gel from the vitreous chamber of the eye. This is usually done during cataract extraction.",
+            "VideoURL": "Anterior vitrectomy.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Aphakia",
+            "WDescription": "Aphakia is the total absence of the lens of the eye. It may be congenital or from trauma; but is most commonly caused by removal of a cataract, without artificial lens implantation.",
+            "VideoURL": "Aphakia.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Aqueous humour",
+            "WDescription": "Aqueous humour is the thin, clear, nourishing fluid that circulates between the lens and cornea. Constantly secreted by the ciliary body, the aqueous humour maintains intraocular pressure that gives the eyeball (globe) its shape.",
+            "VideoURL": "Aqueous humour.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Arcus",
+            "WDescription": "Arcus is an abnormal white or gray opaque curved or bow-like arc or ring located at the outer edge of the cornea. It is medically termed as arcus corneae. Arcus corneae present at birth or in childhood is called arcus juvenilis and when present in adults over 50 years of age it is known as arcus senilis. Arcus senilis results from the deposits of calcium and cholesterol in the cornea or from degeneration of cornea's  supporting framework (hyalinosis of corneal stroma).",
+            "VideoURL": "Arcus.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Arcus corneae",
+            "WDescription": "Arcus corneae is an abnormal white or gray opaque curved or bow-like arc or ring located at the outer edge of the cornea. Arcus corneae present at birth or in childhood is called arcus juvenilis and when present in adults over 50 years of age it is known as arcus senilis. Arcus senilis results from the deposits of calcium and cholesterol in the cornea or from degeneration of cornea's supporting framework (hyalinosis of corneal stroma).",
+            "VideoURL": "Arcus corneae.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Arden Grating Test",
+            "WDescription": "Arden grating test is a test of visual functions during the early stages of glaucoma and other sight-threatening diseases. This test uses sine-wave gratings that measure sensitivity of the eye to contrast. ",
+            "VideoURL": "Arden Grating Test.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Argyll Robertson pupil",
+            "WDescription": "Argyll Robertson pupil or Argyll Robertson syndrome is a disorder of the pupil characterised by small, irregular pupils involving one or both the eyes. The pupils respond to changes in distance but not to changes in light. The condition is often associated with advanced neurosyphilis, but can also occur due to multiple sclerosis, brain injury, or vitamin B1 (thiamine) deficiency.",
+            "VideoURL": "Argyll Robertson pupil.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Argyll Robertson syndrome",
+            "WDescription": "Argyll Robertson syndrome or Argyll Robertson pupil is a disorder of the pupil characterised by small, irregular pupils involving one or both the eyes. The pupils respond to changes in distance but not to changes in light. The condition is often associated with advanced neurosyphilis, but can also occur due to multiple sclerosis, brain injury, or vitamin B1 (thiamine) deficiency.",
+            "VideoURL": "Argyll Robertson syndrome.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "A-scan",
+            "WDescription": "A-scan is an ultrasound technique used to diagnose abnormalities in eye tissue (diagnostic A-scan) and to measure the length of the eyeball, from cornea to retina (biometric A-scan). Diagnostic A-scan differentiates tissues within the eye for example - tumor. Biometric A-scan aids to determine the power of intraocular lens to be implanted in the eye during a cataract surgery.",
+            "VideoURL": "A-Scan.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Asthenopia",
+            "WDescription": "Asthenopia is a condition that is caused due to ciliary muscle strain or eye fatigue. The primary symptom is pain around or within the eyes. Other symptoms include headache, dizziness and dim vision which may be accompanied by nausea.",
+            "VideoURL": "Asthenopia.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Astigmatic keratotomy (AK)",
+            "WDescription": "Astigmatic keratotomy is a corrective surgery for astigmatism. The affected part of the cornea is excised. ",
+            "VideoURL": "Astigmatic Keratomy.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Astigmatism",
+            "WDescription": "Astigmatism is an optical defect caused by irregularities in the cornea or lens of the eye, leading to blurred vision or distorted image.",
+            "VideoURL": "Astigmatism.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Automated lamellar keratoplasty (ALK)",
+            "WDescription": "Automated lamellar keratoplasty is a surgery to re-shape the cornea; a treatment option for myopia and hyperopia. A flap is created using microkeratome and removes a thin disc of corneal stroma. The disc dimensions relate to changes required for correction of the refractive error. ",
+            "VideoURL": "Automated lamellar keratoplasty (ALK).mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Bell's plasy",
+            "WDescription": "Bell's palsy, the most common form of facial palsy, is the paralysis of the facial nerve, the nerve that stimulates the muscles on one side of the face. ",
+            "VideoURL": "Bell's Palsy.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Bietti's crystalline corneo-retinal dystrophy",
+            "WDescription": "Bietti's crystalline corneo-retinal dystrophy or Bietti’s crystalline dystrophy is a rare genetic eye disease that involves the formation of crystals in the cornea, yellow shiny deposits on the retina, and progressive atrophy or degeneration of the retina and choroids (a pigmented, vascular coat of the eye). This results in night blindness and visual field constriction.",
+            "VideoURL": "Bietti's crystalline corneo-retinal dystrophy.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Bietti's crystalline dystrophy (BCD)",
+            "WDescription": "Bietti's crystalline dystrophy or Bietti’s crystalline corneo-retinal dystrophy is a rare genetic eye disease that involves the formation of crystals in the cornea, yellow shiny deposits on the retina, and progressive atrophy or degeneration of the retina and choroids (a pigmented, vascular coat of the eye). This results in night blindness and visual field constriction.",
+            "VideoURL": "Bietti's crystalline dystrophy.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Bifocals",
+            "WDescription": "Bifocals are lenses with two segments of different refractive powers; the upper part of the lens for ordinary or distant vision, and the lower part for near vision for close work such as reading or sewing. Bifocal glasses are usually prescribed for presbyopia, blurred vision which is caused due to advancing age.",
+            "VideoURL": "Bifocals.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Binocular vision ",
+            "WDescription": "Binocular vision is the ability to maintain focus on an object with both eyes to produce a single image in the brain. Binocular vision is important in perceiving the depth and measuring the range of vision.  ",
+            "VideoURL": "Binacular Vision.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Birefringence ",
+            "WDescription": "Birefringence is an optical property of a substance that causes double refraction of light waves. Scanning laser polarimetry uses birefringence to measure the thickness of  retinal nerve fibre layer which helps assess and monitor glaucoma. ",
+            "VideoURL": "Birefringence.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Blepharitis",
+            "WDescription": "Blepharitis is an inflammation of the eyelids along the eyelashes due to an overgrowth of bacteria. It causes burning, redness, irritation, itchy eyelids and scaly skin on the eyelashes.",
+            "VideoURL": "Blepharitis.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Blepharoplasty ",
+            "WDescription": "Blepharoplasty is a surgical procedure that removes fatty deposits or surplus tissue on the eyelids. Also known as tarsoplasty, it is done mostly for cosmetic purposes. Correction of sagging eyelids is also done by blepharoplasty and is known to improve the appearance of the eye.",
+            "VideoURL": "Blepharoplasty.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Blind spot",
+            "WDescription": "Blind spot is the small oval-shaped area on the retina where no visual image is transmitted as it is devoid of light receptor cells. The optic nerve also enters the eye through the blind spot.",
+            "VideoURL": "Blind spot.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Blurred vision",
+            "WDescription": "Blurred vision refers to indistinctiveness, clouding or fogging of vision. Blurred vision may be due to near or farsightedness that requires corrective lenses or due to conditions such as migraine and stroke. ",
+            "VideoURL": "Blurred vision.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "B-scan",
+            "WDescription": "B-scan or B-scan ultrasonography is an ultrasound diagnostic procedure. It is used to view the cross-sectional plane of the eye and its orbit. Two-dimensional images are caught on a cathode ray tube. A bright dot is used to measure brightness, time elapsed and the strength of the echo. ",
+            "VideoURL": "B-scan.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "B-scan ultrasonography",
+            "WDescription": "B-scan ultrasonography or B-scan is an ultrasound diagnostic procedure. It is used to view the cross-sectional plane of the eye and its orbit. Two-dimensional images are caught on a cathode ray tube. A bright dot is used to measure brightness, time elapsed and the strength of the echo.",
+            "VideoURL": "B-scan ultrasonography.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Bulbus oculi",
+            "WDescription": "Bulbus oculi also known as eyeball is the spherical shaped part of the eye that is moved by ocular muscles. Bulbus oculi is contained within the orbital cavity where it is cushioned by adipose tissue and protected from injury. Bulbus oculi focuses a visual scene onto the retina. The bulbus oculi is larger than usual in case of myopia and smaller in hyperopia. Bulbus oculi is generally referred to as or bulb or globe of eye.",
+            "VideoURL": "Bulbus oculi.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Canal of schlemm",
+            "WDescription": "Canal of schlemm, also known as Schlemm's canal, is a venous sinus that is small and circular, located at the junction of the sclera and cornea. It drains out aqueous humor from the anterior chamber to the bloodstream via the anterior ciliary veins. ",
+            "VideoURL": "Canal of schlemm.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Canaliculitis",
+            "WDescription": "Canaliculitis is lacrimal duct inflammation. Lacrimal ducts are small channels that open into each eyelid. Canaliculitis is characterized by redness and irritation of the eye, often accompanied with slight discharge due to compression of the canaliculus. The lower canaliculus is mostly affected.",
+            "VideoURL": "Canaliculitis.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Canaliculotomy",
+            "WDescription": "Canaliculotomy involves surgical incision of lacrimal punctum (minute circular opening of lacrimal duct on the margin of each eyelid) and lacrimal canals to provide relief for epiphora (excessive tear production accompanied with insufficient drainage of tear due to obstruction of lacrimal duct).",
+            "VideoURL": "Canaliculotomy.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Canaliculus ",
+            "WDescription": "Canaliculus is a small channel though which tears drain in to the nose.",
+            "VideoURL": "Canaliculus.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Canaloplasty",
+            "WDescription": "Canaloplasty is a minimally invasive procedure to enhance or restore the eye’s natural drainage system that helps in surgical treatment of glaucoma. During the procedure, a microcatheter is passed through a tiny incision made in the sclera of the eye. The catheter is passed through the canal around the iris and a gel like material is injected into the catheter to enlarge the main and smaller drainage channels. This procedure reduces intra ocular pressure. ",
+            "VideoURL": "Canaloplasty.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Canthectomy",
+            "WDescription": "Canthectomy is the surgical removal of a canthus (the angle formed on either side of the eye at the point where upper and lower eyelids meet).",
+            "VideoURL": "Canthectomy.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Cantholysis",
+            "WDescription": "Cantholysis or canthoplasty is a surgical procedure to divide the upper and lower eyelids through the canthus (corner of the eye). During the procedure, the canthus is separated from its underlying bone and tendon. Cantholysis is done lengthen the fissure of the canthus or surgically re-construct a new canthus when it has been destroyed by injury or disease.",
+            "VideoURL": "Cantholysis.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Canthopexy",
+            "WDescription": "Canthopexy is the corrective surgical procedure that is used to rectify drooping eyelids. The procedure preformed under local anaesthesia involves tightening of the lower eyelids by tightening the lateral canthal tendons (muscles) and raising the external corners of the eye. Canthopexy can be performed in conjunction with blepharoplasty. It is also performed to treat conditions such as entropion (a condition where the eyelids are turned inwards) and dry eyes.",
+            "VideoURL": "Canthopexy.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Canthoplasty",
+            "WDescription": "Canthoplasty or cantholysis is a surgical procedure to divide the upper and lower eyelids through the canthus (corner of the eye). During the procedure, the canthus is separated from its underlying bone and tendon. Canthoplasty is done lengthen the fissure of the canthus or surgically re-construct a new canthus when it has been destroyed by injury or disease.",
+            "VideoURL": "Canthoplasty.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Canthorrhaphy",
+            "WDescription": "Canthorrhaphy is a surgical procedure to shorten the palpebral fissure of the eyelids by sewing them at either canthus.",
+            "VideoURL": "Canthorrhaphy.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Canthotomy",
+            "WDescription": "Canthotomy is the surgical incision of the outer canthus. The procedure is done to release increased orbital pressure especially during orbital haemorrhage or eye infection. It also refers to lengthening the palpebral fissure by making an incision through the lateral canthus.",
+            "VideoURL": "Canthotomy.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Canthus",
+            "WDescription": "Canthus is the lateral angle between the eyelids at the ends of the fissure. ",
+            "VideoURL": "Canthus.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Cat eye syndrome",
+            "WDescription": "Cat eye syndrome is a rare condition that occurs due to an autosomal anomaly on the small arm of chromosome 22. It is characterized by a cat-like slit of the iris (vertical coloboma), down slanting eye slits (palpebral fissures) and anal atresia. Frequently there are also tissue tags in front of the ears,  heart abnormalities and kidney abnormalities.",
+            "VideoURL": "Cat Eye Syndrome.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Cataract",
+            "WDescription": "Cataract is a condition caused when the lens or lens capsule of the eyes becomes opaque due to deposition of proteins, which obstructs the passage of light. Cataract is usually associated with advancing age, however, other causes related to this condition include hereditary, congenital, traumatic or metabolic disorders, such as diabetes mellitus. Primary symptoms include blurring or dimmed vision, which progresses as the deposition of proteins increases.",
+            "VideoURL": "Cataract.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Cataract extraction",
+            "WDescription": "Cataract extraction is a vision improving procedure that involves removal of cataract (clouded lens) by surgery. Intraocular lens is used to replace the affected lens.",
+            "VideoURL": "Cataract extraction.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Cellophane retinopathy",
+            "WDescription": "Cellophane retinopathy refers to a thin layer of  scar tissue on the surface of macula that results in wrinkling and distortion of the retina. The symptoms of cellophane retinopathy range from minor distortion of images to  severe loss of vision. Cellophane retinopathy is also referred to as epiretinal membrane, surface wrinkling retinopathy, macular pucker and internal limiting membrane disease.",
+            "VideoURL": "Cellophane retinopathy.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Central fovea ",
+            "WDescription": "Central fovea, also called fovea or fovea centralis, is an area on the retina that appears as a tiny pit or depression. It consists of only cone cells (photoreceptor cells), which are closely packed than elsewhere in the retina. Central fovea is responsible for sharp central vision and superior colour vision.",
+            "VideoURL": "Central fovea.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Central retinal artery ",
+            "WDescription": "Central retinal artery is a branch of the artery that carries blood into the eye. It supplies blood and nutrition to the inner retina and surface of the optic nerve. ",
+            "VideoURL": "Central retinal artery.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Central retinal vein",
+            "WDescription": "Central retinal vein, like the central retinal artery runs inferior to the optic nerve. Similarly, it is also enclosed within the dural sheath of the optic nerve. It drains the optic disc and is an important venous vasculature that drains into the deep venous sinus.",
+            "VideoURL": "Central retinal vein.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Central vision ",
+            "WDescription": "Central vision, also called as direct vision, is the ability to focus on objects distinctly when looking straight ahead. Macula, a small spot in the retina where cone cells are tightly packed, is responsible for light sensitivity, color and fine detailed vision, thereby playing a vital role in central vision. Central vision is essential for reading, driving, interpreting the shape of objects, watching television and other routines where detailed vision is necessary.",
+            "VideoURL": "Central Vision.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Chalazion",
+            "WDescription": "Chalazion, also known as meibomian cyst, tarsal cyst or conjunctival granuloma, is a small eyelid cyst. It is a chronic inflammatory condition that occurs due to retention of secretions in one of the meibomian glands. Chalazion sets out as  diffuse swelling and tenderness that later forms a cyst-like localized swelling. ",
+            "VideoURL": "Chalazion.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Chandler's  syndrome",
+            "WDescription": "Chandler's syndrome is a condition related to the eye involving the inner corneal layer. The inner corneal layer proliferates and causes drying up of the iris, swelling of the cornea, and glaucoma. This abnormal corneal layer is also seen in other conditions such as Cogan-Reese syndrome and progressive iris atrophy. Chandler's syndrome is commonly seen in young women and presents as a unilateral condition, but some times bilateral. The progressive corneal dystrophy and glaucoma result in impaired vision accompanied by pain.",
+            "VideoURL": "Chandler's syndrome.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Choroid",
+            "WDescription": "Choroid is a pigmented vascular coat of the eye found between the sclera on the exterior and retina internally. Choroid forms a part of the uveal tract along with the ciliary body and iris. This dark brown-pigmented layer contains blood vessels which provide oxygen and nutrients to the outer layers of retina. Choroid prevents light rays scattering and causing internal reflection of light and thereby aids in focusing light rays on the retina. ",
+            "VideoURL": "Choroid.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Choroiditis",
+            "WDescription": "Choroiditis is the inflammation of choroid layer (vascular coat) of the eye. Choroiditis causes blurred vision.",
+            "VideoURL": "Choroiditis.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Ciliaris",
+            "WDescription": "Ciliaris, also called ciliary muscle, is the smooth muscle of the ciliary body. The contraction and relaxation of these muscles results in changes in the lens thickness, according to the light that enters the eye. This action allows the focusing of light onto the retina.",
+            "VideoURL": "Ciliaris.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Ciliarotomy",
+            "WDescription": "Ciliarotomy is division of the ciliary zone of iris by surgery to treat glaucoma.",
+            "VideoURL": "Ciliarotomy.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Ciliary body",
+            "WDescription": "Ciliary body is a muscular ring of tissue that encircles the lens. It is composed of ciliary muscle that changes the shape of the lens when the eye focuses on an object, a process called accommodation, and ciliary processes containing capillaries, which secretes the fluid aqueous humor into the anterior segment of the eye. Attached to the anterior portion of the ciliary body are tiny fibres called suspensory ligaments, or zonular fibres, connecting it to the lens.",
+            "VideoURL": "Ciliary Body.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Ciliary muscle",
+            "WDescription": "Ciliary muscle, also called ciliaris, is the smooth muscle of the ciliary body. The contraction and relaxation of these muscles results in changes in the lens thickness, according to the light that enters the eye. This action allows the focusing of light onto the retina.",
+            "VideoURL": "Ciliary muscle.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Ciliectomy",
+            "WDescription": "Ciliectomy or Cycletomy is the surgical removal of a part of the ciliary body. The procedure may also involve the removal of eyelid’s ciliary border.",
+            "VideoURL": "Ciliectomy.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Coat's disease",
+            "WDescription": "Coat's disease, an idiopathic disorder, is characterised by an abnormal development of retinal blood vessels with progressive deposition of exudates (intraretinal or subretinal), that could potentially result in exudative retinal detachment. The condition occurs unilaterally and is commonly seen in young males. ",
+            "VideoURL": "Coat's Disease.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Cogan's Dystrophy",
+            "WDescription": "Cogan's dystrophy, also known as map-dot-fingerprint dystrophy, cogan microcystic epithelial dystrophy, anterior basement membrane dystrophy or epithelial basement membrane dystrophy, is an eye disorder that affects corneal epithelium, which is the outermost layer of cornea. Cogan's dystrophy is characterised by fingerprint - like pattern and dots within the cornea. The underlying basement membrane of epithelium undergoes thickening, which results in the weakening of bonds between the cells in turn resulting in the loosening or sloughing off epithelial cells, a condition called corneal erosion. This condition is often accompanied by sensitivity to light, blurring of vision, mild to extreme pain and irritation.",
+            "VideoURL": "Cogan's Dystrophy.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Coloboma",
+            "WDescription": "Coloboma is a congenital defect in any one of the structures of the eye such as eyelids, choroid, ciliary body, iris, lens, optic nerve, or retina due to the failure of a part of the fetal optic fissure to close completely during the fifth to seventh week of gestation.",
+            "VideoURL": "Coloboma.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Color blindness",
+            "WDescription": "Color blindness or color vision deficiency is the absence or dysfunction of cones (color-sensing pigments) in the retina. This results in an inability to distinguish  the colors. The most common is the red\/green color blindness where one has trouble to distinguish between red and green. Color blindness is a genetic disorder that is due to the recessive gene on the X-chromosome. It may also occur due to eye, nerve, or brain damage, or exposure to certain chemicals.",
+            "VideoURL": "Colour Blindness.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Computer vision syndrome",
+            "WDescription": "Computer vision syndrome (CVS) is vision problems that result from the continuous focusing of eyes on computer monitor. Staring at the monitor for long periods, with infrequent blinking results in fatigue of the eye. This manifests as burning, dryness and sometimes difficulty in focusing.",
+            "VideoURL": "Computer vision syndrome.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Cone cells",
+            "WDescription": "Cone cells, also known as retinal cones are a type of photoreceptor cells located on the retina. Cones are responsible for the sharpness of central vision. Cones are sensitive to bright and color light rays and converts light into nerve impulses. ",
+            "VideoURL": "Cone cells.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Conjunctiva",
+            "WDescription": "Conjunctiva is a thin transparent mucous membrane that lines the inner part of the eyelid and the exposed surface of the eyeball. The portion of the conjunctiva lining the inner part of the eyelid is made up of columnar epithelium and is extremely vascular while the corneal portion is avascular, made up of stratified epithelium. The mucous produced by the conjunctival cells lubricates the eye and being the first layer, conjunctiva protects the eye from infection.",
+            "VideoURL": "Conjunctiva.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Conjunctival granuloma",
+            "WDescription": "Conjunctival granuloma,  also known as chalazion, meibomian cyst or  tarsal cyst,  is a small eyelid cyst. It is a chronic inflammatory condition that occurs due to retention of secretions in one of the meibomian glands. Conjunctival granuloma sets out as diffuse swelling and tenderness that later forms a cyst-like localized swelling. ",
+            "VideoURL": "Conjunctival granuloma.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Conjunctivitis",
+            "WDescription": "Conjunctivitis, commonly known as pink eye, is the inflammation in the conjunctiva, the membrane covering the inner eyelids and white of the eye. The condition is characterized by redness, discomfort and watery discharge from the affected eye.",
+            "VideoURL": "Conjunctivitis.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Convergence",
+            "WDescription": "Convergence is eyeball movement when exposed to light. The movement is inward as the eye tries to focus on the light that enters from various angles in order to get clear vision. This kind of eyeball movement is by the stimulation of retina in both the eyes by light.",
+            "VideoURL": "Convergence.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Convergent strabismus",
+            "WDescription": "Convergent strabismus also referred to as esotropia, cross-eye, or internal strabismus, is an abnormality that results in diplopia. Convergent strabismus that can occur in one or both eyes is due to the visceral axis deviation of an eye toward the other eye.",
+            "VideoURL": "Convergent strabismus.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Coredialysisis",
+            "WDescription": "Coredialysisis or iridodialysis is the tearing away of iris from its ciliary attachment. Coredialysisis usually occurs as a result of trauma to the eye.",
+            "VideoURL": "Coredialysis.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Corelysis ",
+            "WDescription": "Corelysis is removal or destroying of the pupil by surgery. The procedure involves disconnecting of the lens from the papillary margins of the iris. ",
+            "VideoURL": "Corelysis.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Coremorphosis",
+            "WDescription": "Coremorphosis is a constructive surgery for replacing the pupil with an artificial one.",
+            "VideoURL": "Coremorphosis.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Coreoplasty",
+            "WDescription": "Coreoplasty, also known as coroplasty or coreplasty, is a plastic surgery that involves rectification of occluded,  misshapen or miotic pupil. ",
+            "VideoURL": "Coreoplasty.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Coreplasty",
+            "WDescription": "Coroplasty, also known as Coreoplasty or coreplasty, is a plastic surgery that involves rectification of occluded,  misshapen or miotic pupil.",
+            "VideoURL": "Coreplasty.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Cornea",
+            "WDescription": "Cornea is a thin, curved transparent anterior portion of the eye. It extends from the sclera and covers iris, pupil and anterior chamber. The cornea is convex anteriorly and is involved in refracting light rays to focus them on to the retina. The cornea contains no blood vessels to nourish or protect it against infection. It receives nutrition from the tears and aqueous humour that fills the chamber behind it.  The corneal tissue has five layers namely anterior corneal epithelium, bowman's layer, stroma, descemet’s membrane and corneal endothelium.",
+            "VideoURL": "Cornea.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Corneal abrasion",
+            "WDescription": "Corneal abrasion is the trauma on the surface of the eye, usually manifesting as scratches, which may be small or large. Common causes include brushing of objects against the eye, such as tree branches, poking the eye with fingers, overuse of contact lenses, disruption in the integrity of the corneal epithelium and entry of particles such as sand or dust into the eye. Corneal abrasions are the most commonly neglected eye injuries. Corneal abrasion is characterised by redness, pain, blurred vision, photophobia (light sensitivity), swollen eyelids and excessive tears.",
+            "VideoURL": "Corneal abrasion.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Corneal edema",
+            "WDescription": "Corneal edema is fluid accumulation in the cornea leading to swelling. The swelling breaks the lamellar structure and reduces the transparency. The fluid accumulation may result from ocular surgery or other conditions such as infection, inflammation or trauma. Secondary ocular defects also cause corneal edema. ",
+            "VideoURL": "Corneal edema.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Corneal endothelium",
+            "WDescription": "Corneal endothelium is one of the 5 layers of cornea, which covers the posterior surface of the cornea. It also acts as an endothelial lining for the anterior chamber. Corneal endothelium allows passage of solutes and nutrients from the aqueous humour to the superficial layers of the cornea and at the same time it pumps fluid in the opposite direction, that is, from the stroma to the aqueous chamber to maintain stromal transparency by keeping it relatively dehydrated. Destruction of many of these endothelial cells may result in corneal oedema and blindness. ",
+            "VideoURL": "Corneal Endothelium.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Corneal erosion",
+            "WDescription": "Corneal erosion or recurrent corneal erosion is a corneal disorder characterised by the failure of cornea's outermost layer (epithelium) to attach to the underlying basement membrane (Bowman's layer). This exposes the sensitive corneal nerve endings, causing severe pain.",
+            "VideoURL": "Corneal Erosion.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Corneal grafting",
+            "WDescription": "Corneal grafting, also referred to as penetrating keratoplasty or corneal transplant surgery, is an eye surgery to replace scarred or damaged cornea with a donor's cornea or graft.  By using a circular cutting device called trephine a circular piece of recipient’s scarred cornea is removed. A circular disc of similar size is cut from the donor cornea and is placed where the recipient’s cornea is removed, which is then sewn in place with extremely fine nylon sutures.  Corneal transplant surgery is extremely useful to improve vision in conditions such as distorted corneal curvatures, corneal oedema, severe eye infections and trauma.",
+            "VideoURL": "Corneal Grafting.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Corneal ring ",
+            "WDescription": "Corneal ring is a small plastic ring, which is implanted into the transparent structure called cornea located in front of the eye. Corneal ring implants flatten the cornea and allow light to focus on the retina. Corneal ring implantation reduces the degree of nearsightedness. Although it is intended to be permanent, can be removed if desired.",
+            "VideoURL": "Corneal Ring.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Corneal scars",
+            "WDescription": "Corneal scars are scratches on the cornea that lead to vision impairment. The scratches are usually deep and form a mesh on the cornea; affecting the vision. Corneal transplants in these cases restore vision.",
+            "VideoURL": "Corneal scar.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Corneal Topography",
+            "WDescription": "Corneal Topography, also known as photokeratoscopy or videokeratography, is a computer assisted imaging technique for mapping the shape of cornea. Multiple light concentric rings are focused on the patient’s cornea. A charge-coupled device (CCD) camera captures the reflected image. Computer software digitizes the data points and displays the results in different formats. Corneal Topography is used to diagnose visual disturbances caused by corneal deformities, for fitting contact lenses, in planning refractive surgery and in determining the amount of corneal tissue to be removed for correcting visual defects.",
+            "VideoURL": "Corneal Topography.mp4"
+        },
+        {
+            "WID": "97",
+            "WTitle": "Corneal transplant surgery",
+            "WDescription": "Corneal transplant surgery, also referred to as penetrating keratoplasty or corneal grafting, is an eye surgery to replace scarred or damaged cornea with a donor's cornea or graft.  By using a circular cutting device called trephine, a circular piece of recipient’s scarred cornea is removed. A circular disc of similar size is cut from the donor cornea and is placed where the recipient’s cornea is removed, which is then sewn in place with extremely fine nylon sutures.  Corneal transplant surgery is extremely useful to improve vision in conditions such as distorted corneal curvatures, corneal oedema, severe eye infections and trauma. ",
+            "VideoURL": "Corneal Transplant Surgery.mp4"
+        },
+        {
+            "WID": "98",
+            "WTitle": "Corneal Ulcer",
+            "WDescription": "Corneal ulcer is the inflammation of corneal tissue, the clear structure in front of the eye, due to  infection by bacteria, fungi, virus or also due to injury. It is common in people who wear contact lenses. The condition is characterised by red eye, eye pain, light sensitivity, tearing and discharge of pus.",
+            "VideoURL": "Corneal Ulcer.mp4"
+        },
+        {
+            "WID": "99",
+            "WTitle": "Coroplasty",
+            "WDescription": "Coroplasty, also known as Coreoplasty or coreplasty, is a plastic surgery that involves rectification of occluded,  misshapen or miotic pupil.",
+            "VideoURL": "Coroplasty.mp4"
+        },
+        {
+            "WID": "100",
+            "WTitle": "Corotomy",
+            "WDescription": "Corotomy is an incision into the iris; usually performed using a laser.  It is used in the treatment of primary closed-angle glaucoma (PCAG).  The laser is used to make a hole in the iris, thereby allowing aqueous humour to drain through into the anterior chamber and onward into the scleral venous sinus (canal of Schlemm). The procedure is also known as iridotomy, iritomy or irotomy.",
+            "VideoURL": "Corotomy.mp4"
+        },
+        {
+            "WID": "101",
+            "WTitle": "Cortical cataract",
+            "WDescription": "Cortical cataract is an abnormal opacity seen in the cortex of the lens, which begins as whitish streaks that extend to the front of the lens. Symptoms of cortical cataract are decrease in vision, glare and double vision.",
+            "VideoURL": "Cortical Cataract.mp4"
+        },
+        {
+            "WID": "102",
+            "WTitle": "Cotton Wool Spot",
+            "WDescription": "Cotton-wool spot is yellowish white or grey, opaque spots that appear on the surface of retina containing nerve fibres. These spots appear as a result of reduced blood supply to the retina which damages the nerve fibres leading to swelling and discoloration of the area.",
+            "VideoURL": "Cotton Wool Spots.mp4"
+        },
+        {
+            "WID": "103",
+            "WTitle": "Cross-eye",
+            "WDescription": "Cross-eye, also referred to as esotropia, convergent strabismus or internal strabismus, is an abnormality that results in diplopia. Cross-eye that can occur in one or both eyes is due to the visceral axis deviation of an eye toward the other eye.",
+            "VideoURL": "Cross-eye.mp4"
+        },
+        {
+            "WID": "104",
+            "WTitle": "Cyclectomy",
+            "WDescription": "Cyclectomy or ciliectomy is the surgical removal of a part of the ciliary body. The procedure may also involve the removal of eyelid’s ciliary border.",
+            "VideoURL": "Cyclectomy.mp4"
+        },
+        {
+            "WID": "105",
+            "WTitle": "Cycloplegic refraction",
+            "WDescription": "Cycloplegic refraction is a procedure that determines a patient's refractive error after lens accommodation is temporarily paralysed by administration of cycloplegic eye drops.",
+            "VideoURL": "Cycloplegic refraction.mp4"
+        },
+        {
+            "WID": "106",
+            "WTitle": "Dacryoadenectomy",
+            "WDescription": "Dacryoadenectomy is the surgical removal of a lacrimal gland.",
+            "VideoURL": "Dacryoadenectomy.mp4"
+        },
+        {
+            "WID": "107",
+            "WTitle": "Dacryocyst",
+            "WDescription": "Dacryocyst is the upper wide portion of the naso-lacrimal duct. Small ducts that release the tears pass over the surface of the eye, run towards the median canthus and drain out into lacrimal canaliculi. From the lacrimal canaliculi, the tears drain into the lacrimal sac and then to the nasolacrimal duct. Dacryocyst is also known as lacrimal sac or tear sac.",
+            "VideoURL": "Dacryocyst.mp4"
+        },
+        {
+            "WID": "108",
+            "WTitle": "Dacryocystectomy ",
+            "WDescription": "Dacryocystectomy is a procedure to remove the wall of lacrimal sac. This procedure is used for lacrimal sac tumours and less commonly for correction of chronic dacryocystitis in the elderly. ",
+            "VideoURL": "Dacryocystectomy.mp4"
+        },
+        {
+            "WID": "109",
+            "WTitle": "Dacryocystitis",
+            "WDescription": "Dacryocystitis refers to infection of the nasolacrimal sac. It is caused by congenital atresia of the nasolacrimal duct in children and by dacryostenosis in adults. Dacryocystitis can be acute or chronic. Common causative agents are Staphylococcus aureus and Streptococcus pneumoniae. The condition is  characterised by constant tearing. The other symptoms include pain and redness over the nasolacrimal sac.",
+            "VideoURL": "Dacryocystitis.mp4"
+        },
+        {
+            "WID": "110",
+            "WTitle": "Dacryocystorhinostomy ",
+            "WDescription": "Dacryocystorhinostomy is the surgical creation of a new bypass channel between the lacrimal sac and the nasal cavity. This surgery is performed to restore the flow of tears into the nose from the lacrimal sac when the nasolacrimal duct is blocked. The procedure involves removal of the intervening bone between the lacrimal sac and nasal cavity after which the  lacrimal sac is connected to the lining of inside of the nose. ",
+            "VideoURL": "Dacryocystorhinostomy.mp4"
+        },
+        {
+            "WID": "111",
+            "WTitle": "Diabetic retinopathy",
+            "WDescription": "Diabetic retinopathy is a complication due to chronic diabetes. Microvascular changes in the retina leads to impaired vision and eventually blindness. Retinal changes include haemorrhages or blots, microaneurysms seen as dots, exudates and cotton-wool spots due to retinal ischemia. These initial events are followed by severe retinal ischemia, neo-visualization and fibrosis that develop into vitreous haemorrhages. The retina becomes detached and macula is damaged causing loss of central vision.",
+            "VideoURL": "Diabetic Retinopathy.mp4"
+        },
+        {
+            "WID": "112",
+            "WTitle": "Diopter",
+            "WDescription": "Diopter is the standard unit to measure refractive power of lenses. A lens of 1 diopter has a focal length of 1 meter.",
+            "VideoURL": "Diopter.mp4"
+        },
+        {
+            "WID": "113",
+            "WTitle": "Diplopia",
+            "WDescription": "Diplopia also known as Double vision is a condition in which single object appears as double. Diplopia occurs as a result of  either defective functioning of the extraocular muscles or a disorder of the nerves that stimulate these muscles. Diplopia usually occurs as symptom of  strabismus. ",
+            "VideoURL": "Diplopia.mp4"
+        },
+        {
+            "WID": "114",
+            "WTitle": "Divergent strabismus",
+            "WDescription": "Divergent strabismus is strabismus in which there is permanent deviation of the visceral axis of one eye away from that of the other, resulting in diplopia.  It is also called external strabismus, exotropia, and walleye.",
+            "VideoURL": "Divergent strabismus.mp4"
+        },
+        {
+            "WID": "115",
+            "WTitle": "Double vision",
+            "WDescription": "Double vision, medically termed as diploplia. is a condition in which single object appears as double. Double vision occurs as a result of  either defective functioning of the extraocular muscles or a disorder of the nerves that stimulate these muscles. Double vision usually occurs as symptom of  strabismus. ",
+            "VideoURL": "Double vision.mp4"
+        },
+        {
+            "WID": "116",
+            "WTitle": "Drainage implant",
+            "WDescription": "Drainage implant is a surgical procedure recommended for certain glaucoma types especially when trabeculectomy has failed. The unidirectional valves, that are incorporated into the sclera maintain intraocular pressure. ",
+            "VideoURL": "Drainage implant.mp4"
+        },
+        {
+            "WID": "117",
+            "WTitle": "Drusen ",
+            "WDescription": "Drusen is the central retinal vein occlusion that manifests as yellowish, hyaline growth  on the Bruch's membrane of the choroid and forms one of the most common early signs of age-related macular degeneration.",
+            "VideoURL": "Drusen.mp4"
+        },
+        {
+            "WID": "118",
+            "WTitle": "Dry eye ",
+            "WDescription": "Dry eye or keratoconjunctivitis sicca is a disorder due to insufficient secretion of tears. The function of the tears; lubrication and nourishment of the eye is completely lost in dry eye condition. ",
+            "VideoURL": "Dry eye.mp4"
+        },
+        {
+            "WID": "119",
+            "WTitle": "Dry eye syndrome",
+            "WDescription": "Dry eye syndrome (DES) is a common disorder of the tear film, affecting a significant percentage of the population, especially those older than 40 years. This condition results in decreased tear production or excessive tear evaporation accompanied by persistent eye dryness, or a sensation of burning or scratching in the eye.",
+            "VideoURL": "Dry eye syndrome.mp4"
+        },
+        {
+            "WID": "120",
+            "WTitle": "Dyschromatopsia ",
+            "WDescription": "Dyschromatopsia is a medical term used for colour vision abnormalities. It occurs mainly due to mutations of the OPSIN genes that encode the photopigments for red, green and blue. Individuals with dyschromatopsia are unable to distinguish between shades of red and green and sometimes shades of blue and yellow.",
+            "VideoURL": "Dyschromatopsia.mp4"
+        },
+        {
+            "WID": "121",
+            "WTitle": "Ectropion",
+            "WDescription": "Ectropion is eversion or outward turning of the lower eyelid, exposing the inner surface.  Usually occurring as an age-related condition, ectropion  is due to weakening of the connective tissue of the eyelid. The other causes include facial nerve palsy, scar tissue from burns  and eyelid tumours. Ectropion formation can also be congenital. Ectropion is characterized by excess tearing of the eye, redness of the lid margin and white part of the eye.",
+            "VideoURL": "Ectropion.mp4"
+        },
+        {
+            "WID": "122",
+            "WTitle": "Emmetropia",
+            "WDescription": "Emmetropia is normal refractive power of the eye, so that light from a distant object forms a clear image on the retina without accommodative effort.",
+            "VideoURL": "Emmetropia.mp4"
+        },
+        {
+            "WID": "123",
+            "WTitle": "Enophthalmus",
+            "WDescription": "Enophthalmus is backward dislocation or sunken position of an eyeball inside its socket caused by developmental defect or traumatic injury. Enophthalmus leads to improper functioning of the eyelid.",
+            "VideoURL": "Enophthalumus.mp4"
+        },
+        {
+            "WID": "124",
+            "WTitle": "Entropion",
+            "WDescription": "Entropion or Entropium is eyelid inversion; eyelid margin rolls inward. Common in the lower eyelid, this condition exposes the globe of the eye to the eyelashes causing irritation, discomfort and tearing.  Muscle spasms, especially of the orbicularis oculi and other muscles close to the eye are the commonest cause of entropion, the other causes being trauma, conjunctiva or eyelid infection.  Untreated entropion causes corneal ulceration which requires surgery or botulinum toxin injections for spasm relief.",
+            "VideoURL": "Entropion.mp4"
+        },
+        {
+            "WID": "125",
+            "WTitle": "Entropium",
+            "WDescription": "Entropion or Entropium is eyelid inversion; eyelid margin rolls inward. Common in the lower eyelid, this condition exposes the globe of the eye to the eyelashes causing irritation, discomfort and tearing.  Muscle spasms, especially of the orbicularis oculi and other muscles close to the eye are the commonest cause of entropion, the other causes being trauma, conjunctiva or eyelid infection.  Untreated entropion causes corneal ulceration which requires surgery or botulinum toxin injections for spasm relief.",
+            "VideoURL": "Entropium.mp4"
+        },
+        {
+            "WID": "126",
+            "WTitle": "Enucleation",
+            "WDescription": "Enucleation is the surgical removal of an eye.  It is a  procedure to treat intraocular tumours and  also to reduce the risk of developing sympathetic ophthalmia (a severe autoimmune condition that follows a trauma). While enucleation  is performed, the eye muscles and remaining orbital contents are left intact.\r",
+            "VideoURL": "Enucleation.mp4"
+        },
+        {
+            "WID": "127",
+            "WTitle": "Epikeratophakia ",
+            "WDescription": "Epikeratophakia is a corrective procedure for hypermetropia or keratoconus. A biological lens is transplanted into the cornea. It corrects the refractive error of the recipient’s eye by replacing the lamellar disc from a healthy donor’s cornea.",
+            "VideoURL": "Epikeratophakia.mp4"
+        },
+        {
+            "WID": "128",
+            "WTitle": "Epiretinal membrane",
+            "WDescription": "Epiretinal membrane refers to a thin layer of  scar tissue on the surface of macula that results in wrinkling and distortion of the retina. The symptoms of epiretinal membrane range from minor distortion of images to  severe loss of vision. Epiretinal membrane is also referred to as  macular pucker,  surface wrinkling retinopathy, cellophane retinopathy, and internal limiting membrane disease.",
+            "VideoURL": "Epiretinal membrane.mp4"
+        },
+        {
+            "WID": "129",
+            "WTitle": "Esotropia",
+            "WDescription": "Esotropia also referred to as cross-eye, convergent strabismus or internal strabismus is an abnormality that results in diplopia.  Esotropia that can occur in one or both eyes is due to the visceral axis deviation of an eye toward the other eye.",
+            "VideoURL": "Esotropia.mp4"
+        },
+        {
+            "WID": "130",
+            "WTitle": "Evisceration",
+            "WDescription": "Evisceration is a surgical procedure where in the eyeball contents are removed without affecting the sclera and extraocular muscles. Evisceration is usually performed to reduce pain or improve cosmesis in a blind eye. This procedure is also suggested in cases of endophthalmitis unresponsive to antibiotics.",
+            "VideoURL": "Evisceration.mp4"
+        },
+        {
+            "WID": "131",
+            "WTitle": "Excimer laser",
+            "WDescription": "Excimer laser is an extremely thin laser beam that is used to treat certain corneal pathologies and in the surgical correction of refractive errors such as myopia, hyperopia and astigmatism. These beams vaporize the surface layer of the cornea and penetrate the tissues. This type of a cool laser does not generate heat to destroy tissues; instead it breaks the intermolecular bonds in the corneal tissue.",
+            "VideoURL": "Excimer Laser.mp4"
+        },
+        {
+            "WID": "132",
+            "WTitle": "Exenteration",
+            "WDescription": "Exenteration is a surgical procedure that involves the complete removal of the eyeball and orbital soft tissues. Sometimes, it also involves the removal of the eyelids, completely or in part. Exenteration is suggested in case of  large orbital tumours or orbital extension of intraocular tumours. ",
+            "VideoURL": "Exenteration.mp4"
+        },
+        {
+            "WID": "133",
+            "WTitle": "Exotropia",
+            "WDescription": "Exotropia is strabismus in which there is permanent deviation of the visceral axis of one eye away from that of the other, resulting in diplopia.  It is also called divergent or external strabismus, and walleye.",
+            "VideoURL": "Exotropia.mp4"
+        },
+        {
+            "WID": "134",
+            "WTitle": "External strabismus",
+            "WDescription": "External strabismus is strabismus in which there is permanent deviation of the visceral axis of one eye away from that of the other, resulting in diplopia.  It is also called divergent strabismus, exotropia and walleye.",
+            "VideoURL": "External strabismus.mp4"
+        },
+        {
+            "WID": "135",
+            "WTitle": "Extra ocular muscle",
+            "WDescription": "Extra ocular muscle is any of the six muscles that are responsible for eyeball movement. Extra ocular muscles are attached to the eyeball and comprise of four rectus muscles and two oblique muscles. Rectus muscles are the medial, lateral, superior and inferior rectus muscles, and the oblique muscles are superior and inferior oblique muscles.",
+            "VideoURL": "Extra ocular muscle.mp4"
+        },
+        {
+            "WID": "136",
+            "WTitle": "Eye angiography",
+            "WDescription": "Eye angiography, also called retinal photography or fluorescein angiography, is a diagnostic procedure to examine the circulation in the blood vessels of the retina using the dye tracing method. Angiograms that are obtained show retinal abnormalities. A fluorescein dye that is injected into the blood vessel in the arm or hand flows through the blood, reaching blood vessels of the retina. The dye reveals retinal abnormalities by leaking, staining or by its inability to flow through blocked blood vessels. ",
+            "VideoURL": "Eye angiography.mp4"
+        },
+        {
+            "WID": "137",
+            "WTitle": "Eyeball",
+            "WDescription": "Eyeball also known as bulbus oculi is the spherical shaped part of the eye that is moved by ocular muscles. Eyeball is contained within the orbital cavity where it is cushioned by adipose tissue and protected from injury. Eyeball focuses a visual scene onto the retina. The eyeball is larger than usual in case of myopia and smaller in hyperopia. Eyeball is  generally referred as bulb or globe of the eye.",
+            "VideoURL": "Eyeball.mp4"
+        },
+        {
+            "WID": "138",
+            "WTitle": "Eyelashes",
+            "WDescription": "Eyelashes are short curved hairs present on the edges of eyelids. They act as a barrier and prevent the entry of dust, dirt and debris into the eye. Eyelashes prompt  the reflex of the eyelid to shut on detection of a foreign particle approaching the eye.",
+            "VideoURL": "Eyelashes.mp4"
+        },
+        {
+            "WID": "139",
+            "WTitle": "Eye socket",
+            "WDescription": "Eye socket is the bony orbital cavity in the skull containing the eyeball. Adipose tissue fills the space between the eye socket and the eye. It protects the eye from injury. Muscles responsible for attachment and movement of the eye are located in the socket.",
+            "VideoURL": "Eye Socket.mp4"
+        },
+        {
+            "WID": "140",
+            "WTitle": "Eye stroke",
+            "WDescription": "Eye stroke,  also referred to as stroke of the eye, occurs when blockages within veins and arteries cause distorted vision. Severe damage to the eye occurs when blood flow to vital structures such as the retina and optic nerve is blocked.",
+            "VideoURL": "Eye Stroke.mp4"
+        },
+        {
+            "WID": "141",
+            "WTitle": "Eyelids",
+            "WDescription": "Palpebrae or eyelids are movable skin folds located above and below the eye. Eyelids function to protect the eyeball’s anterior surface.",
+            "VideoURL": "Eyelids.mp4"
+        },
+        {
+            "WID": "142",
+            "WTitle": "Farsightedness",
+            "WDescription": "Farsightedness, also known as hyperopia is a refraction error that causes visual defects. In farsightedness cases, the light rays that enter the eye get focused behind the retina and therefore distant objects appear clearer and objects close by remain hazy.",
+            "VideoURL": "Farsightedness.mp4"
+        },
+        {
+            "WID": "143",
+            "WTitle": "Floaters ",
+            "WDescription": "Floaters are small proteinaceous deposits that float through the field of vision.  Floaters are aggregates of vitreous proteins that are released into the vitreous humour due to age related degenerative changes of the vitreous humour or retina.",
+            "VideoURL": "Floaters.mp4"
+        },
+        {
+            "WID": "144",
+            "WTitle": "Fluorescein angiography",
+            "WDescription": "Fluorescein angiography is a diagnostic procedure to examine the circulation in the blood vessels of the retina using the dye tracing method. Angiograms that are obtained show retinal abnormalities. A fluorescein dye that is injected into the blood vessel in the arm or hand flows through the blood, reaching blood vessels of the retina. The dye reveals retinal abnormalities by leaking, staining or by its inability to flow through blocked blood vessels.",
+            "VideoURL": "Fluorescein angiography.mp4"
+        },
+        {
+            "WID": "145",
+            "WTitle": "Fovea",
+            "WDescription": "Fovea, also called central fovea or fovea centralis, is an area on the retina that appears as a tiny pit or depression. It consists of only cone cells (photoreceptor cells), which are closely packed than elsewhere in the retina. Fovea is responsible for sharp central vision and superior colour vision. ",
+            "VideoURL": "Fovea.mp4"
+        },
+        {
+            "WID": "146",
+            "WTitle": "Fovea centralis",
+            "WDescription": "Fovea centralis, also called central fovea or fovea, is an area on the retina that appears as a tiny pit or depression. It consists of only cone cells (photoreceptor cells), which are closely packed than elsewhere in the retina. Fovea centralis is responsible for sharp central vision and superior colour vision.",
+            "VideoURL": "Fovea centralis.mp4"
+        },
+        {
+            "WID": "147",
+            "WTitle": "Fuchs' dystrophy ",
+            "WDescription": "Fuchs' dystrophy or Fuchs' endothelial dystrophy is an inherited condition affecting the corneal endothelium causing gradual degeneration of the endothelial cells. Women are highly predisposed to this condition, which manifests as clouding on the cornea due to hyaline outgrowths on the endothelium, edema of the epithelium and epithelial blisters on the surface of cornea. Usually affecting both the eyes, Fuchs' dystrophy presents as blurred vision and eye pain. ",
+            "VideoURL": "Fuchs' Dystrophy.mp4"
+        },
+        {
+            "WID": "148",
+            "WTitle": "Fuchs' endothelial dystrophy ",
+            "WDescription": "Fuchs' endothelial dystrophy or Fuchs' dystrophy is an inherited condition affecting the corneal endothelium causing gradual degeneration of the endothelial cells. Women are highly predisposed to this condition, which manifests as clouding on the cornea due to hyaline outgrowths on the endothelium, edema of the epithelium and epithelial blisters on the surface of cornea. Usually affecting both the eyes, Fuchs' dystrophy presents as blurred vision and eye pain. ",
+            "VideoURL": "Fuchs' endothelial dystrophy.mp4"
+        },
+        {
+            "WID": "149",
+            "WTitle": "Fundus",
+            "WDescription": "Fundus refers to the eyeball’s inner surface, including the retina, optic disc and macula. Fundus can be observed using an ophthalmoscope by viewing through a dilated pupil.",
+            "VideoURL": "Fundus.mp4"
+        },
+        {
+            "WID": "150",
+            "WTitle": "Fundus Photography",
+            "WDescription": "Fundus photography is a medical imaging technique performed to evaluate various eye abnormalities and disease progression by employing a fundus camera or retinal camera. This technique is designed to photograph posterior parts of the eye such as vitreous, retina, choroid, and optic nerve by focusing the light through cornea, pupil and lens.",
+            "VideoURL": "Fundus Photography.mp4"
+        },
+        {
+            "WID": "151",
+            "WTitle": "Glaucoma",
+            "WDescription": "Glaucoma is a condition characterised by elevated intraocular pressure. Pressure increases within the eye due to impairment in the aqueous fluid drainage through the canal of Schlemm (circular channel at the junction of the sclera and cornea). Glaucoma causes damage to the optic nerve. It results in impaired vision and sometimes can lead to complete loss of vision. The various types of glaucoma are congenital, juvenile, angle-closure or closed-angle, and open-angle glaucoma.",
+            "VideoURL": "Glaucoma.mp4"
+        },
+        {
+            "WID": "152",
+            "WTitle": "Gonioscopy",
+            "WDescription": "Gonioscopy is an eye examination technique to evaluate iridocorneal angle of the eye by using goniolens and slit lamp (microscope). Gonioscopy is routinely used in patients with glaucoma, particularly to differentiate open-angle glaucoma and closed-angle glaucoma.",
+            "VideoURL": "Gonioscopy.mp4"
+        },
+        {
+            "WID": "153",
+            "WTitle": "Hordeolum",
+            "WDescription": "Hordeolum or stye is an infection and\/or inflammation of the eyelid glands causing swelling of the eyelids. A hordeolum can either occur inside the lid involving the meibomian glands or externally when glands of Zeiss or Moll are involved.",
+            "VideoURL": "Hordeolum.mp4"
+        },
+        {
+            "WID": "154",
+            "WTitle": "Hyaloid memebrane",
+            "WDescription": "Hyaloid membrane is a transparent delicate membrane which encloses vitreous humor (a clear gel like substance present inside the center of the eyeball). The hyaloid membrane thereby separates vitreous from the retina.",
+            "VideoURL": "Hyaloid Membrane.mp4"
+        },
+        {
+            "WID": "155",
+            "WTitle": "Hyperopia",
+            "WDescription": "Hyperopia, also known as farsightedness is a refraction error that causes visual defects. In hyperopia cases, the light rays that enter the eye get focused behind the retina and therefore distant objects appear clearer and objects close by remain hazy. ",
+            "VideoURL": "Hyperopia.mp4"
+        },
+        {
+            "WID": "156",
+            "WTitle": "Hypertensive retinopathy",
+            "WDescription": "Hypertensive retinopathy is the retinal damage caused due to hypertension. Damage is due to thickening, bulging or leaking of the retinal blood vessels. Initially hypertensive retinopathy is not accompanied with visual symptoms, however as disease progresses headaches are common and gradual loss of vision occurs when macula (central part of the retina) is affected.",
+            "VideoURL": "Hypertensive Retinopathy.mp4"
+        },
+        {
+            "WID": "157",
+            "WTitle": "Hyphema",
+            "WDescription": "Hyphema is blood discharge into the anterior chamber of the eye due to hemorrhage. ",
+            "VideoURL": "Hyphema.mp4"
+        },
+        {
+            "WID": "158",
+            "WTitle": "Hypotony",
+            "WDescription": "Hypotony is characterized by low intraocular pressure. The pressure levels in hypotony are lower than 10mmHg. Hypotony is caused by leakage of wound after eye surgery, retinal detachment or by ciliary body detachment.",
+            "VideoURL": "Hypotony.mp4"
+        },
+        {
+            "WID": "159",
+            "WTitle": "Ignipuncture",
+            "WDescription": "Ignipuncture is a therapeutic procedure that employs hot needles to make a puncture. In eye surgery, this technique is used to close a break in the retina.",
+            "VideoURL": "Ignipuncture.mp4"
+        },
+        {
+            "WID": "160",
+            "WTitle": "Internal limiting membrane disease",
+            "WDescription": "Internal limiting membrane disease refers to a thin layer of  scar tissue on the surface of macula that results in wrinkling and distortion of the retina. The symptoms of internal limiting membrane disease range from minor distortion of images to  severe loss of vision. Internal limiting membrane disease is also referred to as epiretinal membrane, surface wrinkling retinopathy, macular pucker and cellophane retinopathy.",
+            "VideoURL": "Internal limiting membrane disease.mp4"
+        },
+        {
+            "WID": "161",
+            "WTitle": "Internal strabismus",
+            "WDescription": "Internal strabismus also referred to as esotropia, cross-eye or convergent strabismus is an abnormality that results in diplopia. Internal strabismus that can occur in one or both eyes is due to the visceral axis deviation of an eye toward the other eye.",
+            "VideoURL": "Internal strabismus.mp4"
+        },
+        {
+            "WID": "162",
+            "WTitle": "Intraocular lens",
+            "WDescription": "Intraocular lens refers to artificial lens that is implanted into the eye during a cataract or refractive surgery. It is of two types- multifocal (multiple-focused vision without the use of contact lens or glasses) and monofocal (vision correction at one distance only)",
+            "VideoURL": "Intraocular lens.mp4"
+        },
+        {
+            "WID": "163",
+            "WTitle": "Intraocular pressure",
+            "WDescription": "Intraocular pressure also known as intraocular tension, is measure of the pressure of fluid inside the eye. This pressure normally lies in the range of 10-20 mmHg. Intraocular pressure is maintained by the continuous production of aqueous humour and its drainage. The drainage route involves the trabecular meshwork and scleral venous sinus. The fluid returns to venous circulation thus maintaining intraocular pressure.",
+            "VideoURL": "Intraocular pressure.mp4"
+        },
+        {
+            "WID": "164",
+            "WTitle": "Intraocular steroid injection ",
+            "WDescription": "Intraocular steroid injection is a therapeutic procedure to treat macular oedema. Macular oedema is a swelling of macula caused by fluid leaking from retinal blood vessels that results in vision impairment. An intraocular steroid injection reduces the leakage of fluid into the retina and thereby improves vision.",
+            "VideoURL": "Intraocular steroid injection.mp4"
+        },
+        {
+            "WID": "165",
+            "WTitle": "Intraocular tension",
+            "WDescription": "Intraocular tension also known as Intraocular pressure, is a measure of the pressure of fluid inside the eye. This pressure normally lies in the range of 10-20 mmHg. Intraocular tension is maintained by the continuous production of aqueous humour and its drainage. The drainage route involves the trabecular meshwork and scleral venous sinus. The fluid returns to venous circulation thus maintaining intraocular tension.",
+            "VideoURL": "Intraocular tension.mp4"
+        },
+        {
+            "WID": "166",
+            "WTitle": "Iridocorneal endothelial syndrome",
+            "WDescription": "Iridocorneal endothelial syndrome is a spectrum of eye conditions characterised by abnormal corneal inner layer. Chandler's syndrome, Cogan-Reese syndrome and progressive iris atrophy together make up the iridocorneal endothelial syndrome. ",
+            "VideoURL": "Iridocorneal endothelial syndrome.mp4"
+        },
+        {
+            "WID": "167",
+            "WTitle": "Iridodialysis",
+            "WDescription": "Iridodialysis or coredialysis is the tearing away of iris from its ciliary attachment. Iridodialysis usually occurs as a result of trauma to the eye.",
+            "VideoURL": "Iridodialysis.mp4"
+        },
+        {
+            "WID": "168",
+            "WTitle": "Iridotomy",
+            "WDescription": "Iridotomy is an incision into the iris; usually performed using a laser.  It used in the treatment of primary closed-angle glaucoma (PCAG).  The laser is used to make a hole in the iris, thereby allowing aqueous humour to drain through into the anterior chamber and onward into the scleral venous sinus (canal of Schlemm). The procedure is also known as corotomy, iritomy or irotomy.",
+            "VideoURL": "Iridotomy.mp4"
+        },
+        {
+            "WID": "169",
+            "WTitle": "Iris",
+            "WDescription": "Iris is the most visible, circular, muscular structure of the eye that is pigmented.  Iris is located behind the cornea and in front of the lens. This circular structure is part of the eye’s uveal tract and its primary function is to control the amount of light that enters into the eye through contracting and expanding the pupil. ",
+            "VideoURL": "Iris.mp4"
+        },
+        {
+            "WID": "170",
+            "WTitle": "Iritis",
+            "WDescription": "Iritis is the inflammation of the iris, the circular pigmented membrane behind the cornea of the eye.",
+            "VideoURL": "Iritis.mp4"
+        },
+        {
+            "WID": "171",
+            "WTitle": "Iritomy",
+            "WDescription": "Iritomy is an incision into the iris; usually performed using a laser.  It is used in the treatment of primary closed-angle glaucoma (PCAG).  The laser is used to make a hole in the iris, thereby allowing aqueous humour to drain through into the anterior chamber and onward into the scleral venous sinus (canal of Schlemm). The procedure is also known as corotomy, iridotomy or irotomy.",
+            "VideoURL": "Iritomy.mp4"
+        },
+        {
+            "WID": "172",
+            "WTitle": "Irotomy",
+            "WDescription": "Irotomy is an incision into the iris; usually performed using a laser.  It is used in the treatment of primary closed-angle glaucoma (PCAG).  The laser is used to make a hole in the iris, thereby allowing aqueous humour to drain through into the anterior chamber and onward into the scleral venous sinus (canal of Schlemm). The procedure is also known as corotomy, iritomy or iridotomy.",
+            "VideoURL": "Irotomy.mp4"
+        },
+        {
+            "WID": "173",
+            "WTitle": "Keratitis",
+            "WDescription": "Keratitis is an inflammatory condition of the cornea caused by pathogens belonging to Fusarium species. Keratitis commonly occurs in contact lens users especially those using soft lens. ",
+            "VideoURL": "Keratitis.mp4"
+        },
+        {
+            "WID": "174",
+            "WTitle": "Keratoconjunctivitis sicca ",
+            "WDescription": "Keratoconjunctivitis sicca or dry eye is a disorder due to insufficient secretion of tears. The function of the tears; lubrication and nourishment of the eye is completely lost in keratoconjunctivitis sicca condition.",
+            "VideoURL": "Keratoconjunctivitis sicca.mp4"
+        },
+        {
+            "WID": "175",
+            "WTitle": "Keratoconus",
+            "WDescription": "Keratoconus is an abnormal cone-shaped corneal protrusion caused by non-inflammatory thinning of corneal stroma. This condition causes distorted vision as the  cone shape deflects light entering into the eye on its way to the retina.",
+            "VideoURL": "Keratoconus.mp4"
+        },
+        {
+            "WID": "176",
+            "WTitle": "Keratomileusis",
+            "WDescription": "Keratomileusis, a keratoplasty procedure is used to correct optical error. The procedure involves removal of a part of the cornea, reshaping it and attaching it back in place. The excised portion of the cornea is frozen and re-shaped using a lathe to the appropriate curvature before it is sutured into place.",
+            "VideoURL": "Keratomileusis.mp4"
+        },
+        {
+            "WID": "177",
+            "WTitle": "Keratomycosis",
+            "WDescription": "Keratomycosis also known as mycotic keratitis is caused by infection of the cornea by fungal organisms.",
+            "VideoURL": "Keratomycosis.mp4"
+        },
+        {
+            "WID": "178",
+            "WTitle": "Keratopathy",
+            "WDescription": "Keratopathy is a corneal disease that is non-inflammatory in nature. It causes damage to the cornea and corneal dysfunction.",
+            "VideoURL": "Keratopathy.mp4"
+        },
+        {
+            "WID": "179",
+            "WTitle": "Keratoplasty ",
+            "WDescription": "Keratoplasty, also referred to as corneal transplant surgery or corneal grafting, is an eye surgery to replace scarred or damaged cornea with a donor's cornea or graft.  By using a circular cutting device called trephine, a circular piece of recipient’s scarred cornea is removed. A circular disc of similar size is cut from the donor cornea and is placed where the recipient’s cornea is removed, which is then sewn in place with extremely fine nylon sutures.  Corneal transplant surgery is extremely useful to improve vision in conditions such as distorted corneal curvatures, corneal oedema, severe eye infections and trauma.",
+            "VideoURL": "Keratoplasty.mp4"
+        },
+        {
+            "WID": "180",
+            "WTitle": "Keratoprosthesis",
+            "WDescription": "Keratoprosthesis is a surgical procedure to replace the damaged or diseased cornea with an artificial one.",
+            "VideoURL": "Keratoprosthesis.mp4"
+        },
+        {
+            "WID": "181",
+            "WTitle": "Krukenberg spindle",
+            "WDescription": "Krukenberg spindle is a vertical, spindle-shaped, brownish-red pigment (melanin) deposition on the posterior part of cornea (corneal endothelium). Krukenberg spindle is most common in myopic female patients and male patients with megalocornea.",
+            "VideoURL": "Krukenberg spindle.mp4"
+        },
+        {
+            "WID": "182",
+            "WTitle": "Lacrimal glands",
+            "WDescription": "Lacrimal glands are exocrine tear producing glands that are located on the outer and upper canthus of the eye. The tears produced are protective as they provide an uninterrupted fluid film layer on the eyeball. ",
+            "VideoURL": "Lacrimal gland.mp4"
+        },
+        {
+            "WID": "183",
+            "WTitle": "Lacrimal sac ",
+            "WDescription": "Lacrimal sac is the upper wide portion of the naso-lacrimal duct. Small ducts that release the tears pass over the surface of the eye, run towards the median canthus and drain out into lacrimal canaliculi. From the lacrimal canaliculi, the tears drain into the lacrimal sac and then to the nasolacrimal duct. Lacrimal sac is also known as tear sac or dacryocyst.",
+            "VideoURL": "Lacrimal Sac.mp4"
+        },
+        {
+            "WID": "184",
+            "WTitle": "Lamina cribosa",
+            "WDescription": "Lamina cribosa is a multi-layered mesh like network of collagen fibres in the posterior part of the sclera. Lamina cribosa permits the passage of optic nerve fibres through posterior part of the sclera. ",
+            "VideoURL": "Lamina cribosa.mp4"
+        },
+        {
+            "WID": "185",
+            "WTitle": "Laser assisted in situ keratomileusis (LASIK)",
+            "WDescription": "Laser assisted in situ keratomileusis or LASIK is an eye surgery to correct vision by modifying corneal shape permanently. It is used for hyperopia, myopia and astigmatism. A microkeratome knife is used to cut a thin flap in the cornea that includes corneal epithelium and stroma to a thickness of 100-180 microns. This is followed by employing computer-controlled cool excimer laser to ablate the corneal tissue under the epithelial\/corneal tissue flap. The flap is then repositioned, covering the inner corneal tissues. LASIK reduces the dependency on glasses and contact lenses.",
+            "VideoURL": "Laser assisted in situ keratomileusis (LASIK).mp4"
+        },
+        {
+            "WID": "186",
+            "WTitle": "Laser assisted sub-epithelial keratomileusis (LASEK)",
+            "WDescription": "Laser assisted sub-epithelial keratomileusis (LASEK), is a corrective surgery for hyperopia, myopia and astigmatism, which involves modification of the corneal shape. This procedure uses trephine, a finer blade than that used in LASIK to cut the epithelium to a thickness of 50 microns. The corneal tissue under the epithelial flap is then ablated using an excimer laser after which the flap is repositioned. LASIK and LASEK differ in the thickness of the flap. LASIK includes the corneal stroma while LASEK involves only the epithelial tissue. For healing purpose contact lens is placed over the cornea after surgery.  LASEK is advised for thin and flat corneas.",
+            "VideoURL": "Laser assisted sub-epithelial Keratomileusis.mp4"
+        },
+        {
+            "WID": "187",
+            "WTitle": "Laser photocoagulation",
+            "WDescription": "Laser photocoagulation involves the use of lasers to treat retinopathies. The affected tissue is burnt off using a high-intensity laser beam that coagulates protein. Leaking vessels, the cause of retinopathies is sealed off by the laser. ",
+            "VideoURL": "Laser photocoagulation.mp4"
+        },
+        {
+            "WID": "188",
+            "WTitle": "Laser thermal keratoplasty (LTK)",
+            "WDescription": "Laser thermal keratoplasty uses holmium lasers to treat hyperopia. This refractive surgery is a therapeutic recommendation to reshape the cornea. The procedure that uses infra red holmium lasers to burn out corneal tissue, allows the cornea to constrict, thus making vision sharper.",
+            "VideoURL": "Laser thermal keratoplasty (LTK).mp4"
+        },
+        {
+            "WID": "189",
+            "WTitle": "Lateral canthotomy",
+            "WDescription": "Lateral canthotomy refers to surgical separation of the outer canthus to save vision especially in cases of blunt trauma. ",
+            "VideoURL": "Lateral Canthotomy.mp4"
+        },
+        {
+            "WID": "190",
+            "WTitle": "Lateral Geniculate Nucleus - (LGN)",
+            "WDescription": "Lateral geniculate nucleus (LGN), which is located in the thalamus, is the primary centre that processes visual impulses from the retina. It is made up of six layers consisting of M, P and K cells. The ascending retinal ganglion cell transmits information in the form of impulses via the optic nerve to the LGN. The neurons of the LGN are responsible for transmission of optic impulses to the primary visual cortex in the brain.  The primary visual cortex also transmits feedback impulses to the LGN.",
+            "VideoURL": "Lateral Geniculate Nucleus - (LGN).mp4"
+        },
+        {
+            "WID": "191",
+            "WTitle": "Lattice degeneration",
+            "WDescription": "Lattice degeneration is a condition that causes thinning of the retina, which leads to formation of retinal holes and eventually retinal degeneration. It is called Lattice degeneration as the thinned retina resembles the crisscross pattern of a lattice. This condition is common in myopic individuals as their eyes are larger than normal  thereby stretching the peripheral retina more thinly.",
+            "VideoURL": "Lattice Degeneration.mp4"
+        },
+        {
+            "WID": "192",
+            "WTitle": "Lazy eye",
+            "WDescription": "Lazy eye is also known as amblyopia. It is the impairment of vision in one eye and is caused by developmental abnormalities in the vision.",
+            "VideoURL": "Lazy eye.mp4"
+        },
+        {
+            "WID": "193",
+            "WTitle": "Leber's miliary aneurysm",
+            "WDescription": "Leber's miliary aneurysm presents as a localised cluster of dilated capillaries, aneurysms, and telangiectasia, typically in the superior temporal quadrants of the retina. However, hemorrhage and exudation are minimal to absent in Leber�s miliary aneurysm. ",
+            "VideoURL": "Lebers Milliary Aneurysm.mp4"
+        },
+        {
+            "WID": "194",
+            "WTitle": "Leber's congenital amaurosis",
+            "WDescription": "Leber congenital amaurosis is an inherited retinal degenerative disorder due to an  autosomal recessive gene. In this condition, the appearance of pupil is normal but there is lowered constriction of the pupil in response to light or sometimes even absent. This causes  vision impairment and blindness in infants.",
+            "VideoURL": "Leber's congenital amaurosis.mp4"
+        },
+        {
+            "WID": "195",
+            "WTitle": "Leber's hereditary optic neuropathy",
+            "WDescription": "Leber's hereditary optic neuropathy, also called Leber optic atrophy, is an inherited condition that causes loss of central vision, primarily in young adult males due to selective degeneration of the retinal ganglion cells and optic nerve axons that aid central vision. Leber’s hereditary optic neuropathy occurs as a result of mutations in mitochondrial DNA. ",
+            "VideoURL": "Leber's Hereditary Optic Neuropathy.mp4"
+        },
+        {
+            "WID": "196",
+            "WTitle": "Lens",
+            "WDescription": "Lens is a highly elastic, biconvex crystalline structure located behind the iris. Suspended by suspensory ligament, this small structure alters shape, according to the light entering. This enables the focusing of light rays on to the retina. Artificial lens used in spectacles are made up of glass or plastic. These lenses are used to correct refractive errors of the eye.",
+            "VideoURL": "Lens.mp4"
+        },
+        {
+            "WID": "197",
+            "WTitle": "Lens dislocation",
+            "WDescription": "Lens dislocation may occur primarily as a result of trauma due to disruption of the zonular fibers (fibers that attach the lens to ciliary muscles. The other causes include congenital dislocation, buphthalmos, systemic syndrome (for example - Marfan's homocystinuria) and inflammation. Lens dislocation can also occur spontaneously.",
+            "VideoURL": "Lens dislocation.mp4"
+        },
+        {
+            "WID": "198",
+            "WTitle": "Limbal relaxing incisions (LRI)",
+            "WDescription": "Limbal relaxing incisions (LRIs) treat minor astigmatism. LRIs are small relaxing incisions that are made on the periphery of the cornea called the limbus, allowing the cornea to become more rounded during the healing process. LRIs result in better vision without the use of glasses. ",
+            "VideoURL": "Limbal relaxing incision (LRI).mp4"
+        },
+        {
+            "WID": "199",
+            "WTitle": "Limbus ",
+            "WDescription": "Limbus refers to the connecting border of cornea and sclera. The conjunctival layer that covers the globe also joins at the limbus.",
+            "VideoURL": "Limbus.mp4"
+        },
+        {
+            "WID": "200",
+            "WTitle": "Macula",
+            "WDescription": "Macula is a small, sensitive area in the retina, which provides the most distinct vision in the retina. The abundant cone cells in this region are responsible for central vision. ",
+            "VideoURL": "Macula.mp4"
+        },
+        {
+            "WID": "201",
+            "WTitle": "Macular degeneration",
+            "WDescription": "Macular degeneration, as the name suggests, is the degeneration of cells of the macula lutea. This is an age-related irreversible disorder that is responsible for loss of central vision. Severe visual impairment occurs due to formation of abnormal blood vessels and leakage of serous fluid and bleeding into the macular tissue.",
+            "VideoURL": "Macular Degeneration.mp4"
+        },
+        {
+            "WID": "202",
+            "WTitle": "Macular edema",
+            "WDescription": "Macular edema is swelling of the macula, a small yellowish area of the retina, that occurs due to leakage of fluid from blood vessels within the macula.",
+            "VideoURL": "Macular edema.mp4"
+        },
+        {
+            "WID": "203",
+            "WTitle": "Macular hole",
+            "WDescription": "Macular hole is a small hole in the macula. Macular hole is caused by shrinking of the vitreous. Through tiny strands of cells, vitreous is attached to retina. When the vitreous shrinks, it can pull the retina and sometimes can tear off a part of the retina in the macula leading to a hole.",
+            "VideoURL": "Macular Hole.mp4"
+        },
+        {
+            "WID": "204",
+            "WTitle": "Macular pucker",
+            "WDescription": "Macular pucker refers to a thin layer of  scar tissue on the surface of macula that results in wrinkling and distortion of the retina. The symptoms of macular pucker range from minor distortion of images to  severe loss of vision. Macular pucker is also referred to as epiretinal membrane,  surface wrinkling retinopathy, cellophane retinopathy, and internal limiting membrane disease.",
+            "VideoURL": "Macular pucker.mp4"
+        },
+        {
+            "WID": "205",
+            "WTitle": "Megalocornea",
+            "WDescription": "Megalocornea is a birth defect that presents as an abnormal sized cornea. This condition is inherited by an X-linked recessive gene or a dominant autosomal feature. The cornea reaches more than 18mm; however, this enlargement does not affect corneal thickness. The clarity of vision and other corneal functions remain unaffected.",
+            "VideoURL": "Megalocornea.mp4"
+        },
+        {
+            "WID": "206",
+            "WTitle": "Meibomian cyst",
+            "WDescription": "Meibomian cyst, also known as chalazion, tarsal cyst or conjunctival granuloma, is a small eyelid cyst. It is a chronic inflammatory condition that occurs due to retention of secretions in one of the meibomian glands. Meibomian cyst sets out as diffuse swelling and tenderness that later forms a cyst-like localized swelling.",
+            "VideoURL": "Meibomian cyst.mp4"
+        },
+        {
+            "WID": "207",
+            "WTitle": "Meibomian glands",
+            "WDescription": "Meibomian glands are also referred to as tarsal glands. These are modified sebaceous glands that are located within the groves of the eyelid’s inner surface. The ducts of meibomian glands open onto the free, inner margins of the eyelids. ",
+            "VideoURL": "Meibomian Glands.mp4"
+        },
+        {
+            "WID": "208",
+            "WTitle": "Meibomianitis",
+            "WDescription": "Meibomianitis is the meibomian gland inflammation that presents as thick white secretion on the eyelid margin. The secretions are conspicuous and frothy. Meibomianitis can be caused by allergy or skin conditions like  rosacea. Chronic inflammation of these glands lead to cysts known as chalazions.",
+            "VideoURL": "Meibomianitis.mp4"
+        },
+        {
+            "WID": "209",
+            "WTitle": "Metamorphopsia",
+            "WDescription": "Metamorphopsia is a vision anomaly due to defect in the retina. The objects appear distorted, indistinct or of different sizes and in different location. Metamorphopsia occurs due to displacement of the light sensitive receptors in the retina, caused by retinal detachment, inflammation or tumour.",
+            "VideoURL": "Metamorphopsia.mp4"
+        },
+        {
+            "WID": "210",
+            "WTitle": "Microaneurysm",
+            "WDescription": "Microaneurysms are microscopic dilations of blood vessels that appear as tiny red dots in the retina. Microaneurysms are seen on the retina of people affected by diabetic retinopathy.\r",
+            "VideoURL": "Microaneurysm.mp4"
+        },
+        {
+            "WID": "211",
+            "WTitle": "Microcornea ",
+            "WDescription": "Microcornea is a condition that manifests as unusually small cornea; lesser than 11 mm after one year of birth. Bilateral in presentation, microcornea is a developmental abnormality either due to fetal arrest of corneal growth or overgrowth of the anterior tips of optic cup providing less space for corneal development. Microcornea is due to a recessive sex-linked gene or an autosomal dominant attribute.",
+            "VideoURL": "Microcornea.mp4"
+        },
+        {
+            "WID": "212",
+            "WTitle": "Microphthalmia ",
+            "WDescription": "Microphthalmia is a condition where one or both eyes may appear unusually small. A hereditary disorder, microphthalmia is also known as microphthalmos, nanophthalmia or nanopthalmos. Heritable causes of microphthalmia are chromosomal abnormalities and single gene disorders. Microphthalmia typically results in hyperopia. In some children it leads to severe vision impairment, in some it may lead to blindness, while some are able to see bright light only.",
+            "VideoURL": "Microphthalmia.mp4"
+        },
+        {
+            "WID": "213",
+            "WTitle": "Miosis",
+            "WDescription": "Miosis is the abnormal constriction of the pupil of the eye. Certain pathological conditions, drugs and bright light are known to cause constriction of the pupil. ",
+            "VideoURL": "Miosis.mp4"
+        },
+        {
+            "WID": "214",
+            "WTitle": "Multifocal",
+            "WDescription": "Multifocal is the presence of multiple focal points, usually two or more. This is commonly referred to, in the case of spectacle lens, intraocular or contact lenses. ",
+            "VideoURL": "Multifocal.mp4"
+        },
+        {
+            "WID": "215",
+            "WTitle": "Mycotic keratitis",
+            "WDescription": "Mycotic keratitis also known as keratomycosis is caused by infection of the cornea by fungal organisms.",
+            "VideoURL": "Mycotic Keratitis.mp4"
+        },
+        {
+            "WID": "216",
+            "WTitle": "Myelinated Nerve Fibers",
+            "WDescription": "Myelinated  nerve  fibers refer to the nerve fibers in the retina that are covered with patches of a fat like substance called myelin. The condition is congenital and patches are always connected to the optic disc and are different from the cotton wool spots by being larger, denser and whiter.  ",
+            "VideoURL": "Myelinated Nerve Fibres.mp4"
+        },
+        {
+            "WID": "217",
+            "WTitle": "Myokymia",
+            "WDescription": "Myokymia refers to an involuntary contraction of the eyelid muscle, typically the orbicularis oculi muscle of one of the lower eyelids. Seen less often in the upper eyelids, myokymia is spontaneous but sometimes it can last up to 3 weeks. Factors that contribute to myokymia include excessive caffeine, high levels of stress, anxiety and fatigue.",
+            "VideoURL": "Myokymia.mp4"
+        },
+        {
+            "WID": "218",
+            "WTitle": "Myopia",
+            "WDescription": "Myopia or short sight is the inability to see distant objects as clearly as near objects. In myopia, the cornea is too steep causing images to focus in front of the retina instead of directly on it. ",
+            "VideoURL": "Myopia.mp4"
+        },
+        {
+            "WID": "219",
+            "WTitle": "Neovascularisation",
+            "WDescription": "Neovascularisation is the abnormal or excessive formation of blood vessels seen in some of the retinal disorders. Neovascularisation is associated with diabetic retinopathy in the proliferative stages. ",
+            "VideoURL": "Neovascularisation.mp4"
+        },
+        {
+            "WID": "220",
+            "WTitle": "Night-blindness",
+            "WDescription": "Night-blindness, also known as nyctalopia is the inability to see well at night or in dim light. Causes include birth defects, cataracts, myopia, retinitis pigmentosa and vitamin A deficiency.",
+            "VideoURL": "Night blindness.mp4"
+        },
+        {
+            "WID": "221",
+            "WTitle": "Nuclear cataract ",
+            "WDescription": "Nuclear cataract is the cataract formation in the inner dense central portion of the lens called nucleus. It commonly occurs as age related changes in the lens and may also occur as a congenital anomaly. ",
+            "VideoURL": "Nuclear Cataract.mp4"
+        },
+        {
+            "WID": "222",
+            "WTitle": "Nyctalopia ",
+            "WDescription": "Nyctalopia, also known as night-blindness is the inability to see well at night or in dim light. Causes include birth defects, cataracts, myopia, retinitis pigmentosa and vitamin A deficiency.",
+            "VideoURL": "Nyctalopia.mp4"
+        },
+        {
+            "WID": "223",
+            "WTitle": "Nystagmus",
+            "WDescription": "Nystagmus, often associated with cerebellum disorders, or inner ear ailments, or other physiological conditions is characterized by involuntary movement of the eyeball which is repetitive and jerky.",
+            "VideoURL": "Nystagmus.mp4"
+        },
+        {
+            "WID": "224",
+            "WTitle": "Ocular Coherence Tomography (OCT)",
+            "WDescription": "Ocular coherence tomography (OCT) or optical coherence tomography, a non-invasive diagnostic test based on radio imaging is widely gaining popularity. The technique enables various sections of the ocular structures to viewed including the cross-sectional images of the eye’s posterior segment. Various eye conditions such macular edema, optic nerve damage, pre-retinal membrane damage, diabetic retinopathy, optic disc pits and macular holes are easily detected by this method. Retinal thickness can also be detected.",
+            "VideoURL": "Ocular Coherence Tomography (OCT).mp4"
+        },
+        {
+            "WID": "225",
+            "WTitle": "Ocular Lymphoma",
+            "WDescription": "Ocular lymphoma, a rare malignant form of eye cancer is a type of Non Hodgkin's lymphoma that affects vision. It is a rare cause of chronic vitreitis or uveitis. The symptoms include blurred vision, conjunctival hyperemia, floaters and light sensitivity. ",
+            "VideoURL": "Ocular Lymphoma.mp4"
+        },
+        {
+            "WID": "226",
+            "WTitle": "Ocular migraine",
+            "WDescription": "Ocular migraine is known by many names; eye migraine, or ophthalmic migraine or ophthalmoplegic migraine or silent migraine. It is a migraine that manifests as headache due to distortion of vision in one eye. Though not a serious condition, eye migraine is usually caused by insufficient blood supply to the eye, sometimes even the part of the brain that is responsible for vision. Other conditions that aggravate eye migraine are weakness of eye muscles and visual hallucinations that present as spots, flashes, lines and other defects.  Burning sensation in eyes, eye fatigue, and sensitivity to light are other common conditions that cause eye migraine.",
+            "VideoURL": "Ocular Migraine.mp4"
+        },
+        {
+            "WID": "227",
+            "WTitle": "Oculi",
+            "WDescription": "Oculi refers to, the eye; organ for vision.",
+            "VideoURL": "Oculi.mp4"
+        },
+        {
+            "WID": "228",
+            "WTitle": "Oculoplastic surgery",
+            "WDescription": "Oculoplastic surgery, also known as oculoplastics or oculo-facial surgery involves reconstruction of  the eye and associated structures; primarily the eyelids, eye socket, lacrimal ducts and face. While it is useful in restoring or correcting functions of the eye such as watering eyes, lacrimal system; oculoplastics is also opted for as a cosmetic procedure carried out by specialized ophthalmic plastic surgeons.",
+            "VideoURL": "Oculoplastic surgery.mp4"
+        },
+        {
+            "WID": "229",
+            "WTitle": "Ophthalmologist",
+            "WDescription": "An ophthalmologist specializes in eye and vision care that includes examination of the eye, diagnoses of eye disorders, prescription of medications, lens, prevention and also surgical treatment of the eye.",
+            "VideoURL": "Ophthalmologist.mp4"
+        },
+        {
+            "WID": "230",
+            "WTitle": "Ophthalmoparesis",
+            "WDescription": "Ophthalmoparesis is the complete or partial paralysis of eye muscles. Also known as ophthalmoplegia, it is a neurological disorder associated with thiamine deficiency, supranuclear palsy, cerebral parietal lobes disorder, stroke and multiple sclerosis. Ophthalmoparesis, is commonly accompanied by blurred or double vision and nystagmus.",
+            "VideoURL": "Ophthalmoparesis.mp4"
+        },
+        {
+            "WID": "231",
+            "WTitle": "Ophthalmoplegic migraine ",
+            "WDescription": "Ophthalmoplegic migraine is known by many names; eye migraine, ocular migraine or ophthalmic migraine or silent migraine. It is a migraine that manifests as headache due to distortion of vision in one eye. Though not a serious condition, eye migraine is usually caused by insufficient blood supply to the eye, sometimes even the part of the brain that is responsible for vision. Other conditions that aggravate eye migraine are weakness of eye muscles and visual hallucinations that present as spots, flashes, lines and other defects.  Burning sensation in eyes, eye fatigue, and sensitivity to light are other common conditions that cause eye migraine.",
+            "VideoURL": "Ophthalmoplegic migraine.mp4"
+        },
+        {
+            "WID": "232",
+            "WTitle": "Ophthalmoscope",
+            "WDescription": "Ophthalmoscope, also called funduscope is an ophthalmologist’s tool that is used to examine the lens, retina and vitreous humour. A funduscope is made up of a light source, a concave mirror and a monocular eyepiece through which the interior of the eye can be viewed. ",
+            "VideoURL": "Ophthalmoscope.mp4"
+        },
+        {
+            "WID": "233",
+            "WTitle": "Ophthalmoscopy",
+            "WDescription": "Ophthalmoscopy is the complete examination of the interior of the eye, including the lens, retina and optic nerve using an ophthalmoscope. This examination is very useful in ascertaining glaucoma, intracranial pressure, diabetes and arterial hypertension.",
+            "VideoURL": "Ophthalmoscopy.mp4"
+        },
+        {
+            "WID": "234",
+            "WTitle": "Optic axis",
+            "WDescription": "Optic axis is a direct straight line, which travels through the center of the curvature of lens and falls on the retina below fovea centralis. It provide sharp images of objects. ",
+            "VideoURL": "Optic axis.mp4"
+        },
+        {
+            "WID": "235",
+            "WTitle": "Optic chiasm",
+            "WDescription": "Optic chiasm is a site in the brain where the two optic nerves intersect and crossover to the opposite sides of the brain. Optic nerves take a path along the nasal side of the retina, cross over at the midline joining the optic tract on the opposite side. Therefore, vision caught by the left eye is perceived at the right hemisphere of the cerebrum and vice versa. However, the optic nerves that run on the retina’s temporal side do not cross over. ",
+            "VideoURL": "Optic chiasm.mp4"
+        },
+        {
+            "WID": "236",
+            "WTitle": "Optic disc",
+            "WDescription": "Optic disc is an extremely small circular area in the retina where the retinal ganglion cell axons are present. The optic disc is devoid of photoreceptors; cones and rods, therefore insensitive to light and is commonly referred to as the “blind spot”. It serves as the point where the optic nerve leaves the eyeball and blood vessels supplying the eye enter.",
+            "VideoURL": "Optic Disc.mp4"
+        },
+        {
+            "WID": "237",
+            "WTitle": "Optic nerve",
+            "WDescription": "Optic nerve is the second cranial nerve that extends to about 45-50 mm connecting the eye to the brain. The optic nerve carries impulses from the rods and cones located in the retina to the visual area of the brain where images are interpreted.",
+            "VideoURL": "Optic Nerve.mp4"
+        },
+        {
+            "WID": "238",
+            "WTitle": "Optic Neuritis",
+            "WDescription": "Optic neuritis refers to inflammation of the optic nerve, which transmits visual information from retina to the brain. A number of diseases cause demyelination or degeneration of the optic nerve resulting in blurring of vision, loss of visual acuity andrtial or complete loss of colour vision. Optic neuritis occurs most frequently in patients suffering from multiple sclerosis. ",
+            "VideoURL": "Optic Neuritis.mp4"
+        },
+        {
+            "WID": "239",
+            "WTitle": "Optic tract",
+            "WDescription": "Optic tract is a part of visual pathway that comprises of the optic nerve of either the right or the left eye. The optic tract contains the optic nerves that pass through the optic foramen. Optic nerves intersect at the optic chiasm and then continue toward the rear as optic tracts to the lateral geniculate nucleus of the thalamus.  ",
+            "VideoURL": "Optic tract.mp4"
+        },
+        {
+            "WID": "240",
+            "WTitle": "Optician",
+            "WDescription": "An optician is the one who makes or sells lenses, eyeglasses and other optical instruments. An optician provides corrective lens as per the ophthalmologist’s specifications. ",
+            "VideoURL": "Optician.mp4"
+        },
+        {
+            "WID": "241",
+            "WTitle": "Optokinetic",
+            "WDescription": "Optokinetic refers to the eyeball movement while viewing moving objects in the field of vision.",
+            "VideoURL": "Optokinetic.mp4"
+        },
+        {
+            "WID": "242",
+            "WTitle": "Optometrist",
+            "WDescription": "An optometrist is a health care provider, who is trained to carry out eye examinations, and diagnosis of eye disorders. An optometrist is also licensed to prescribe lenses, glasses and other visual aids. While an optometrist can carry out eye care functions, he is not a medical doctor like an ophthalmologist.",
+            "VideoURL": "Optometrist.mp4"
+        },
+        {
+            "WID": "243",
+            "WTitle": "Ora serrata",
+            "WDescription": "Ora serrata is the serrated (tooth like) border of the retina. It marks the boundary between the end of retina and the beginning of ciliary body, a thin vascular middle layer of the eye.",
+            "VideoURL": "Ora Serrata.mp4"
+        },
+        {
+            "WID": "244",
+            "WTitle": "Orbital muscles",
+            "WDescription": "Orbital muscles are the six eye muscles, located in the orbicularis oculi that are responsible for controlling eye movements. Four muscles control movement in four directions; upward, downward, left and right movement. The remaining two muscles control eye movement along with the movement of the head.",
+            "VideoURL": "Orbital Muscle.mp4"
+        },
+        {
+            "WID": "245",
+            "WTitle": "Orbital reconstruction ",
+            "WDescription": "Orbital reconstruction refers to the reconstruction procedures on damaged or injured orbital structures. Reconstruction involves restoration of damaged orbit, fatty tissues and muscles involved in eye movement. ",
+            "VideoURL": "Orbital reconstruction.mp4"
+        },
+        {
+            "WID": "246",
+            "WTitle": "Orthoptics",
+            "WDescription": "Orthoptics is a branch of medicine that deals with diagnosis, treatment and management of visual disorders that include defective eye coordination, alignment, movement, crossed and double vision.  The 5 major treatment areas of orthoptics are: corrective lenses which include spherical, prismatic and Fresnel lenses; vision therapy that involves strabismic-related optometry; eye exercises; eye-patching and pharmaceuticals that include cycloplegics and surgery. Conditions such as nystagmus and binocular vision are treated by orthoptics.",
+            "VideoURL": "Orthoptics.mp4"
+        },
+        {
+            "WID": "247",
+            "WTitle": "Osteo-Odonto-Keratoprosthesis (OOKP)",
+            "WDescription": "Osteo-Odonto-Keratoprosthesis (OOKP) or \"Tooth in eye\" surgery restores vision by replacement of severely damaged cornea. The procedure gets its name from the technique that involves removal of oral mucosa that is grafted into the eye. A tooth is extracted; following which insertion of an acrylic optical cylinder is made on patient's tooth root. The lamina tissue that is allowed to grow in the patients' cheek for a few months is implanted into the eye with an artificial lens installed in the transplanted piece.",
+            "VideoURL": "Osteo-Odonto-Keratoprosthesis (OOKP).mp4"
+        },
+        {
+            "WID": "248",
+            "WTitle": "Overflow tearing",
+            "WDescription": "Overflow tearing also called Nasal Lacrimal Duct (NLD) obstruction is a congenital eye disorder caused by blocking of the tear duct inside the nose, resulting in continuous flow of tears.  The lower end of the tear duct is blocked by a persistent membrane. The blockage opens spontaneously as the infant grows, in a few months. Overflow tearing is also associated with increased eye pressure, enlarged eye, clouded cornea, sensitivity to light and infant irritability.",
+            "VideoURL": "Overflow tearing.mp4"
+        },
+        {
+            "WID": "249",
+            "WTitle": "Palpebrae",
+            "WDescription": "Palpebrae or eyelids are movable skin folds located above and below the eye. Eyelids function to protect the eyeball’s anterior surface.",
+            "VideoURL": "Palpebrae.mp4"
+        },
+        {
+            "WID": "250",
+            "WTitle": "Pannus",
+            "WDescription": "Pannus is a condition that results from blood vessel formation in the normally avascular cornea.  The blood vessels grow in the anterior stromal region as a result of local hypoxia due to overuse of contact lens, inflammation, stem cell disorders such as aniridia etc. ",
+            "VideoURL": "Pannus.mp4"
+        },
+        {
+            "WID": "251",
+            "WTitle": "Pan-retinal photocoagulation (PRP)",
+            "WDescription": "Pan-retinal photocoagulation (PRP) is a laser therapy for conditions such as diabetic retinopathy and venous occlusions to arrest the growth of abnormal blood vessels in the retina. This procedure prevents the growth of frail new blood vessels as well as seals off leaking vessels by burning off the blood vessels.",
+            "VideoURL": "Pan-retinal photocoagulation.mp4"
+        },
+        {
+            "WID": "252",
+            "WTitle": "Papilla",
+            "WDescription": "Papilla, also called the blind spot, is a oval-shaped area on the retina where no visual image is transmitted as it is devoid of light receptor cells.",
+            "VideoURL": "Papilla.mp4"
+        },
+        {
+            "WID": "253",
+            "WTitle": "Pars plana ",
+            "WDescription": "Pars plana, also called as the ciliary disk, is a flat, dark pigmented part of the ciliary body. It is 4mm long with its stroma continuous with the choroid while the outer pigmented epithelium of the ciliary body is continuous with retina at the ora serrata.",
+            "VideoURL": "Pars Plana.mp4"
+        },
+        {
+            "WID": "254",
+            "WTitle": "Pars plana vitrectomy (PPV)",
+            "WDescription": "Pars plana vitrectomy (PPV) is a surgery that is used to treat conditions such as retinal detachment, diabetic eye diseases, retinal holes and vitreous hemorrhage by removal of vitreous humour. The procedure involves insertion of small instruments into the eye through the pars plana layer that is located between the retina and pars plicata. Three instruments are inserted into the vitreous, one for removal of vitreous, another for injection of fluid in order to maintain the shape of eye and one with the light source.",
+            "VideoURL": "Pars Plana vitrectomy (PPV).mp4"
+        },
+        {
+            "WID": "255",
+            "WTitle": "Partial lamellar sclerouvectomy ",
+            "WDescription": "Partial lamellar sclerouvectomy is a surgical procedure used to remove ciliary body and choroid tumours. The procedure leaves the outer area of the sclera and surrounding retinal tissues intact. ",
+            "VideoURL": "Partial lamellar sclerouvectomy.mp4"
+        },
+        {
+            "WID": "256",
+            "WTitle": "Penetrating keratoplasty",
+            "WDescription": "Penetrating keratoplasty, also referred to as corneal transplant surgery or corneal grafting, is an eye surgery to replace scarred or damaged cornea with a donor's cornea or graft.  By using a circular cutting device called trephine a circular piece of recipient’s scarred cornea is removed. A circular disc of similar size is cut from the donor cornea and is placed where the recipient’s cornea is removed, which is then sewn in place with extremely fine nylon sutures.  Corneal transplant surgery is extremely useful to improve vision in conditions such as distorted corneal curvatures, corneal oedema, severe eye infections and trauma.",
+            "VideoURL": "Penetrating Keratoplasty.mp4"
+        },
+        {
+            "WID": "257",
+            "WTitle": "Peripapillary atrophy",
+            "WDescription": "Peripapillary atrophy that presents in a number of pathologic as well as benign conditions is characterized by thinning off of the retina around the optic nerve head.",
+            "VideoURL": "Peripapillary Atrophy.mp4"
+        },
+        {
+            "WID": "258",
+            "WTitle": "Peripheral vision",
+            "WDescription": "Peripheral vision is the ability to see objects on the outer margins of the visual field, usually large, moving objects that are located outside fovea are caught.  Peripheral vision, in humans is weak; it does not help in distinguishing color and shape. It is characterized by large receptive fields that consist of cones spaced far apart as compared to the tightly packed cones in the fovea. ",
+            "VideoURL": "Periferal Vision.mp4"
+        },
+        {
+            "WID": "259",
+            "WTitle": "Phacoemulsification ",
+            "WDescription": "Phacoemulsification, a surgical procedure that is commonly referred to as phako is done in cases such as cataract removal and clouding of the eye. The process involves breaking up the eye lens by ultrasonic vibrations. An oscillating probe transmits the ultrasonic sound, while yet another needle is used to aspirate out the fragmented lens, before a new lens is inserted.",
+            "VideoURL": "Phacoemulsification.mp4"
+        },
+        {
+            "WID": "260",
+            "WTitle": "Photopsia",
+            "WDescription": "Photopsia or photopsy, that presents in retinal and vitreous detachment, vitreous hemorrhage, posterior uveitis, floaters or migraine is characterized by light sensitivity. Sensitivity is usually observed for radiant light, flashes or colours.",
+            "VideoURL": "Photopsia.mp4"
+        },
+        {
+            "WID": "261",
+            "WTitle": "Photorefractive keratectomy (PRK)",
+            "WDescription": "Photorefractive Keratectomy (PRK), a laser surgery similar to LASIK is done to treat hyperopia, myopia, or astigmatism. The procedure involves reshaping the cornea, thus correcting vision with the use of an excimer laser. However, unlike LASIK where a microkeratome is used to produce a flap, PRK employs the laser directly to reshape the cornea and correct vision; thus better suited for thin corneas. ",
+            "VideoURL": "Photorefractive keratectomy.mp4"
+        },
+        {
+            "WID": "262",
+            "WTitle": "Phototherapeutic keratectomy (PTK)",
+            "WDescription": "Phototherapeutic keratectomy (PTK) is a surgical treatment involving lasers to treat various ocular disorders, such as corneal scars, corneal opacities, bullous keratopathy and corneal dystrophies. Similar to photorefractive keratectomy, used to treat refractive conditions, PTK involves smoothening of the corneal surface using lasers and has the advantage of not damaging other tissues.",
+            "VideoURL": "Phototherapeutic keratectomy.mp4"
+        },
+        {
+            "WID": "263",
+            "WTitle": "Pinguecula",
+            "WDescription": "Pinguecula is the degeneration of conjunctival collagen fibres that presents as a small yellow or white lesion in the eye. It is an elevated thickening seen on the bulbar conjunctiva and is commonly associated with aging. ",
+            "VideoURL": "Pinguecula.mp4"
+        },
+        {
+            "WID": "264",
+            "WTitle": "Pneumatic retinopexy",
+            "WDescription": "Pneumatic retinopexy also known as gas retinopexy is a surgical therapy for detached retina. The procedure is done under anesthesia and involves injection of a gas bubble into the vitreous cavity. The gas bubble seals the retinal break by pushing against the detached retina. Cryopexy or photocoagulation is then used to seal the tear in the retina. ",
+            "VideoURL": "Pneumatic Retinopexy.mp4"
+        },
+        {
+            "WID": "265",
+            "WTitle": "Posterior chamber",
+            "WDescription": "Posterior chamber  is an aqueous filled space in the eye behind the iris and in front of the lens. Aqueous humor produced by the ciliary body passes into the posterior chamber and from here  through the pupil into the anterior chamber of the eye.",
+            "VideoURL": "Posterior Chamber.mp4"
+        },
+        {
+            "WID": "266",
+            "WTitle": "Posterior sclerotomy ",
+            "WDescription": "Posterior sclerotomy is recommended as a preventive procedure for choroidal effusions and intra-operative choroidal hemorrhages. Posterior sclerotomy is recommended in Sturge-Weber syndrome (SWS) or Klippel-Trenaunay-Weber (KTW) syndrome patients who undergo glaucoma filtering surgery.",
+            "VideoURL": "Posterior sclerotomy.mp4"
+        },
+        {
+            "WID": "267",
+            "WTitle": "Presbyopia",
+            "WDescription": "Presbyopia is a condition that affects the ability of the eye to focus on nearby objects. In other words, the eye’s crystalline lens looses it’s flexibility in focusing on close objects. Presbyopia is a natural process associated with  aging and is usually observed in the age group of 45-50 years. ",
+            "VideoURL": "Presbyopia.mp4"
+        },
+        {
+            "WID": "268",
+            "WTitle": "Progressive external ophthalmoplegia (PEO)",
+            "WDescription": "Progressive external ophthalmoplegia (PEO) refers to paralysis  of the motor nerves of the external muscles of the eye. The condition is progressive and is caused by deletions in the mitochondrial DNA. PEO is commonly associated with ptosis, peripheral neuropathy, ophthalmoparesis, ataxia, cataracts and eyelid weakness.",
+            "VideoURL": "Progressive external ophthalmoplegia (PEO).mp4"
+        },
+        {
+            "WID": "269",
+            "WTitle": "Pseudoexfoliation syndrome",
+            "WDescription": "Pseudoexfoliation syndrome is an ocular condition that leads to glaucoma and occurs due to deposition of flakes on the lens, corneal endothelium, zonules, iris, trabecular meshwork and hyaloid.  However, the exact etiology is still not known. Pseudoexfoliation syndrome manifests as a systemic disease that originates primarily from the eye.  ",
+            "VideoURL": "Pseudoexfoliation syndrome.mp4"
+        },
+        {
+            "WID": "270",
+            "WTitle": "Pseudophakia",
+            "WDescription": "Pseudophakia is the presence of an artificial lens. It describes an eye after cataract surgery with intraocular lens implantation.",
+            "VideoURL": "Pseudophakia.mp4"
+        },
+        {
+            "WID": "271",
+            "WTitle": "Pterygium",
+            "WDescription": "Pterygium is a wing-shaped degenerative condition of the conjunctiva which encroaches on the cornea.  It is immovably united to the cornea in its middle portion, and merged with the conjunctiva at its base.",
+            "VideoURL": "Pterygium.mp4"
+        },
+        {
+            "WID": "272",
+            "WTitle": "Pterygium excision",
+            "WDescription": "Pterygium excision is the surgical removal of pterygium under general anesthesia. This procedure is usually done in Down’s syndrome cases with bilateral simultaneous cataract extractions. The most popular pterygium procedure is the Peeling-off technique, where the excision is done in the reverse direction from the scleral side on to the cornea. This technique combines preserved human amniotic membrane transplantation using fibrin glue.",
+            "VideoURL": "Pterygium Excision.mp4"
+        },
+        {
+            "WID": "273",
+            "WTitle": "Ptosis",
+            "WDescription": "Ptosis is the drooping of upper eyelid. It occurs due to weakness of the muscle that raises the eyelid or damage to nerves controlling the muscle movement or due to skin looseness in the upper eyelids. Ptosis is associated with aging and also occurs due to disease or an injury. Ptosis can also be congenital.",
+            "VideoURL": "Ptosis.mp4"
+        },
+        {
+            "WID": "274",
+            "WTitle": "Puncta ",
+            "WDescription": "Puncta are small openings at the margin of the upper and lower eyelids, close to the nose. It is through these openings that the tears drain. ",
+            "VideoURL": "Puncta.mp4"
+        },
+        {
+            "WID": "275",
+            "WTitle": "Pupil",
+            "WDescription": "Pupil is the circular opening in the iris that allows the light to enter the eye and fall on the retina resulting in vision. Pupil appears dark colored or black as it absorbs most of the light. Pupil dilates and constricts depending on the quantity of light entering the eye; it dilates in dim light and constricts with bright light. ",
+            "VideoURL": "Pupil.mp4"
+        },
+        {
+            "WID": "276",
+            "WTitle": "Radial keratotomy (RK)",
+            "WDescription": "Radial keratotomy (RK) is a surgical procedure to reshape the cornea. This procedure used to correct myopia uses a diamond knife calibrated to the eye's measurements. The length and number of incisions are dependent on the amount of correction required and the patient's age. On healing of the incisions, the cornea flattens changing the refraction, thereby reducing myopia. However more recent techniques such as photorefractive keratectomy (PRK) and laser assisted in situ keratomileusis (LASIK) have replaced radial keratotomy.",
+            "VideoURL": "Radial keratotomy (RK).mp4"
+        },
+        {
+            "WID": "277",
+            "WTitle": "Recurrent corneal erosion",
+            "WDescription": "Recurrent corneal erosion or corneal erosion is a corneal disorder characterized by the failure of cornea's outermost layer of epithelial cells to attach to the underlying basement membrane (Bowman's layer). This exposes the sensitive corneal nerve endings, causing severe pain.",
+            "VideoURL": "Recurrent Corneal Erosion.mp4"
+        },
+        {
+            "WID": "278",
+            "WTitle": "Red eye",
+            "WDescription": "Red eye, affecting one or both eyes, is a common reaction to poor lighting, lack of sleep, overuse of alcohol and other ordinary stresses on your eyes. Many illnesses and eye conditions also can cause red eye. ",
+            "VideoURL": "Red eye.mp4"
+        },
+        {
+            "WID": "279",
+            "WTitle": "Refractive",
+            "WDescription": "Refraction is the bending of light rays as they pass through media of different densities. In normal vision, this occurs so that the image is focused on the retina. Refractive is pertaining to or sub-serving a process of refraction; having the power to refract. ",
+            "VideoURL": "Refractive.mp4"
+        },
+        {
+            "WID": "280",
+            "WTitle": "Refractive eye surgery",
+            "WDescription": "Refractive eye surgery is any eye surgery used to improve the refractive state of the eye and decrease or eliminate dependency on glasses or contact lenses. This can include various methods of surgical remodeling of the cornea or cataract surgery. The most common methods today use excimer lasers to reshape curvature of the cornea. Successful refractive eye surgery can reduce or cure common vision disorders such as myopia, hyperopia and astigmatism.",
+            "VideoURL": "Refractive Eye Surgery.mp4"
+        },
+        {
+            "WID": "281",
+            "WTitle": "Retina",
+            "WDescription": "Retina is the innermost layer of the eye wall, which is well adapted for stimulation by light rays.  It is composed of several layers of nerve cell bodies and their axons, lying on a pigmented layer of epithelial cells which attach it to the choroid. This light-sensitive layer consists of sensory receptor cells called rods and cones.  The retina lines about three-quarters of the eyeball and it is thickest around the optic nerve. The rods and cones contain photosensitive pigments that convert light rays into nerve impulses.",
+            "VideoURL": "Retina.mp4"
+        },
+        {
+            "WID": "282",
+            "WTitle": "Retinal blood vessels",
+            "WDescription": "The retinal blood vessels are blood vessels that supply the retina, that is providing nourishment and carrying off waste products. Central retinal artery and the choroidal blood vessels,  radiating from the center of the optic nerve, are the two major sources of blood supply to the retina. The choroid receives 65-85% of blood flow and is important to maintain the outer retina especially the photoreceptors and the remaining blood flows to the retina through the central retinal artery that supplies the inner retinal layers. ",
+            "VideoURL": "Retinal blood vessels.mp4"
+        },
+        {
+            "WID": "283",
+            "WTitle": "Retinal cones",
+            "WDescription": "Retinal cones, also known as cone cells, are a type of photoreceptor cells located on the retina. Cones are responsible for the sharpness of central vision. Cones are sensitive to bright and colour light rays and converts light into nerve impulses.",
+            "VideoURL": "Retinal cones.mp4"
+        },
+        {
+            "WID": "284",
+            "WTitle": "Retinal cryopexy ",
+            "WDescription": "Retinal cryopexy, also known as retinal cryotherapy is a procedure that destroys retinal or choroidal tissue using extremely low temperatures. The procedure involves the use of a metal probe which is cooled. The low temperature at the tip is achieved by rapid expansion of gases at the probe tip. Cryopexy causes cellular destruction due to formation of water crystals followed by rapid thawing. A chorioretinal scar is induced in the process of healing.  Retinal cryopexy is used to treat retinal breaks, to arrest neovascularisation, to destroy abnormal blood vessels and also to destroy small intraocular tumors.  ",
+            "VideoURL": "Retinal cryopexy.mp4"
+        },
+        {
+            "WID": "285",
+            "WTitle": "Retinal cryotherapy ",
+            "WDescription": "Retinal cryotherapy, also known as retinal cryopexy is a procedure that destroys retinal or choroidal tissue using extremely low temperatures. The procedure involves the use of a metal probe which is cooled. The low temperature at the tip is achieved by rapid expansion of gases at the probe tip. Cryotherapy causes cellular destruction due to formation of water crystals followed by rapid thawing.  A chorioretinal scar is induced in the process of healing. Retinal cryotherapy is used to treat retinal breaks, to arrest neovascularisation, to destroy abnormal blood vessels and also to destroy small intraocular tumors. ",
+            "VideoURL": "Retinal cryotherapy.mp4"
+        },
+        {
+            "WID": "286",
+            "WTitle": "Retinal detachment",
+            "WDescription": "Retinal detachment is the separation of retinal layer; neural retina from the pigmented epithelium. Retinal detachment usually occurs due to detachment of vitreous gel associated with head trauma, post cataract surgery, myopia, age-related retinal degeneration, diabetes, tumours and inflammation. This condition may occur with the presence of a hole, called rhegmatogenous retinal detachment. Absence of hole is called non-rhegmatogenous. If retinal detachment involves the areas around the macula lutea, it is treated as an emergency. The symptoms of retinal detachment include flashing lights and floaters, or loss of part of the visual field. ",
+            "VideoURL": "Retinal detachment.mp4"
+        },
+        {
+            "WID": "287",
+            "WTitle": "Retinal detachment repair",
+            "WDescription": "Retinal detachment repair is an eye surgery where detached retina is attached back to its original position. Retinal detachment repair procedures include scleral buckling andpneumatic retinopexy. Severe retinal detachments may require vitrectomy.",
+            "VideoURL": "Retinal detachment repair.mp4"
+        },
+        {
+            "WID": "288",
+            "WTitle": "Retinal microaneurysms",
+            "WDescription": "Microaneurysms are microscopic dilations of blood vessels that appear as tiny red dots in the retina. Microaneurysms are seen on the retina of people affected by diabetic retinopathy.",
+            "VideoURL": "Retinal microaneurysms.mp4"
+        },
+        {
+            "WID": "289",
+            "WTitle": "Retinal photography",
+            "WDescription": "Retinal photography, also called  eye angiography or fluorescein angiography, is a diagnostic procedure to examine the circulation in the blood vessels of the retina using the dye tracing method. Angiograms that are obtained show retinal abnormalities. A fluorescein dye that is injected into the blood vessel in the arm or hand flows through the blood, reaching blood vessels of the retina. The dye reveals retinal abnormalities by leaking, staining or by its inability to flow through blocked blood vessels. ",
+            "VideoURL": "Retinal photography.mp4"
+        },
+        {
+            "WID": "290",
+            "WTitle": "Retinal Pigment Epithelium (RPE)",
+            "WDescription": "Retinal pigment epithelium (RPE) is a layer of cells that are pigmented. The RPE is located on the outer side of the neurosensory part of the retina. Its main function is to nourish retinal visual cells, and is firmly attached to the underlying choroid and overlying retinal visual cells. As part of the vitamin A cycle, RPE isomerizes trans retinol to 11cis retinol.",
+            "VideoURL": "Retinal Pigment Epithelium (RPE).mp4"
+        },
+        {
+            "WID": "291",
+            "WTitle": "Retinitis pigmentosa",
+            "WDescription": "Retinitis pigmentosa refers to a group of diseases that affect the retina. Retinitis pigmentosa is an inherited disorder, that manifests due to deterioration of the photoreceptors, mainly the rods. The condition causes diminished peripheral vision and night vision and then usually, decades later affects the central vision too. ",
+            "VideoURL": "Retinitis pigmentosa.mp4"
+        },
+        {
+            "WID": "292",
+            "WTitle": "Retinoblastoma",
+            "WDescription": "Retinoblastoma is a type of eye tumour that develops in the retina, the light sensitive tissue of the eye. It may be hereditary or sporadic. Commonly occurring in children below 5 years, retinoblastoma, is characterised by poor vision, leukocoria, crossed eye, proptosis and pain.  ",
+            "VideoURL": "Retinoblastoma.mp4"
+        },
+        {
+            "WID": "293",
+            "WTitle": "Retinopathy",
+            "WDescription": "Retinopathy refers to disease of the retina, mostly non-inflammatory. It includes those caused by diabetes, abnormality of the retinal vessels and hypertension.",
+            "VideoURL": "Retinopathy.mp4"
+        },
+        {
+            "WID": "294",
+            "WTitle": "Retinoscope",
+            "WDescription": "Retinoscope, an instrument used in the detection of refractive errors is based on the principle of retinal illumination with a mirror. The reflection from the patient's retina is used to determine the refractive error based on which corrective lenses are prescribed. ",
+            "VideoURL": "Retinoscope.mp4"
+        },
+        {
+            "WID": "295",
+            "WTitle": "Rhinommectomy ",
+            "WDescription": "Rhinommectomy is the surgical excision of the eye’s inner canthus.",
+            "VideoURL": "Rhinommectomy.mp4"
+        },
+        {
+            "WID": "296",
+            "WTitle": "River blindness",
+            "WDescription": "River blindness, also known as Onchocerciasis or Robles' Disease, is a parasitic disease caused by a worm, called Onchocerca volvulus, which is transmitted to humans by the bite of an infected blackfly that breeds in fast flowing streams. The larvae of the worm pass through the skin where they develop into adults and spread throughout the body including the eyes. When the worm dies, it triggers the person’s immune system causing inflammation and when this happens in the eye, it causes intense itching and later blindness.",
+            "VideoURL": "River Blindness.mp4"
+        },
+        {
+            "WID": "297",
+            "WTitle": "Rod cells",
+            "WDescription": "Rod cells, present in the retina are photoreceptors responsible for dim light vision. Vision is by a visual pigment called rhodopsin in the rod cells. Rod cells are columnar cells with 3 regions. The outer region is rich in rhodopsin pigment, the middle layer contains plenty of mitochondria and connects to the outer layer, and the innermost layer is attached to the neural layer of the retina. ",
+            "VideoURL": "Rod cells.mp4"
+        },
+        {
+            "WID": "298",
+            "WTitle": "Scatter laser treatment",
+            "WDescription": "Scatter laser treatment, also known as panretinal photocoagulation, is a laser treatment that slows down or arrests leakage from small blood vessels, thus treating advanced stages of diabetic retinopathy or proliferative diabetic retinopathy. Laser burns that are placed carefully away from the central retina cause shrinkage of abnormal blood vessels. ",
+            "VideoURL": "Scatter laser treatment.mp4"
+        },
+        {
+            "WID": "299",
+            "WTitle": "Schlemm's canal",
+            "WDescription": "Schlemm's canal, also known as Canal of schlemm, is a venous sinus that is small and circular, located at the junction of the sclera and cornea. It drains out aqueous humor from the anterior chamber to the bloodstream via the anterior ciliary veins. ",
+            "VideoURL": "Schlemms canal.mp4"
+        },
+        {
+            "WID": "300",
+            "WTitle": "Sclera",
+            "WDescription": "Sclera, also known as the ‘white‘ of the eye is the opaque bluish-white fibrous outer coat of the eyeball covering the posterior five-sixths; and merges into the cornea at the front. Sclera, made up of connective tissue connects the eyeball to the duramater and the cornea, thus maintaining the eye’s shape.  ",
+            "VideoURL": "Sclera.mp4"
+        },
+        {
+            "WID": "301",
+            "WTitle": "Scleral buckle",
+            "WDescription": "Scleral buckle, a circular silicon band is used to hold the eyeball under conjunctiva. Scleral buckling is  a surgical procedure used to treat retinal detachment. Scleral buckle closes the retinal breaks by moving the eye wall closer to the detached retina and also the retina to the vitreous gel. Scleral buckling also prevents fluid leakage that could cause further retinal detachment.",
+            "VideoURL": "Scleral Buckle.mp4"
+        },
+        {
+            "WID": "302",
+            "WTitle": "Scleral icterus",
+            "WDescription": "Scleral icterus refers to yellowing of the sclera, typically seen in liver diseases, especially hepatitis.",
+            "VideoURL": "Scleral Icterus.mp4"
+        },
+        {
+            "WID": "303",
+            "WTitle": "Scleritis ",
+            "WDescription": "Scleritis, inflammation of sclera is usually contracted along with other disease conditions such as Wegener’s granulomatosis, rheumatoid arthritis and even menstrual disorders. Scleritis, commonly seen in young women presents as three types; diffuse, nodular and necrotizing.",
+            "VideoURL": "Scleritis.mp4"
+        },
+        {
+            "WID": "304",
+            "WTitle": "Scotoma",
+            "WDescription": "Scotoma is an area of blindness (complete or partial) surrounded by normal vision. The most common cause is macular degeneration. There are several type of scotoma: \rCentral scotoma - a scotoma that affects the central vision\rHemianopic scotoma - affecting half of the central visual field\rPeripheral scotoma - affects the edge of the visual field\rParacentral scotoma - a scotoma that is adjacent to the central visual field",
+            "VideoURL": "Scotoma.mp4"
+        },
+        {
+            "WID": "305",
+            "WTitle": "Secondary cataract ",
+            "WDescription": "Secondary cataract refers to a complication of cataract surgery. During cataract surgery, the capsule (outer shell) of the natural lens is left intact in order to hold the implant. Overtime, this capsule becomes cloudy and results in a condition called secondary cataract.",
+            "VideoURL": "Secondary Cataract.mp4"
+        },
+        {
+            "WID": "306",
+            "WTitle": "Short sightedness",
+            "WDescription": "Myopia or short sight is the inability to see distant objects as clearly as near objects. In myopia, the cornea is too steep causing images to focus in front of the retina instead of directly on it. ",
+            "VideoURL": "Short sightedness.mp4"
+        },
+        {
+            "WID": "307",
+            "WTitle": "Sjogren's syndrome",
+            "WDescription": "Sjogren’s syndrome also referred to as sicca syndrome is an autoimmune disease of the endocrine glands. Tears and saliva producing glands are destroyed, leading to dryness of mouth, eyes (keratoconjunctivitis) and mucous membranes of the pharynx, larynx and tracheo-bronchial system. Eye dryness severely damages the cornea, leading to  scratchy or irritated sensation. Lack of tears can also lead to permanent eye damage.",
+            "VideoURL": "Sjogren's syndrome.mp4"
+        },
+        {
+            "WID": "308",
+            "WTitle": "Slit-lamp exam",
+            "WDescription": "Slit lamp examination is done using a slit lamp, an instrument that provides a 3D magnified view of different parts of the eye; cornea, iris, vitreous gel etc. It is extremely useful in diagnosis of conjunctivitis, glaucoma, cataract, iritis and for vision testing. Specialised lenses can be used to view deeper structures such as the optic nerve, retina and the drainage angle. The adaptation of this examination uses fluorescent dye eyedrops that allows easy detection of an injured or infected area on the cornea and also foreign objects.",
+            "VideoURL": "Slit lamp examination.mp4"
+        },
+        {
+            "WID": "309",
+            "WTitle": "Snellen chart",
+            "WDescription": "Snellen chart, the visual acuity chart used to measure vision, has 11 lines in rows with increasing number of letters called as optotypes. Down the row, the size of the letters decrease.  The optotypes are of a particular geometry and thickness. Also the height and width of the optotype is five times the thickness of the line. A traditional Snellen chart consists of only ten letters ‘C D E F L N O P T Z’. ",
+            "VideoURL": "Snellen Chart.mp4"
+        },
+        {
+            "WID": "310",
+            "WTitle": "Sorsby's Macular Dystrophy",
+            "WDescription": "Sorsby’s macular dystrophy, a genetic eye condition due to an autosomal dominant gene, usually presents in individuals above 40 years.  Genes that code for tissue inhibitor metalloproteinase-3 (TIMP-3) undergo missense mutations. The TIMP-3 protein is responsible for extracellular matrix production, inactivation of which leads to increase in activity of the metalloproteinases, contributing to the pathogenesis of the disease. Sorsby’s macular dystrophy typically as macular edema, exudates formation and hemorrhages.",
+            "VideoURL": "Sorsby's macular dystrophy.mp4"
+        },
+        {
+            "WID": "311",
+            "WTitle": "Staphyloma",
+            "WDescription": "Staphyloma, defect of the eye inside the cornea, is characterized by features such as protruding cornea and sclera due to inflammation. ",
+            "VideoURL": "Staphyloma.mp4"
+        },
+        {
+            "WID": "312",
+            "WTitle": "Strabismus",
+            "WDescription": "Strabismus is abnormal positioning of the eyes, so that the visual axes fail to meet at the object under consideration. This condition generally known as squint eye, presents as comitant or concomitant, convergent, divergent and latent strabismus.  Concomitant strabismus is deviation between the eyes that is consistent in all gazing positions.  Convergent strabismus is inward turning of eyes and divergent is outward turning. Latent strabismus occurs only when the eyes are dissociated.  ",
+            "VideoURL": "Strabismus.mp4"
+        },
+        {
+            "WID": "313",
+            "WTitle": "Strabismus surgery",
+            "WDescription": "Strabismus surgery is a surgical correction of misalignment of the eyes or strabismus. The extra-ocular muscles are operated on in the following protocol; loosening or moving the insertion portion of the muscle, tightening and strengthening which involves detachment of one of the eye muscles followed by transposition and repositioning of the muscle. ",
+            "VideoURL": "Strabismus surgery.mp4"
+        },
+        {
+            "WID": "314",
+            "WTitle": "Stroke of the eye",
+            "WDescription": "Stroke of the eye, also referred to as eye stroke, occurs when blockages within veins and arteries cause distorted vision. Severe damage to the eye occurs when blood flow to vital structures such as the retina and optic nerve is blocked. ",
+            "VideoURL": "Stroke of the eye.mp4"
+        },
+        {
+            "WID": "315",
+            "WTitle": "Stye",
+            "WDescription": "Hordeolum or stye is an infection and\/or inflammation of the eyelid glands causing swelling of the eyelids. A hordeolum can either occur inside the lid involving the meibomian glands or externally when glands of Zeiss or Moll are involved.",
+            "VideoURL": "Stye.mp4"
+        },
+        {
+            "WID": "316",
+            "WTitle": "Subcapsular cataract",
+            "WDescription": "Subcapsular cataract is a sub-classification of cataract; the other two categories being nuclear and cortical cataract. Subcapsular cataract, that is common in diabetics, usually commences from behind the lens. The initial presentations are perceived as small, opaque areas under the lens capsule. As the condition progresses, it interferes with vision, reduces bright light vision and is responsible for halos around lights at night.",
+            "VideoURL": "Subcapsular cataract.mp4"
+        },
+        {
+            "WID": "317",
+            "WTitle": "Subconjunctival Hemorrhages",
+            "WDescription": "Subconjunctival hemorrhages are characterized by bleeding beneath the conjunctiva  are and seen as bright red patches on the sclera. Conjunctiva is made up of numerous blood vessels, the small and fragile nature of these blood vessels causes them to rupture easily, causing hemorrhages between the sclera and conjunctiva. These hemorrhages occur especially when there is sudden pressure due to sneezing, coughing or other activities that bring about a sudden increase in pressure. Subconjunctival hemorrhages also occur in patients with high blood pressure and also those who are on aspirin, a vasodilator.",
+            "VideoURL": "Subconjunctival hemorrhages.mp4"
+        },
+        {
+            "WID": "318",
+            "WTitle": "Super Pinhole test",
+            "WDescription": "The super pinhole test is a potential acuity test that helps assess retinal function. In this test, the patient is made to look at a special chart through a disc with tiny holes. Super pinhole is routinely used for predicting cataract surgery outcomes.",
+            "VideoURL": "Super Pinhole Test.mp4"
+        },
+        {
+            "WID": "319",
+            "WTitle": "Surface wrinkling retinopathy",
+            "WDescription": "Surface wrinkling retinopathy refers to a thin layer of  scar tissue on the surface of macula that results in wrinkling and distortion of the retina. The symptoms of surface wrinkling retinopathy range from minor distortion of images to  severe loss of vision. Surface wrinkling retinopathy is also referred to as epiretinal membrane, macular pucker, cellophane retinopathy, and internal limiting membrane disease.",
+            "VideoURL": "Surface wrinkling retinopathy.mp4"
+        },
+        {
+            "WID": "320",
+            "WTitle": "Tarsal cyst",
+            "WDescription": "Tarsal cyst, also known as chalazion, meibomian cyst or conjunctival granuloma, is a small eyelid cyst. It is a chronic inflammatory condition that occurs due to retention of secretions in one of the meibomian glands. Tarsal cyst sets out as diffuse swelling and tenderness that later forms a cyst-like localized swelling.",
+            "VideoURL": "Tarsal cyst.mp4"
+        },
+        {
+            "WID": "321",
+            "WTitle": "Tarsal glands",
+            "WDescription": "Tarsal glands  are also referred to as meibomian glands. These are modified sebaceous glands that are located within the groves of the eyelid’s inner surface. The ducts of tarsal glands open onto the free, inner margins of the eyelids. ",
+            "VideoURL": "Tarsal glands.mp4"
+        },
+        {
+            "WID": "322",
+            "WTitle": "Tarsoplasty ",
+            "WDescription": " Tarsoplasty  is a surgical procedure that removes fatty deposits or surplus tissue on the eyelids. Also known as blepharoplasty, it is done mostly for cosmetic purposes. Correction of sagging eyelids is also done by tarsoplasty and is known to improve the appearance of the eye.",
+            "VideoURL": "Tarsoplasty.mp4"
+        },
+        {
+            "WID": "323",
+            "WTitle": "Tarsorrhaphy",
+            "WDescription": "Tarsorrhaphy, a surgical procedure involves partial suturing of eyelids in order to protect the cornea. The suturing narrows the palpebral fissure of the eye, thus reducing the evaporation of tears.",
+            "VideoURL": "Tarsorrhaphy.mp4"
+        },
+        {
+            "WID": "324",
+            "WTitle": "Tear film",
+            "WDescription": "Tear film also known as precorneal film, is a thin moist layer that covers and lubricates the eye surface. It comprises of three layers namely lipid layer, aqueous layer and mucous layer. The outer most lipid layer made up of oil, secreted by meibomian glands, reduces the evaporation of underneath aqueous layer and smoothens the tear surface. The middle aqueous layer comprising of water and other proteins, produced by lacrimal gland, enhances the spreading of tear film and supplies oxygen to the front of the eye. The innermost mucous layer that consists of mucin released by globlet cells in the counjuctiva, covers cornea and helps in adherence of tears to the front of the eye.  ",
+            "VideoURL": "Tear Film.mp4"
+        },
+        {
+            "WID": "325",
+            "WTitle": "Tear gland",
+            "WDescription": "Tear glands are exocrine tear producing glands that are located on the outer and upper canthus of the eye. The tears produced are protective as they provide an uninterrupted fluid film layer on the eyeball. Tear gland is also known as lacrimal gland.",
+            "VideoURL": "Tear gland.mp4"
+        },
+        {
+            "WID": "326",
+            "WTitle": "Tear sac",
+            "WDescription": "Tear sac is the upper wide portion of the naso-lacrimal duct. Small ducts that release the tears pass over the surface of the eye, run towards the median canthus and drain out into lacrimal canaliculi. From the lacrimal canaliculi, the tears drain into the lacrimal sac and then to the nasolacrimal duct. Tear sac is also known as lacrimal sac or dacryocyst.",
+            "VideoURL": "Tear Sac.mp4"
+        },
+        {
+            "WID": "327",
+            "WTitle": "Tears",
+            "WDescription": "Tears are saline, watery secretions of the lacrimal gland which is located under the upper eyelid. Tears form a thin film over the eyeball. Tears serve to moisten the conjunctiva and cornea and also protect the eyes from dust particles.",
+            "VideoURL": "Tears.mp4"
+        },
+        {
+            "WID": "328",
+            "WTitle": "Tonic pupil",
+            "WDescription": "Tonic pupil, a condition that is also known as Adie's tonic pupil or Adie pupil, denotes parasympathetic denervation that usually affects one eye. Tonic pupil is the poor constriction of the pupil to light; however, this pupil has better capacity for accommodation or near response. Thus the Adie pupil becomes smaller than its counterpart and remains this way due to tonic constriction. It re-dilates slowly in darkness. ",
+            "VideoURL": "Tonic pupil.mp4"
+        },
+        {
+            "WID": "329",
+            "WTitle": "Tonometry",
+            "WDescription": "Tonometry, which is performed by an eye care professional, is the measure of intraocular pressure (IOP), usually measured in mmHg. A tonometer is used to determine the pressure of fluid within the eye. Tonometry is an important test for glaucoma evaluation. ",
+            "VideoURL": "Tonometry.mp4"
+        },
+        {
+            "WID": "330",
+            "WTitle": "Trabecular meshwork",
+            "WDescription": "Trabecular meshwork, responsible for drainage of aqueous humor through the anterior chamber is located at the corneal base, near the ciliary body. The meshwork is made up of spongy trabeculocytes and drains the fluid into the Schlemm's canal. It is made up of 3 parts; inner uveal meshwork that is thin and cord like and closest to the anterior angle, corneo-scleral that is rich in elastin and has a laminar arrangement and  juxtacanalicular that is made up of connective tissue and closest to the schlemm's canal.",
+            "VideoURL": "Trabecular meshwork.mp4"
+        },
+        {
+            "WID": "331",
+            "WTitle": "Trabeculectomy",
+            "WDescription": "Trabeculectomy, a therapeutic procedure for glaucoma, reduces intraocular pressure. The surgical intervention involves removal of a part of the trabeculum and creation of a drainage channel that commences from the anterior chamber to sub-conjunctival space through which excess eye fluid is drained. Through the process, the eyeball is not deflated as a flap is created allowing excess fluid to flow.",
+            "VideoURL": "Trabeculectomy.mp4"
+        },
+        {
+            "WID": "332",
+            "WTitle": "Trifocals",
+            "WDescription": "Trifocals are eyeglasses wherein the lens is designed to adjust to three focal lengths; the upper lens for viewing distant vision, the intermediate for viewing objects at arm’s length and the lower lens for viewing closer objects. Trifocals are particularly helpful for people with advanced presbyopia over age 50.",
+            "VideoURL": "Trifocals.mp4"
+        },
+        {
+            "WID": "333",
+            "WTitle": "Twenty\/Twenty",
+            "WDescription": "20\/20 vision is the average, normal visual acuity for humans. The numerator is the distance (in feet) between the person and the chart. This also means the minimum distance at which a person can distinguish between two objects. The denominator is the distance relating to the lines of the letters in the acuity chart that are separated at a visual angle of one arc minute. The lowest line read with no refractive error is uasually 20 feet. However, vision is good even at 20\/15 or 20\/10 visual acuity. The other alternative to 20\/20 is 20\/40. 20\/40 means when standing 20 feet away from the chart, one can see what a normal human is able to see when standing 40 feet away.",
+            "VideoURL": "Twenty-Twenty.mp4"
+        },
+        {
+            "WID": "334",
+            "WTitle": "Usher syndrome",
+            "WDescription": "Usher syndrome, a hereditary disorder caused by an autosomal recessive gene presents with serious hearing loss and retinitis pigmentosa, that is, both hearing and vision are affected. Disturbances of gait may also occur. Usher syndrome is seen as type I, II and III. Type I presents with deafness at birth and vision problems in early adolescence and also problems with balance. In Type II, there is moderate to severe hearing loss and vision problems develop later in adolescence and have normal balance. Type III presents with normal hearing at birth, normal to near-normal balance, but vision problems develop and then progressive hearing loss. ",
+            "VideoURL": "Usher Syndrome.mp4"
+        },
+        {
+            "WID": "335",
+            "WTitle": "Uvea",
+            "WDescription": "Uvea, also called the uveal tract is the middle coat of the eye that is pigmented, well supplied with blood vessels and located below the sclera. Uvea comprises of the iris, ciliary body and choroid. The structures in the uveal tract are involved in adjustment of the eye to different amounts of light or object distances.  ",
+            "VideoURL": "Uvea.mp4"
+        },
+        {
+            "WID": "336",
+            "WTitle": "Uveitis",
+            "WDescription": "Uveitis is partial or complete inflammation of the uvea that presents as swelling and irritation. Uvea, the middle layer of the eye, is rich in blood vessels and therefore the predominant symptom of this condition is redness of the eye, eye pain, blurred vision and photophobia. Uveitis is caused due to autoimmunity, the most common form being anterior uveitis. This is seen as inflammation in the front of the eye and is called iritis, as it effects only the iris. The other forms of uveitis are posterior uveitis that affects the posterior portion of the uvea. The blood vessels of the choroid and connective tissue are involved and it is therefore also known as choroiditis. Inflammation of the narrow area between iris and the choroid is called pars planitis. ",
+            "VideoURL": "Uveitis.mp4"
+        },
+        {
+            "WID": "337",
+            "WTitle": "Vergence disorder",
+            "WDescription": "Vergence is the ability of the eye to converge or diverge. Convergence insufficiency is the commonest vergence disorder. Common symptoms include squinting, double vision, fatigue, headache, difficulty in concentration while reading and eyestrain. ",
+            "VideoURL": "Vergence disorder.mp4"
+        },
+        {
+            "WID": "338",
+            "WTitle": "Visual acuity test",
+            "WDescription": "Visual acuity test determines the sharpness and clarity of vision. The visual acuity test is carried out using a Snellen chart that has black letters written on a white background. The quantitative measure of resolution is the smallest letter that can be read by a person at a distance of  14-20 feet away. ",
+            "VideoURL": "Visual acuity test.mp4"
+        },
+        {
+            "WID": "339",
+            "WTitle": "Visual axis",
+            "WDescription": "Visual axis refers to a straight line extending from the visual field through the center of the pupil to fovea centralis in the macula. This axis gives the most effective colour vision. ",
+            "VideoURL": "Visual axis.mp4"
+        },
+        {
+            "WID": "340",
+            "WTitle": "Visual Cortex",
+            "WDescription": "Visual cortex is a region in the occipital lobe of the cerebral cortex where visual information is processed. The visual cortex is organized into a primary and a secondary region. Primary cortex receives direct visual signals while the secondary visual region receives signals that require analysis  with respect to motion, shape, position via the intra-cortical pathways.",
+            "VideoURL": "Visual Cortex.mp4"
+        },
+        {
+            "WID": "341",
+            "WTitle": "Visual field",
+            "WDescription": "Visual field also called as field of vision, is the entire area that can be seen simultaneously at a given instant without moving the eyes.",
+            "VideoURL": "Visual Field.mp4"
+        },
+        {
+            "WID": "342",
+            "WTitle": "Vitrectomy",
+            "WDescription": "Vitrectomy is a surgical procedure that removes small portions of the vitreous of the eye using a vitrector. Vitrector is a cutting instrument that is used in removing vitreous during vitrectomy. Based on the site from where the vitreous is removed; the procedure is known as anterior vitrectomy and pars plana vitrectomy. Anterior vitrectomy is vitreous removal from the front structures of the eye. Pars plana vitrectomy is the procedure done on the deeper tissues of the eye and involves removal of vitreous by aspiration through a needle.",
+            "VideoURL": "Vitrectomy.mp4"
+        },
+        {
+            "WID": "343",
+            "WTitle": "Vitreous chamber",
+            "WDescription": "Vitreous chamber is the space that contains vitreous humour, located in the posterior cavity within the eyeball and behind the lens.",
+            "VideoURL": "Vitreous Chamber.mp4"
+        },
+        {
+            "WID": "344",
+            "WTitle": "Vitreous detachment",
+            "WDescription": "Vitreous detachment refers to separation or disconnection of the vitreous body from the posterior retina. This is a common age related problem where in the the posterior vitreous becomes fluid, but may also occur due to diabetes mellitus, inflammatory conditions, trauma, progressive myopia and aphakic eyes where in intracapsular lens extraction was done. The detachment, itself may result in tears in the retina predisposing the retina to retinal detachment. Common symptoms include floaters flashes and photopsia. ",
+            "VideoURL": "Vitreous Detachment.mp4"
+        },
+        {
+            "WID": "345",
+            "WTitle": "Vitreous hemorrhage",
+            "WDescription": "Vitreous hemorrhage is the bleeding into the vitreous that results from leaking retinal blood vessels. It is usually caused by diabetic retinopathy, vitreous detachment, retinal vascular occlusion, eye trauma and retinal tear or detachment. Symptoms include eye pain, blurring leading to vision loss and appearance floaters.",
+            "VideoURL": "Vitreous Haemorrhage.mp4"
+        },
+        {
+            "WID": "346",
+            "WTitle": "Vitreous humour",
+            "WDescription": "Vitreous humour is a transparent, jelly-like, colourless fluid that fills the space between the crystalline lens and retina. It constitutes four-fifths of the eye volume and is made up of 99% water. Hyaluronic acid, organic salts, proteins and collagen make up the remaining 1%. Vitreous humour helps the eye maintain a round shape. Normally, the vitreous body is firmly attached to the ciliary body’s pars plana, known as the vitreous base and around the optic disc.  As age advances and also due to few other disorders, the vitreous looses its gel like properties and becomes fluid.",
+            "VideoURL": "Vitreous humour.mp4"
+        },
+        {
+            "WID": "347",
+            "WTitle": "Walleye",
+            "WDescription": "Walleye is strabismus in which there is permanent deviation of the visceral axis of one eye away from that of the other, resulting in diplopia.  It is also called divergent strabismus, external strabismus and exotropia.",
+            "VideoURL": "Walleye.mp4"
+        },
+        {
+            "WID": "348",
+            "WTitle": "Worth 4 Dot test",
+            "WDescription": "Worth 4 Dot test, by stimulating red, green and blue cone receptors, helps evaluate colour perception. The patient is made to wear glasses with one green and one red lens and is made to look at a target area with 1 white and 3 green dots. Based on the number as well as the colours of light seen, the examiner distinguishes between normal fusion and eye suppression. The test evaluates longstanding and acquired strabismus.",
+            "VideoURL": "Worth 4 Dot Test.mp4"
+        },
+        {
+            "WID": "349",
+            "WTitle": "Xerophthalmia",
+            "WDescription": "Xerophthalmia is corneal and conjunctival dryness due to severe vitamin A deficiency and sometimes due to trauma. In xerophthalmia, the surface of conjunctiva and cornea is irregular, lusterless and poorly wettable. If untreated, the condition can lead to corneal ulceration and eventually blindness. Xerophthalmia may lead to other ocular conditions such as keratoconjunctivitis sicca and keratomalacia. ",
+            "VideoURL": "Xerophthalmia.mp4"
+        },
+        {
+            "WID": "350",
+            "WTitle": "Zonule",
+            "WDescription": "Zonule, generally referred to as a small zone or zonula, is a fibrous structure that connects the ciliary body and the crystalline lens. Also known as ciliary zonule or zonula cilaris, the zonular fibers hold the lens in its position. Zonula cilaris relaxes due to ciliary muscle contraction. This action increases the convexity of the lens. ",
+            "VideoURL": "Zonule.mp4"
+        }
+    ]
+}

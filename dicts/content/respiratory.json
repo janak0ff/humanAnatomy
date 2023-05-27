@@ -1,0 +1,538 @@
+{
+    "respiratory": [
+        {
+            "WID": "1",
+            "WTitle": "Accuhalers",
+            "WDescription": "Accuhalers contain several doses of the medication in powder form. To use this device, push the thumb grip away until a click sound is heard. Slide the lever away until it clicks. Seal the mouthpiece with the lips. Breathe in steadily and deeply. Remove the Accuhaler and hold your breath as long as possible. Exhale slowly. Push the thumb grip towards you and close the device. ",
+            "VideoURL": "Accuhalers.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Acute bronchitis",
+            "WDescription": "Acute bronchitis is characterised by inflammation of trachea, bronchi and bronchioles generally due to viral infection in the upper respiratory tract. Viral infection may lead to secondary infections by bacteria like Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis, etc. ",
+            "VideoURL": "Acute bronchitis.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Acute exacerbation of chronic bronchitis",
+            "WDescription": "Acute exacerbation of chronic bronchitis (AECB) is a disease that commonly affects patients with COPD or chronic bronchitis and is characterised by unstable lung function and decreasing airflow. During AECB, the patients experience severe difficulty in breathing suddenly. This occurs as a result of further narrowing of airways and secretion of large amounts of mucus that is thicker than usual. AECB is caused by exposure to irritants like pollen, cigarette smoke and toxic chemicals during chronic bronchitis or COPD.",
+            "VideoURL": "Acute exacerbation of chronic bronchitis.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Aerolizer",
+            "WDescription": "An Aerolizer uses medication in capsule form. To use, pull the cap. Twist the mouthpiece to expose the capsule chamber. Take one blistered capsule and place it in the chamber in the base. Now close the mouthpiece by twisting. Holding the Aerolizer erect, press the two buttons on the base once. A click indicates that the capsule is pierced. Release the buttons and close the mouthpiece with your lips ensuring that the two buttons are on the sides. Inhale deeply. The capsule spins in the chamber and disperses the medicine.",
+            "VideoURL": "Aerolizer.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Allergens",
+            "WDescription": "Allergens are usually harmless foreign substances that trigger the body’s immune system to react by producing the antibody immunoglobulin E (IgE) in abnormal quantities thereby causing inflammation and typical allergic symptoms. Asthma is often an allergic reaction to something that is inhaled, and nasal symptoms such as allergic rhinitis can be caused by pollens, dust mites or molds.",
+            "VideoURL": "Allergens.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Allergic rhinitis",
+            "WDescription": "Allergic Rhinitis or Hay fever is an allergic reaction to pollen, dust or cold affecting the sinus and upper respiratory tract. It is characterised by runny nose, sneezing, itchy throat and eyes. ",
+            "VideoURL": "Allergic rhinitis.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Allergy",
+            "WDescription": "Allergy is an abnormal reaction of the immune system induced by exposure to a particular substance like food, pollen or dust that manifests as a physiological reaction, which is otherwise harmless.",
+            "VideoURL": "Allergy.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Alveolus",
+            "WDescription": "Alveolus (Plural: Alveoli) are tiny, thin-walled, capillary-rich, air sacs arranged in clusters deep within the lungs where exchange of oxygen and carbon-di-oxide takes place.",
+            "VideoURL": "Alveolus.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Aspiration",
+            "WDescription": "Aspiration is a process of removing fluids, gases or bone fragments from an area of the body by means of suction using an aspirator.",
+            "VideoURL": "Aspiration.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Asthma",
+            "WDescription": "Asthma is a chronic inflammatory pulmonary disorder characterised by narrowing of the bronchial tubes that are inflamed and constricted, causing shortness of breath, wheezing and cough.",
+            "VideoURL": "Asthma.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Bronchiole",
+            "WDescription": "Bronchioles are small airways of the lungs that branch off from the bronchi and extend upto the alveoli.",
+            "VideoURL": "Bronchiole.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Bronchioloalveolar carcinoma",
+            "WDescription": "Bronchioloalveolar carcinoma, a peripheral well differentiated malignant cancer of the lungs, is a subtype of adenocarcinoma. The primary tumor occurs in the alveolar or bronchiolar structures and is rarely found in bronchi. The tumor grows along the alveolar septa, but does not invade the stroma and pleura. ",
+            "VideoURL": "Bronchioloalveolar carcinoma.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Bronchitis",
+            "WDescription": "Bronchitis is the inflammation of bronchi, the main air passages that connect the trachea or windpipe to the lungs. Bronchitis causes shortness of breath and cough that brings up yellowish mucus.",
+            "VideoURL": "Bronchitis.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Bronchodilation",
+            "WDescription": "Bronchodilation is the widening of bronchus or bronchial tube, allowing increased airflow to and from the lungs.",
+            "VideoURL": "Bronchodilation.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Bronchodilators",
+            "WDescription": "Bronchodilators dilate the airways by relaxing the muscles of the airways thereby increasing the lumen and reducing the obstruction to the airflow. The bronchodilators that are now recommended are long acting. Examples are long-acting beta2-agonists like salmeterol, or a long-acting anticholinergics like ipratropium bromide block the action of acetylcholine the naturally occurring neurotransmitter that leads to contraction of muscles in the airways; thus relaxing the bronchial muscles and improving air flow. ",
+            "VideoURL": "Bronchodilators.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Bronchoscope",
+            "WDescription": "Bronchoscope is a long, flexible instrument consisting of a tube with a light at the end, used for the examination of the interior of the bronchi.",
+            "VideoURL": "Bronchoscope.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Bronchoscopy",
+            "WDescription": "Bronchoscopy is the visual examination of the breathing passages through a lighted tube to diagnose or treat lung conditions.",
+            "VideoURL": "Bronchoscopy.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Bronchus",
+            "WDescription": "Bronchus  is the large airway branching from the trachea that conducts air to and from the lungs, but no gas exchange taking place here.",
+            "VideoURL": "Bronchus.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Chronic bronchitis",
+            "WDescription": "Chronic bronchitis is characterized by inflammation of bronchi and bronchioles due to infection, smoking or pollutants. The inflammation makes the bronchi and bronchioles swell and produce more mucous. The swelling and excessive mucous makes the airways narrower, making it difficult to breathe.",
+            "VideoURL": "Chronic bronchitis.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Cilia",
+            "WDescription": "Cilia are short, hair-like projections from the cells that help in the movement of cells, or to sweep away fluids and particles over or around them.",
+            "VideoURL": "Cilia.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Contagious",
+            "WDescription": "Contagious is a term used to describe a disease that can spread easily from person to person either by direct or indirect contact, or is communicable.",
+            "VideoURL": "Contagious.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Chronic Obstructive Pulmonary Disease (COPD)  ",
+            "WDescription": "Chronic Obstructive Pulmonary Disease or COPD is a progressive disease that narrows the airways, limiting airflow to and from the lungs and leading to difficulty in breathing.",
+            "VideoURL": "COPD.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Diaphragm",
+            "WDescription": "Diaphragm is a thin, dome-shaped skeletal muscle that separates the chest cavity from the abdomen. Attached to the spine, ribs and sternum, the diaphragm plays an important role in breathing, as it contracts during inspiration and relaxes during expiration.",
+            "VideoURL": "Diaphragm.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Diphtheria",
+            "WDescription": "Diphtheria is an acute infectious disease typically marked by the formation of a pseudo-membrane around the tonsils and other sites of infection in the upper respiratory tract. Caused by the bacterium Corynebacterium diphtheriae, the infection has symptoms like sore throat, fever, difficulty in breathing and swallowing. ",
+            "VideoURL": "Diphtheria.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Dry powder inhaler",
+            "WDescription": "A dry powder inhaler is similar to a MDI, but is breath activated. The dry powder medication comes as a capsule or disk or may be stored in a compartment in the inhaler. Different types of dry powder inhalers or DPIs are available depending on the medication prescribed. Examples include Accuhaler, Aerolizer, Rotahaler and Turbuhaler. ",
+            "VideoURL": "Dry powder inhaler.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Dust allergy",
+            "WDescription": "Dust allergy is a condition where in the patient is allergic to the fine dust particles floating in the air. These can be pollen, dust etc. ",
+            "VideoURL": "Dust allergy.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Dyspnoea",
+            "WDescription": "Dyspnoea is the difficulty in breathing or shortness of breath. The laboured breathing may be due to congestive heart failure, arrhythmias, pulmonary diseases or allergies.",
+            "VideoURL": "Dyspnoea.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Elastase",
+            "WDescription": "Elastase is an enzyme that breaks down a number of proteins including elastin, the elastic fiber that provides elasticity in connective tissues, and a normal structural component of lung tissues. Elastase is specifically inhibited by alpha-1 antitrypsin (AAT), and in the lung, elastin degradation and emphysema is inversely correlated with elastase inhibitory capacity. Long term exposure to cigarette smoke or air pollutants can cause excessive production of the enzyme and the development of COPD, and in particular emphysema, is attributed to the imbalance between the destructive elastase and protective AAT.",
+            "VideoURL": "Elastase.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Emphysema",
+            "WDescription": "Emphysema is an obstructive lung disease involving damage to the air sacs (alveoli), often caused by exposure to toxic chemicals, including long-term exposure to tobacco smoke.",
+            "VideoURL": "Emphysema.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Epiglottis",
+            "WDescription": "Epiglottis is a flap of elastic cartilage present at the base of the tongue that controls air and food passage through the trachea.",
+            "VideoURL": "Epiglottis.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Epiglottitis",
+            "WDescription": "Epiglottitis is the inflammation and swelling of the epiglottis, the flap that prevents food from entering the trachea. Epiglottitis is potentially life-threatening as it causes airway obstruction.",
+            "VideoURL": "Epiglottitis.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Expiration",
+            "WDescription": "When the muscles in the diaphragm and the rib cage relax and cause the lungs to collapse, the carbon dioxide is squeezed out of the lungs up into the trachea and the nose, to the outside. ",
+            "VideoURL": "Expiration.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Flu",
+            "WDescription": "Flu, generally referred to as influenza, is an infectious respiratory disease. It is caused by certain strains of the influenza virus and is characterised by fever, head ache, muscular pain and weakness.",
+            "VideoURL": "Flu.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "H1N1 flu",
+            "WDescription": "H1N1 flu or swine flu is a respiratory illness caused by the H1N1 flu virus, a strain of the influenza virus that usually affects pigs, but may also affect humans. The symptoms of swine flu are similar to those of the regular human seasonal flu � fever, cough, sore throat, body aches, headache, chills and fatigue.",
+            "VideoURL": "H1N1 flu.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Hay fever",
+            "WDescription": "Hay fever or allergic rhinitis is an allergic reaction to pollen, dust or cold affecting the sinus and upper respiratory tract. It is characterised by runny nose, sneezing, itchy throat and eyes. ",
+            "VideoURL": "Hay fever.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Histamine",
+            "WDescription": "Histamine is a chemical found in the body that causes bronchoconstriction. When an allergen is inhaled, histamine, along with other immune factors, causes narrowing of airways. During histamine challenge test the patient is required to breathe in fluid, containing histamine. The test is used diagnostically to identify bronchial hyper-responsiveness to various doses of histamine.",
+            "VideoURL": "Histamine.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Inhalation",
+            "WDescription": "When the muscles of the diaphragm and the rib cage contract the lungs expand resulting in a negative air pressure in the lungs. This causes the air from outside to enter through the nose. The inner lining of the nose has fine hairs called cilia that filter the air and prevent particulate matter from entering the respiratory tract. ",
+            "VideoURL": "Inhalation.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Inhaler",
+            "WDescription": "Several different inhaler devices are available to deliver asthma medication to the lungs. The type of device may depend on the prescribed medication.",
+            "VideoURL": "Inhaler.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Laryngitis",
+            "WDescription": "Laryngitis is the inflammation of larynx, characterised by hoarseness or loss of voice since the vocal cords are within the larynx.",
+            "VideoURL": "Laryngitis.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Laryngopharynx",
+            "WDescription": "Laryngopharynx, also known as hypopharynx, is the caudal portion of the pharynx lying behind and adjacent to the larynx and is situated below the upper edge of the epiglottis and extending upto the esophagus. It serves as a passageway for food and air. Stretching from the corner of the hyoid bone to the inferior border of the cricoid cartilage, it is lined with a stratified squamous epithelium, and contains three major sites, the pyriform sinus, postcricoid area, and the posterior pharyngeal wall.",
+            "VideoURL": "Laryngopharynx.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Laryngoscopy",
+            "WDescription": "Laryngoscopy is the examination of larynx, including the vocal cords, using a mirror (indirect laryngoscopy) or a laryngoscope � a flexible lighted tube (direct laryngoscopy).",
+            "VideoURL": "Laryngoscopy.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Larynx",
+            "WDescription": "The larynx is a hollow, tubular structure that extends vertically from the tip of the epiglottis to the cricoid cartilage. Connecting the hypopharynx and the trachea, it is located in the anterior neck region at the level of the cervical vertebrae 3 to 6, and is involved in breathing, voice production, and protecting the trachea against the passage of food and other foreign particles into the lower respiratory tracts. The larynx is also called the voice box as the vocal folds commonly known as vocal cords are located here. ",
+            "VideoURL": "Larynx.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Leukotrienes",
+            "WDescription": "Leukotrienes are inflammatory molecules released by mast cells during an asthma attack, and are primarily responsible for the bronchoconstriction. These powerful immune mediators are similar to histamine and are known to be more potent than histamines in setting off allergic reactions.  Leukotrienes bind to their receptors and cause airway spasms, excessive mucus production and activate nerve endings in the airway lining.",
+            "VideoURL": "Leukotrienes.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Lung cancer",
+            "WDescription": "Lung cancer is cancerous growth in lung tissue that may be primary - originating in the lung cells, or metastatic - spread from another area of the body. Symptoms of lung cancer include persistent cough and bloody sputum.",
+            "VideoURL": "Lung Cancer.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Lung Volume Reduction Surgery (LVRS)",
+            "WDescription": "Lung volume reduction surgery is a procedure where a part of the diseased lung tissue is surgically removed to improve breathing. With the removal of the diseased part, the remaining lung tissues expand and work more efficiently.",
+            "VideoURL": "Lung Volume Reduction Surgery (LVRS).mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Lungs",
+            "WDescription": "Lung consists of two branches called bronchi, which divide into smaller and smaller branches called bronchioles and end as air sacs called alveoli.",
+            "VideoURL": "Lungs.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Metered-dose inhaler or MDI",
+            "WDescription": "A metered-dose inhaler or MDI delivers a measured amount of medicine directly into the lungs in the form of a spray.  A spacer may be attached to aid inhalation. To administer the medication, shake the inhaler. Remove the cap from the mouthpiece and attach the spacer device if required. Holding your head erect, exhale normally. Close your mouth around the open end of the spacer or hold the mouthpiece a couple of inches in front of your mouth if a spacer is not used. Breathe slowly and press the inhaler once. Continue to inhale for several seconds. Hold your breath to a count of ten or for as long as possible. Remove the device from your mouth. Exhale slowly.",
+            "VideoURL": "Metered-dose inhaler or MDI.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Mucous",
+            "WDescription": "The trachea and the bronchi are lined with two types of cells. One set of cells secrete a sticky liquid called mucous. The mucous helps in trapping particulate matter from the air and push them out of the respiratory tract by coughing. \r",
+            "VideoURL": "Mucous.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Nasal polyp",
+            "WDescription": "Nasal polyp is an abnormal growth originating from any portion of the nasal mucous membrane or paranasal sinuses.",
+            "VideoURL": "Nasal polyp.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Nasopharyngitis",
+            "WDescription": "Nasopharyngitis are very similar to viral infection and it is difficult to assess the difference between viral and bacterial infections, although some characteristics include the persistence of symptoms beyond 10 days and usually distinguished by the absence of cough, rhinorrhea and conjunctivitis.",
+            "VideoURL": "Nasopharyngitis.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Nasopharynx",
+            "WDescription": "Nasopharynx is the uppermost part of the pharynx lying behind the nose and continuous with the nasal passages. Extending from the base of the skull to the upper surface of the soft palate, the nasopharynx serves as a passageway for air from the nose to the throat.",
+            "VideoURL": "Nasopharynx.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Nebuliser",
+            "WDescription": "A nebuliser is a device that turns liquid medication into tiny particles in a fine mist for delivering medication to deeper parts of the lungs. Asthmatics use nebulisers to take their medication which is breathed in through a mask or mouthpiece.",
+            "VideoURL": "Nebuliser.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Olfactory nerve",
+            "WDescription": "Olfactory nerve is the first of the cranial nerves that transmits sense of smell to the brain.",
+            "VideoURL": "Olfactory nerve.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Paranasal sinuses",
+            "WDescription": "Paranasal sinuses comprise four paired cavities designated frontal, sphenoidal, maxillary, and ethmoidal sinuses. These sinuses are located in the bones of the face and lined by a mucous membrane continuous with that of the nasal cavity. The function of the paranasal sinuses is to reduce the bony mass and weight of the skull and participate in warming and humidification of inspired air.",
+            "VideoURL": "Paranasal sinuses.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Peak flow test",
+            "WDescription": "Peak flow test is done to measure a person’s maximum speed of expiration or breathing out, using a portable device called peak flow meter. The test is usually carried out to determine lung functionality and is commonly used to diagnose, monitor and assess treatment response in asthma.",
+            "VideoURL": "Peak flow test.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Pertussis",
+            "WDescription": "Pertussis or whooping cough is an infectious disease caused by the bacteria Bordetella pertussis leading to inflammation of larynx, trachea and bronchi. This is characterised by recurrent spasmodic coughing bouts followed by a noisy indrawn breath.",
+            "VideoURL": "Pertussis.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Pharyngitis",
+            "WDescription": "Pharyngitis, commonly known as sore throat, is inflammation of the pharynx casued by viral or bacterial infection and characterised by pain, fever and swollen lymph nodes in the neck.",
+            "VideoURL": "Pharyngitis.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Pharyngotonsillitis",
+            "WDescription": "Pharyngotonsillitis, patients will usually present with fever, halitosis, difficulty and pain with swallowing, sore throat. The airway is obstructed and mouth breathing and sleep apnea is quite common. Generalized malaise is a common feature. There is usually a change in voice. Children are usually affected by this condition. ",
+            "VideoURL": "Pharyngotonsillitis.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Pleura",
+            "WDescription": "Pleura is a thin two layered transparent membrane that covers and protects lungs and lines the inside of the chest walls. Pleura secretes watery fluid to lubricate and move the lungs as well as diaphragm during breathing.",
+            "VideoURL": "Pleura.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Pleural effusion",
+            "WDescription": "Pleural effusion is excess fluid accumulation in the pleural cavity, the fluid-filled space that surrounds the lungs. It impairs breathing as it limits lung expansion during inhalation.",
+            "VideoURL": "Pleural effusion.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Pleuritis",
+            "WDescription": "Pleuritis is the inflammation of pleura, the membrane that surrounds the lungs. The causes include infections such as pneumonia and tuberculosis. ",
+            "VideoURL": "Pleuritis.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Pneumonia",
+            "WDescription": "Pneumonia is the acute inflammation of the lungs leading to severe respiratory problems and is caused by bacteria, amoebae, viruses, fungi, parasites or injury to the lungs.",
+            "VideoURL": "Pneumonia.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Pulmonary embolism",
+            "WDescription": "Pulmonary embolism is a fatal condition in which the pulmonary artery or one of its branches in the lungs is blocked by clots. The blockage occurs when blood clots formed in another part of the body, such as legs or abdomen, travel through the blood vessels and reach the lungs.",
+            "VideoURL": "Pulmonary embolism.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Pulmonary or lung function tests",
+            "WDescription": "Pulmonary or lung function tests are a group of tests that evaluate the efficiency of the lungs' functions, of expanding and contracting, and of exchanging oxygen and carbon dioxide in the blood. The tests confirm diagnosis of lung diseases.",
+            "VideoURL": "Pulmonary or lung function tests.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Pulmonary Unit",
+            "WDescription": "The right and the left bronchi enter their respective lungs through the ‘hilum’. After entering the lungs the bronchi further divide to form bronchioles. Each bronchiole has many microscopic alveolar ducts and atria that open in a bag like structure called the alveolus. This is called a ‘pulmonary unit’. The lungs are made up of many such pulmonary units. ",
+            "VideoURL": "Pulmonary unit.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Respiration",
+            "WDescription": "Respiration is a process during which oxygen is inhaled and carbon dioxide is exhaled from the body, to satisfy the body’s energy requirement.",
+            "VideoURL": "Respiration.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Respiratory system",
+            "WDescription": "Respiratory system is the integrated system of organs involved in gaseous exchange or breathing. It is made up of the nose, pharynx or throat, larynx or voice box, trachea or windpipe, bronchi and the lungs. ",
+            "VideoURL": "Respiratory system.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Rhinitis",
+            "WDescription": "Rhinitis is the inflammation of the mucosal lining of the nasal passages caused by allergens like pollen, dust and dust mites and is characterised by runny nose, itching, sneezing, congestion and swelling of the nasal tissues.",
+            "VideoURL": "Rhinitis.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Rhinosinusitis",
+            "WDescription": "Rhinosinusitis generally develops following viral sinusitis and is characterised by the persistence of symptoms beyond 7-10 days. Most of the symptoms are similar to that of viral, however the discharge is generally more purulent, the patient is often febrile and has facial pain. ",
+            "VideoURL": "Rhinosinusitis.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Ribs",
+            "WDescription": "Ribs are the 12 pairs of slender, curved bones that extend from the spine to attach with the sternum or breastbone to form the rib cage. The ribs form the skeletal framework of the thorax called the thoracic cage and protect the heart and the lungs.",
+            "VideoURL": "Ribs.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Rotahaler",
+            "WDescription": "A Rotahaler uses a capsule called a Rotocap. Hold the Rotahaler erect and insert the Rotocap into the opening with the transparent end first. The top of the capsule should be level with the opening. Twist the base of the Rotahaler to split the capsule. Inhale deeply and breathe out slowly. A rattling sound is heard as the capsule moves. Open the inhaler to remove the used capsule. The Rotahaler is generally used to deliver salbutamol. ",
+            "VideoURL": "Rotahaler.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "SARS (Severe Acute Respiratory Syndrome)",
+            "WDescription": "SARS or severe acute respiratory syndrome is a contagious viral disease caused by a coronavirus called SARS-associated coronavirus (SARS-CoV) causing dry cough and shortness of breath.",
+            "VideoURL": "SARS (Severe Acute Respiratory Syndrome).mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Sinuses",
+            "WDescription": "Sinuses are air-filled spaces located in the bones of the face that are lined by a mucous membrane, continuous with that of the nasal cavity. The function of the sinuses is to reduce the weight of the skull and participate in warming and humidification of inspired air.",
+            "VideoURL": "Sinuses.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Sinusitis",
+            "WDescription": "Sinusitis is the inflammation of the mucous membranes of one or more of the sinuses caused due to bacterial or viral infections or by allergens. The symptoms include facial tenderness, headache and swelling over the affected sinus area,  nasal congestion, increase in pain associated with head movements and bending forward.",
+            "VideoURL": "Sinusitis.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Sleep apnoea",
+            "WDescription": "Sleep apnoea is a sleep disorder in which breathing stops temporarily (lasting 10 seconds or longer) during sleep. It is characterised by obstruction of the upper airway during sleep.",
+            "VideoURL": "SleepApnoea.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Sore throat",
+            "WDescription": "Sore throat, commonly known as pharyngitis, is inflammation of the pharynx casued by viral or bacterial infection and characterised by pain, fever and swollen lymph nodes in the neck.",
+            "VideoURL": "Sore throat.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Strep throat",
+            "WDescription": "Strep throat is an infection of the throat caused by Group A Streptococcus bacteria. Affecting the mucous lining of pharynx, strep throat can develop into rheumatic fever or other serious conditions if left untreated.",
+            "VideoURL": "Strep throat.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Swine flu",
+            "WDescription": "Swine flu or H1N1 flu is a respiratory illness caused by the H1N1 flu virus, a strain of the influenza virus that usually affects pigs, but may also affect humans. The symptoms of swine flu are similar to those of the regular human seasonal flu � fever, cough, sore throat, body aches, headache, chills and fatigue.",
+            "VideoURL": "Swine flu.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Tonsillectomy",
+            "WDescription": "Tonsillectomy is a procedure in which infected tonsils are surgically removed. Sophisticated carbon-di-oxide laser tonsillectomy is a quick and painless option.",
+            "VideoURL": "Tonsillectomy.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Tonsillitis",
+            "WDescription": "Tonsillitis is the infection and inflammation of the tonsils caused by either bacteria or viruses. Tonsillitis is painful and debilitating and is accompanied by sore throat, fever, swollen glands of the neck, and difficulty swallowing.",
+            "VideoURL": "Tonsillitis.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Tonsils",
+            "WDescription": "Tonsils are a pair of oval shaped lymphoid tissue located on either side of the throat and embedded in the lateral walls of the opening between the mouth and the pharynx. It is part of the immune system and helps protect against infection.",
+            "VideoURL": "Tonsils.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Trachea",
+            "WDescription": "Trachea is a thin, hollow cartilaginous tube through which air passes to and from the lungs. Also referred to as wind pipe, the trachea descends from the larynx to the bronchi.",
+            "VideoURL": "Trachea.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Tracheitis",
+            "WDescription": "Tracheitis is the inflammation of the trachea or windpipe due to accumulation of bacteria in the tracheal tube that causes acute upper airway obstruction. It is caused by the bacteria Staphylococcus aureus, and affects children, most commonly children under the age of 3. Typical symptoms include bark like cough, inspiratory stridor and high fever.",
+            "VideoURL": "Tracheitis.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Tuberculosis",
+            "WDescription": "Tuberculosis is an infectious disease caused by the bacterium Mycobacterium tuberculosis or tubercle bacillus that mainly affects the lungs and can spread to other parts of the body. It is characterised by cough, fever, shortness of breath, weight loss, and appearance of tubercles or tiny lumps and caseous necrosis in the tissues of lungs.",
+            "VideoURL": "Tuberculosis.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Turbuhaler",
+            "WDescription": "A Turbuhaler is a multi-dose inhaler. It has an indicator, which shows the number of doses left. In some Turbuhalers a red indicator appears when there are twenty doses left. Holding the Turbohaler upright, remove the cap and twist the coloured grip as far as possible and then bring it back. A click is heard when it is ready. Inhale deeply. Remove the inhaler and then exhale, replace the cap after use.",
+            "VideoURL": "Turbuhaler.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Upper Respiratory Tract Infections (URTIs)  ",
+            "WDescription": "Upper respiratory tract infections (URTIs) involve the infection and inflammation of the respiratory mucosa of the nose, paranasal sinuses, pharynx, larynx, trachea and bronchi. URTIs range from the common cold,  and catarrhal syndrome of the nasopharynx, to  serious illnesses such as epiglottitis.",
+            "VideoURL": "URTIS.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Vocal cord",
+            "WDescription": "Vocal cord refers to two folded, 'V' shaped elastic membranes found in the larynx and are responsible for voice production. Vocal cords open during inhalation, close while holding breath and vibrate for voice production.",
+            "VideoURL": "Vocal cord.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Whooping cough",
+            "WDescription": "Whooping cough or pertussis is an infectious disease caused by the bacteria Bordetella pertussis leading to inflammation of larynx, trachea and bronchi. This is characterised by recurrent spasmodic coughing bouts followed by a noisy indrawn breath.",
+            "VideoURL": "Whooping cough.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Wind pipe",
+            "WDescription": "Wind pipe is a thin, hollow cartilaginous tube through which air passes to and from the lungs. Also referred to as trachea, wind pipe descends from the larynx to the bronchi.",
+            "VideoURL": "Wind pipe.mp4"
+        }
+    ]
+}

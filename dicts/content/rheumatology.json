@@ -1,0 +1,580 @@
+{
+    "rheumatology": [
+        {
+            "WID": "1",
+            "WTitle": "Achondroplasia",
+            "WDescription": "Achondroplasia is a genetic disorder in which abnormal growth of bone leads to dwarfism. Main characteristics are shorter limbs, disproportionate body, decreased muscle tone, and prominent forehead. Achondroplasia occurs due to mutations in the fibroblast growth factor receptor 3 gene (FGFR3).",
+            "VideoURL": "Achondroplasia.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Acrolysis",
+            "WDescription": "Acrolysis is extensive resorption of the distal phalanges which is the characterstic feature of a number of osteoarthropathies. Distal phalanges are the terminal limb bones, located at the tip of the digits that is fingers and toes. In this condition, osteoclasts break down phalanges resulting in resorption of calcium from bone and thus cause osteoporosis.",
+            "VideoURL": "Acrolysis.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Acrosclerosis",
+            "WDescription": "Acrosclerosis is the stiffness and tightness of the skin in fingers associated with atrophy of soft tissues and osteophorosis of distal phalanges. The changes observed in face, hands and feet. Symptoms include severe pain in fingers, stiffness of finger and often appear in blue color.",
+            "VideoURL": "Acrosclerosis.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Acute rheumatic fever",
+            "WDescription": "Acute rheumatic fever is an autoimmune disease that develops after Streptococcus bacterial infection such as strep throat or scarlet fever. Clinical manifestations include inflammation of heart called carditis, muscle weakness, jerky involuntary movements, arthritis, skin nodules, and skin rashes called erythema marginatum. Acute rheumatic fever mainly affects children aged 6-15 years. ",
+            "VideoURL": "Acute rheumatic fever.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Adhesive capsulitis",
+            "WDescription": "Adhesive capsulitis or frozen shoulder is an inflammatory disease that causes pain and stiffness of the shoulder bones which gradually lose their range of motion. Inflammation of the capsule that surrounds the shoulder joint results in frozen shoulder. Shoulder injury, shoulder surgery, cervical disk disease of neck, diabetes, chronic inflammatory arthritis of shoulder increases the risk of developing adhesive capsulitis.",
+            "VideoURL": "Adhesive capsulitis.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Albers-Schonberg disease",
+            "WDescription": "Albers-Schonberg disease or autosomal dominant osteopetrosis, type II (ADO II) is inherited form of osteopetrosis characterized by increase in bone density due to mutation in ClCN7 chloride channel gene. ADO II is characterized by non-traumatic fractures, especially of long bones, osteoarthritis of the hip, dysfunction of cranial nerves, and mandibular ostomyelitis. The disease leads to increased density of entire skeleton due to damaged bone and cartilage resorption.",
+            "VideoURL": "Albers-Schonberg disease.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Alendronate",
+            "WDescription": "Alendronate is used to prevent and treat osteoporosis especially in women after menopause and in patients who take corticosteroids. Osteoporsis is a condition where the bones become thin, weak and easily breakable. Alendronate increases bone mineral density and reduces the risk of bone fracture. It is available in the form of tablets and solution. It is also recommended for Paget's disease. ",
+            "VideoURL": "Alendronate.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Alexander technique",
+            "WDescription": "Alexander technique is a technique that helps to improve postural habits, breathing, balance and co-ordination. This teaches the way of sitting, standing, walking, lying down, lifting, and other daily activities. This technique helps to improve performance, impulse control, relieve stress and tension.",
+            "VideoURL": "Alexander technique.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Algometry",
+            "WDescription": "Algometry is the technique to measure pain by the device called algometer. Algometer determines the sensitivity to pain produced by pressure. This helps in diagnosis and prognosis of disease. Algometry is used to measure pain in people with rheumatoid arthritis, osteoarthritis, and ankylosing spondylitis.",
+            "VideoURL": "Algometry.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Ankylosing spondylitis",
+            "WDescription": "Ankylosing spondylitis is a chronic inflammatory disease of spine and sacroiliac joints. Chronic inflammation causes pain and stiffness around the spine that leads to the loss of mobility. Intermittent low back pain is the first symptom of the disease followed by fatigue, pain and stiffness that worsen during night. It begins between 20 and 40 years of age and is more likely to affect men than women.",
+            "VideoURL": "Ankylosing spondylitis.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Antiphospholipid syndrome",
+            "WDescription": "Antiphospholipid syndrome (APS) is an immunological disorder characterized by recurrent venous or arterial thrombosis. In APS, specific antibodies activate inner lining of blood vessels to form clots, especially in veins of legs, lungs, and brain or in the placenta of pregnant woman that can lead to miscarriage, premature birth or fetal death.",
+            "VideoURL": "Antiphospholipid syndrome.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Arthritis ",
+            "WDescription": "Arthritis is a painful degenerative joint disease with inflammation, stiffness and pain in the associated joints. ",
+            "VideoURL": "Arthritis.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Arthritis impact measurement scale (AIMS)",
+            "WDescription": "Arthritis impact measurement scale (AIMS) is a multidimensional index that measures outcome of arthritis treatment. AIMS is a questionnaire that assesses physical, emotional, and social well-being and is useful to evaluate the outcome of interventional therapies in arthritis patients.",
+            "VideoURL": "Arthritis impact measurement scale.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Arthrocentesis",
+            "WDescription": "Arthrocentesis or joint aspiration is both a diagnostic and treatment procedure for rheumatoid arthritis that involves fluid removal from the affected joint using a sterile needle and syringe. Drugs like corticosteroids may occasionally be injected into the joints during the procedure to alleviate pain and inflammation.",
+            "VideoURL": "Arthrocentesis.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Arthrodesis",
+            "WDescription": "Arthrodesis, also known as artificial ankylosis or syndesis, is a surgical setting where two bones in a diseased or injured joint are fused to relive pain. Artificial joint replacements like metal plates, screws or wires are used to fuse the joints. Bone graft can also be employed for this procedure. ",
+            "VideoURL": "Arthrodesis.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Arthrogryposis multiplex congenita",
+            "WDescription": "Arthrogryposis multiplex congenita is a congenital disorder characterized by multiple joint contractures (stiff joints). Joints affected such as shoulders, elbows, wrists and fingers, hips, knees, ankles, and feet show limited mobility and proliferation of fibrous tissue in the joints.",
+            "VideoURL": "Arthrogryposis multiplex congentia.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Arthroscopic synovectomy",
+            "WDescription": "Arthroscopic synovectomy is a type of synovectomy commonly performed on the joints of knee, shoulders and ankles. It can also be used for the spine, hips, wrist and elbows. During the procedure, three incisions are made around the joint area. An irrigating instrument is inserted through one of the incisions to pump the fluid and expand the joint. The arthroscope, with a camera at its tip, is then inserted through another incision, which helps the surgeon to view the inner joint conditions. A trimmer is then inserted through the third incision to remove the damaged synovial lining. ",
+            "VideoURL": "Arthroscopic synovectomy.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Asymmetric arthritis",
+            "WDescription": "Asymmetric arthritis, mildest form of psoriatic arthritis, affects any joint such as the knee, hip, ankle or wrist. Inflamed joints are often tender and red. When hands and feet are involved, swelling and inflammation in the tendons can cause the fingers and toes to resemble small sausages (dactylitis).",
+            "VideoURL": "Asymmetrric arthritis.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Baker's cyst",
+            "WDescription": "Baker's cyst is the swelling behind the knee caused by the accumulation of synovial fluid. Increase in synovial fluid (the fluid that lubricates knee joint) increases the pressure and the fluid builds up behind the knee. It occurs in patients with osteoarthritis, rheumatoid arthritis, tear in meniscal cartilage of the knee and other knee related conditions. ",
+            "VideoURL": "Baker's cyst.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Balneotherapy",
+            "WDescription": "Balneotherapy is an oldest form of therapy that makes use of water to relieve pain and improves joint mobility in arthritis patients. Hot springs, mineral baths, both hot and cold waters, and moving water are the different forms of balneotherapy. Mineral water bath is recommended for arthritis especially sulphurous mineral water relieves low back pain. ",
+            "VideoURL": "Balneotherapy.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Behcet's syndrome",
+            "WDescription": "Behcet's syndrome is an inflammatory disease that causes mouth ulcers, genital ulcers, uveitis, skin sores, and arthritis. Arthritis (joint inflammation) causes pain, swelling and stiffness in the joints especially in knees, wrists, ankles, and elbows.",
+            "VideoURL": "Behcet's syndrome.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Bouchard's nodes",
+            "WDescription": "Bouchard's node is the bony cyst at the middle joint (proximal interphalangeal joint) of the fingers in osteoarthritis patients. It is not painful but the affected joint has limited mobility. ",
+            "VideoURL": "Bouchard's nodes.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Cartilage",
+            "WDescription": "Cartilage is a semitransparent layer that covers the surface of the bones. It is made up of cells called chondrocytes and proteins, primarily collagen and proteoglycans.",
+            "VideoURL": "Cartilage.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Chondrocalcinosis",
+            "WDescription": "Chondrocalcinosis is the calcification of cartilage in joints due to the accumulation of calcium pyrophosphate dihydrate crystals. It is mostly associated with pseudogout or pseudo-osteoarthritis. Symptoms include joint pain and joint stiffness especially in wrists, elbows, shoulders and metacarpophalangeal (MCP) joints.",
+            "VideoURL": "Chondrocalcinosis.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Chondrocyte",
+            "WDescription": "The chondrocytes, secrete the proteins; principally collagen; and proteoglycans that make up the structure of the cartilage.  Like all other tissues in the body, these substances are undergoing constant turnover, and the cells can secrete enzymes that break down 'old' areas of cartilage as well as secrete the chemicals that form the new structure or 'matrix'.  In normal, functional joints, these degenerative and regenerative enzymes are well balanced, allowing the cartilage to maintain its structure and function efficiently.",
+            "VideoURL": "Chondrocytes.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "CMC Arthritis",
+            "WDescription": "CMC Arthritis is the osteoarthritis of the carpometacarpal joint of the thumb. Genetics and previous injuries may lead to CMC arthritis. Most common symptom is pain at the base of the thumb. CMC affects women more than men. ",
+            "VideoURL": "CMC Arthritis.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Collagen",
+            "WDescription": "Collagen is a tough fibrous protein with a high tensile strength that supports and connects bodily tissues. It forms an important constituent of skin, bone, cartilage and muscle.",
+            "VideoURL": "Collagen.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Dermatomyositis",
+            "WDescription": "Dermatomyositis is an inflammatory disease of the muscle tissue characterized by skin rash. It affects the muscle and skin and also the joints, esophagus, lungs and rarely the heart. Commonly observed symptoms include purple-red skin rashes, muscle weakness, difficulty in swallowing and difficulty in breathing. ",
+            "VideoURL": "Dermatomyositis.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Disease Modifying Anti-Rheumatoid Drugs (DMARDs) ",
+            "WDescription": "Disease modifying anti-rheumatoid drugs (DMARDs) are a category of drugs used to treat rheumatoid arthritis, ankylosing spondylitis and psoriatic arthritis. These drugs control disease progression and slow down joint destruction by suppressing the body's overactive immune response. The choice of the drug depends on factors like the stage and severity of the disease, side effects and benefits of the drug, patient preference, etc. ",
+            "VideoURL": "Disease modifying anti-rheumatoid drugs.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Distal interphalangeal predominant (DIP)",
+            "WDescription": "Distal interphalangeal predominant (DIP), a less common form of psoriatic arthritis, affects distal joints of the fingers and toes. DIP is sometimes confused with osteoarthritis, but psoriatic arthritis usually causes nail changes.",
+            "VideoURL": "Distal interphalangeal predominant (DIP).mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Felty's syndrome",
+            "WDescription": "Felty's syndrome is a combination of rheumatoid arthritis, splenomegaly, low WBC count, and repeated infections. Felty's syndrome affects people with rheumatoid arthritis for more than ten years and is more common in women. Symptoms include swollen and stiff joints, loss of appetite, weight loss, fatigue, malaise, and burning sensation in the eye.",
+            "VideoURL": "Felty's syndrome.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Gonococcal arthritis",
+            "WDescription": "Gonococcal arthritis is the joint inflammation caused by the bacteria Neisseria gonorrhoeae and can affect a single joint or multiple joints. Women are more susceptible to gonococcal arthritis than men. Symptoms include joint pain mainly in hands or wrist, skin rashes, fever, abdominal pain, and pain during urination.",
+            "VideoURL": "Gonococcal arthritis.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Gottron's papules",
+            "WDescription": "Gottron's papules are the pink patches on the skin on metacarpal and interphalangeal joints caused by inflammation of the muscle. It is associated with connective-tissue disease called dermatomyositis.",
+            "VideoURL": "Gottron's papules.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Gout",
+            "WDescription": "Gout is an acute arthritic disease often affecting fingers and toes and is characterised by painful swelling around the joints due to accumulation of uric acid in the blood.",
+            "VideoURL": "Gout.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Hemophilic arthropathy",
+            "WDescription": "Hemophilia is genetic disorder that results in continuous bleeding for any injury. Hemophilic arthropathy is the joint pain that occurs due to bleeding into the joint, mainly knee, elbow, ankle, hip, and shoulder joints. Hemophilic arthropathy can lead to arthritis if left untreated. ",
+            "VideoURL": "Hemophilic arthropathy.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Hip replacement",
+            "WDescription": "Hip replacement surgery, also called hip arthroplasty, is done to correct hip joint damage and deformity to relieve arthritis pain and increase mobility. The damaged parts of the hip are replaced by prosthetic implants - an acetabular component and a femoral shaft. During total hip replacement, a metal stem, with a ball at its neck, is inserted into the thigh bone. A liner, inserted into a metal shell, is fixed to the pelvis. The ball fits into the liner and forms the new joint.",
+            "VideoURL": "Hip replacement.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Hypereosinophilic syndrome",
+            "WDescription": "Hypereosinophilic syndrome (HES) or hyperesosinophilia is a myeloproliferative disorder characterized by increased eosinophil count. This damages multiples organs including joints and causes arthralgia effusions, destructive joint lesions, polyarthritis, and bursitis. Symptoms include fever, night sweats, anorexia, weight loss, fatigue, etc.",
+            "VideoURL": "Hypereosinophilic syndrome.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Hypertrophic osteoarthropathy",
+            "WDescription": "Hypertrophic osteoarthropathy (HOA) is a disorder of bones, joints, and soft tissues. It is characterized by clubbing of digits, periostosis of the long bones of distal extremities, arthritis, and excessive proliferation of skin and bone in distal extremities.",
+            "VideoURL": "Hypertrophic osteoarthropathy.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Inclusion body myositis",
+            "WDescription": "Inclusion body myositis is a type of inflammatory myopathy characterized by chronic muscle inflammation that leads to muscle weakness. Muscle weakness and atrophy affects both proximal and distal muscles and tendon reflex are usually lost. It is more frequent in males above the age of 50. ",
+            "VideoURL": "Inclusion body myositis.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Inflammatory myopathies",
+            "WDescription": "Inflammatory myopathies refer to a group of myopathies namely dermatomyositis (DM), polymyositis (PM), and inclusion body myositis (IBM). It is characterized by chronic muscle inflammation that damages the muscle fibers and leads to muscle weakness. Dermatomyositis involves skin and skeletal muscle and mainly affects children and adults. Polymyositis affects skeletal muscle and is characterized by difficulty in swallowing, speaking, lifting objects, etc. Inclusion body myositis is characterized by chronic muscle inflammation that leads to muscle weakness in both distal and proximal muscles. ",
+            "VideoURL": "Inflammatory myopathies.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Juvenile Idiopathic Arthritis (JIA)",
+            "WDescription": "Juvenile idiopathic arthritis (JIA) is the most common type of arthritis in children that causes joint and tissue damage. It is characterized by joint inflammation, joint stiffness, joint damage or change in growth. JIA is divided into 3 types, namely pauciarticular that affects one to four joints; polyarticular that affects five or more joints; and systemic where the entire body is affected.",
+            "VideoURL": "Juvenile idiopathic arthritis.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Juvenile rheumatoid arthritis",
+            "WDescription": "Juvenile rheumatoid arthritis (JRA) is a group of diseases and the most common form of arthritis seen among children. Also known as juvenile idiopathic arthritis (JIA), it affects one or more joints causing inflammation and for a duration of six weeks or longer. JRA appears between 6 months and 16 years of age.\r",
+            "VideoURL": "Juvenile rheumatoid arthritis.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Kawasaki Disease",
+            "WDescription": "Kawasaki disease is a rare inflammatory disease of blood vessel in children. It affects the mucus membranes, walls of the blood vessel, lymph nodes and heart. Kawasaki disease is one of the leading causes of heart disease in children. Symptoms include joint pain, skin peeling in finger and toe tips, abdominal pain, conjunctivitis, fever, etc.",
+            "VideoURL": "Kawasaki disease.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Ligament",
+            "WDescription": "Ligaments are tough fibrous bands or sheets of connective tissue, linking bones, cartilages or supporting muscles at joints.",
+            "VideoURL": "Ligament.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Lyme disease",
+            "WDescription": "Lyme disease is a bacterial infection caused by Borrelia burgdorferi which spreads through tick bites that carry the bacteria. The disease affects joints, skin, heart, and nervous system. The infection causes reddish rashes and in the later stages it causes muscle pain, joint pain, stiff joints, fatigue, and headache.",
+            "VideoURL": "Lyme disease.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Mixed connective tissue disease (MCDT)",
+            "WDescription": "Mixed connective tissue disease (MCDT) is an autoimmune disorder that exhibits overlapping of lupus erythematosus, scleroderma, and polymyositis. MCDT is characterized by the presence of swollen joints, joint pain, muscle pain, swollen fingers, fever, fatigue, malaise, etc.",
+            "VideoURL": "Mixed connective tissue disease.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Mycotic arthritis",
+            "WDescription": "Mycotic arthritis or fungal arthritis is caused by invasive fungi. Histoplasmosis, blastomycosis, candidiasis, cryptococcosis, coccidioidomycosis, and sporotrichosis can cause fungal arthritis. The infection affects large joints more, especially the knee. Symptoms include joint swelling, joint stiffness, joint pain, ankle, feet, and leg swelling.",
+            "VideoURL": "Mycotic arthritis.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Neurogenic inflammation",
+            "WDescription": "Neurogenic inflammation is a phenomenon resulting from the inflammatory responses of connective tissue and immune cells to neuropeptides, neurotransmitters and vasoactive amines. Involvement of the nervous system and its products in inflammatory responses is said to be via an increased secretion of substance P (SP), neurokinin A and B, histamine, bradykinin, increased secretion of prostaglandins by fibroblasts, etc. The response of immune cells to these substances resembles the action of cytokines, especially IL-1 and TNF, thus inducing arthritis.",
+            "VideoURL": "Neurogenic inflammation.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Neuropathic arthropathy",
+            "WDescription": "Neuropathic arthropathy is a chronic, progressive, degenerative bone disease that occurs due to damaged nerves of the joints. It affects the peripheral joints, which gradually lose their sensitivity. Small injuries are not perceived effectively and hence treatment is delayed. This may eventually lead to degeneration of joints, muscle weakness and loss of reflexes, especially at the ankle. Neuropathic arthropathy is commonly observed in patients with diabetes, syphilis, and syringomyelia.",
+            "VideoURL": "Neuropathic arthropathy.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Non-articular rheumatism",
+            "WDescription": "Non-articular rheumatisum, also known as soft tissue rheumatism, causes discomfort in soft tissue which causes pain throughout the body or in particular regions of body. Fibromyalgia, tendonitis, bursitis (inflammation of bursa, special sacs protecting joints and overlapping muscles), and carpaltunnel syndrome are categerised under non-articular rheumatisum. Non-articular rheumatisum may be caused due to repetitive motion or overuse of a joint and presents with pain and swelling of the affected region.",
+            "VideoURL": "Non-articular rheumatism.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)",
+            "WDescription": "Non-steroidal anti-inflammatory drugs (NSAIDs) are a class of drugs which has analgesic, antipyretic and anti-inflammatory properties. Prostaglandin induces fever, pain, and swelling during arthritis. NSAIDs reduce prostaglandin level by blocking cyclooxygenase (COX) enzymes and thus reduce inflammation. NSAIDs are used to treat headaches, arthritis, menstrual cramps, etc.",
+            "VideoURL": "Non-steroidal anti-inflammatory drugs.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Osteoarthritis",
+            "WDescription": "Osteoarthritis is a progressive disorder of the joint, characterized by focal, discrete areas of degradation of the cartilage surface in joints.",
+            "VideoURL": "Osteoarthritis.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Osteomalacia",
+            "WDescription": "Osteomalacia is softening of bones due to deficiency of vitamin D. Individuals with osteomalacia have normal level of collagen which gives structural property to bone but have defective bone mineralization. Vitamin D deficiency may occur due to less vitamin D intake, less exposure to sun, or malabsorption of vitamin D by the intestine. Symptoms of osteomalacia include bone fracture even on small injury, muscle weakness, widespread bone pain, especially in hips, and numbness in arms and feet. In children it is referred to as rickets because osteomalacia is milder form of the disease found in adults. ",
+            "VideoURL": "Osteomalacia.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Osteonecrosis",
+            "WDescription": "Osteonecrosis refers to the death of the bone due to poor, interrupted blood supply to that particular area. Eventually the bone collapses and may destroy that joint. It is found most often in hip and shoulder but can also affect knee, elbow, wrist, and ankle. Alcoholism, arthritis, trauma, and long term steroid treatment increases the risk of developing osteonecrosis.",
+            "VideoURL": "Osteonecrosis.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Osteophytes",
+            "WDescription": "The activity of the bone below areas of damaged cartilage increases greatly, the shape of the joint changes, and bone outgrowths appear at the margins of the joint-these are called osteophytes or bone spurs.  ",
+            "VideoURL": "Osteophytes.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Osteoporosis",
+            "WDescription": "Osteoporosis is a bone disorder characterised by reduced bone mineral density or BMD. This loss of bone tissue caused by the depletion of protein and mineral content, especially calcium, increases risk of fractures.",
+            "VideoURL": "Osteoporosis.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Palindromic Rheumatism",
+            "WDescription": "Palindromic rheumatism is a spontaneous and rapidly developing attack of arthritis involving one or more joints that exhibits episodes of joint pain and swollen joints. The attack may last for variable period, from some hours to 2 to3 days. Palindromic rheumatism does not damage the joints but it increases the chances of developing rheumatoid arthritis which damages the joint.",
+            "VideoURL": "Palindromic rheumatism.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Polyarthritis",
+            "WDescription": "Polyarthritis is an autoimmune disorder that involves inflammation of five or more joints. It is caused by certain autoimmune disorder like rheumatoid arthritis, psoriatic arthritis, lupus erythematosus and also by some viral infections like chickungunya and Ross River virus disease. Symptoms exhibited by polyarthritis are pain, swelling, redness, and restricted movement of the affected joints.",
+            "VideoURL": "Polyarthritis.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Polymyositis",
+            "WDescription": "Polymyositis is a condition a progressive inflammation of muscle fibers that often affects shoulder and pelvic girdle. It is more common in females than males. It is characterized by difficulty in swallowing, speaking, rising from seated position, climbing stairs, lifting weights, etc. Thickening of skin on fingers and hands and skin rashes are also observed in polymyositis.",
+            "VideoURL": "Polymyositis.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Pseudogout",
+            "WDescription": "Pseudogout is a type of arthritis exhibited by abrupt swelling of joints due to deposition of calcium pyrophosphate dihydrate crystals. Pseudogout is characterized by swelling of knee, ankle, wrist, and other joints. Symptoms include pain and stiffness especially in wrists, elbows, shoulders, and metacarpophalangeal (MCP) joints. ",
+            "VideoURL": "Pseudogout.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Psoriatic arthritis",
+            "WDescription": "Psoriatic arthritis is a chronic autoimmune disease characterized by inflammation of the skin and joints, chronic skin scaling and fingernail changes. In many cases the skin disease often precedes the arthritic disease.",
+            "VideoURL": "Psoriatic arthritis.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Reactive Arthritis",
+            "WDescription": "Reactive arthritis, also known as Reiter's syndrome, is an autoimmune disorder characterized by swollen, painful, and stiff joints. The symptoms include inflammatory arthritis of large joints like knee, conjunctivitis, urethritis in males and cervicitis in females. ",
+            "VideoURL": "Reactive arthritis.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Reiter's syndrome",
+            "WDescription": "Reiter's syndrome, also known as reactive arthritis, is an autoimmune disorder characterized by swollen, painful, and stiff joints. The symptoms include inflammatory arthritis of large joints like knee, conjunctivitis, urethritis in males and cervicitis in females. ",
+            "VideoURL": "Reiters's syndrome.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Rheumatism",
+            "WDescription": "Rheumatism is a term used to describe a group of painful conditions, primarily those affecting the joints, bones, tendons, and muscles.",
+            "VideoURL": "Rheumatism.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Rheumatoid arthritis",
+            "WDescription": "Rheumatoid arthritis is a chronic autoimmune disease affecting joints, that causes inflammation and deformity in them. The body's immune system produces auto-antibodies, immunoglobulins that target normal cells in the joints and surrounding tissues and can also affect other organs of the body.",
+            "VideoURL": "Rheumatoid arthritis.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Rheumatoid arthritis synovial fibroblasts (RASFs)",
+            "WDescription": "Synovial fibroblasts are the cells that play a role in the production of collagen and other molecules of the connective tissue to form and maintain the joint capsule. Rheumatoid arthritis synovial fibroblasts (RASFs) have the ability to destroy cartilage by the production of enzymes and hence are considered the primary cells responsible for marginal cartilage destruction. RASFs synthesise and secrete matrix metalloproteinases (MMPs) that erode cartilage; the most important being MMP1, also called collagenase that digests type II collagen.",
+            "VideoURL": "Rheumatoid arthritis synovial fibroblasts (RASFs).mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Rheumatoid factor",
+            "WDescription": "Rheumatoid factor is an auto-antibody that attaches to the Fc portion of Immunoglobulin G (IgG), forming a molecule known as immune complex. These immune complexes contribute to inflammation related processes. Rheumatoid factor is found in the serum of patients with a clinical diagnosis of rheumatoid arthritis.",
+            "VideoURL": "Rheumatoid factor.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Rheumatoid nodules",
+            "WDescription": "Rheumatoid nodules are firm subcutaneous lumps of tissue found overlaying the finger knuckles or elbow tips that occur in association with rheumatoid arthritis. These nodules have also been reported in patients with no history of rheumatoid arthritis or systemic diseases.",
+            "VideoURL": "Rheumatoid nodules.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Rheumatoid spondylitis",
+            "WDescription": "Rheumatoid spondylitis is the chronic inflammation of joints between the vertebrae or between the spine and pelvis. Also known ankylosing spondylitis or Marie-Strumpell disease, it is marked by impaired mobility of the spine, pain, stiffness in the hips and lower back. The pain progresses to the upper back, eventually affecting the entire back, resulting in loss of flexibility.",
+            "VideoURL": "Rheumatoid spondylitis.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Rheumatology",
+            "WDescription": "Rheumatology is the branch of medicine that deals with the study of musculoskeletal disease, such as arthritis. It helps to understand diagnosis and management of the bone, joints, connective tissue, and muscle related diseases.",
+            "VideoURL": "Rheumatology.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Ross River Virus disease",
+            "WDescription": "Ross River virus disease is a 'vector-borne' disease that causes joint pain. It is caused by Ross River virus and spreads through mosquito bites from person to person. Symptoms include joint swelling and pain, fever, fatigue, muscle pain, nausea, headache, back pain, malaise, etc.",
+            "VideoURL": "Ross river virus disease.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Sarcoidosis",
+            "WDescription": "Sarcoidosis is a condition in which inflammatory cells accumulate in the muscles, eyes, skin, liver, lung, and lymph node. Exaggerated immune response to infection, genetic factors, and increased sensitivity to environmental agents are the causative factors of sarcoidosis. This is commonly seen in people with age around 20-40 with symptoms like joint pain in ankles and knees, chest pain, shortness of breathing, dry cough, enlarged lymph nodes around the lungs, weight loss, fatigue, etc.",
+            "VideoURL": "Sarcoidosis.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Scleroderma",
+            "WDescription": "Scleroderma is an autoimmune disorder of the skin characterized by hardened vascular alterations in the skin. Limited systemic scleroderma affects skin of hands, arms, face, and musculoskeletal system and may lead to serious conditions. Diffuse systemic scleroderma progresses rapidly and affects internal organs like kidneys, heart, lungs. Symptoms of scleroderma are joint pain, decreased mobility of fingers, wrists or elbows, bumps of fingers and other bony areas, thick finger tips, hardened skin, tight mask like skin on face, etc. ",
+            "VideoURL": "Scleroderma.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Secondary osteoarthritis",
+            "WDescription": "Secondary osteoarthritis is the degenerative disease of the joint that develops after another disease or condition. Secondary osteoarthritis may occur due to congenital abnormalities or as a sub-condition after diabetes and other hormonal disorders, gout, obesity, or repeated trauma.",
+            "VideoURL": "Secondary osteoarthritis.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Sjogren's syndrome",
+            "WDescription": "Sjogren's syndrome is an autoimmune disease that causes inflammation of secretory glands such as lacrimal gland of eye and salivary gland of mouth. Symptoms include dry and burning in the eyes, dry lips and mouth. The disease when occurs in association with connective tissue diseases like rheumatoid arthritis, scleroderma, and lupus is called secondary Sjogren's syndrome.",
+            "VideoURL": "Sjogren's syndrome.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Spondylitis",
+            "WDescription": "Spondylitis is the inflammation of the vertebral joints resulting in backache and neck pain.",
+            "VideoURL": "Spondylitis.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Spondyloarthropathies",
+            "WDescription": "Spondyloarthropathies, also known as Spondyloarthritis, refers to a group of inflammatory rheumatic diseases characterized by inflammation of spine, gastrointestinal tract, eye and skin. It includes diseases such as rheumatoid arthritis, ankylosing spondylitis, Reiter's syndrome, and psoriatic arthritis. Symptoms include low back pain, joint pain, swelling on joints, fatigue, weight loss, skin rashes, etc.",
+            "VideoURL": "Spondyloarthropathies.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Spondyloarthritis",
+            "WDescription": "Spondyloarthritis is a group of inflammatory rheumatic diseases affecting spine, joints, ligaments and tendons that can lead to spinal deformities.",
+            "VideoURL": "Spondyloarthritis.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Still's disease",
+            "WDescription": "Still's disease is a form of arthritis that strikes both children and adults. In children it is known as systemic-onset juvenile idiopathic arthritis; where as in adults it is less common and is referred to as adult-onset Still's disease. This disease is characterized by high intermittent fever, inflammation and pain in joints, salmon-colored rashes, lymph node enlargement, hepatosplenomegaly, and pericarditis. Arthritis lasting up to or more than six weeks is required for a firm diagnosis of Still's disease. ",
+            "VideoURL": "Still's disease.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Symmetric arthritis",
+            "WDescription": "Symmetric arthritis, the second most common form of psoriatic arthritis, resembles rheumatoid arthritis but with a negative rheumatoid factor. Symptoms often occur in the same joints on both sides of the body. Though milder than rheumatoid arthritis, it can cause disabling joint damage.",
+            "VideoURL": "Symmetric arthritis.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Synovectomy",
+            "WDescription": "Synovectomy is a surgical procedure performed to remove all or part of the inflamed synovial membrane to ease pain and swelling in the affected joints. Among the two types of synovectomy, arthroscopic synovectomy is widely used than open synovectomy. ",
+            "VideoURL": "Synovectomy.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Synovial biopsy ",
+            "WDescription": "Synovial biopsy studies have documented the similarity of immunohistology of various spondyloarthritis (SpA) subsets, including PsA and ankylosing spondylitis (AS), and distinction of these from rheumatoid arthritis (RA). ",
+            "VideoURL": "Synovial biopsy.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Synovial joints ",
+            "WDescription": "The major joints in the body are synovial joints including for example, most of the joints of the limbs like knees, elbows and shoulders. The surfaces of the adjoining bones are covered with hyaline cartilage.   The articular capsule covers the outside of the joint whilst the lining of this is the synovial membrane, which secretes the synovial fluid which is a viscous, sticky fluid lubricating the joint cavity.  In health the synovium is a single layer of cells.  ",
+            "VideoURL": "Synovial joints.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Synovial membrane",
+            "WDescription": "Synovial membrane, also known as synovium, is a thin layer of connective tissue lining the joint capsules that lubricate and nourish the cartilage by producing synovial fluid.",
+            "VideoURL": "Synovial membrane.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Synovium",
+            "WDescription": "Synovium, also known as synovial membrane, is a thin layer of connective tissue lining the joint capsules that lubricate and nourish the cartilage by producing synovial fluid.",
+            "VideoURL": "Synovium.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Systemic lupus erythematosus",
+            "WDescription": "Systemic lupus erythematosus (SLE) is an autoimmune disorder which results in chronic inflammation of vital organs and tissues such as skin, joints, brain, kidney, blood, etc. Women especially of child bearing age are more susceptible to SLE than men. The symptoms associated with SLE are joint pain, fatigue, fever, facial rash (butterfly rash), mouth sores, and sensitivity to sunlight.",
+            "VideoURL": "Systemic lupus erythematosus.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "T score",
+            "WDescription": "T score is the comparison of a person's bone density with that of an average young adult of the same sex. The T score above -1 is considered as normal, -1 to -2.5 indicates osteopenia (loss of bone mass) and the T score of -2.5 and below the reference value is diagnosed as osteoporosis.",
+            "VideoURL": "T Score.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Tendinitis",
+            "WDescription": "Tendinitis is the inflammation of tendon due to overuse over a long period of time or any rheumatoid diseases.",
+            "VideoURL": "Tendinitis.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Tendon",
+            "WDescription": "A tendon is a tough inelastic fibrous connective tissue that attaches muscle to bone or muscle to muscle. ",
+            "VideoURL": "Tendon.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Tennis elbow",
+            "WDescription": "Tennis elbow or lateral epicondylitis is an overuse injury of the elbow that causes pain in the outer part of the elbow where it is tender. It is caused by the inflammation of the tendon that originates from the lateral epicondyle. Symptoms include sever pain in elbow and difficulty in gripping, carrying and lifting.",
+            "VideoURL": "Tennis elbow.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Total knee replacement",
+            "WDescription": "Total knee replacement or total knee arthroplasty is recommended as a treatment option to relive pain in case of severe rheumatoid arthritis. During the procedure, knee cap is removed and the damaged portion of femur and tibia are shaved off or resurfaced. The entire joint and knee cap are replaced with prosthesis made of metal alloys, plastics and polymers.",
+            "VideoURL": "Total knee replacement.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Trigger finger",
+            "WDescription": "Trigger finger or stenosing tenosynovitis is the condition where digits of the hand get stuck in bent position and then straightens with a snap. It is caused by the inflammation and swelling of the tendons that pull the digit inward. Stretching, ice pack, and anti-inflammatory medicines are used to treat trigger finger.",
+            "VideoURL": "Trigger finger.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Tuberculous Arthritis ",
+            "WDescription": "Tuberculous arthritis is the infection of the joints caused by the bacteria Mycobacterium tuberculosis that affects joints of the spine, hips, knees, wrists, and ankles. Tuberculous arthritis of spine is usually termed as Pott's disease. Symptoms include swelling, irritation, numbness and limited movement of joints which, if left untreated, can lead to joint destruction, disintegration of vertebrae or spinal cord compression.",
+            "VideoURL": "Tuberculous arthritis.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Vasculitis",
+            "WDescription": "Vasculitis is the inflammation of the blood vessel. The condition occurs when the person's immune system attacks its own blood vessels by mistake. This condition can be caused by an infection, a medication or another disease. Inflammation may cause pain, redness, and swelling of joints, muscle pain, fever, fatigue, and loss of function of the affected area.",
+            "VideoURL": "Vasculitis.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Viral Arthritis",
+            "WDescription": "Viral arthritis refers to inflammation of the joints due to viral infection. It can be caused by viral diseases such as Hepatitis B, Hepatitis C, AIDS, mumps, dengue or by rubella vaccine. It is common in children and is generally mild. Symptoms include swollen joints, joint pain, red rashes on cheek, fever, headache, sore throat, diarrhea, and vomiting.",
+            "VideoURL": "Viral arthrtis.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Z score",
+            "WDescription": "Z score is the measurement scale of bone density for diagnosing osteoporosis and other related bone disorders. Z score is the number of standard deviation above or below the bone mineral density value of individuals of same age, weight, and sex. Osteoporosis is defined as a Z score below the reference value. Z score of less than –1.5 indicates that factor other than aging is responsible for osteoporosis.",
+            "VideoURL": "Z score.mp4"
+        }
+    ]
+}

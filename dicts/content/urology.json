@@ -1,0 +1,574 @@
+{
+    "urology": [
+        {
+            "WID": "1",
+            "WTitle": "Albuminuria",
+            "WDescription": "Albuminuria is a pathological condition where more than normal amounts of albumin are present in the urine. High levels of albumin in the urine may be an indication of kidney disease.",
+            "VideoURL": "Albuminuria.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Anuria",
+            "WDescription": "Anuria is the total suppression of urine production caused by  acute kidney failure or due to the obstruction of the urinary pathway by stones or tumors. It is diagnosed when there is no urine production. Blood test, radiograph, and ultrasound are used to diagnose the cause of anuria.",
+            "VideoURL": "Anuria.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Augmentation  cystoplasty",
+            "WDescription": "Augmentation cystoplasty, also referred to as augmentation enterocystoplasty or bladder augmentation, is a procedure done to increase bladder capacity. During the procedure, the top part of the bladder is removed and replaced with a detubularized section of the ileum, cecum or ileocecum.",
+            "VideoURL": "Augmentation  cystoplasty.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Benign prostatic hyperplasia (BPH)",
+            "WDescription": "Benign prostatic hyperplasia (BPH) is the enlargement of the prostate gland that occurs as a man ages. This triggers physiological changes that lead to urination problems.",
+            "VideoURL": "Benign prostatic hyperplasia (BPH).mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Bladder cancer",
+            "WDescription": "Bladder cancer is the uncontrolled growth of abnormal cells in the Urinary bladder. Smoking, chemicals and hormonal changes are some risk factors for developing bladder cancer.",
+            "VideoURL": "Bladder cancer.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Bladder Fistula",
+            "WDescription": "Bladder fistula is an abnormal connection between bladder and other organ, mostly with bowel (enterovesical) or vagina (vesicovaginal). Enterovesical fistulas are caused by Crohn’s disease or bowel cancer whereas vesicovaginal fistula is caused by gynecological surgery. Urinary tract infection and passage of gas through urethra while voiding are the symptoms of bladder fistula. Bladder fistula can be diagnosed by excretory urogram and CT scan.  ",
+            "VideoURL": "Bladder fistula.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Bladder outlet obstruction",
+            "WDescription": "Bladder outlet obstruction is a condition where the flow of urine from the urinary bladder to the urethra is blocked. The blockage is at the base of urinary bladder that leads to urethra. It is more common in older men than in women and is caused  by benign prostatic hyperplasia (BPH), tumors or stones of bladder and urethral stricture.",
+            "VideoURL": "Bladder outlet obstruction.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Bladder Prolapse",
+            "WDescription": "Bladder prolapse or cystocele is a condition where the bladder drops or sags into the vagina. It is caused by a weakening of the wall between the vagina and the bladder which can result in urine leakage and incomplete emptying of urine. In some cases, the dropped bladder stretches the urethra and causes leakage of urine during coughing, sneezing, laughing or any actions that put pressure on the bladder. The bladder prolapse is the result of muscle straining that occurs during vaginal birth, weight lifting, or chronic constipation.",
+            "VideoURL": "Bladder prolapse.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Bladder spasm",
+            "WDescription": "Bladder spasm is an involuntary contraction of the bladder muscles that stimulates an urge to urinate, leading to incontinence. Common symptoms of bladder spasm include urinary urgency, increased frequency of urination, and urine leakage, often accompanied by acute spasmodic pain arising from the bladder.",
+            "VideoURL": "Bladder spasm.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Bladder stones",
+            "WDescription": "Bladder stones are small crystalline masses in the bladder, formed from the minerals, especially calcium, and proteins that naturally occur in urine.",
+            "VideoURL": "Bladder stones.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Bladder ultrasonography",
+            "WDescription": "Bladder ultrasonography is an imaging technique used to measure bladder volume and other bladder abnormalities. The technique uses high frequency sound waves to determine the amount of urine retention and post-void residual urine. A probe with an ultrasound transducer is placed on the patient's abdomen over the bladder.The transducer transmits high frequency sound waves that are reflected back from the bladder to the transducer. The echoes generated are recorded and transformed as images on a computer screen and the bladder volume is calculated using the data obtained.",
+            "VideoURL": "Bladder ultrasonography.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Brachytherapy",
+            "WDescription": "Brachytherapy is a type of radiation therapy where a radiation source is placed in the tumor site to destroy the tumor. This minimizes the exposure of healthy tissues to radiation. Brachytherapy is commonly used to treat prostate cancer. ",
+            "VideoURL": "Brachytherapy.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Burch colposuspension",
+            "WDescription": "Burch colposuspension is a surgical method to treat urinary incontinence. During the surgery, the endopelvic fascia on each side of the bladder neck is elevated and anchored to the back of the ilio-pectineal ligament with a number of interrupted sutures. ",
+            "VideoURL": "Burch colposuspension.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Colporrhaphy",
+            "WDescription": "Colporrhaphy is a procedure for correcting the buldging bladder in females, where, bladder is mobilized and get back to its normal position.",
+            "VideoURL": "Colporrhaphy.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Cryotherapy",
+            "WDescription": "Cryotherapy is a relatively non-invasive procedure used to treat prostate cancer. The prostate cells are frozen to death by the insertion of -196°C Argon cooled metal rods. Cryotherapy is a relatively new therapy of uncertain relative efficacy and may be associated with impotency and less frequently, urine incontinence.",
+            "VideoURL": "Cryotherapy.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Cystocele",
+            "WDescription": "Cystocele is a condition where the bladder drops or sags into the vagina. It is caused  by the weakening of the wall between the vagina and the bladder which can result in urine leakage and incomplete emptying of urine. In some cases, the dropped bladder stretches the urethra and causes leakage of urine during coughing, sneezing, laughing or any actions that put pressure on the bladder. The cystocele is the result of muscle straining that occurs during vaginal birth, weight lifting or chronic constipation. ",
+            "VideoURL": "Cystocele.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Cystometry",
+            "WDescription": "Cystometry is an urodynamic test that evaluates bladder functionality and measures pressure and volume of fluid in the bladder during filling. The test is also conducted to evaluate functioning of sphincter muscles and the storage capacity of bladder as well as to diagnose problems such as urinary incontinence recurrent urinary tract infections. ",
+            "VideoURL": "Cystometry.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Cystoscopy",
+            "WDescription": "Cystoscopy, also called cystourethroscopy, is an endoscopic procedure used to examine the inside of the bladder and urethra to diagnose  bladder stones or tumors in the urinary tract, prostate enlargement etc. The procedure makes use of a long, thin instrument called the cystoscope with an eyepiece at the external end and a lens as well as a light source at the end inserted into the bladder.  ",
+            "VideoURL": "Cystoscopy.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Detrusor muscle",
+            "WDescription": "Detrusor muscle, also known as detrusor urinae, is a muscular layer of the urinary bladder wall that facilitates emptying of the bladder during micturation. The detrusor muscle has smooth muscle fibers arranged in longitudinal and circular forms. At the neck of the bladder, the circular forms of fibers thicken to form the sphincter vesicae. As the bladder fills, it stretches and sensory nerves that have nerve endings within the submucosa and detrusor are triggered, initiating the micturation reflex. Contraction of the muscle increases pressure on the bladder walls and relaxes the sphincter vesicae, allowing the flow of urine out of the bladder.\r",
+            "VideoURL": "Detrusor muscle.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Detrusor myectomy",
+            "WDescription": "In detrusor myectomy (also called autoaugmentation) a segment of the detrusor muscle is excised from the dome of the bladder leaving the mucous membrane intact. This creates a non-contractile area, resulting in overall reduced muscle contraction and improved bladder functions.",
+            "VideoURL": "Detrusor myectomy.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Detrusor overactivity",
+            "WDescription": "Detrusor overactivity is an urodynamic process characterized by involuntary contractions of the detruser during the filling phase that may be spontaneous or provoked. Detrusor overactivity can be of 2 types:\r1. phasic, which may or may not cause urinary incontinence and \r2. terminal, which is a single involuntary detrusor contraction that often results in complete emptying of bladder.",
+            "VideoURL": "Detrusor overactivity.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Digital rectal exam",
+            "WDescription": "Digital rectal exam using a gloved and lubricated finger can help to detect abnormalities in the rectum, anus, prostate, seminal vesicles, bladder, and perineum. The test is quick, painless and does not require any bowel preparation. It should be recommended as  part of a routine physical examination to all adults over the age of 40 years since it acts as a screening test for prostate cancer in men, a component of pelvic examination in females and an inexpensive method of detection of masses including polyps and cancer in the rectum.",
+            "VideoURL": "Digital rectal exam.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Diuresis",
+            "WDescription": "Diuresis is the increased production of urine by kidneys. It is caused by several diseases such as diabetes mellitus, diabetic insipidus, and renal failure. It is also induced by certain foods such as coffee, alcoholic beverages and certain medications. This leads to polyuria. ",
+            "VideoURL": "Diuresis.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Enuresis",
+            "WDescription": "Enuresis is involuntary urination in children, more commonly called bed-wetting. It is not a disorder. This is of two types: diurnal enuresis (day time incontinence) and nocturnal enuresis (night time incontinence).",
+            "VideoURL": "Enuresis.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Epispadias",
+            "WDescription": "Epispadias is a congenital disorder where the penile meatus is not at the tip of the penis, and the urine exists from abnormal location. Generally it is on the side or on the top of the penis. Urinary tract infection and back flow of urine are a few common symptoms of epispadias.",
+            "VideoURL": "Epispadias.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Erectile dysfunction",
+            "WDescription": "Erectile dysfunction or impotence is inability to sustain erection of penis during sex. This is due to the abnormal functioning of blood vessels, fibrous tissue, and nerves of the penis.",
+            "VideoURL": "Erectile dysfunction.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Glomerular filtration",
+            "WDescription": "The urine formation begins with glomerular filtration. Blood enters the Bowman’s capsule along a pressure gradient, via the afferent arteriole passes through the glomerular capillaries. As the blood moves, the capillaries filter out water, salts (mainly sodium and potassium), glucose and urea through the fenestrated endothelium lining the capillaries, glomerular basement membrane, and filtration slits by the process of osmosis and diffusion. This glomerular filtrate collects in the Bowman’s capsule and passes into the proximal convoluted tubule (PCT), loop of Henle, distal convoluted tubule (DCT) and then into the collecting tubule.",
+            "VideoURL": "Glomerular filtration.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Glomerulus",
+            "WDescription": "Glomerulus, the filtering unit of kidney, consists of a cluster of capillaries enclosed within the Bowman’s capsule of the nephron in kidney that filters waste products from blood to form urine.",
+            "VideoURL": "Glomerulus.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Hematuria",
+            "WDescription": "Presence of red blood cells (RBCs) in the urine is known as hematuria. It is commonly categorized into gross and microscopic hematuria. In gross or visible hematuria, urine is visibly red or dark in colour. Presence of more than five red blood cells (RBCs) per high-power field (HPF) in the centrifuged urine sediment is known as microscopic hematuria. Blood leaks into the urine generally from the urethra, the bladder, or the kidneys. Glomerular hematuria may be due to structural damage to the glomerular basement membrane due to inflammatory or immunological processes.",
+            "VideoURL": "Hematuria.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Hydronephrosis",
+            "WDescription": "Hydronephrosis is caused by the backup of urine within the kidney due to obstruction of the urine flow. This distends the renal calyces and pelvis of the kidney. The obstruction can be anywhere in the urinary tract, it can be either acute or chronic. In children it is due to the anatomic abnormalities in the ureterovalve or stenosis in the ureteropelvic junction whereas in older patients it is due to calculi or prostatic hypertrophy.",
+            "VideoURL": "Hydronephrosis.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Hydroureter",
+            "WDescription": "Hydroureter is the dilation of the ureter caused by the obstruction in urinary flow.  The obstruction can either be in the vesciocureteric junction or in bladder neck. Hydroureter can also occur due to vesicoureteric reflux. ",
+            "VideoURL": "Hydroureter.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Hypospadias",
+            "WDescription": "Hypospadias is a congenital defect in males, where the penile meatus, the urethral opening, is not at the tip of the penis. The severity depends upon the location of the opening. In most cases it is near the tip but it is on the underside of the penis. In severe cases the opening is found further back and sometimes in scrotum or even in perineum. Hypospadias can also be associated with chordee, downward curvature of penis. ",
+            "VideoURL": "Hypospadias.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Interstitial Cystitis",
+            "WDescription": "Interstitial cystitis or bladder pain syndrome is the inflammation of bladder wall. This causes pain in bladder and the abdomen. Interstitial cystitis is more common in women than men. Interstitial cystitis results in urinary urgency, urinary frequency and pelvic pain. Urinalysis and cystoscopy are the few diagnostic tests for interstitial cystitis. \r",
+            "VideoURL": "Interstitial cystitis.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Kidney stones",
+            "WDescription": "Kidney stones called urinary calculi are formed within the kidney or in urinary tract.  Crystallization of certain substance of concentrated urine forms kidney stones. Calcium stones, uric acid stones, cystine stones and struvite stones are different types of kidney stones. Calcium stones such as calcium oxalate, calcium phosphate are more common. These kidney stones obstruct the flow of urine by blocking the drainage tubes of the kidney causing severe back pain.",
+            "VideoURL": "Kidney stones.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Kidneys",
+            "WDescription": "Kidneys are bean shaped excretory organs found in the upper posterior abdominal cavity, one on either side of the vertebral column. Kidneys are responsible for filtering the blood and regulating the water, salt and mineral balance, and removing the waste in the form of urine.",
+            "VideoURL": "Kidneys.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Klebsiella",
+            "WDescription": "Klebsiella is a rod-shaped bacteria of the family Enterobacteriaceae, with a prominent polysaccharide capsule. These organisms cause pulmonary, intestinal and urinogenital infections such as pneumonia, urinary tract infections, etc.",
+            "VideoURL": "Klebsiella.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Lower urinary tract infection",
+            "WDescription": "Lower urinary tract consists of bladder and urethra. Cystitis and urethritis are the common lower urinary tract infections. Cystitis is the inflammation of the urinary bladder, whereas urethritis is inflammation in urethra caused by bacterial infection. Symptoms include urinary frequency, painful urination (dysuria), urinary urgency and blood in urine (hematuria).",
+            "VideoURL": "Lower urinary tract infection.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Megaureter",
+            "WDescription": "Megaureter is an abnormal dilation of the ureter. This causes back flow of urine into the kidneys and also accumulation of urine in the ureter which causes infection. In some cases these complications lead to kidney failure. It can be diagnosed by intravenous pyelogram, blood test, and abdominal ultrasound. It can also be diagnosed in fetuses by ultrasound. ",
+            "VideoURL": "Megaureter.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Micturiton",
+            "WDescription": "The urinary bladder is a hollow muscular storage organ that forms the lower part of the urinary tract and serves as a reservoir for temporary storage of urine. The stored urine is expelled through the urethra by a process called micturition. A circular muscle, called the internal urethral sphincter, located at the neck of the bladder regulates the process of micturation.",
+            "VideoURL": "Micturiton.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Neobladder",
+            "WDescription": "Neobladder is a urinary reservoir which is a pouch to mimic the bladder. This neo-bladder is constructed using a segment of the small intestine or the colon. The ureters are repositioned to the pouch to restore normal micturition. There are two types - a neobladder that is connected to the urethra, or a neobladder connected to the abdominal wall by a tube made of vascularised intestine (appendix or small intestine). In the first situation normal micturation is restored, although in some case intermittent catheterisation is needed, in the second situation the pouch is emptied by intermittent catheterization only.",
+            "VideoURL": "Neobladder.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Nephrectomy",
+            "WDescription": "Nephrectomy is the surgical removal of a kidney, the organ that filters waste from the blood and produces urine. Nephrectomy, can be: \rPartial nephrectomy -  Part of one kidney is removed.\rSimple nephrectomy - One kidney is removed.\rRadical nephrectomy - One kidney is removed with the neighboring adrenal gland and neighboring lymph nodes.\rBilateral nephrectomy - Both kidneys are removed.",
+            "VideoURL": "Nephrectomy.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Nephrolithotomy",
+            "WDescription": " Nephrolithotomy is the surgical removal of kidney stones from inside of the kidney. The stones usually lie in the renal pelvis and can be taken out through an opening in the top of the ureter. In some cases, where a part of kidney is damaged, the damaged portion is also removed with stones. If the kidney is severly damaged , the entire kidney has to be removed with the stones.",
+            "VideoURL": "Nephrolithotomy.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Nephron",
+            "WDescription": "Nephron is the basic excretory unit in the kidney, filtering and purifying blood by regulating the concentration of sodium salts, besides controlling electrolyte and metabolite levels.",
+            "VideoURL": "Nephron.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Nephroureterectomy",
+            "WDescription": "Nephroureterectomy is the surgical removal of kidney and its ureter. Nephroureterectomy with excision of a cuff of bladder is the surgical procedure used for treatment of carcinoma of the renal pelvis or ureter.",
+            "VideoURL": "Nephroureterectomy.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Neurogenic bladder",
+            "WDescription": "Neurogenic bladder is the lack of bladder control due to neurologic dysfunction. Normal functioning of the urinary bladder is controlled by the nervous system. Damage to these nerves by injury or disease causes neurogenic bladder. Depending on the nerves affected, the bladder can be either overactive (spastic or hyperreflexive) or underactive (flaccid or hypotonic). Spinal cord injuries and diseases such as Parkinson’s disease, Alzheimer’s disease, stroke, diabetic nephropathy and brain or spinal cord tumors lead to neurogenic nephropathy. ",
+            "VideoURL": "Neurogenic bladder.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Nocturia",
+            "WDescription": "Nocturia is frequent urination at night which is more likely to occur in older people. This is due to the enlargement of the prostate gland which narrows the urethra and leads to incomplete emptying of urine which in turn causes frequent urination. Other causes include high fluid intake, untreated diabetes, congestive heart failure, diuretic medications, cystitis, and edema of legs. ",
+            "VideoURL": "Nocturia.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Orchiectomy",
+            "WDescription": "Orchiectomy is the procedure to remove testicles. This is often used in cases of spinal cord compression as it is the quickest method to eliminate the male hormones. Orchiectomy can prevents complication and prolong the survival for prostate cancer. ",
+            "VideoURL": "Orchiectomy.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Overactive bladder (OAB)",
+            "WDescription": "Overactive bladder (OAB) is a term used to collectively refer to lower urinary tract symptoms such as frequency and urgency to void, with or without urge incontinence. Considered to be related to idiopathic detrusor overactivity, OAB causes sudden urge to urinate and incontinence. Neurological causes of overactive bladder include spinal cord injury, Parkinson's disease, multiple sclerosis, stroke, and diabetic neuropathy. In addition, conditions like urinary tract infections, blockages, bladder stones, tumors, and prostate enlargement can also affect detrusor muscle activity and contribute to OAB. Medications like diuretics and dietary factors like alcohol and caffeine may also lead to OAB by increasing urine production or stimulating detrusor muscle contraction. Common symptoms of OAB are urinary urgency, increased frequency of urination, nocturia, and urinary incontinence",
+            "VideoURL": "Overactive bladder.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Pelvis",
+            "WDescription": "The Pelvis is a basin-shaped structure of the vertebrate skeleton that resides on the lower limbs and supports the spinal column. In females, the uterus and bladder are held within the pelvis, and in males it holds bladder and the prostate. ",
+            "VideoURL": "Pelvis.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Penile urethra",
+            "WDescription": "Penile urethra is the tube inside the penis in males which carries urine and sperms. It is the longest part of the urethra. It is narrow, and runs along the length of the penis. Penile urethra ends in the opening at the head of the penis.",
+            "VideoURL": "Penile urethra.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Post-voidal residue",
+            "WDescription": "Post-voidal residue refers to the amount of urine left in the urinary bladder after normal discharge of urine. The volume of residual urine can be measured either directly, with a catheter inserted into the bladder, or indirectly, with an ultrasound scan. An excessive post-void residual volume shows a voiding dysfunction (a problem in urination or bladder emptying).",
+            "VideoURL": "Post-voidal residue.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Prostate cancer",
+            "WDescription": "Prostate cancer, most often referred to as adenocarcinoma or glandular carcinoma, is a cancer that develops in the prostate, an exocrine gland in the male reproductive system.",
+            "VideoURL": "Prostate cancer.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Prostate gland",
+            "WDescription": "Prostate gland is an exocrine gland found in the male reproductive system that secretes a fluid during ejaculation of semen.",
+            "VideoURL": "Prostate gland.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Prostate specific antigen (PAS)",
+            "WDescription": "Prostate Specific antigen (PSA) is a serum marker that has revolutionized prostate cancer detection and  management. Elevated serum PSA levels  are an early indicator of cancer and facilitate early detection and treatment. The ratio of the free to total PSA may be diagnostically helpful in differentiating between Prostate cancer and BPH.",
+            "VideoURL": "Prostate specific antigen.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Prostatectomy",
+            "WDescription": "Prostatectomy is a safe surgical procedure to relieve the urinary symptoms associated with BPH. For BPH, simple prostatectomy is recommended, which involves removal of the prostate gland, when the   prostate becomes very large. Prostatectomy is performed using general or local anesthesia. Initially an external incision is made in the lower abdomen or in the perineum. If the prostate is accessed from the abdomen it is called retropubic prostatectomy, while through the perineum, it is called perineal prostatectomy. Once the prostate is accessed, the enlarged parts or the entire prostate gland is removed. A urinary catheter is inserted after the surgery for a few days to ensure bladder emptying, and urine output and color are carefully monitored. Blood in the urine is usually observed. Incontinence and impotence are the possible complications of prostatectomy.",
+            "VideoURL": "Prostatectomy.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Prostatic urethra",
+            "WDescription": "Prostatic urethra is the portion of urethra surrounded by the prostate gland. It is the widest and most dilatable part of the urethral canal in males. It is about 3 cm long and runs vertically through the prostate. It is spindle-shaped, wider in the middle than at either extremity and narrowest towards lower side.",
+            "VideoURL": "Prostatic urethra.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Prostatitis",
+            "WDescription": "Prostatitis is inflammation of prostate gland. Symptoms include frequent urination, lower abdomen pain and sexual dysfunction. This can be diagnosed by urine test, digital rectal exam and prostate antigen test in blood.",
+            "VideoURL": "Prostatitis.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Prune belly syndrome",
+            "WDescription": "Prune belly syndrome is a genetic disorder characterized with underdevelopment of abdominal muscles, wrinkled skin of abdomen (prune belly), undescended testicles in males and urinary tract abnormalities such as unusually large ureters, distended bladder, accumulation and backflow of urine from the bladder to the kidneys.",
+            "VideoURL": "Prune belly syndrome.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Pyelogram",
+            "WDescription": "Pyelogram or Urography is a radiological procedure used to visualize abnormalities of the urinary system, including the kidneys, bladder, and the ureters.Types are:\nIntravenous pyelogram: a test that x rays the urinary system using intravenous dye.\nRetrograde pyelogram: is an X-ray procedure used in combination with cystoscopy to determine the presence of stones, tumors, or other problems in the kidneys and ureters.   \nPercutaneous pyelogram: Percutaneous needle puncture is done in renal pelvis to find the abnormalities.",
+            "VideoURL": "Pyelogram.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Pyuria",
+            "WDescription": "Pyuria is the presence of pus in the urine. Pus can be observed in urine either directly or using microscope. Pyuria is characterized by a large number of white blood cells in the urine where leukocytes can be in the form of casts or rafts. Pyuria occurs due to an infection of the urinary tract by bacteria or inflammation by some chemicals. Pyuria with proteinuria shows kidney infection.",
+            "VideoURL": "Pyuria.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Renal papilla",
+            "WDescription": "Renal papilla is the tip of renal pyramid which projects into the calyx. Through the renal papilla collecting tubules discharge urine into the calyx. These medullary collecting ducts converge to form a duct of Bellini to channel the fluid.",
+            "VideoURL": "Renal papilla.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Resectoscope",
+            "WDescription": "Transurethral resection of the prostate (TURP) is performed using a special instrument called as resectoscope. TURP is a surgical procedure to treat BPH, where a portion of prostate obstructing the urethra is removed. Resectoscope is passed through the tip of the penis into the urethra and up to the prostate. Resectoscope has a fiber optic light and lens system, valves for controlling the irrigating fluid and a cutting and cauterization loop connected to electric current to remove obstructing tissue and seal bleeding vessels. The enlarged prostate tissue is chipped off under direct visualization and irrigation is carried out throughout the procedure to expand the bladder and to clear and flush out the debris. ",
+            "VideoURL": "Resectoscope.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Sacral nerve stimulation",
+            "WDescription": "Sacral nerve stimulation or sacral neuromodulation involves the stimulation of sacral nerves by a mild electrical impulse from an implanted device. Located near the tailbone, the sacral nerves control bladder sphincter and pelvic floor muscles, regulating bladder functionality. Recommended for patients who do not respond to conservative methods of treating an overactive bladder, sacral nerve stimulation improves symptoms such as urinary urgency, frequency of urination and urge incontinence",
+            "VideoURL": "Sacral nerve stimulation.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Sling procedures",
+            "WDescription": "Sling procedure or pubovaginal slings, particularly useful for patients with sphincter deficiency and urethral hypermobility, this procedure elevates the urethra to reposition and compress it to increase bladder outlet resistance. The procedure can be done using autologous fascia, artificial tapes, trans obturator surgical tapes and needle suspension.",
+            "VideoURL": "Sling procedures.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Tubular reabsorption",
+            "WDescription": "The tubular fluid filtered out of the blood by glomerulus enters proximal convoluted tubule (PCT), and the reabsorption of water, glucose, salts and other nutrients takes place in PCT and loop of Henle. Small volume of water and all of the glucose is reabsorbed in PCT by active transport (except in diabetics), the remaining water is absorbed by osmosis in the descending segment of Henle’s loop while sodium and chloride ions are reabsorbed in the thin and thick ascending limbs of Henle’s loop.",
+            "VideoURL": "Tubular reabsorption.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Tubular secretion",
+            "WDescription": "Tubular secretion, takes place in the distal convoluted tubule (DCT) and collecting tubule, and involves active transport or diffusion of hydrogen ions, potassium ions, ammonia, etc from the capillaries into the tubules. ",
+            "VideoURL": "Tubular secretion.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Upper urinary tract infection",
+            "WDescription": "Upper urinary tract infection refers to the infection of kidneys and ureters called pyelonephritis and ureteritis, respectively. It is caused by the bacteria that enter through urethra and also due to the obstruction in urinary flow. Stones and tumors also obstruct the flow of urine which in turn causes infection. Symptoms include fever, nausea, vomiting, abdominal pain, painful urination and back pain.",
+            "VideoURL": "Upper urinary tract infection.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Ureter",
+            "WDescription": "Ureter is a pair of long narrow tubes that start as the outlet from the pelvis in the centre of the kidney. Ureter carries urine from kidneys into the bladder.",
+            "VideoURL": "Ureter.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Ureteral stone",
+            "WDescription": "Ureteral stone is the stone that moves down into the ureter from the kidneys.  Most of the kidney stones that move down into the ureter are too small and are excreted out with urination. But few stones grow bigger and obstruct the flow of urine in ureter causing severe back pain. This can lead to kidney infection. ",
+            "VideoURL": "Ureteral stone.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Ureterocele",
+            "WDescription": "Ureterocele is a congenital defect where the distal portion of the ureter swells. This swollen area obstructs the flow of urine into the bladder. This builds up the urine in ureter and leads to the back flow of urine towards the kidney. This in turn causes kidney infection.",
+            "VideoURL": "Ureterocele.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Ureteropelvic junction obstruction",
+            "WDescription": "Ureteropelvic junction obstruction is a congenital defect in children. A blockage occurs at the area where the renal pelvis joins ureter. This causes accumulation of urine within the kidney resulting in kidney damage. In adults and older people ureteropelvic obstruction can be due to infection, kidney stones, or tumors. Symptoms include blood in urine (hematuria), back pain, lump in abdomen, urinary tract infection, and kidney infection.",
+            "VideoURL": "Ureteropelvic junction obstruction.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Ureteroscope",
+            "WDescription": "Ureteroscope is defined as an upper tract endoscope which is used to view ureter and renal pelvis. It is inserted through urethra, bladder and then through the ureter finally to kidney. This helps to locate the stones in kidneys and in other parts of the urinary system and also other upper urinary tract abnormalities. ",
+            "VideoURL": "Ureteroscope.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Uretheral sphincter",
+            "WDescription": "Uretheral sphincter is a muscle that regulates retention and release of urine from the bladder. It includes internal sphincter and external sphincter muscles. Internal sphincter is an involuntary muscle that controls the flow of urine from the bladder to the urethra, whereas the external muscle is under voluntary control that controls the discharge of urine from the body.",
+            "VideoURL": "Uretheral sphincter.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Urethra",
+            "WDescription": "Urethra is a small canal through which  urine is discharged from the bladder. In females, it is short and emerges above the vaginal opening. In males, it runs through the penis and  also serves as a passageway for semen.",
+            "VideoURL": "Urethra.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Urethral diverticulum",
+            "WDescription": "Urethral diverticulum is a condition where there is an out pouch from the urethra. It is more common in women than men. Recurrent infections and trauma during child birth can cause urethral diverticulum. Symptoms include urinary frequency, urinary urgency, dysuria, and post-void dribbling.",
+            "VideoURL": "Urethral diverticulum.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Urethral obstructions",
+            "WDescription": "Urethral obstructions can result due to calculi, stenosis, tumors, and stricture in urethra. This obstructs the discharge of urine from the body and results in urinary tract infection. Symptoms include abnormal urine flow, frequent urge to urinate, leakage of urine (incontinence), blood in urine (hematuria), and painful urination (dysuria). Urethral obstruction eventually leads to kidney failure. ",
+            "VideoURL": "Urethral obstructions.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Urethral stricture",
+            "WDescription": "Urethral stricture is an abnormal narrowing of the urethra through which urine is discharged out of the bladder. This narrowing can block the flow of urine which in turn causes inflammation and infection. Urethral stricture may result from surgery, disease, injury, and enlarged prostate or benign prostatic hyperplasia. Blood in urine (hematuria), frequent urination, painful urination (dysuria), urinary incontinence and lower abdominal pain are some of the symptoms of urethral stricture. ",
+            "VideoURL": "Urethral stricture.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Urethrectomy",
+            "WDescription": "Urethrectomy is a procedure to remove whole urethra or a part of it. It is performed in patients with bladder cancer based on its stage.  In males, the urethra is mostly removed from the level of prostate till the tip of the penis. Most common side effects are wound infection, pain, and impotence. ",
+            "VideoURL": "Urethrectomy.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Urethritis",
+            "WDescription": "Urethritis or urethral syndrome is infection and inflammation of urethra through which the urine is expelled out of the bladder. It can be caused by bacteria that affect bladder, prostate and reproductive organs. Females are at high risk. Symptoms include painful urination (dysuria), blood in urine, frequent urination and abdominal pain. ",
+            "VideoURL": "Urethritis.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Urinalysis",
+            "WDescription": "Urinalysis is an array of tests that includes physical, chemical, and microscopic examinations of urine. It is used to detect and measure various components in urine associated with conditions such as urinary tract infection, kidney stones and kidney diseases. It is also used to monitor diseases like diabetes mellitus and hypertension.   ",
+            "VideoURL": "Urinalysis.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Urinary bladder",
+            "WDescription": "Bladder or urinary bladder is the hollow, elastic, muscular sac, situated in the pelvic cavity that stores urine. Urine leaves the bladder through urethra. ",
+            "VideoURL": "Urinary bladder.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Urinary incontinence",
+            "WDescription": "Urinary incontinence is the loss of bladder control or the inability to control passage of urine, the severity ranging from mild leaking of urine to uncontrollable wetting",
+            "VideoURL": "Urinary incontinence.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Urinary or bladder diversion",
+            "WDescription": "Urinary or bladder diversion is a procedure done to bypass the urinary system to restore normal urine flow. The procedure is of two types - continent and non-continent. The continent urinary diversion is a pouch to mimic the bladder. This neo-bladder is constructed using a segment of the small intestine or the colon. The ureters are repositioned to the pouch to restore normal micturition. Ileal conduit urinary diversion is the most common form of non-continent urinary diversion and involves connecting the ureters to a segment of the ileum, which is in turn connected to a stoma in the abdominal wall. An ostomy bag is attached to the stoma to drain out the urine.",
+            "VideoURL": "Urinary or bladder diversion.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Urinary retention",
+            "WDescription": "Urinary retention or ischuria is the inability to voluntarily void urine and can be either acute or chronic in nature. Acute urinary retention is the painful inability to void though the bladder is full, while chronic urinary retention is painless inability to start urine stream or emptying the bladder. Urinary retention presents with symptoms like complete lack of voiding, a strong urge to urinate, inability to start voiding, incomplete bladder emptying, frequent urination, weak stream, dribbling, pain and discomfort during urination, and lower abdominal bloating. Urinary retention can be the result of obstructions like benign prostatic hyperplasia or tumors, infection and inflammation of the urinary tract, use of certain medications (example antidepressants and alpha-adrenergic agonists), and neurological conditions like lesions of peripheral nerves, brain and spinal cord.",
+            "VideoURL": "Urinary retention.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Urinary tract",
+            "WDescription": "Urinary tract is the term used for the organs involved in producing and discharging urine. This continuous tract includes the kidneys, ureters, urinary bladder and urethra.",
+            "VideoURL": "Urinary tract.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Urine formation",
+            "WDescription": "The process of urine formation is controlled by nephrons. Blood passes through the glomerular capillaries, and the capillaries filter out water, salts, glucose, and urea. The filtrate gets collected in the Bowman's capsule and passes through the proximal convoluted tubule (PCT), loop of Henle, distal convoluted tubule (DCT) and then to the collecting tubule. Reabsorption takes place in the PCT and loop of Henle. Tubular secretion, takes place in the DCT and collecting tubule. This involves the diffusion of hydrogen ions, potassium ions, ammonia, etc. from the capillaries into the tubules forming a concentrated liquid called urine which is then stored in the bladder till excretion",
+            "VideoURL": "Urine formation.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Urodynamic studies",
+            "WDescription": "Urodynamic studies  refers to a group of tests performed to evaluate the bladder function and lower urinary tract symptoms (LUTS). Urodynamic investigation generally includes Uroflowmetry, Bladder and perineal ultrasound examination, Cystometry, Urethral pressure profile, Stress test, and Pressure-flow studies. Urodynamic assessment is recommended for patients with stress and urges incontinence, impaired bladder emptying, neurological problems or those who have undergone continence surgery. ",
+            "VideoURL": "Urodynamic studies.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Uroflowmetry",
+            "WDescription": "Uroflowmetry is a diagnostic test for measuring the urinary flow rate using a flow meter to evaluate lower urinary tract symptoms associated with BPH. Uroflowmetry is used to measure the urine flow time, the maximum flow of urine, voided time and voided volume. In the case of stress or urge incontinence urine flow rate is normal or increased. A reduced flow rate is indicative of BPH.",
+            "VideoURL": "Uroflowmetry.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Urolithiasis",
+            "WDescription": "Urolithiasis is the process of stone formation anywhere in the urinary tract such as in the kidney, bladder or urethra. Crystallization of certain substances in concentrated urine forms kidney stones. Decreased urine volume or increased concentration of stone-forming components in urine such as calcium, oxalates, urates, and phosphates causes stone formation. Formation occurs in renal pelvis.",
+            "VideoURL": "Urolithiasis.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Varicocele",
+            "WDescription": "Varicocele is the abnormal widening of testicular veins. When valves inside these veins fail, veins stretch and get bigger due to pooling of blood. Varicocele causes infertility and shrinkage of testicles called testicular atrophy.",
+            "VideoURL": "Varicocele.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Vasectomy",
+            "WDescription": "Vasectomy is a permanent method of birth control in men. In this procedure the vas deference tubes are cut, small parts are removed and the cut ends are tied up. This breaks up the transport of sperm from testicle to urethra. ",
+            "VideoURL": "Vasectomy.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Vesicoureteral reflux",
+            "WDescription": "Vesicoureteral reflux is the back flow of urine from the bladder to the kidneys. The urine formed in the kidneys normally travels down through ureter to the urinary bladder. During vesicoureteral reflux the flow is reversed. In most cases it is a birth defect, due to the short and ineffective flab valve attachment between bladder and ureter. Reflux leads to urinary tract infection and kidney infection that causes kidney damage.",
+            "VideoURL": "Vesicoureteral reflux.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Visual laser ablation",
+            "WDescription": "Visual laser ablation used to treat the obstruction caused by benign prostatic hyperplasia in the urethra. This procedure makes use of lasers to cut or destroy the prostate tissue that obstructs the urethra. This procedure helps to relieve the symptoms of BPH such as dribbling, pain during urination, etc.",
+            "VideoURL": "Visual laser ablation.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Voiding cystourethrography (VCUG)",
+            "WDescription": "Voiding cystourethrography (VCUG) is done to visualize the bladder outlet during voiding. Here the x-ray examination of the bladder and urethra is done while urinating.  This test is used to diagnose the cause of the urinary tract infection. ",
+            "VideoURL": "Voiding cystourethrography (VCUG).mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Wilm's tumour",
+            "WDescription": "Wilm’s tumor or nephroblastoma is a kidney cancer that occurs in children, mostly in children aged five years and below. Symptoms include abdominal mass, abdominal pain, fever, and blood in urine. Physical examination, blood and urine test and imaging studies such as ultrasound, computerized tomography (CT) and magnetic resonance imaging (MRI) help to diagnose Wilm’s tumor.",
+            "VideoURL": "Wilm's tumour.mp4"
+        }
+    ]
+}

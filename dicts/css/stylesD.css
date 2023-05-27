@@ -1,0 +1,287 @@
+/*------------- Variable ------------*/
+:root {
+  --iq-primary: #e50914;
+  --iq-primary-hover: #bf000a;
+  --iq-light-primary: #d7d3f8;
+  --iq-placeholder: #d9d5d5;
+  --iq-secondary: #6c757d;
+  --iq-white: #ffffff;
+  --iq-black: #000000;
+  --iq-title-text: #23203c;
+  --iq-body-text: #D1D0CF;
+  --iq-body-bg: #222222;
+  --iq-bg1: #191919;
+  --iq-body-border: #393750;
+  --iq-gold: #E6C75F;
+  --iq-black: #000000;
+  --iq-light-black: #292929;
+  --iq-light-gray: #d1d0cf;
+  --iq-gray: #dddddd;
+  --iq-scroll: #888888;
+  --iq-form-gradient-color: rgba(11, 1, 2, 0);
+  --iq-to-gradient-color: rgba(255, 55, 65, 0.3);
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+  color: var(--iq-body-text);
+  background: var(--iq-body-bg);
+}
+
+a,
+.btn {
+  -webkit-transition: all 0.5s ease-out 0s;
+  -moz-transition: all 0.5s ease-out 0s;
+  -ms-transition: all 0.5s ease-out 0s;
+  -o-transition: all 0.5s ease-out 0s;
+  transition: all 0.5s ease-out 0s;
+}
+
+a,
+button,
+input,
+btn {
+  outline: medium none;
+}
+
+a {
+  color: var(--iq-body-text);
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  margin: 0em;
+  line-height: 1.2;
+  color: var(--iq-white);
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+}
+
+h1,
+.h1 {
+  font-size: 3.052em;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  line-height: 1.66em;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Hind:300,400&display=swap");
+
+.containerfaq {
+  padding: 2em 5rem;
+  max-width: 1000px;
+  /* max-width: 90%; */
+  margin: 0 auto;
+}
+
+.dictionary .dictionary-item {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.dictionary .dictionary-item button[aria-expanded=true] {
+  border-bottom: 1px solid #03b5d2;
+}
+
+.dictionary button {
+  position: relative;
+  display: block;
+  text-align: left;
+  width: 100%;
+  /* padding: 1em 0; */
+  color: #ffffff;
+  font-size: 1.15rem;
+  font-weight: 400;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.dictionary button:hover,
+.dictionary button:focus {
+  cursor: pointer;
+  color: #03b5d2 !important;
+}
+
+.dictionary button:hover::after,
+.dictionary button:focus::after {
+  cursor: pointer;
+  color: #03b5d2 !important;
+  border: 1px solid #03b5d2 !important;
+}
+
+.dictionary button .WTitle {
+  padding: 0em 1.5em 0px 0;
+  line-height: 22px;
+}
+
+.dictionary button .iconplus {
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  right: 0;
+  width: 22px;
+  height: 22px;
+  border: 1px solid;
+  border-radius: 22px;
+}
+
+.dictionary button .iconplus::before {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 9px;
+  left: 5px;
+  width: 10px;
+  height: 2px;
+  background: currentColor;
+}
+
+.dictionary button .iconplus::after {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 5px;
+  left: 9px;
+  width: 2px;
+  height: 10px;
+  background: currentColor;
+}
+
+.dictionary button[aria-expanded=true] {
+  color: #03b5d2;
+}
+
+.dictionary button[aria-expanded=true] .iconplus::after {
+  width: 0;
+}
+
+.dictionary button[aria-expanded=true]+.WDescription {
+  opacity: 1;
+  max-height: max-content;
+  transition: all 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.dictionary .WDescription {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 200ms linear, max-height 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.dictionary .WDescription h1 {
+  font-size: 1rem;
+  font-weight: 300;
+  margin: 1em 0;
+  line-height: 22px;
+}
+
+.WTitle>.badge {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  /* float: left; */
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  border-radius: 50% !important;
+  text-align: center;
+  /* color: #ffffff; */
+  padding-top: 4px;
+  padding-left: 3px;
+  font-size: 15px;
+  margin-right: 15px;
+  border: 1px solid #ffffff;
+}
+
+h1,
+h2 {
+  font-size: 20px;
+}
+
+@media (max-width:500px) {
+  .containerfaq {
+    padding: 2em 1rem;
+    max-width: 1300px;
+  }
+
+  h1,
+  h2 {
+    font-size: 18px;
+  }
+
+  .dictionary button {
+    font-size: 16px !important;
+  }
+
+  .dictionary .WDescription p {
+    font-size: 16px !important;
+  }
+
+  .it-tabs {
+    margin-top: 5px !important;
+  }
+}
+
+#search-bar {
+  width: 98%;
+  background-color: rgb(52, 52, 52);
+  color: white;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 6px;
+}
+
+#search-bar:hover,
+#search-bar:focus {
+  border: 2px solid #ff0000;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: lightgray;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(241, 0, 0);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: darkgray;
+}
+
+.playerVdo {
+  float: right;
+  margin-left: 8px;
+  aspect-ratio: 4/3;
+}

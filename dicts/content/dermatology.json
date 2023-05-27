@@ -1,0 +1,419 @@
+{
+    "dermatology": [
+        {
+            "WTitle": "Acne",
+            "WDescription": "Acne is a common inflammatory skin disease characterized by pimples on the face, chest and back, that occur due to clogging of skin pores with oil, dead skin cells or bacteria.",
+            "VideoURL": "acne.mp4"
+        },
+        {
+            "WTitle": "Albinism",
+            "WDescription": "Albinism is a genetic disorder characterized by total or partial lack of melanin pigment production in the skin, hair or eyes. This results in discoloration of skin, grey hair and pink eye.",
+            "VideoURL": "Albinism.mp4"
+        },
+        {
+            "WTitle": "Anagen",
+            "WDescription": "Anagen is the active growth phase of the hair follicle during which new hair is formed. During this phase the cells at the root of the hair divide rapidly, adding to the hair shaft. Normally 90% of the hair follicles are found in this phase.",
+            "VideoURL": "Anagen.mp4",
+            "WPaidFlag": "Free"
+        },
+        {
+            "WTitle": "Anthralin",
+            "WDescription": "Anthralin is a topical medication prescribed for treating psoriasis and chronic dermatitis. It is also known as dithranol or cignolin. It aims at reducing inflammation and inhibiting the growth of skin cells during psoriasis.",
+            "VideoURL": "Anthralin.mp4"
+        },
+        {
+            "WTitle": "Aphthous ulcer",
+            "WDescription": "Aphthous ulcer, commonly known as canker sore, is a type of mouth ulcer characterized by the presence of open sores due to a break in the mucous membrane. The sores are painful and are seen on the tongue, And the inner surface of cheeks and lips. Viral infections, hormonal imbalance, and food allergies can result in the formation of canker sores.",
+            "VideoURL": "Aphthous ulcer.mp4"
+        },
+        {
+            "WTitle": "Apocrine gland",
+            "WDescription": "Apocrine glands are large, specialized glands generally associated with hair follicles, and found in the skin, breast, eyelid and ear. These glands produce odorless viscous secretions that take on a foul smell on contact with skin surface bacteria.",
+            "VideoURL": "Apocrine gland.mp4"
+        },
+        {
+            "WTitle": "Blackheads",
+            "WDescription": "Blackheads or open comedones are caused when the openings become wider. Sebum and trapped dead skin cells are exposed to air, leading to oxidation of melanin, resulting in black coloration.  ",
+            "VideoURL": "Blackheads.mp4"
+        },
+        {
+            "WTitle": "Bowen's disease",
+            "WDescription": "Bowen's disease is a skin disorder characterized by pink to red colored scaly patches which become crusted, fissured or ulcerated. Damage to the skin due to chronic UV radiation, arsenic exposure, reduced activity of the immune system due to infections like AIDS, other viral infections, chronic skin injury and dermatoses are among the causes of Bowen's disease. In men, head, neck and extremities are commonly affected, where as lower limbs and cheeks are the commonly affected areas in women. Untreated cases of Bowmen’s disease may occasionally develop into skin cancer called squamous cell carcinoma.",
+            "VideoURL": "Bowen's Disease.mp4"
+        },
+        {
+            "WTitle": "Candidiasis",
+            "WDescription": "Candidiasis is a skin infection caused by the fungal organism, Candida albicans. It is also known as candida or thrush. The fungus affects the skin and mucous membranes of the mouth, digestive tract and vagina. ",
+            "VideoURL": "Candidiasis.mp4"
+        },
+        {
+            "WTitle": "Catagen",
+            "WDescription": "Catagen is the transitional phase between growth and resting phases in a hair growth cycle. During this phase, changes take place in the structure of the hair follicle. Less than 1% of hair is in this phase which lasts for about 2–3 weeks.",
+            "VideoURL": "Catagen.mp4"
+        },
+        {
+            "WTitle": "Cellulitis",
+            "WDescription": "Cellulitis is an infection of the skin and tissues below it, caused by Streptococcus pyogenes and Staphylococcus aureus. Infection occurs when the bacteria normally residing on the skin enter inside, through cuts or wounds. This can occur anywhere on the body but limbs are commonly affected. Cellulitis is characterized by redness, swelling, tenderness and increased warmth, and may be accompanied by fever, chills and malaise.",
+            "VideoURL": "Cellulitis.mp4"
+        },
+        {
+            "WTitle": "Collagen",
+            "WDescription": "Collagen is a tough fibrous protein with a high tensile strength that supports and connects bodily tissues. It forms an important constituent of skin, bone, cartilage and muscle.",
+            "VideoURL": "Collagen.mp4"
+        },
+        {
+            "WTitle": "Comedones",
+            "WDescription": "Comedones are small bumps, formed by depositions of skin debris, bacteria and sebum in widened hair follicle. Comedones are of two types - open and closed. Open comedo, also called black head, has a wide opening to the skin, clogged by skin debris and sebum that are exposed to the air. Closed comedo or white head is formed due to clogging of skin pores by sebum and trapped dead skin cells that are not exposed to air. ",
+            "VideoURL": "Comedones.mp4"
+        },
+        {
+            "WTitle": "Contact dermatitis",
+            "WDescription": "Contact dermatitis is skin inflammation that occurs due to direct contact with an irritant or allergen.",
+            "VideoURL": "Contact dermatitis.mp4"
+        },
+        {
+            "WTitle": "Contagious",
+            "WDescription": "Contagious is a term used to describe a disease that can spread easily from person to person either by direct or indirect contact, or is communicable.",
+            "VideoURL": "Contagious.mp4"
+        },
+        {
+            "WTitle": "Cradle cap",
+            "WDescription": "Cradle cap a condition that affects the newborn, which causes crusty scalp and peeling of the scalp tissue. ",
+            "VideoURL": "Cradle cap.mp4"
+        },
+        {
+            "WTitle": "Cystic acne",
+            "WDescription": "Severe form of acne with the formation of pus is ‘Cystic acne’. Cystic acne is common among males.",
+            "VideoURL": "Cystic acne.mp4"
+        },
+        {
+            "WTitle": "Dandruff",
+            "WDescription": "Also called scurf or seborrhea medically termed as Pityriasis capitis, dandruff is the excessive flaking or shedding of skin cells from the scalp.",
+            "VideoURL": "Dandruff.mp4"
+        },
+        {
+            "WTitle": "Dermatitis",
+            "WDescription": "Dermatitis is the inflammation of skin in response to injury or allergens. Signs include formation of blisters, fissures, scales, redness on any part of the body. It mostly affects the upper layer of the skin.",
+            "VideoURL": "Dermatitis.mp4"
+        },
+        {
+            "WTitle": "Dermatophytosis",
+            "WDescription": "Dermatophytosis, commonly known as tinea or ringworm, is defined as a fungal infection of the keratinized tissue present in the skin, hair or nails. The infection is caused by a group of fungi that infect the skin and are called dermatophytes.",
+            "VideoURL": "Dermatophytosis.mp4"
+        },
+        {
+            "WTitle": "Dermatoplasty",
+            "WDescription": "Dermatoplasty (plastic surgery of the skin) is a surgical procedure done to correct the defects in the skin caused by an injury or a disease. Skin grafts are used to replace the damaged skin during the procedure.",
+            "VideoURL": "Dermatoplasty.mp4"
+        },
+        {
+            "WTitle": "Dermis",
+            "WDescription": "Dermis is the middle layer of skin with varying thickness, and composed of blood vessels, lymph vessels, hair follicles, and glands that produce sweat.",
+            "VideoURL": "Dermis.mp4",
+            "WPaidFlag": "Free"
+        },
+        {
+            "WTitle": "Desquamation",
+            "WDescription": "Desquamation, also called as skin peeling, is the natural shedding of the outer layers of the skin in scales or sheets. Certain medications, injuries and some conditions exaggerate this process and lead to the loss of deeper layers of the skin.",
+            "VideoURL": "Desquamation.mp4"
+        },
+        {
+            "WTitle": "Eccrine glands",
+            "WDescription": "Eccrine glands are a type of sweat glands that secrete clear aqueous liquid. These open directly onto the surface of the skin through pores, and are involved in regulating body temperature. ",
+            "VideoURL": "Eccrine glands.mp4"
+        },
+        {
+            "WTitle": "Ecthyma",
+            "WDescription": "Ecthyma is a contagious deep skin infection caused by organisms like Staphylococci or Streptococci and is characterized by the presence of large ulcerating pus filled sores surrounded by erythema. It is most commonly seen affecting the skin of the legs.",
+            "VideoURL": "Ecthyma.mp4"
+        },
+        {
+            "WTitle": "Eczema",
+            "WDescription": "Eczema, usually associated with itching and dryness of skin, is an inflammatory skin reaction that primarily affects the epidermis and is marked by the appearance of tiny blisters that become red and swollen bumps. These symptoms are followed by crusting, thickening and scaling of the skin. Eczema is caused by allergies, chemical irritants, humidity or detergents.",
+            "VideoURL": "Eczema.mp4"
+        },
+        {
+            "WTitle": "Epidermis",
+            "WDescription": "Epidermis is the outermost non-vascular, protective layer of the skin covering the underlying tissues. It functions as a selective barrier for the penetration and elimination of diverse group of substances.",
+            "VideoURL": "Epidermis.mp4"
+        },
+        {
+            "WTitle": "Erysipelas",
+            "WDescription": "Erysipelas, also known as St. Anthony's Fire, is an acute Streptococcus bacterial infection affecting epidermis and upper subcutaneous layers of the skin. Fever; hot, painful, red and swollen limbs or face; vomiting and confusion are among the commonly observed symptoms. ",
+            "VideoURL": "Erysipelas.mp4"
+        },
+        {
+            "WTitle": "Erythema",
+            "WDescription": "Erythema is the redness of skin due to the engorgement of tiny superficial capillaries of the skin caused by exposure to the sun, infection, allergies or acne treatment.",
+            "VideoURL": "Erythema.mp4"
+        },
+        {
+            "WTitle": "Erythroderma",
+            "WDescription": "Erythroderma, also known as exfoliative dermatitis, refers to the abnormal reddening and scaling of the skin surface.",
+            "VideoURL": "Erythroderma.mp4",
+            "WPaidFlag": "Free"
+        },
+        {
+            "WTitle": "Erythrodermic psoriasis",
+            "WDescription": "Erythrodermic psoriasis is a very rare form of life threatening psoriasis. It is characterized by widespread inflammation, redness and scaling of the skin. It may be triggered by severe sunburn, oral steroids or other drugs. In rare cases severe inflammation may affect the body’s ability to regulate temperature and fluid balance and lead to death.",
+            "VideoURL": "Erythrodermic psoriasis.mp4"
+        },
+        {
+            "WTitle": "Exfoliation",
+            "WDescription": "Exfoliation is the removal of dead skin cells from the skin's outermost surface. It helps in unclogging the pores and keeping the skin clean.",
+            "VideoURL": "Exfoliation.mp4"
+        },
+        {
+            "WTitle": "Exfoliative dermatitis",
+            "WDescription": "Exfoliative dermatitis, also known as erythroderma, refers to the abnormal reddening and scaling of the skin surface.",
+            "VideoURL": "Exfoliative dermatitis.mp4"
+        },
+        {
+            "WTitle": "Exocrine glands",
+            "WDescription": "An exocrine gland is a specialized organ that secrets hormones through ducts, onto an external or internal body surface. Most glands in the body are exocrine glands – these include gastrointestinal glands, salivary glands and sweat glands.",
+            "VideoURL": "Exocrine glands.mp4"
+        },
+        {
+            "WTitle": "Fissure",
+            "WDescription": "Fissure refers to a narrow opening or a cleavage, for example – anal fissure, skin fissure. Skin fissure is a linear cleavage or a crack like opening that extends into the dermis. Fissures in the skin can be due to dryness or conditions like ichthyosis characterized by thickened, scaly or flaky skin.",
+            "VideoURL": "Fissure.mp4"
+        },
+        {
+            "WTitle": "Folliculitis",
+            "WDescription": "Folliculitis is a superficial infection of the hair follicles by viruses, bacteria, or fungi. Staphylococcus aureus is the common infectious agent. 'Hot-tub folliculitis’ is caused by Pseudomonas aeruginosa. Itchy, bumpy, red pimples with a hair in the centre are the commonly observed symptoms.",
+            "VideoURL": "Folliculitis.mp4"
+        },
+        {
+            "WTitle": "Guttate psoriasis",
+            "WDescription": "Guttate psoriasis is characterized by tear shaped scaly papules. It usually occurs on the trunk, arms, or legs, though it may occur in other parts also. In some cases, the sores may disappear and may not recur.\r",
+            "VideoURL": "Guttate psoriasis.mp4"
+        },
+        {
+            "WTitle": "Hair follicle",
+            "WDescription": "Hair follicle is a small sac or pouch like structure that contains root of the hair into which sebaceous glands open. A small finger like projection, called papilla, found at the base of the follicle contains blood capillaries that help in nourishment.",
+            "VideoURL": "Hair follicle.mp4"
+        },
+        {
+            "WTitle": "Herpes simplex",
+            "WDescription": "Herpes simplex is a common viral infection characterized by localized blisters and is of two types – oral herpes and genital herpes. Oral herpes transmits through the saliva of an infected person, while genital herpes is sexually transmitted. Sores appear near the area of viral entry into the body which turn into blisters, become itchy and painful and heal gradually. It is also transmitted from an infected mother to baby during birth.",
+            "VideoURL": "Herpes simplex.mp4"
+        },
+        {
+            "WTitle": "Herpes zoster",
+            "WDescription": "Herpes zoster or shingles is an infection of the nerves supplying certain areas of the skin, caused by Varicella-zoster virus, which also causes chickenpox. After an episode of chickenpox, the virus can remain dormant in nerve cells for several years and re-emerge as shingles. Symptoms include itching, tingling, pain and rash that turns into blisters which gradually crust over leaving scars, usually on one side of the body.",
+            "VideoURL": "Herpes zoster.mp4"
+        },
+        {
+            "WTitle": "HolocrineGland",
+            "WDescription": "Holocrine glands are a type of exocrine glands whose secretions are released after the disintegration of their cell wall. These disintegrated cells form a part of the secretion. For example, the sebaceous glands.",
+            "VideoURL": "HolocrineGland.mp4"
+        },
+        {
+            "WTitle": "Keratin",
+            "WDescription": "Keratin is a fibrous, insoluble structural protein forming the principal constituent of the outermost layer of  hairs, nails and skin.",
+            "VideoURL": "Keratin.mp4"
+        },
+        {
+            "WTitle": "Keratinocytes",
+            "WDescription": "Keratinocytes are the most abundant type of cells found in the epidermis and form a tough protective layer. These cells produce a protein called keratin. Keratinocytes are formed in the basal layer of the skin, and gradually migrate upward, becoming squamous cells which slowly die and peel-off.",
+            "VideoURL": "Keratinocytes.mp4"
+        },
+        {
+            "WTitle": "Leukoderma",
+            "WDescription": "Leukoderma, also know as Vitiligo or Phulheri, is a condition which affects the melanocytes (colour producing cells) and presents as white patches on the skin. They are not contagious, painful, or harmful. It can be treated by topical creams, lotions, oral medicines like vitamins, zinc and phototherapy.",
+            "VideoURL": "Leukoderma.mp4"
+        },
+        {
+            "WTitle": "Linear melanonychia",
+            "WDescription": "Linear melanonychia refers to the dark pigmentation of the nails appearing as linear streaks. This condition is commonly observed in individuals with dark complexion than in individuals with fair complexion.",
+            "VideoURL": "Linear melanonychia.mp4"
+        },
+        {
+            "WTitle": "Measles",
+            "WDescription": "Measles is a highly contagious disease caused by a paramyxovirus. The infection spreads when a person comes in contact with the droplets from a cough or sneeze of a patient. There are two types of measles caused by two different viruses – “Red measles”, also known as “hard measles” caused by the rubeola virus, and “German measles”, also known as “three-day measles” caused by the rubella virus. The early signs of infection are usually high fever, malaise, photophobia, cough, rashes, and conjunctivitis accompanied by Koplik's spots. Rashes that disappear after a few days and red papules, usually on the face and upper neck, are the later symptoms.",
+            "VideoURL": "Measles.mp4"
+        },
+        {
+            "WTitle": "Melanin",
+            "WDescription": "Melanin is a naturally occurring black or brown colored pigment that gives color to the skin, hair and iris of the eye. Melanin pigment is produced from melanocytes present in the skin and hair. Melanin when present in high amounts results in dark coloration of the skin, and in low levels results in lighter or fair complexion. It protects the skin from the ultraviolet light.",
+            "VideoURL": "Melanin.mp4",
+            "WPaidFlag": "Free"
+        },
+        {
+            "WTitle": "Melanocytes",
+            "WDescription": "Melanocytes are epidermal cells located in skin, hair and eyes that synthesize the pigment melanin that determine their color.",
+            "VideoURL": "Melanocytes.mp4"
+        },
+        {
+            "WTitle": "Melasma",
+            "WDescription": "Melasma is a condition resulting in hyperpigmentation of the skin. It is commonly seen on the face (cheeks, upper lip, chin, and forehead) and the neck region. Increased levels of estrogen, progesterone and melanocyte-stimulating hormone are said to be the cause of this condition. Mask of pregnancy is the term used to describe melasma in pregnant women.",
+            "VideoURL": "Melasma.mp4"
+        },
+        {
+            "WTitle": "Microdermabrasion",
+            "WDescription": "Microdermabrasion used to remove the dead layer of skin. This enhances generation of new skin and improves skin irregularities. Microdermabrasion in conjunction with acne surgery is an effective option for acne treatment.",
+            "VideoURL": "Microdermabrasion.mp4"
+        },
+        {
+            "WTitle": "Molluscum contagiosum",
+            "WDescription": "Molluscum contagiosum is a viral skin disease caused by a poxvirus and is characterized by the presence of nodules or papules that are translucent. The papules occur on the face, neck, armpit, arms and hands. The disease can be transmitted from person to person through direct or indirect contact. It is mainly seen in children, but can also be found in adults.",
+            "VideoURL": "Molluscum contagiosum.mp4"
+        },
+        {
+            "WTitle": "Nail psoriasis",
+            "WDescription": "Nail psoriasis may occur alone or with plaque psoriasis in some people. It is characterized by small pits in the nails. In some cases it may cause the nail to separate from the nail bed.",
+            "VideoURL": "Nail psoriasis.mp4"
+        },
+        {
+            "WTitle": "Nodules",
+            "WDescription": "The lesions are highly inflamed with redness and pain. These inflammatory lesions involve the deep layers of the skin. These are hard, red, large painful lumps formed below the skin surface called nodules.",
+            "VideoURL": "Nodules.mp4"
+        },
+        {
+            "WTitle": "Papillary layer",
+            "WDescription": "The Papillary layer is the upper layer of the dermis made of areolar connective tissue containing elastic fibers. It is characterized by the presence of finger like projections called papillae that attach the papillary layer tothe epidermis.",
+            "VideoURL": "Papillary layer.mp4"
+        },
+        {
+            "WTitle": "Papules",
+            "WDescription": "Papules are inflamed lesions that occur on the skin surface devoid of pus, which appear red and tender and involve the deep tissues of the skin.",
+            "VideoURL": "Papules.mp4"
+        },
+        {
+            "WTitle": "Perioral dermatitis",
+            "WDescription": "Perioral dermatitis is a facial skin disorder commonly seen in young women, but rare in children and men. It is characterized by burning sensation with red papules or bumps appearing around the mouth,and nose, and more rarely around the eyes. Prolonged use of topical steroid creams, steroid sprays and moisturizers increases the risk for perioral dermatitis.",
+            "VideoURL": "Perioral dermatitis.mp4"
+        },
+        {
+            "WTitle": "Pimple",
+            "WDescription": "A pimple is a small swelling on the skin that is inflamed, with a white top or head, consisting of pus, oil and cell debris. Generally occurring on the face, back and chest, the inflammation is caused due to over production of sebum from the sebaceous glands, and their interaction with dead cells and bacteria.",
+            "VideoURL": "Pimple.mp4"
+        },
+        {
+            "WTitle": "Pityriasis alba",
+            "WDescription": "Pityriasis alba, also called pityriasis streptogenes, is a common skin condition seen in children and young adults. It is characterized by round or oval, pale pink to light brownish, scaly patches of skin, mostly located in the mid forehead and areas around the mouth and eyes, and rarely seen on the neck, trunk, back, limbs, and scrotum.",
+            "VideoURL": "Pityriasis alba.mp4"
+        },
+        {
+            "WTitle": "Pityriasis capitis",
+            "WDescription": "Also called dandruff, scurf or seborrhea, Pityriasis capitis is the excessive flaking or shedding of skin cells from the scalp.",
+            "VideoURL": "Pityriasis capitis.mp4"
+        },
+        {
+            "WTitle": "Plaque psoriasis",
+            "WDescription": "Plaque psoriasis, which accounts for about 80% of cases of psoriasis, is the most common type of psoriasis. This type is characterized by dry, red well made plaques covered with flaky white scales. These plaques are commonly found on the elbows, knees.  In more severe cases the trunk is involved, though they may appear on any part of the body these may cause itching. ",
+            "VideoURL": "Plaque psoriasis.mp4"
+        },
+        {
+            "WTitle": "Psoriasis",
+            "WDescription": "Psoriasis a condition in which the dead skin cells accumulate to form thick silvery scales may result in dandruff. It affects the scalp as well as knees, elbows and trunk.",
+            "VideoURL": "Psoriasis.mp4"
+        },
+        {
+            "WTitle": "Psoriatic arthritis",
+            "WDescription": "Psoriatic arthritis is a chronic autoimmune disease characterized by inflammation of the skin and joints, chronic skin scaling and fingernail changes. In many cases the skin disease often precedes the arthritic disease.",
+            "VideoURL": "PsoriaticArthritis.mp4"
+        },
+        {
+            "WTitle": "Pustular psoriasis",
+            "WDescription": "Pustular psoriasis is a life threatening form of psoriasis characterized by pus filled blisters or pustules. These pustules are sterile and tend to follow a \rpattern - the skin reddens followed by the appearance of pustules and scaling. The blisters are not infected but contain white blood cells. ",
+            "VideoURL": "Pustular psoriasis.mp4"
+        },
+        {
+            "WTitle": "Pustule",
+            "WDescription": "Pustule is a tender, red, elevated and pus containing inflamed lesion resembling a blister that can rupture easily. ",
+            "VideoURL": "Pustule.mp4"
+        },
+        {
+            "WTitle": "Reticular layer",
+            "WDescription": "The Reticular layer is the lower layer of the dermis, made up of dense, irregular connective tissue composed of densely packed network of thick collagen and coarse elastic fibres.",
+            "VideoURL": "Reticular layer.mp4"
+        },
+        {
+            "WTitle": "Scabies",
+            "WDescription": "Scabies is a contagious skin disease caused by the itch mite  Sarcoptes scabiei that burrows into the skin to lay eggs causing severe itching especially during night.",
+            "VideoURL": "Scabies.mp4"
+        },
+        {
+            "WTitle": "Scalp",
+            "WDescription": "Scalp is the skin of the head, normally covered with hair, that is exclusive of face and neck.",
+            "VideoURL": "Scalp.mp4"
+        },
+        {
+            "WTitle": "Scars",
+            "WDescription": "A scar is a permanent mark formed on the skin due to damage of the dermis. It is formed as part of the natural healing process after injury. A scar may be depressed (shallow) or hypertrophic (elevated or raised) depending on the extent of damage to the skin or the growth of cells. Acne, small pox and chicken pox leave a depressed scar where as hypertrophic scars occur due to trauma, infections and surgeries.",
+            "VideoURL": "Scars.mp4"
+        },
+        {
+            "WTitle": "Scurf",
+            "WDescription": "Also called dandruff or seborrhea medically termed as Pityriasis capitis, scurf is the excessive flaking or shedding of skin cells from the scalp.",
+            "VideoURL": "Scurf.mp4"
+        },
+        {
+            "WTitle": "Sebaceous gland",
+            "WDescription": "Sebaceous glands are sebum secreting glands found in the skin, connected with hair follicles.",
+            "VideoURL": "Sebaceous gland.mp4",
+            "WPaidFlag": "Free"
+        },
+        {
+            "WTitle": "Seborrhea",
+            "WDescription": "Also called dandruff or scurf  medically termed as Pityriasis capitis, seborrhea is the excessive flaking or shedding of skin cells from the scalp.",
+            "VideoURL": "Seborrhea.mp4"
+        },
+        {
+            "WTitle": "Seborrheic dermatitis",
+            "WDescription": "Seborrheic dermatitis is a red, scaly, itchy rash that develops on the scalp, face and trunk due to excessive sebum production and irritation from a yeast called Malessizia.",
+            "VideoURL": "Seborrheic dermatitis.mp4"
+        },
+        {
+            "WTitle": "Sebum",
+            "WDescription": "Sebum, secreted by specialized cells in sebaceous glands, is brought to the surface of the skin along the hair shaft and is required for protection and lubrication of the skin. Acne occurs when excess sebum is produced. The sebum along with dead skin cells gets accumulated resulting in clogging of skin pores or follicles. This accumulation and clogging can stimulate bacterial growth. ",
+            "VideoURL": "Sebum.mp4"
+        },
+        {
+            "WTitle": "Shingles",
+            "WDescription": "Shingles or herpes zoster is an infection of the nerves supplying certain areas of the skin, caused by Varicella-zoster virus, which also causes chickenpox. After an episode of chickenpox, the virus can remain dormant in nerve cells for several years and re-emerge as shingles. Symptoms include itching, tingling, pain and rash that turns into blisters which gradually crust over leaving scars, usually on one side of the body.",
+            "VideoURL": "Shingles.mp4"
+        },
+        {
+            "WTitle": "Skin prick test",
+            "WDescription": "Skin prick test is done to detect allergy, sensitivity or infection. Small amounts of purified allergen extracts are pricked into the skin of the arm or upper back and observed for signs of an allergic reaction. A positive reaction is indicated when the pricked skin becomes red and itchy.",
+            "VideoURL": "Skin prick test.mp4"
+        },
+        {
+            "WTitle": "Skin",
+            "WDescription": "Skin is the external protective and selectively permeable covering of the body responsible for insulation, temperature regulation, sensation and synthesis of vitamin D. Skin  plays a key role in protecting against pathogens and excessive water loss. It consists of three layers – the epidermis (the outermost layer), dermis (the middle layer) and subcutaneous tissue (the innermost layer).",
+            "VideoURL": "Skin.mp4"
+        },
+        {
+            "WTitle": "Stratum corneum",
+            "WDescription": "Stratum corneum is the outermost layer of epidermis, made of 10–15 layers of cells. The cells are dead, flat, and without nucleus, andare continuously shed and replaced. These cells are filled with protein called keratin, and serve as a tough and protective barrier to the skin.",
+            "VideoURL": "Stratum corneum.mp4"
+        },
+        {
+            "WTitle": "Subcutis",
+            "WDescription": "Subcutis, also called hypodermis, tela subcutanea, or superficial fascia, is the deepest layer of dermis. It consists of blood vessels, nerves, collagen and fat cells and is involved in regulating the body's temperature.",
+            "VideoURL": "Subcutis.mp4"
+        },
+        {
+            "WTitle": "Sweat pore",
+            "WDescription": "The opening of the secretory duct of the sweat gland is termed as a sweat pore. It is located on the skin surface and functions in maintaining the body temperature by the secretion of sweat.",
+            "VideoURL": "Sweat pore.mp4"
+        },
+        {
+            "WTitle": "Telogen",
+            "WDescription": "The telogen stage of the hair follicle growth cycle is the resting phase where the hair fiber stops growing and sheds. Nearly14% of the hair is in the telogen phase, which will last around 2–4 months. At the end of telogen phase, the hair follicles start growing again.",
+            "VideoURL": "Telogen.mp4"
+        },
+        {
+            "WTitle": "Vitiligo",
+            "WDescription": "Vitiligo is a skin condition where white patches appear amidst normally pigmented skin. Vitiligo occurs due to the loss of melanocytes, the cells producing melanin that gives the characteristic color to the skin.",
+            "VideoURL": "Vitiligo.mp4"
+        },
+        {
+            "WTitle": "Whiteheads",
+            "WDescription": "Whiteheads or closed comedones are due to clogging of skin pores by sebum and trapped dead skin cells that are not exposed to air. They are slightly raised and appear white.",
+            "VideoURL": "Whiteheads.mp4"
+        }
+    ]
+}
