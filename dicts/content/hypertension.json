@@ -1,0 +1,544 @@
+{
+    "hypertension": [
+        {
+            "WID": "1",
+            "WTitle": "ACE inhibitors",
+            "WDescription": "ACE (Angiotensin-converting enzyme) inhibitors are competitive inhibitors of ACE used in the treatment of hypertension. ACE inhibitors block the enzymatic conversion of angiotensin I to angiotensin II. A decrease in angiotensin II levels lead to dilation of blood vessels and reduction of sodium and water retention, resulting in a decrease of blood pressure. Another action of ACE inhibitors lowering blood pressure is the prevention of bradykinin breakdown leading to bradykinin stimulated endothelial release of vasodilating agents (nitric oxide and prostacyclin). ACE inhibitors are broadly classified into 3 groups- sulfhydryl-containing agents, dicarboxylate-containing agents and phosphate-containing agents.",
+            "VideoURL": "ace_inhibitors.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Adrenaline",
+            "WDescription": "Adrenaline, also called epinephrine, is a hormone synthesised in the adrenal medulla within the adrenal gland and secreted in response to stress and stimulates autonomic nerve action. This hormone secretion is part of the ‘fight or flight’ reactions - quickening of heart beat, opening up of bronchioles in the lungs, etc - which a body has in response to physical or psychological stress.",
+            "VideoURL": "Adrenaline.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Alpha blockers",
+            "WDescription": "Alpha blockers, also known as alpha-adrenergic antagonists or alpha-adrenoceptor antagonists, treat hypertension by blocking alpha receptors. Alpha blockers are of two classes Alpha - 1 blockers that bind to Alpha - 1 receptors (located on vascular smooth muscle) and Alpha - 2 blockers that act on Alpha - 2 receptors (located on sympathetic nerve terminals as well as on vascular smooth muscle). By blocking the binding of adrenergic substances which cause constriction of blood vessels and increased cardiac output, alpha blockers dilate blood vessels and decrease cardiac output.",
+            "VideoURL": "Alpha blockers.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Alpha receptors",
+            "WDescription": "Alpha-receptors, also known as alpha-adrenergic receptors, adrenergic receptors or adrenoceptors are G protein-coupled receptors. They act as targets for catecholamines- noradrenaline (norepinephrine) and adrenaline (epinephrine). Alpha-receptors are of two types - alpha -1 and alpha - 2.  Alpha-1 receptors are located on the vascular smooth muscle and are coupled with Gq. Alpha-2 receptors are coupled with Gi and are located on the sympathetic nerve terminals as well as on vascular smooth muscle. Activation of these receptors bring about  various physiological reactions, most predominant being vascular smooth muscle contraction and  relaxation of intestinal muscle.",
+            "VideoURL": "Alpha receptors.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Aneurysm",
+            "WDescription": "Aneurysm is the sac-like widening of an artery. Aneurysm occurs due to damage or weakening of the arterial wall. Once formed, size of an aneurysm increases with time, adding to the risk of vessel rupture resulting in hemorrhage. Though most prominent in the aorta, aneurysms also occur in peripheral blood vessels, commonly in the lower extremities of older people. In case of hypertension, aneurysms are common as high blood pressure accelerates damage to blood vessel walls. ",
+            "VideoURL": "Aneurysm.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Angiotensin converting enzyme (ACE)",
+            "WDescription": "Angiotensin converting enzyme (ACE) is an exopeptidase that circulates in blood and is part of the renin-angiotensin system. ACE, secreted by the endothelium of lungs and kidneys, plays a vital role in vasoconstriction. It catalyzes the conversion of angiotensin I, a decapeptide to angiotensin II, an octapeptide vasoconstrictor. ACE also degrades bradykinin, a vasodilator. These functions of ACE are utilized to treat hypertension.",
+            "VideoURL": "Angiotensin converting enzyme (ACE).mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Angiotensin I",
+            "WDescription": "Angiotensin I is produced by the action of renin on angiotensinogen produced by hepatocytes. Decreased intra-renal blood pressure and\/or reduction in sodium and chlorine transport to the macula-densa influences the production of angiotensin I. It exists as a precursor to angiotensin II, an active component of RAAS cascade.",
+            "VideoURL": "Angiotensin I.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Angiotensin II",
+            "WDescription": "Angiotensin II is derived from angiotensin I by the action of angiotensin converting enzyme (ACE) that cleaves the two terminal residues. Angiotensin II has endocrine, autocrine, paracrine and intracrine functions and exerts its action by binding to its receptors – AT1 and AT2 – found throughout the body. Angiotensin II increases blood pressure by stimulating the smooth muscles of capillaries and causing vasoconstriction; and also regulates fluid balance. Since angiotensin II has a half-life of 30 seconds, it is broken down into angiotensin III by the action of enzymes called angiotensinases present in red blood cells and tissue capillaries. Apart from hypertension, angiotensin II plays a role in the pathophysiology of congestive heart failure and, possibly, chronic renal failure.",
+            "VideoURL": "Angiotensin II.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Angiotensin receptor blockers",
+            "WDescription": "Angiotensin receptor antagonists or blockers (ARBs) are also known as AT1-receptor antagonists or sartans. These drugs are receptor antagonists that block type 1 angiotensin II (AT1) receptors.The angiotensin receptor antagonists modulate the renin-angiotensin-aldosterone system and are therefore widely used in the treatment of hypertension.",
+            "VideoURL": "Angiotensin receptor blockers.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Angiotensinogen",
+            "WDescription": "Angiotensinogen is a precursor molecule for angiotensin and is also called as renin substrate. It is an alpha-2-globulin produced by hepatocytes. It is cleaved by renin to form angiotensin-I. Angiotensinogen levels in the plasma are increased by corticosteroids, estrogen, angiotensin-II and thyroid hormones. Regulation is by the production, utilisation and levels of renin. However, elevated levels of angiotensinogen may inhibit normal activity of renin, thus affecting normal blood pressure. ",
+            "VideoURL": "Angiotensinogen.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Angiotensinogenase",
+            "WDescription": "Angiotensinogenase is a proteolytic enzyme secreted by the juxtaglomerular cells of the kidneys involved in the regulation of blood pressure. When blood pressure falls, Angiotensinogenase catalyses the conversion of angiotensinogen into angiotensin I which elevates blood pressure. It is also called as Renin.",
+            "VideoURL": "Angiotensinogenase.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Autonomic nervous system (ANS)",
+            "WDescription": "Atrial natriuretic peptide (ANP), also known as atrial natriuretic factor (ANF), atrial natriuretic hormone (ANH) or atriopeptin, is a 28-amino acid polypeptide hormone synthesized and secreted by the atrial myocytes. ANP is produced in response to several factors, the predominant being atrial distension due to increase in blood volume.  ANP level is found to be high during hypervolemic state (elevated blood volume), chronic renal failure & congestive heart failure.\r",
+            "VideoURL": "ANS.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Anti-Diuretic Hormone (ADH)",
+            "WDescription": "Anti-diuretic hormone (ADH) or vasopressin is a hormone produced by the hypothalamus and stored in the posterior pituitary gland. It enhances water resorption in the tubules of the kidney, increases peristalsis and constricts blood vessels, thus increasing the blood pressure.",
+            "VideoURL": "Anti-Diuretic Hormone ADH.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Aortic coarctation",
+            "WDescription": "Aortic coarctation or coarctation of the aorta is a localised malformation that constricts the aorta, the major artery supplying oxygenated blood to the body. A congenital heart defect, this narrowing obstructs the transportation of blood below the constriction and increased blood pressure above the narrowed part, weakening the walls of the aorta.",
+            "VideoURL": "Aortic coarctation.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Aortic valve insufficiency",
+            "WDescription": "Aortic valve insufficiency, also known as aortic regurgitation, is the backward flow of blood from the aorta into left ventricle of the heart due to improper closure of aortic valve. The aortic valve normally closes to prevent backflow of blood from the aorta. When the valve is thickened, scarred or not completely developed, it closes improperly, overfilling the ventricle and increasing the pressure on the cardiac muscles.",
+            "VideoURL": "Aortic valve insufficiency.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Arteriole",
+            "WDescription": "Arteriole is the minute terminal branch of the artery found proximal to a capillary, forming a capillary network. Arterioles have thin muscular walls, and being the primary site of vascular resistance, they constantly constrict or dilate to regulate blood flow, in turn regulating blood pressure.",
+            "VideoURL": "Arteriole.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Arteriosclerosis",
+            "WDescription": "Arteriosclerosis is a degenerative arterial change with thickening, hardening and loss of elasticity of the muscular wall from fat deposits or calcification that results in impaired blood circulation. The changes usually involve arterioles and are associated with advancing age, hypertension, diabetes, hyperlipidaemia, etc.",
+            "VideoURL": "Arteriosclerosis.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Artery",
+            "WDescription": "Artery is a blood vessel carrying oxygenated blood away from the heart to various parts of the body. Pulmonary arteries and umbilical arteries are an exception to this, as they carry deoxygenated blood. The smooth muscle wall of the artery consists typically of an outer coat (tunica externa), a middle coat (tunica media), and an inner coat (tunica intima). The endothelial lining provides a smooth surface to prevent clotting of blood",
+            "VideoURL": "Artery.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Atherosclerosis",
+            "WDescription": "Atherosclerosis is a condition in which there is accumulation of cholesterol, cellular waste products, calcium and other substances in the inner lining of the coronary artery, resulting in plaque formation.",
+            "VideoURL": "Atherosclerosis.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Atrial natriuretic peptide (ANP)",
+            "WDescription": "Atrial natriuretic peptide (ANP), also known as atrial natriuretic factor (ANF), atrial natriuretic hormone (ANH) or atriopeptin, is a 28-amino acid polypeptide hormone synthesized and secreted by the atrial myocytes. ANP is produced in response to several factors, the predominant being atrial distension due to increase in blood volume.  ANP level is found to be high during hypervolemic state (elevated blood volume), chronic renal failure & congestive heart failure.\r",
+            "VideoURL": "Atrial natriuretic peptide ANP.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Atrium",
+            "WDescription": "Atria - the right and the left atrium - are the two upper chambers of the heart that receive blood as it returns to the heart to complete a circulating cycle. The two atria contract at the same time after the right atrium receives de-oxygenated blood from the body through the superior and inferior vena cava, and the left atrium receives oxygenated blood from the lungs through the pulmonary vein.",
+            "VideoURL": "Atrium.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Baroreceptors",
+            "WDescription": "Baroreceptors, also known as baroceptors, are mechanoreceptors or sensors that are located in the blood vessels.  These are sensory nerve endings that detect pressure of blood flowing through them based on the amount of stretch of the blood vessel walls.  Depending on the blood pressure, the CNS is activated to increase or decrease cardiac output accordingly. ",
+            "VideoURL": "Baroreceptors.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Beta blockers",
+            "WDescription": "Beta blockers are a group of drugs that block the stimulation of beta-adrenoceptors by hormones epinephrine and norepinephrine. They are used in the management of cardiac arrhythmias, hypertension, congestive heart failure (CHF) and chest pain. Beta blockers are also referred to as beta-adrenergic antagonists or beta antagonists",
+            "VideoURL": "Beta blockers.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Blood pressure (BP)",
+            "WDescription": "Blood pressure (BP) is the pressure exerted by the blood against the walls of the blood vessels, particularly the arteries.",
+            "VideoURL": "Blood pressure (BP).mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Blood",
+            "WDescription": "Blood is the red bodily fluid consisting of plasma, red and white blood cells, platelets and proteins, circulated by the heart through the vascular system. The blood carries oxygen and nutrients to and waste materials away from all tissues.",
+            "VideoURL": "Blood.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Bradykinin",
+            "WDescription": "Bradykinin is a 9-amino acid vasoactive peptide released from plasma globulins called kininogens. Bradykinin reduces blood pressure by dilating blood vessels, causes bronchial, intestinal and uterine smooth muscle contraction and is one of the potent substances known to induce pain. Bradykinin also causes natriuresis that brings about lowering of blood pressure.",
+            "VideoURL": "Bradykinin.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "C-reactive protein",
+            "WDescription": "C-reactive protein (CRP), a protein found in the blood, is seen in raised levels during inflammation and has been related to the development of hypertension. It has also been related to various cardiovascular diseases in patients with hypertension. CRP is said to be involved in complex pathways that lead to endothelial dysfunction, increased peripheral vascular resistance, and large artery stiffness. Vessel wall inflammation observed during hypertension is related to the action of CRP. ",
+            "VideoURL": "C-reactive protein.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Calcium antagonists",
+            "WDescription": "Calcium antagonists  or calcium channel blockers are a group of drugs that treat hypertension, angina and arrhythmias. These drugs are used to relax smooth muscle cells located in arteries and muscle cells in the heart by blocking the flow of calcium ions into them.",
+            "VideoURL": "Calcium antagonists.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Calcium Channel blockers",
+            "WDescription": "Calcium channel blockers or calcium antagonists are a group of drugs that treat hypertension, angina and arrhythmias. These drugs are used to relax smooth muscle cells located in arteries and muscle cells in the heart by blocking the flow of calcium ions into them.",
+            "VideoURL": "Calcium Channel blockers.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Calcium channels",
+            "WDescription": "Calcium channels are ion channels that bring about selective permeability to calcium ions. Calcium channels are found in  muscles, glial cells, and neurons, the type of cells that are often referred to as “excitable” cells. Calcium channels are made from proteins that are sensitive to electrical impulses. When these proteins receive a right signal, they open the channel allowing the calcium ion to flow across. The ions carry small  electrical charges that can stimulate, for example, muscle contraction. When the calcium channels in the heart are activated, the heart contracts and inturn increases blood pressure. ",
+            "VideoURL": "Calcium channels.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Catecholamine hormones",
+            "WDescription": "Catecholamine hormones is a collective term for epinephrine, norepinephrine and dopamine hormones that are produced by the adrenal glands. Release of norepinephrine leads to increased vasoconstriction and release of epinephrine results in dilation of blood vessels. Hence they play an important role in controlling blood pressure and preventing hypertension.\r",
+            "VideoURL": "Catecholamine hormones.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Catecholamine test",
+            "WDescription": "The catecholamine test is used to determine improper hormone secretion in case of high blood pressure and other related symptoms. ",
+            "VideoURL": "Catecholamine test.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Central adrenergic inhibitors",
+            "WDescription": "Central-acting agents, also known as central adrenergic inhibitors, lower heart rate and reduce blood pressure. They act directly in the brain and block the transmission of signals that speed up heart rate or constrict blood vessels. Central-acting agents are therefore considered a class of effective anti-hypertensive drugs. Examples of a few central adrenergic inhibitors are Clonidine, Guanfacine and Methyldopa.",
+            "VideoURL": "Central adrenergic inhibitors.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Coarctation of the aorta",
+            "WDescription": "Coarctation of the aorta or aortic coarctation is a localised malformation that constricts the aorta, the major artery supplying oxygenated blood to the body. A congenital heart defect, this narrowing obstructs the transportation of blood below the constriction and increased blood pressure above the narrowed part, weakening the walls of the aorta.",
+            "VideoURL": "Coarctation of the aorta.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Cold Pressor Test",
+            "WDescription": "Cold pressor test is performed to check vasomotor responses in changes in blood pressure, pulse and heart rate by immersing one hand into ice water, usually for one minute. It is an alternate cardiovascular test for those incapable of undertaking the exercise stress test",
+            "VideoURL": "Cold Pressor Test.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Diastole",
+            "WDescription": "Diastole is the rhythmically repeated period of dilatation (expansion) and relaxation of the heart during the cardiac cycle when the ventricular chambers fill with blood. The blood pressure increases and decreases throughout a cardiac cycle that takes approximately one second. The pressure recorded when the heart is relaxed is referred to as diastolic blood pressure.",
+            "VideoURL": "Diastole.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Diastolic pressure",
+            "WDescription": "Diastolic pressure is the lowest blood pressure measured in the arteries when the heart relaxes in a cardiac cycle, i.e., when the aortic and pulmonary valves are closed. In an adult the normal diastolic pressure is about 80 mmHg.",
+            "VideoURL": "Diastolic pressure.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Diuretics",
+            "WDescription": "Diuretics act by causing the kidneys to excrete more sodium from the body. When sodium is excreted, water is also excreted thereby reducing the amount of water in the blood. The reduction of water in the blood decreases pressure on the walls of the arteries resulting in blood vessel wall relaxation, thereby lowering blood pressure. There are three main classes of diuretics - loop diuretics, thiazide diuretics and potassium ion sparing diuretics.",
+            "VideoURL": "Diuretics.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Dopamine",
+            "WDescription": "Dopamine, produced by the hypothalamus, is an important homeostatic regulator of extracellular fluid volume and blood pressure. Its effects are initiated by stimulating alpha and beta adrenergic, and dopaminergic receptors and regulate cardiovascular centers that control cardiac functions and blood flow in arteries and veins. Abnormal dopamine production or dopamine receptor function is known to cause hypertension.",
+            "VideoURL": "Dopamine.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Eisenmenger's Syndrome",
+            "WDescription": "Eisenmenger's syndrome is a congenital heart defect consisting of left-to-right shunt, leading to abnormal flow of oxygenated blood from left ventricle to right ventricle through ventricular septal hole. These shunts increase pressure in the right ventricle and pulmonary arteries resulting in pulmonary hypertension. Other symptoms associated with the syndrome include cyanosis, erythrocytosis, palpitation and syncope.",
+            "VideoURL": "Eisenmengers Syndrome.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Endothelin-1 (ET-1)",
+            "WDescription": "Endothelin-1 (ET-1) is the important and most abundant peptide found in blood vessels. The vascular endothelium is a major source of endothelin-1 production, although a variety of other cell types are also known to synthesize and release endothelin-1. Patients with stage 2 hypertension exhibit increased vascular ET-1 expression. Endothelin receptor antagonists are thus potential therapeutic agents that could be used in preventing organ damage during hypertension, diabetes, chronic renal failure and congestive heart failure. \r",
+            "VideoURL": "Endothelin-1 (ET-1).mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Enzyme WNK1",
+            "WDescription": "WNK1 (WNK lysine deficient protein kinase 1) is an enzyme coded by the WNK1 gene located on the short arm of chromosome 12 at position 13.3. The WNK1 enzyme is found to be a key regulator of blood pressure which controls the transport of sodium and chloride ions. Mutations in the WNK1 gene are associated with pseudohypoaldosteronism type II (PHAII). Mutations in the WNK1 gene are large deletions in the first intron with no changes in coding sequence. The consequence of this mutation is an increase in WNK1 expression. WNK1 stimulates sodium transporters in the distal tubules, increasing sodium re-absorption in PHAII. Therefore drugs which inhibit WNK1 activity could lead to significant anti-hypertensive effects. ",
+            "VideoURL": "Enzyme WNK1.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Epinephrine",
+            "WDescription": "Epinephrine, also called adrenaline, is a hormone synthesised in the adrenal medulla within the adrenal gland and secreted in response to stress and stimulates autonomic nerve action. This hormone secretion is part of the ‘fight or flight’ reactions - quickening of heart beat, opening up of bronchioles in the lungs, etc - which a body has in response to physical or psychological stress. ",
+            "VideoURL": "Epinephrine.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Glomerulonephritis",
+            "WDescription": "Glomerulonephritis or glomerular nephritis is a renal condition characterized by inflammation of glomeruli or renal blood vessels. High blood pressure causes damage to the renal blood vessels impairing the kidneys function of filtering wastes and extra fluid from the blood. The extra fluid in the blood vessels in turn increases blood pressure. Glomerulonephritis commonly presents as nephrotic syndrome, nephritic syndrome, acute renal failure or chronic renal failure.",
+            "VideoURL": "Glomerulonephritis.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Hemoglobin",
+            "WDescription": "Hemoglobin, an iron-protein compound that is responsible for the color of blood, regulates blood pressure by interacting with nitric oxide that brings about relaxation of blood vessel and reduces blood pressure. Experimental studies have shown that nitric oxide, which is released by the vascular endothelial cells, interacts with highly reactive thiol groups on the two cystein residues in hemoglobin, leading to the formation of S-nitrosothiols (SNO). SNO enhances blood vessel relaxation, thus decreasing blood pressure. ",
+            "VideoURL": "Hemoglobin.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Hyaline arteriolosclerosis",
+            "WDescription": "Hyaline arteriolosclerosis is the thickening and narrowing of arteriolar walls due to hyaline deposits. Hyaline arteriolosclerosis, which is often seen in kidneys, is common in elderly and most severe in patients with hypertension. The lesions reflect endothelial injury with subsequent leakage of plasma proteins across the vascular endothelium and excessive extracellular matrix synthesis by smooth muscle due to chronic hemodynamic stress of hypertension. The narrowed blood vessels cause diffuse impairment of renal blood supply leading to loss of nephrons. The narrowing of lumen can also decrease renal blood flow and hence glomerular filtration rate leading to secretion of renin that in turn intensifies the existing hypertension. ",
+            "VideoURL": "Hyaline arteriolosclerosis.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Hyperaldosteronism",
+            "WDescription": "Hyperaldosteronism, also known as aldosteronism, is a medical condition in which there is too much production of aldosterone, a hormone synthesized by the adrenal glands. This leads to low levels of potassium in the blood and also manifests as hypertension or resistant hypertension. The synthesis and release of aldosterone is regulated by the renin-angiotensin-aldosterone system (RAAS) and potassium ion concentrations.",
+            "VideoURL": "Hyperaldosteronism.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Hyperplastic arteriolosclerosis",
+            "WDescription": "A characteristic of malignant hypertension, hyperplastic arteriolosclerosis often appears in the kidneys. Hyperplastic arteriolosclerosis is characterized by concentric laminated (onion-skin) arteriolar thickening with reduplicated basement membrane and smooth muscle proliferation. The hyperplastic changes are commonly associated with fibrin deposition and necrosis of the arterial intima and media that is referred to as necrotising arteriolitis. The arteriolar wall thickening and narrowing in the kidneys lead to ischemia and acute renal failure often follows this condition. ",
+            "VideoURL": "Hyperplastic arteriolosclerosis.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Hypertension",
+            "WDescription": "Hypertension is a repeatedly elevated blood pressure of 140\/90 mmHg or higher due to an increase in pressure in the arteries. It can lead to serious cardio and cerebro vascular problems like stroke, heart attack, heart failure or kidney disease.",
+            "VideoURL": "Hypertension.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Hypertensive retinopathy",
+            "WDescription": "Hypertensive retinopathy is the retinal damage caused due to hypertension. Damage is due to thickening, bulging or leaking of the retinal blood vessels. Initially hypertensive retinopathy is not accompanied with visual symptoms, however as disease progresses headaches are common and gradual loss of vision occurs when macula (central part of the retina) is affected. Hypertensive retinopathy is best managed by keeping hypertension under control.",
+            "VideoURL": "Hypertensive retinopathy.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Hypopiesis",
+            "WDescription": "Hypopiesis, also known as hypotension, is low blood pressure in the arteries. Blood pressure lower than 90\/60 mmHg indicates hypotension. It is often associated with irregular heart beat, fatigue, chest pain, shortness of breath, etc.",
+            "VideoURL": "Hypopiesis.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Hypotension",
+            "WDescription": "Hypotension, also known as hypopiesis, is low blood pressure in the arteries. Blood pressure lower than 90\/60 mmHg indicates hypotension. It is often associated with irregular heart beat, fatigue, chest pain, shortness of breath, etc.",
+            "VideoURL": "Hypotension.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "J-Curve phenomenon",
+            "WDescription": "The J-curve phenomenon is the graphical representation of the relationship between having high blood pressure and\/or high cholesterol and mortality. Plotting the blood pressure or blood cholesterol levels of a large group of people against cardio-vascular disease (CVD) on a graph gives the appearance of the letter J. The J-curve indicates that people with higher blood pressure and\/or higher cholesterol levels are most likely to die from cardio-vascular disease.",
+            "VideoURL": "J-Curve phenomenon.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Jugular venous distention (JVD)",
+            "WDescription": "Jugular venous distention (JVD) is a condition that results when the walls of jugular vein, a vein in the neck, swell due to increased blood pressure in them. Evaluation of blood pressure in the jugular vein provides information on the physical aspects of blood circulation in the right side of the heart and helps in the diagnosis of different forms of heart and lung diseases. ",
+            "VideoURL": "Jugular venous distention (JVD).mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Left ventricular hypertrophy",
+            "WDescription": "Left ventricular hypertrophy is an increase in the mass of left ventricle. The condition often occurs secondary to wall thickness as a consequence of hypertension. An increase in peripheral vascular resistance, the distinctive characteristic of established hypertension, alters wall stress in the left ventricle. The resulting wall stress stimulates sarcomere proliferation leading to an increase in the wall thickness. The increase in the mass is due to an increase in afterload of the left ventricle caused by hypertension.",
+            "VideoURL": "Left ventricular hypertrophy.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Malignant hypertension",
+            "WDescription": "Malignant hypertension is a complication of hypertension that causes organ damage. The systolic and diastolic pressures are usually more than 220mmHg and 120mmHg respectively. Affected organs are eyes, brain, kidneys and heart. Malignant hypertensive patients usually suffer from left ventricular dysfunction.  Malignant hypertension has a sudden onset and rapidly rises to high levels and is seen affecting about 1% of people suffering with high blood pressure, including both children and adults. Symptoms include abnormal sensation or numbness in the arms, legs, face, blurred vision, restlessness, headache, anxiety and fatigue. Other symptoms include chest pain and shortness of breath. Control of hypertension is the best treatment for malignant hypertension. ",
+            "VideoURL": "Malignant hypertension.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Myocardial infarction",
+            "WDescription": "Myocardial infarction is a massive decrease or complete obstruction of blood supply to the part of the heart, due to atherosclerosis, embolus or thrombosis, causing damage or death of some of the heart cells. Also known as Heart attack, it is characterised by symptoms of tiredness and pressure in the center of the chest that may cause pain. ",
+            "VideoURL": "Myocardial infarction.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Nephrosclerosis",
+            "WDescription": "Nephrosclerosis is a kidney disorder that affects arteries in the kidneys. Caused by hypertension, nephrosclerosis is characterized by hardening of the walls of small arteries and arterioles. Nephrosclerosis is classified as either benign or malignant. Benign nephrosclerosis occurs naturally with age as a result of years of mild hypertension (chronic hypertension) and involves gradual and prolonged deterioration of the renal arteries. Malignant nephrosclerosis that is due to severe uncontrolled hypertension is progressive, rapidly affecting many arterioles. In malignant hypertension, the surface of the kidneys is covered with large red blotches due to blood vessel rupture and bleeding.",
+            "VideoURL": "Nephrosclerosis.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Nitric oxide (NO)",
+            "WDescription": "Nitric oxide is a highly reactive, toxic compound produced from arginine by nitric oxide synthases (NOS). It acts as signalling molecule for many biological processes including vasodilation, platelet aggregation\/disaggregation, neurotransmission, regulation of cell death, immune defence, etc.",
+            "VideoURL": "Nitric oxide (NO).mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Norepinephrine",
+            "WDescription": "Norepinephrine, also known as noradrenaline, is a catecholamine that acts as a hormone as well as a neurotransmitter. Secreted by the adrenal gland and nerve endings of sympathetic nervous system, it causes vasoconstriction and increases heart rate, blood pressure, and the sugar level of the blood.",
+            "VideoURL": "Norepinephrine.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Orthopnoea",
+            "WDescription": "Orthopnoea is breathlessness or difficulty in breathing that occurs during supine position (lying down with the face up). This is due to redistribution of blood throughout the body, resulting in increased central and pulmonary blood pressure leading to interstitial fluid accumulation in the lungs.",
+            "VideoURL": "Orthopnoea.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Orthostatic hypotension",
+            "WDescription": "Orthostatic hypotension, also known as postural hypotension, is an abnormal decrease in the blood pressure, usually experienced when standing upright, leading to dizziness or fainting.",
+            "VideoURL": "Orthostatic hypotension.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Postural hypotension",
+            "WDescription": "Postural hypotension, also known as orthostatic hypotension, is an abnormal decrease in the blood pressure, usually experienced when standing upright, leading to dizziness or fainting.",
+            "VideoURL": "Postural hypotension.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Preeclampsia",
+            "WDescription": "Preeclampsia is hypertension in pregnancy, also known as pregnancy-induced hypertension. Preeclampsia usually develops after the 20th week of gestation. The earliest test to detect this condition is the presence of protein in urine apart from elevation in blood pressure.",
+            "VideoURL": "Preeclampsia.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Prostacyclin",
+            "WDescription": "Prostacyclin (PGI2) is the major product of cyclooxygenases (COX) in the vascular endothelium and mediates potent anti-platelet, vasodilator, and anti-inflammatory actions. It exerts its action by binding to its receptors PGI-R or IP1. The prostacyclin receptor plays a vital role in both vascular smooth muscle relaxation as well as prevention of blood coagulation.",
+            "VideoURL": "Prostacyclin.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "RAAS (Renin-Angiotensin-Aldosterone System )",
+            "WDescription": "Renin angiotensin system is a hormone based system that helps to regulate blood pressure and blood volume. Low blood pressure stimulates release of renin by the kidney and catalyses the conversion of angiotensinogen into angiotensin-I which elevates blood pressure. Angiotensin stimulates the secretion of the hormone aldosterone from the adrenal gland, which promotes sodium and water retention in the kidney, thus increasing blood pressure and blood volume. It is also known as Renin-angiotensin system",
+            "VideoURL": "RAAS (Renin-Angiotensin-Aldosterone System ).mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "RAAS cascade",
+            "WDescription": "The renin-angiotensin-aldosterone system or RAAS cascade helps maintain the blood pressure and blood volume in equilibrium. Any change in this system will result in hypertension.",
+            "VideoURL": "RAAS cascade.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Renal Reabsorption",
+            "WDescription": "Renal reabsorption refers to the mechanism of re-uptake of water and solutes into the blood from the tubular fluid. This process mainly takes place in the proximal tubule and descending limb of loop of Henle.",
+            "VideoURL": "Renal Reabsorption.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Renin angiotensin system",
+            "WDescription": "Renin angiotensin system is a hormone based system that helps to regulate blood pressure and blood volume. Low blood pressure stimulates release of renin by the kidney and catalyses the conversion of angiotensinogen into angiotensin-I which elevates blood pressure. Angiotensin stimulates the secretion of the hormone aldosterone from the adrenal gland, which promotes sodium and water retention in the kidney, thus increasing blood pressure and blood volume. It is also known as RAAS (renin-angiotensin-aldosterone system)",
+            "VideoURL": "Renin Angiotensin System.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Renin inhibitors",
+            "WDescription": "Renin inhibitors are a class of drugs that directly act on renin to reduce blood pressure in hypertensive patients. Renin, an enzyme produced by juxtaglomerular cells in response to decreased blood pressure in afferent arterioles, is vital in the renin-angiotensin-aldosterone system that regulates and maintains the body’s homeostasis and blood pressure.",
+            "VideoURL": "Renin inhibitors.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Renin",
+            "WDescription": "Renin is a proteolytic enzyme secreted by the juxtaglomerular cells of the kidneys, involved in the regulation of blood pressure. When blood pressure falls, renin catalyses the conversion of angiotensinogen into angiotensin-I which elevates and normalises the blood pressure. It is also called as angiotensinogenase",
+            "VideoURL": "Renin.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Renovascular hypertension",
+            "WDescription": "Renovascular hypertension is the blood pressure elevation due to renal artery stenosis. Renal artery stenosis, commonly caused by atherosclerosis, is the narrowing or blockage of the arteries that supply blood to the kidneys. As less blood flows through the arteries leading to kidneys, the kidneys mistakenly respond to this low blood pressure and produce hormones that result in salt and water retention thereby causing a rise in blood pressure.",
+            "VideoURL": "Renovascular hypertension.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Sphygmomanometer",
+            "WDescription": "Sphygmomanometer is an instrument comprising of an inflatable cuff and a mercury meter used to measure blood pressure in the arteries.",
+            "VideoURL": "Sphygmomanometer.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Stable angina",
+            "WDescription": "Stable angina is chest pain or discomfort that occurs when the heart works harder than usual. In stable angina the chest pain can follow a regular pattern in terms of frequency, intensity and duration and is fairly predictable, normally occurring after physical and mental exertion. Symptoms of stable angina occur when the coronary artery is narrowed or blocked by plaques resulting in reduced blood supply to the heart. The symptom is usually relieved with rest or with medications. ",
+            "VideoURL": "Stable angina.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Stress test",
+            "WDescription": "Stress test is a medical test performed to evaluate the effect of exercise on the heart. This test provides an overall look at the functioning of the heart. The cardiac stress test is performed while exercising on a treadmill or exercise bicycle to evaluate the heart rate, breathing, and blood pressure. The test reflects arterial blood flow to the heart during physical exercise. When compared to blood flow during rest, the results reflect imbalance of blood flow to the heart's left ventricular muscle tissue. The results may also be interpreted as a reflection on a person's overall physical fitness.",
+            "VideoURL": "Stress test.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Stroke",
+            "WDescription": "Stroke, often referred to as cerebrovascular accident (CVA), is the sudden loss of brain functions. Disrupted blood supply to the brain is often the cause for stoke and occurs due to blockage or bursting of a blood vessel. Blood vessel damage is due to ischemia, thrombosis, emboli formation or hemorrhage. Hypertension is the leading risk factor for a stroke, with the risk increasing with every rise in systolic blood pressure. Atherothrombotic lesions are the major cause for stroke occurring as a complication of hypertension. ",
+            "VideoURL": "Stroke.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Sympathetic nervous system",
+            "WDescription": "The sympathetic nervous system, which is a part of the autonomic nervous system, produces two types of chemicals or hormones – adrenaline, also known as epinephrine, and noradrenaline, also known as norepinephrine. Release of norepinephrine leads to increased vasoconstriction, and release of epinephrine results in the dilation of blood vessels near the muscle cells. This process controls blood flow to various parts of the body. Hence they play an important role in controlling blood pressure and preventing hypertension.",
+            "VideoURL": "Sympathetic nervous system.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Systole",
+            "WDescription": "Systole is the period of contraction of the ventricles of the heart during a cardiac cycle, especially during which the left ventricle contracts. During this phase, deoxygenated blood is pumped from the right ventricle into the pulmonary artery and oxygenated blood is pumped from the left ventricle into the aorta.",
+            "VideoURL": "Systole.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Systolic pressure",
+            "WDescription": "Systolic pressure is the highest pressure produced within the arterial system when the left ventricle contracts and pushes the blood into the aorta. In adult the systolic blood pressure is about 120 mmHg (millimeters of mercury).",
+            "VideoURL": "Systolic pressure.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Treadmill exercise test",
+            "WDescription": "Treadmill exercise test is a diagnostic test done to evaluate heart's electrical activity during exercise. During the test, the patient is made to walk on an inclined treadmill, generally increased in speed, and the heart rate, breathing, blood pressure and electrocardiogram monitored. Treadmill exercise test is also known as treadmill test.",
+            "VideoURL": "Treadmill exercise test.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Treadmill test",
+            "WDescription": "Treadmill test is a diagnostic test done to evaluate heart's electrical activity during exercise. During the test, the patient is made to walk on an inclined treadmill, generally increased in speed, and the heart rate, breathing, blood pressure and electrocardiogram monitored. Treadmill test is also known as treadmill exercise test.",
+            "VideoURL": "Treadmill test.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Urodilatin",
+            "WDescription": "Urodilatin is a hormone that causes diuresis or increased urine production by the kidney by increasing the renal blood flow. It is synthesised in kidneys in response to an increase in the average blood pressure of an individual and increased blood volume from the cells of the distal tubule and collecting duct. Urodilatin helps in the regulation of sodium excretion.",
+            "VideoURL": "Urodilatin.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Vagal attack",
+            "WDescription": "Vagal attack is a condition characterised by slowing of the heartbeat, reduced blood pressure and reduced blood circulation to the head which reduces oxygen supply to the brain and can lead to loss of consciousness. The condition is said to be the result of a reflex of the involuntary nervous system and an over stimulation of the vagus nerve and is often associated with lack of sleep, fever and excessive fasting. Vagal attack is also known as vasovagal attack and when associated with fainting or syncope the condition is termed as vasovagal syncope.",
+            "VideoURL": "Vagal attack.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Vascular endothelial cells",
+            "WDescription": "The vascular endothelium synthesizes and releases vasoactive substances such as endothelin and nitric oxide which are responsible for the regulation of blood pressure. \rVascular endothelial cells are also a source for vasodilator and vasoconstrictor prostanoids, a labile vasorelaxant endothelium-derived hyperpolarizing factor, renin, angiotensin I, and angiotensin converting enzyme.\r",
+            "VideoURL": "Vascular endothelial cells.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Vasoconstriction",
+            "WDescription": "Vasoconstriction refers to the narrowing of the interior diameter of the lumen or constriction of the blood vessel resulting from contraction of the muscular wall of the vessels. Vasoconstriction leads to hypertension.",
+            "VideoURL": "Vasoconstriction.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Vasodilation",
+            "WDescription": "Vasodilation refers to the widening of the interior diameter of the lumen or dilation of the blood vessel resulting from relaxation of the muscular wall of the vessels.",
+            "VideoURL": "Vasodilation.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Vasodilators",
+            "WDescription": "Vasodilators bring about widening of blood vessels by relaxing the vascular smooth muscle. Vasodilatation results in a decrease of vascular resistance which allows blood to flow more easily thereby lowering blood pressure. Endogenous vasodilators include nitric oxide, noradrenaline and prostacyclin. Exogenous vasodilators include nitroglycerin, isosorbide dinitrate and mononitrate, and sodium nitroprusside.",
+            "VideoURL": "Vasodilators.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Vasopressin",
+            "WDescription": "Vasopressin or anti-diuretic hormone (ADH) is a hormone produced by the hypothalamus and stored in the posterior pituitary gland. It enhances water resorption in the tubules of the kidney, increases peristalsis and constricts blood vessels, thus increasing the blood pressure.",
+            "VideoURL": "Vasopressin.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "White Coat Hypertension",
+            "WDescription": "White coat hypertension refers to high blood pressure that a person exhibits during a visit to the doctor's office, but has a normal blood pressure in everyday life. No treatment is generally recommended for white coat hypertension.",
+            "VideoURL": "White Coat Hypertension.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Wiggers diagram",
+            "WDescription": "Wiggers diagram is a graphic representation of the events of the cardiac cycle, showing the changes in a variety of physical variables over the period of a heart beat. It includes depictions of the electrocardiogram, the pressures in the cardiac chambers and aorta, the ventricular volume, and the heart sounds, and sometimes of the aortic flow rate and the venous pulse. The X axis indicates the time, while the Y axis, on a single grid, indicates blood pressure, ventricular volume, and electrocardiogram.",
+            "VideoURL": "Wiggers diagram.mp4"
+        }
+    ]
+}

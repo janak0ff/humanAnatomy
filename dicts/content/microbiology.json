@@ -1,0 +1,1192 @@
+{
+    "microbiology": [
+        {
+            "WID": "1",
+            "WTitle": "Acid fast staining",
+            "WDescription": "Acid fast staining is a staining technique used to identify microorganisms containing mycolic acid in their cell wall. The presence of mycolic acid prevents the removal of primary stain with acid alcohol, thus imparting acid-fastness to the organisms. Acid fastness is generally exhibited by bacteria such as Mycobacteria, their spores, and oocytes of protozoa. Ziehl-Neelsen technique is the most common acid fast staining procedure used, where in carbol fuchsin is applied as the primary stain, 20% sulphuric acid as the decoloriser and malachite green or Loeffler's methylene blue as the counterstain.",
+            "VideoURL": "acid_fast_staining.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Acidophilus",
+            "WDescription": "Acidophilus or Lactobacillus acidophilus refers to the lactic-acid-producing bacterium found in yoghurt. These organisms help to restore the bacterial environment in the intestine affected by diseases or the use of antibiotics.",
+            "VideoURL": "Acidophilus.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Actinomycetes",
+            "WDescription": "Actinomycetes are a group of rod-shaped or filamentous bacteria that are mainly found in soil. They grow as branching filaments that resemble the hyphae of fungi. Some of the species of actinomycetes are pathogenic, while a majority of them produce antibiotics, such as streptomycin.",
+            "VideoURL": "Actinomycetes.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Active immunity",
+            "WDescription": "Active immunity refers to the resistance developed by the production of antibodies in the body when exposed to harmful substances such as disease causing bacteria or virus. Active immunity can be naturally acquired when a person is directly exposed to microorganisms during infections, or it is artificially acquired by exposure to the antigenic components present in vaccines. ",
+            "VideoURL": "Active immunity.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Acute infection",
+            "WDescription": "An acute infection refers to the invasion and rapid multiplication of microorganisms in body tissues that lasts only for a few days or months.",
+            "VideoURL": "Acute infection.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Aerobes",
+            "WDescription": "Aerobes are organisms that can live and grow only in the presence of oxygen.",
+            "VideoURL": "Aerobes.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Aflatoxin",
+            "WDescription": "Aflatoxin refers to any group of toxic chemicals produced by the fungi belonging to the genus Aspergillus, particularly Aspergillus flavus and Aspergillus parasiticus that grow on stored food supplies such as peanuts, wheat, corn, and rice. Aflatoxin leads to liver diseases, particularly liver cancer, in humans.",
+            "VideoURL": "Aflatoxin.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "AIDS",
+            "WDescription": "Acquired Immunodeficiency Syndrome (AIDS) is a severe immunological condition caused by the human immunodeficiency virus (HIV). AIDS increases susceptibility to opportunistic infections and cancers due to the defect in cell-mediated immune response.",
+            "VideoURL": "AIDS.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Algae",
+            "WDescription": "Algae are a group of chlorophyll-containing organisms that are mainly aquatic and range from microscopic single-celled forms to multicellular forms visible to the naked eye. Once considered as plants, algae lack the true roots, stems, and leaves that are characteristic of plants.",
+            "VideoURL": "Algae.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Anabolism",
+            "WDescription": "Anabolism is the constructive metabolic process of synthesising complex molecules of the living cells such as fats and proteins, from simpler molecules when energy is required to build or repair cells.",
+            "VideoURL": "Anabolism.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Anaerobes",
+            "WDescription": "Anaerobes are organisms that can live and grow in complete or partial absence of oxygen.",
+            "VideoURL": "Anaerobes.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Antibiotic",
+            "WDescription": "Antibiotic is a drug that inhibits the growth of or destroys other organisms within the host during infection. Antibiotics are non-toxic to the host cell.",
+            "VideoURL": "Antibiotic.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Antimicrobial",
+            "WDescription": "An antimicrobial is an agent that kills or inhibits the growth of microorganisms such as bacteria, fungi, and protozoa. Antimicrobials include antibiotics, antivirals, antifungals, organic acids such as citric acid, and naturally occuring oils such as cinnamon oil, clove oil, neem oil, etc.",
+            "VideoURL": "Antimicrobial.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Antiseptic ",
+            "WDescription": "An antiseptic is a substance that prevents the growth and multiplication of microorganisms, but may not necessarily kill them. Antiseptics are generally applied to skin surfaces or mucous membranes to prevent infection or sepsis. Some examples of antiseptics include benzalkonium chloride, iodine compounds, alcohol, and hydrogen peroxide.",
+            "VideoURL": "Antiseptic.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Archaebacteria",
+            "WDescription": "Archaebacteria are a diverse group of unicellular organisms that are similar to bacteria in structure and size, but are different in their molecular organisation. They are found in extreme environmental conditions and are considered to be ancient forms of life intermediate between bacteria and blue-green algae. Examples of archaebacteria include halophiles (organisms found in extremely salty environments), methanogens (organisms producing methane), and thermophiles (organisms found in extremely hot environments). ",
+            "VideoURL": "Archaebacteria.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Arthrospore ",
+            "WDescription": "Arthrospores refer to thick-walled resting cells found in strings, produced by some algae and fungi, and have the ability to develop into a whole organism.",
+            "VideoURL": "Arthrospore.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Aseptic ",
+            "WDescription": "Aseptic refers to the environment or techniques used to keep free from disease-causing microorganims. ",
+            "VideoURL": "Aseptic.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Atopic disease",
+            "WDescription": "Atopic diseases are hypersensitive or allergic reactions to certain allergens that develop due to hereditary predisposition. Some examples of atopic diseases include atopic dermatitis, eczema, hay fever, asthma, etc. ",
+            "VideoURL": "Atopic disease.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Autoclave",
+            "WDescription": "An autoclave is an air-tight stainless steel vessel used to heat substances or objects under high pressure. Autoclaves are used to sterilise laboratory equipments, surgical instruments, nutrient medium, and medical waste.",
+            "VideoURL": "Autoclave.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Autotrophs",
+            "WDescription": "Autotrophs are organisms that have the ability to produce their own food from simple compounds using light or inorganic substances as energy source. For example certain algae and bacteria.",
+            "VideoURL": "Autotrophs.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Bacille Calmette Guérin (BCG)",
+            "WDescription": "Bacille Calmette Guérin or Bacillus Calmette Guérin (BCG) is a vaccine used to provide immunity against tuberculosis (TB). BCG vaccine contains live attenuated or weakened strains of Mycobacterium bovis, a bacterium that causes TB in cattles with the ability to spead to humans as well. The weakened strains maintain their antigenicity (ability to stimulate immune response), but not virulence (ability to cause infection). BCG vaccine is currently being tried out in the treatment of bladder cancer.",
+            "VideoURL": "Bacille Calmette Guérin (BCG).mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Bacillus",
+            "WDescription": "The term bacillus refers to any of the rod-shaped bacteria, particularly Gram-positive, aerobic, spore-forming bacteria belonging to the genus Bacillus that generally occur in chains. For example, Bacillus anthracis, the causative organism of anthrax.",
+            "VideoURL": "Bacillus.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Bacteremia ",
+            "WDescription": "Bacteremia is the presence of bacteria in bloodstream, often indicating infection. Bacteremia may not cause any symptoms, but in a few cases could result in fever, with septic shock, a life-threatening condition, in severe cases.",
+            "VideoURL": "Bacteremia.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Bacteria ",
+            "WDescription": "Bacteria are microscopic unicellular organisms with a wide range of shapes, abundant in air, water and soil, a few of which are beneficial while some are pathogenic and are the cause of many diseases. ",
+            "VideoURL": "Bacteria.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Bactericide",
+            "WDescription": "A bactericide is an agent that has the ability to destroy or kill bacteria such as a chemical or heat.",
+            "VideoURL": "Bactericide.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Bacteriophage",
+            "WDescription": "Bacteriophages are viruses that infect bacterial cells, multiply within them, and destroy the cell while releasing new viruses from them. A bacteriophage is also known as a phage.",
+            "VideoURL": "Bacteriophage.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Bacteriostatic",
+            "WDescription": "Bacteriostatic refers to the ability of an agent to inhibit the growth and reproduction of bacteria.",
+            "VideoURL": "Bacteriostatic.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Bacteroides",
+            "WDescription": "Bacteroides are a group of Gram-negative, anaerobic, non-spore forming, rod-shaped bacteria belonging to the genus Bacteroides that are normally found in the oral, respiratory, intestinal, and genitourinary tracts of humans and animals. A few of the species of Bacteroides are pathogenic in nature.",
+            "VideoURL": "Bacteroides.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Batch culture",
+            "WDescription": "Batch culture is a technique applied for large-scale production of microbes or their products in a specific nutrient medium, under particular environmental conditions such as temperature, pressure, and air flow. During batch culture, the microbes are allowed to grow only for a certain period of time, and harvested before all nutrients are utilised by the organisms.",
+            "VideoURL": "Batch culture.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Biofilm",
+            "WDescription": "A biofilm is a thin layer of microorganisms, including bacteria, fungi, and algae, that adhere to each other as well as the surface on which they grow. These organisms also produce and secrete extracellular polymeric substances that envelope them. Biofilms are formed on pacemakers, contact lenses, or any surgical instruments or implants. They are highly resistant to antibiotics and antimicrobial agents.",
+            "VideoURL": "Biofilm.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Bioremediation",
+            "WDescription": "Bioremediation is the use of living organisms, primarily microorganisms, to degrade environmental pollutants such as pesticides and petroleum to harmless substances. Bioremediation can be used to treat polluted water and soil.",
+            "VideoURL": "Bioremediation.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Biphasic growth curve",
+            "WDescription": "A biphasic growth curve is a graphical representation of the growth of microbial population in a nutrient medium containing two carbon sources. This type of growth curve has two exponential growth stages, separated by a plateau phase.",
+            "VideoURL": "Biphasic growth curve.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Blood culture",
+            "WDescription": "A blood culture is a laboratory test done to identify microorganisms in blood in cases where infection is spread through the bloodstream. The blood sample obtained from the patient is placed on a nutrient medium for the growth of microbes.",
+            "VideoURL": "Blood culture.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Botulism ",
+            "WDescription": "Botulism is a rare but serious paralytic illness that occurs from a toxin in contaminated food, produced by the bacteria Clostridium botulinum. The bacteria can grow in canned foods and colonize in the digestive tracts, or can enter the human body by contamination of a wound. In all types of botulism paralysis starts in the facial muscles and can spread towards the limbs.",
+            "VideoURL": "Botulism.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Broth",
+            "WDescription": "Broth is the liquid medium containing proteins and other nutrients necessary for the growth of microorganisms that is used to culture them.",
+            "VideoURL": "Broth.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Brucellosis",
+            "WDescription": "Brucellosis is a bacterial infection caused by the members of the genus Brucella that primarily affect the livestock. The infection is spread to humans by direct contact with infected animals or unpasteurised milk from them. Also known as Gibraltar fever, Malta fever, Mediterranean fever, Rock fever, and undulant fever, brucellosis is characterised by intermittent fever, sweating, chills, muscle and joint pain, malaise, and mental depression.",
+            "VideoURL": "Brucellosis.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Bubonic plague",
+            "WDescription": "Bubonic plague is a contagious, sometimes fatal infection caused by the bacteria Yersinia pestis that spreads from infected persons via contact or from infected rodents by flea bites. It is characterised by high fever, chills, vomiting, diarrhoea, weakness, and formation of buboes or swollen lymph nodes, particularly in the groin and armpits.",
+            "VideoURL": "Bubonic plague.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Budding ",
+            "WDescription": "Budding is a form of asexual reproduction in which a new organism develops from a small protrusion or outgrowth formed in the original or parent cell. This type of reproduction is generally seen in fungi and certain bacteria. In viruses, budding refers to the release of new viral particles from the host cell while acquiring their external envelope from the host cell membrane.",
+            "VideoURL": "Budding.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Candida",
+            "WDescription": "Candida is the genus of yeast-like fungi that are a part of the normal flora of skin, mouth, intestinal tract, and vagina, but can also cause infections such as candidiasis.",
+            "VideoURL": "Candida.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Capsule",
+            "WDescription": "The capsule is a gelatinous layer of polysaccharide or protein that is found surrounding the bacterial cell wall, particularly in Gram-negative bacteria. The capsule protects the bacteria from phagocytosis, prevents bacterial cell from drying, and helps in adhering to various surfaces or other cells.",
+            "VideoURL": "Capsule staining.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Capsule staining",
+            "WDescription": "Capsule staining is a special staining technique used to demonstrate the presence of a capsule around the bacterial cell. An acidic stain such as India ink is used to stain the background, while a basic stain such as Gram's crystal violet is used to stain the cell. The capsule is visible as a halo surrounding a coloured cell, against a dark background.",
+            "VideoURL": "Capsule.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Carrier",
+            "WDescription": "A carrier is an individual or an animal that harbours infective organisms with the ability to spread infection, but do not exhibit any symptoms of the disease. A carrier also refers to an organism or individual carrying a gene for a particular trait, but does not express it. The trait could be expressed by offsprings of the organism or individual.",
+            "VideoURL": "Carrier.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Catabolism",
+            "WDescription": "Catabolism is the metabolic breakdown of complex molecules into simpler ones with the release of energy. For example, proteins are broken down to amino acids and subsequently to glycogen or fat. These molecules are further metabolised for energy production.",
+            "VideoURL": "Catabolism.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Cephalosporin",
+            "WDescription": "Cephalosporin refers to any of the broad-spectrum antibiotic (ability to inhibit growth of various kinds of organisms) closely related to penicillin and originally produced from the fungus Cephalosporium acremonium. Cephalosporins are now produced semisynthetically and used to treat bacterial infections as they have the ability to inhibit bacterial cell wall synthesis.",
+            "VideoURL": "Cephalosporin.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Chemotaxis",
+            "WDescription": "Chemotaxis is the movement of cells or microorganisms towards or away from a chemical stimulus. The direction of movement is dependent on the concentration of diffusible substances.",
+            "VideoURL": "Chemotaxis.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Chimera",
+            "WDescription": "A chimera is a recombinant plasmid DNA that contains a fragment of foreign DNA and is used as cloning vector in genetic engineering.",
+            "VideoURL": "Chimera.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Chloramphenicol",
+            "WDescription": "Chloramphenicol is a broad-spectrum antibiotic obtained from the soil organism Streptomyces venezuelae or produced synthetically. It is found to be effective against rickettsiae, Gram-positive and Gram-negative bacteria, and certain spirochetes.",
+            "VideoURL": "Chloramphenicol.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Cholera",
+            "WDescription": "Cholera is an acute bacterial infection of the small intestine caused by Vibrio cholerae, spread through contaminated food and water. The disease is characterised by profuse watery diarrhoea, vomiting, severe dehydration, depletion of electrolytes, and muscle cramps.",
+            "VideoURL": "Cholera.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Chronic infection",
+            "WDescription": "Chronic infection is the infection that develops slowly and lasts for a long duration.",
+            "VideoURL": "Chronic infection.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Cilia",
+            "WDescription": "Cilia are tiny, microscopic, hair-like structures extending from the surface of cells. Cilia of microorganisms help them in their movement while cilia found on the surface of cells of organs move the fluid or mucus over the surface of these cells.",
+            "VideoURL": "Cilia.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Clostridium",
+            "WDescription": "Clostridium is a group of Gram-positive, rod-shaped, anaerobic, spore-forming bacteria mainly present in soil, but also found in the intestinal tracts of humans and animals. This genus also contains disease causing organisms such as Clostridium botulinum and Clostridium tetani.",
+            "VideoURL": "Clostridium.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Coagulase",
+            "WDescription": "Coagulase is a bacterial enzyme produced by certain species of Staphylococcus and Yersinia pestis. The enzyme converts fibrinogen found in blood to fibrin, thus enabling blood clot formation. The species of Staphylococcus produce two types of coagulase enzyme � staphylocoagulase, a free enzyme that produces true clotting of plasma, and staphylococcal clumping factor, a cell wall bound enzyme that leads to clumping of cells in the presence of fibrinogen.",
+            "VideoURL": "Coagulase.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Coccidioidomycosis",
+            "WDescription": "Coccidioidomycosis is an airborne, fungal, respiratory infection caused by inhaling the spores of Coccidiodes immitis. The infection can be acute or chronic, with acute infection characterised by symptoms such as fever, dry cough, chest pain, joint and muscle pain, headache and weight loss. The chornic form normally occurs 20 years or more after the initial infection and is characterised by lung abscesses that rupture and spill the accumulated fluid and pus into the surrounding tissues.",
+            "VideoURL": "Cocci.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Coccobacillus",
+            "WDescription": "Coccobacillus is a short, thick, oval-shaped bacteria that is intermediate in morphology between the circular form and rod-shaped bacteria. For example, Coxiella burnetti and Bordetella pertussis. ",
+            "VideoURL": "Coccidiodomycosis.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Cocci",
+            "WDescription": "Cocci are bacteria that are spherical or nearly spherical in shape. They vary in arrangement and appear as single cells, paired cells (diplococci), chains (Streptococci), large clusters (Staphylococci), or cuboidal arrangement of eight cells (Sarcina).",
+            "VideoURL": "Coccobacillus.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Coliform",
+            "WDescription": "Coliform refers to a group of Gram-negative, rod-shaped, non-spore forming bacteria that can ferment lactose associated with the production of acid and gas. Coliforms commonly inhabit the intestines of humans and other animals, helping in digestion, and are therefore used as indicators for faecal contamination of food and water. They cause infection when ingested through contaminated food or water. For example, Escherichia, Klebsiella, and Enterobacter.",
+            "VideoURL": "Coliform.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Colonisation",
+            "WDescription": "Colonisation is the presence and multiplication of microorganisms in a particular area on the surface of or within the host without invading the tissues or causing any damage. ",
+            "VideoURL": "Colonisation.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Commensal",
+            "WDescription": "A commensal is an organism living in close association with another organism and deriving food or other benefit, without affecting it.",
+            "VideoURL": "Commensal.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Conidia",
+            "WDescription": "Conidia are asexually produced spores of fungi such as Penicillium that have the ability to give rise to the whole organism.",
+            "VideoURL": "Conidia.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Conjugation",
+            "WDescription": "Conjugation is a form of sexual reproduction where in two microbial cells join temporarily for the transfer of genetic material from one cell (donor) to another cell (recipient) as in case of bacteria, or the fusion of a male gamete and a female gamete to form zygote as seen in algae or fungi, or the temporary fusion of two ciliate protozoans to exchage genetic materials between the cells.",
+            "VideoURL": "Conjugation.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Cross infection",
+            "WDescription": "Cross infection is the transmission of infection between individuals infected with different microorganisms, or from one part of the body to another by contact such as touching the eye with the infected hand.",
+            "VideoURL": "Cross infection.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Cross resistance",
+            "WDescription": "Cross resistance is the tolerance that develops to a toxic substance as a result of exposure to another similar or related substance. For example, cross resistance to antibiotics, and cross resistance to microbial antigens.",
+            "VideoURL": "Cross resistance.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Cyanophyta",
+            "WDescription": "Cyanophyta is a group of photosynthetically active prokaryotic organisms that possess the pigment cholorphyll and are blue-green in colour.",
+            "VideoURL": "Cyanophyta.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Cytotoxins",
+            "WDescription": "Cytotoxins are agents such as chemicals, toxins produced by microorganisms, or antibodies that destroy the cell or impair their function.",
+            "VideoURL": "Cytotoxins.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Dark-field microscope",
+            "WDescription": "Dark-field microscope is a microscope in which the objects are illuminated only from the sides by blocking the light source and scattering the light as it hits the objects. The objects appear bright against a dark background.",
+            "VideoURL": "Dark field microscope.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Dermatophytes",
+            "WDescription": "Dermatophytes are pathogenic fungi that cause skin, nail, and hair infections.",
+            "VideoURL": "Dermatophytes.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Diatoms",
+            "WDescription": "Diatoms are microscopic unicellular algae that exist as single cells or colonies in fresh, brackish, and salt waters. The characteristic features of diatoms are presence of silica in the cell wall, and two interlocking symmetrical valves.",
+            "VideoURL": "Diatoms.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Diphtheria",
+            "WDescription": "Diphtheria is an acute infectious disease typically marked by the formation of a pseudo-membrane around the tonsils and other sites of infection in the upper respiratory tract. Caused by the bacterium Corynebacterium diphtheriae, the infection has symptoms like sore throat, fever, difficulty in breathing and swallowing. ",
+            "VideoURL": "Diphtheria.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Disinfectant",
+            "WDescription": "A disinfectant is an agent such as heat, radiation, or chemical used to destroy microorganisms on inanimate objects. Disinfectants are not effective enough to destroy the microbial spores. Examples of disinfectants include phenol and mercury bichloride.",
+            "VideoURL": "Disinfectant.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "DNA",
+            "WDescription": "Deoxyribonucleic acid or DNA is a linear, double helical, genetic material present in the cell nucleus of most organisms. It is made up of four different kinds of nucleotides that control the hereditary characteristics of an individual.",
+            "VideoURL": "DNA.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Ebola",
+            "WDescription": "Ebola is a severe and fatal disease caused by the Ebola virus in humans and primates. The initial symptoms include fever, severe headache, muscle ache, and loss of appetite, with blood clot and profuse uncontrollable haemorrhage appearing within days. Death occurs within few days of infection with loss of blood from all parts of the body.",
+            "VideoURL": "Ebola.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "ELISA",
+            "WDescription": "ELISA is a rapid immunochemical test that involves an enzyme linked to an antibody or antigen as a marker for the detection of a specific protein, especially an antigen or antibody. ELISA is routinely used to determine the presence of antibodies to HIV in the blood.",
+            "VideoURL": "Elisa.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Endemic",
+            "WDescription": "Endemic refers to a disease or a pathogen that is present or usually prevalent in a geographical area, community, or population. For example, malaria is endemic in some areas of Africa.",
+            "VideoURL": "Endemic.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Endospore",
+            "WDescription": "Endospores are small, asexual spores formed within the cells by some bacteria and algae under unfavourable conditions such as extreme temperature, dryness, or lack of food. Endospores of bacteria contain DNA and some amount of cytoplasm enclosed within a protective layer, germinating under favourable conditions.",
+            "VideoURL": "Endospore.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Endotoxin",
+            "WDescription": "Endotoxin is a heat-stable poison produced within the cells of certain bacteria. These toxins are bound to the cell walls of bacteria and are released only when the bacterial cell is destroyed. Endotoxins result in a variety of symptoms such as fever, chills, haemorrhagic shock, leukopenia, diarrhoea, etc., depending on the organism and the amount of toxin produced.",
+            "VideoURL": "Endotoxin.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Enrichment culture",
+            "WDescription": "An enrichment culture is the growth of microorganisms on a medium with known composition and under specific conditions that encourage the growth of a particular type of organism, while inhibiting the growth of other organisms.",
+            "VideoURL": "Enrichment culture.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Enterotoxin",
+            "WDescription": "An enterotoxin is a poisonous protein produced by certain bacteria in the intestine or affecting the tissues of the intestine, resulting in food poisoning with vomiting and diarrhoea.",
+            "VideoURL": "Enterotoxin.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Epidemic",
+            "WDescription": "Epidemic refers to an outbreak of an infectious disease or an illness that spreads rapidly and widely among people in an area, community, or population at the same time.",
+            "VideoURL": "Epidemic.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Escherichia coli",
+            "WDescription": "Escherichia coli, commonly referred to as E. coli, are Gram-negative, rod-shaped bacteria that are normal inhabitants of the human and animal intestines, sometimes capable of causing diseases. These organisms are used as indicators for faecal contamination of food and water. ",
+            "VideoURL": "Escherichia coli.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Eukaryote",
+            "WDescription": "An eukaryote is a single-celled or multi-celled organism with each cell containing a membrane bound nucleus that encloses the genetic material, and specialised organelles such as mitochondria, golgi bodies, lysosomes, endoplasmic reticulum, etc. Eukaryotes include fungi, plants, animals, and protozoa.",
+            "VideoURL": "Eukaryote.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Exotoxin",
+            "WDescription": "Exotoxin is a soluble, poisonous protein that is produced by microorganisms within the cell, but released into the surrounding environment. For example, tetanus toxin.",
+            "VideoURL": "Exotoxin.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Facultative",
+            "WDescription": "Facultative refers to the ability of an organism to adapt and live under various environmental conditions. For example, facultative aerobes can live in environments with or without oxygen.",
+            "VideoURL": "Facultative.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Fermentation",
+            "WDescription": "Fermentation is a chemical reaction during which the enzymes in microorganisms convert organic substances into simpler substances, generally with the release of gas. Fermentation is used in industrial processes for the production of alcohols, acids, and cheese.",
+            "VideoURL": "Fermentation.mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Fimdria",
+            "WDescription": "A fimbria is a short, hair-like projection found on bacterial cells that is used to attach to other cells",
+            "VideoURL": "Fimbria.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Flagella",
+            "WDescription": "Flagella is a long, slender, thread-like projection found in unicellular organisms that is used for movement.",
+            "VideoURL": "Flagella.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Fluorescence microscope",
+            "WDescription": "A fluorescence microscope is a microscope that is used to view objects stained with fluorescent dyes using light of specific wavelength that excites the dye.",
+            "VideoURL": "Fluorescence microscope.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Food poisoning",
+            "WDescription": "Food poisoning is an acute, and often severe, gastrointestinal disorder that results from consuming food contaminated with microorganisms such as bacteria or fungi, environmental toxins such as lead, or toxins within the food such as poisons in mushrooms. Food poisoning is characterised by nausea, vomiting, abdominal pain, and diarrhoea. ",
+            "VideoURL": "Food poisioning.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Fungicide",
+            "WDescription": "Fungicide is an agent that kills or inhibits the growth of fungi. Examples of fungicides include hexachlorobenzene, methyl mercury, phenyl mercuric acetate, cyclohexamide, etc.",
+            "VideoURL": "Fungicide.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "Fungus",
+            "WDescription": "Fungus refers to a diverse group of eukaryotic, uni- or multicellular, spore producing organisms that generally grow on organic substances. Fungi lack chlorophyll and produce specialised fruiting bodies. Examples of fungi include moulds, yeast, and mushrooms.",
+            "VideoURL": "Fungus.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Gangrene",
+            "WDescription": "Gangrene is the death of body tissue caused by lack of blood supply to the affected part as a result of infection or injury.",
+            "VideoURL": "Gangrene.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Gene cloning",
+            "WDescription": "Gene cloning refers to the technique of replicating a particular fragment of DNA to produce exact copies of it by introducing the desired DNA fragment into a self-replicating genetic material.",
+            "VideoURL": "Gene cloning.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Genetic engineering",
+            "WDescription": "Genetic engineering is the technique used to manipulate the genetic material of an organism or a cell, so as to alter its characteristics and make it perform any desired function.",
+            "VideoURL": "Genetic engineering.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Gonorrhea",
+            "WDescription": "Gonorrhea is a sexually transmitted infectious disease caused by the bacterium Neisseria gonorrhoeae. It is characterised by the inflammation of genital mucous membrane and is associated with painful urination and swollen urethra. If left untreated, the infection can spread to throat, eyes, oral tissues, brain, joints, and heart valves.",
+            "VideoURL": "Gonorrhoea.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Gram-negative bacteria",
+            "WDescription": "Gram-negative bacteria are a type of bacteria which lose the crystal violet stain in favour of the red counterstain, safranin, during Gram's method of staining. This staining property is attributed to the structural difference in cell walls of bacteria.",
+            "VideoURL": "Gram negative bacteria.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Gram-positive bacteria",
+            "WDescription": "Gram-positive bacteria are a type of bacteria which retain the crystal violet stain and appear dark blue or violet coloured when viewed under the microsope even after decolourising with alcohol and counterstaining with the red dye safranin during Gram's method of staining. This staining property is attributed to the structural difference in cell walls of bacteria.",
+            "VideoURL": "Gram-positive bacteria.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Gram's staining",
+            "WDescription": "Gram's staining is a staining technique developed by Danish bacteriologist Hans Christian Gram to identify and classify bacteria based on the physical and chemical properties of their outer surface. During the procedure, the bacterial specimen in first stained with crystal violet, then treated with iodine solution, decolourised with alcohol, followed by counterstaining with safranin. Gram-positive bacteria retain the crystal violet stain, while Gram-negative bacteria retain safranin.",
+            "VideoURL": "Gram's staining.mp4"
+        },
+        {
+            "WID": "97",
+            "WTitle": "Haemophilic",
+            "WDescription": "Haemophilic refers to microorganisms that grow well in blood or a nutrient medium containing blood.",
+            "VideoURL": "Haemophilic.mp4"
+        },
+        {
+            "WID": "98",
+            "WTitle": "Haemophilus influenzae",
+            "WDescription": "Haemophilus influenzae, earlier known as Pfeiffer's bacillus or Bacillus influenzae, is a Gram-negative, rod-shaped, non-motile bacteria that occurs as both encapsulated and nonencapsulated forms. It is found in the respiratory tract and causes acute respiratory infections, including pneumonia, acute conjunctivitis, otitis, and purulent meningitis.",
+            "VideoURL": "Haemophilus influenzae.mp4"
+        },
+        {
+            "WID": "99",
+            "WTitle": "Haemotoxin",
+            "WDescription": "Haemotoxin, also known as haematotoxin, is an exotoxin that attacks blood cells and destroys them, in turn disrupting blood clotting, causing organ degeneration, and generalised tissue damage. ",
+            "VideoURL": "Haemotoxin.mp4"
+        },
+        {
+            "WID": "100",
+            "WTitle": "Heterotrophs",
+            "WDescription": "Heterotrophs are organisms which cannot synthesise their own food, and are instead dependent on organic substances present in other living or dead organisms for food and energy. All animals, protozoa, and most bacteria and fungi are heterotrophs.",
+            "VideoURL": "Heterotrophs.mp4"
+        },
+        {
+            "WID": "101",
+            "WTitle": "HIV",
+            "WDescription": "Human immunodeficiency virus (HIV) is a retrovirus that causes AIDS, a deadly disease of the human immune system. HIV is transmitted primarily through sexual contact. The other modes of transmission are by contact with infected blood or blood products, tissue and organ donation; sharing of needles among intravenous drug users, and from an infected mother to the child during birth and via breast milk.",
+            "VideoURL": "HIV.mp4"
+        },
+        {
+            "WID": "102",
+            "WTitle": "Host",
+            "WDescription": "A host is an organism or a cell that harbours a parasite or a pathogenic organism such as a virus, fungi, etc., from which it obtains nutrition and shelter for growth and reproduction.",
+            "VideoURL": "Host.mp4"
+        },
+        {
+            "WID": "103",
+            "WTitle": "Humoral immunity",
+            "WDescription": "Humoral immunity is a form of immune response that is mediated by antibodies specific to the antigen produced by B-lymphocytes. These antibodies stimulate the T-lymphocytes to attack the antigenic substance.",
+            "VideoURL": "Humoral immunity.mp4"
+        },
+        {
+            "WID": "104",
+            "WTitle": "Hypersensitivity",
+            "WDescription": "Hypersensitivity is an abnormality related to immune system where in there is increased or exaggerated immune response towards an antigen or foreign substance in the body. Hypersensitivity could result from pollens, certain medicines, dust, pet dander, etc.",
+            "VideoURL": "Hypersensitivity.mp4"
+        },
+        {
+            "WID": "105",
+            "WTitle": "Immunization",
+            "WDescription": "Immunization is the process of inducing immune response against specific antigens in humans or animals by exposing them to particular antigens to raise antibodies to these antigens. For example, vaccination is a type of immunization.",
+            "VideoURL": "Immunization.mp4"
+        },
+        {
+            "WID": "106",
+            "WTitle": "Immunoglobulins",
+            "WDescription": "Immunoglobulins or antibodies are immune proteins found in blood or lymph, and produced by B lymphocytes as an immune defence against foreign substances (antigens). They combine with the very antigen that triggers their synthesis to neutralize their action.",
+            "VideoURL": "Immunoglobulins.mp4"
+        },
+        {
+            "WID": "107",
+            "WTitle": "Incubation",
+            "WDescription": "Incubation is the process of maintaining an organism or a cell culture in favourable conditions that encourage their growth and multiplication. Incubation also refers to the development of infectious disease from the time the pathogen enters the host to the first appearance of signs and symptoms.",
+            "VideoURL": "Incubation.mp4"
+        },
+        {
+            "WID": "108",
+            "WTitle": "Infectious disease",
+            "WDescription": "An infectious disease is a disease caused by the entry, growth, and multiplication of microorganisms such as bacteria, virus, fungi, or protozoa in the body. Some infectious diseases are capable of being transmitted from person to person.",
+            "VideoURL": "Infectious disease.mp4"
+        },
+        {
+            "WID": "109",
+            "WTitle": "Influenza",
+            "WDescription": "Influenza, generally referred to as flu, is an infectious respiratory disease. It is caused by certain strains of the influenza virus and is characterised by fever, headache, muscular pain and weakness.",
+            "VideoURL": "Influenza.mp4"
+        },
+        {
+            "WID": "110",
+            "WTitle": "Innate immunity",
+            "WDescription": "Innate immunity is the immunity that is naturally present in an individual as a result of genetic constitution or physiology. Also known as genetic immunity, inherent immunity, native immunity, natural immunity, or nonspecific immunity, this type of immunity does not arise due to prior exposure to antigens.",
+            "VideoURL": "Innate immunity.mp4"
+        },
+        {
+            "WID": "111",
+            "WTitle": "Interferons",
+            "WDescription": "Interferons are a group of glycoproteins produced by leucocytes, T-lymphocytes, and fibroblasts as an immune response to viral infection or tumour cells.",
+            "VideoURL": "Interferons.mp4"
+        },
+        {
+            "WID": "112",
+            "WTitle": "Jumping genes",
+            "WDescription": "Jumping genes, also known as transposons, are segments of DNA that have the ability to move and integrate into different locations in a genome of a cell. These jumping genes are one of the causes of mutation.",
+            "VideoURL": "Jumping genes.mp4"
+        },
+        {
+            "WID": "113",
+            "WTitle": "Kernel spot",
+            "WDescription": "Kernel spot is a fungal disease of the pecan kernel caused by Coniothyrium caryogenum, characterised by irregular or round, dull-brown spots on the nuts. ",
+            "VideoURL": "Kernel spot.mp4"
+        },
+        {
+            "WID": "114",
+            "WTitle": "Lichen",
+            "WDescription": "A lichen is an organism in which the fungi and algae exist in symbiotic association with each other, appearing as crusty patches or bushy growths on rocks, trees, and other solid surfaces. Lichen also refers to a group of skin diseases characterised by papular eruptions.",
+            "VideoURL": "Lichen.mp4"
+        },
+        {
+            "WID": "115",
+            "WTitle": "Light microscope",
+            "WDescription": "Light microscope is the most common type of microscope used to view minute objects in magnified form. This type of microscope is commonly used in laboratories and makes use of visible light to illuminate objects.",
+            "VideoURL": "Light microscope.mp4"
+        },
+        {
+            "WID": "116",
+            "WTitle": "Lysogenic cycle",
+            "WDescription": "Lysogenic cycle is a type of viral replication cycle in which the viral nucleic acid fuses with the host genetic material and replicates each time the host genetic material replicates. The host cell is not destroyed by the virus during lysogenic cycle.",
+            "VideoURL": "Lysogenic cycle.mp4"
+        },
+        {
+            "WID": "117",
+            "WTitle": "Lytic cycle",
+            "WDescription": "Lytic cycle is a type of viral replication cycle in which the virus infects a host cell, replicates within it, and releases its progeny by destroying the host cell.",
+            "VideoURL": "Lytic cycle.mp4"
+        },
+        {
+            "WID": "118",
+            "WTitle": "Magnetosome",
+            "WDescription": "Magnetosome is an intracellular, membrane-bound iron crystal, often made of magnetite, found in magnetotactic bacteria that helps them to orient and move in the direction of the earth's magnetic field in water bodies.",
+            "VideoURL": "Magnetosome.mp4"
+        },
+        {
+            "WID": "119",
+            "WTitle": "Malaria",
+            "WDescription": "Malaria is an infectious disease caused by protozoan parasites of the genus Plasmodium spread through the bite of an infected female Anopheles mosquito. The parasites multiply within red blood cells, causing symptoms that include light-headedness, shortness of breath, fever, chills, nausea and an enlarged spleen.",
+            "VideoURL": "Malaria.mp4"
+        },
+        {
+            "WID": "120",
+            "WTitle": "Measles",
+            "WDescription": "Measles is an infection caused by paramyxovirus, marked by itchy skin rashes that often start on the head and move down the body. The early signs of measles include high fever, cough, nasal discharge accompanied by koplik's spots.",
+            "VideoURL": "Measles.mp4"
+        },
+        {
+            "WID": "121",
+            "WTitle": "Microbacteria",
+            "WDescription": "Microbacteria are a group of minute, rod-shaped, Gram-positive, heat-resistant bacteria that are commonly found in dairy products and inhabit the mammalian intestinal tract.",
+            "VideoURL": "Microbacteria.mp4"
+        },
+        {
+            "WID": "122",
+            "WTitle": "Microbiology",
+            "WDescription": "Microbiology is the branch of science dealing with the study of microscopic organisms such as bacteria, fungi, algae, virus, and protozoa, and their effect on other living things, including their use in immunization, food production, etc.",
+            "VideoURL": "Microbiology.mp4"
+        },
+        {
+            "WID": "123",
+            "WTitle": "Microorganism",
+            "WDescription": "A microorganism is a living organism that is not visible to the naked human eye but visible only under a microscope. Examples of microorganisms include bacteria, virus, protozoa, and a few fungi and algae.",
+            "VideoURL": "Microorganism.mp4"
+        },
+        {
+            "WID": "124",
+            "WTitle": "Microscope",
+            "WDescription": "Microscope is an optical instrument composed of lenses that aid in viewing a small object in its magnified form.",
+            "VideoURL": "Microscope.mp4"
+        },
+        {
+            "WID": "125",
+            "WTitle": "Monoclonal antibody",
+            "WDescription": "Monoclonal antibody is a term used to refer to any of the highly specific, identical antibodies, mass produced in the laboratory from a clone obtained by fusing a B-cell with a tumour cell.",
+            "VideoURL": "Mold.mp4"
+        },
+        {
+            "WID": "126",
+            "WTitle": "Mold",
+            "WDescription": "Molds are a large group of multinucleated, filamentous fungi such as Penicillium that are one among the common causes of allergies. ",
+            "VideoURL": "MonoclonalAntibody.mp4"
+        },
+        {
+            "WID": "127",
+            "WTitle": "Mutant",
+            "WDescription": "Mutant is an organism, individual, or genetic character that results from alterations in genetic material, and is different from the existing wild-type character.",
+            "VideoURL": "Mutant.mp4"
+        },
+        {
+            "WID": "128",
+            "WTitle": "Mutation",
+            "WDescription": "Mutation is the process of change in arrangement of chromosomes or DNA sequences within the chromosome due to alteration in the arrangement of nucleotides, resulting in a new character or trait.",
+            "VideoURL": "Mutation.mp4"
+        },
+        {
+            "WID": "129",
+            "WTitle": "Mutualism",
+            "WDescription": "Mutualism is a symbiotic relationship between two different species where both organisms are dependent on each other for nutrients, protection, and other life functions, and benefit from each other.",
+            "VideoURL": "Mutualism.mp4"
+        },
+        {
+            "WID": "130",
+            "WTitle": "Mycology",
+            "WDescription": "Mycology is the branch of biology dealing with the study of fungi, including their genetic and physiological characteristics, classification, and diseases caused in humans, animals, and plants.",
+            "VideoURL": "Mycology.mp4"
+        },
+        {
+            "WID": "131",
+            "WTitle": "Nosocomial infection",
+            "WDescription": "Nosocomial infection or hospital-acquired infection is the new infection that a patient acquires during hospital visit or hospitalisation, and is identified after atleast 48-72 hours following hospitalisation.",
+            "VideoURL": "Nosocomial infection.mp4"
+        },
+        {
+            "WID": "132",
+            "WTitle": "Nucleocapsid",
+            "WDescription": "Nucleocapsid is the basic structure of a virus consisting of the nucleic acid surrounded by a protein coat known as capsid.",
+            "VideoURL": "Nucleocaspid.mp4"
+        },
+        {
+            "WID": "133",
+            "WTitle": "Nucleoid",
+            "WDescription": "Nucleoid is a portion within the prokaryotic cells where the genetic material is present. It is not bound by a membrane as found in the nucleus of eukaryotes.",
+            "VideoURL": "Nucleoid.mp4"
+        },
+        {
+            "WID": "134",
+            "WTitle": "Nutrient broth",
+            "WDescription": "Nutrient broth is a liquid medium containing several nutrients that are required for the growth of microorganisms.",
+            "VideoURL": "Nutrient broth.mp4"
+        },
+        {
+            "WID": "135",
+            "WTitle": "Obligate organisms",
+            "WDescription": "Obligate organisms are microorganisms that can survive only under particular set of environmental conditions or by assuming a particular role. For example, obligate aerobes can survive only in the presence of oxygen, while obligate parasites can survive only inside a host and not independent of it.",
+            "VideoURL": "Obligate organisms.mp4"
+        },
+        {
+            "WID": "136",
+            "WTitle": "Operon",
+            "WDescription": "An operon is a sequence of genetic material containing adjacent genes that function in a coordinated manner to produce mRNA and proteins. Each operon consists of an operator gene that activates the production of mRNA, a regulatory gene that produces protein which regulate the function of operator gene, and structural genes that encode specific proteins.",
+            "VideoURL": "Operon.mp4"
+        },
+        {
+            "WID": "137",
+            "WTitle": "Opportunistic pathogen",
+            "WDescription": "An opportunistic pathogen is an organism that exists as a harmless normal flora on the body, but causes infection when the body's immunity is low. For example, Candida albicans and Staphylococcus aureus.",
+            "VideoURL": "Opportunistic pathogen.mp4"
+        },
+        {
+            "WID": "138",
+            "WTitle": "Opsonization",
+            "WDescription": "Opsonization is the process during which opsonins such as antibodies bind to the surface of antigens and make them readily available for phagocytosis and destruction.",
+            "VideoURL": "Opsonization.mp4"
+        },
+        {
+            "WID": "139",
+            "WTitle": "Osmophilic",
+            "WDescription": "Osmophilic refers to organisms that grow well in conditions of high osmotic pressure, that is containing high concentrations of salts or sugar.",
+            "VideoURL": "Osmophilic.mp4"
+        },
+        {
+            "WID": "140",
+            "WTitle": "Parasitic infection",
+            "WDescription": "Parasitic infection is an infectious disease caused or transmitted by a parasite, an organism that has to live in or on other organisms for survival. For example, malaria.",
+            "VideoURL": "Parasitic infection.mp4"
+        },
+        {
+            "WID": "141",
+            "WTitle": "Passive immunity",
+            "WDescription": "Passive immunity is a type of immunity acquired by the transfer of antibodies from one individual to another either through the antiserum or from mother to foetus via the placenta. It is a short term immunity that usually lasts for a few weeks or months.",
+            "VideoURL": "Passive immunity.mp4"
+        },
+        {
+            "WID": "142",
+            "WTitle": "Pathogen",
+            "WDescription": "Pathogen is a disease causing agent such as bacteria, virus, protozoa, and fungi.",
+            "VideoURL": "Pathogen.mp4"
+        },
+        {
+            "WID": "143",
+            "WTitle": "Penicillin",
+            "WDescription": "Penicillin is a group of broad-spectrum antibiotic that is obtained from the fungus Penicillium or synthetically produced, and active against bacteria such as Streptococcus, Neisseria, and Clostridium. ",
+            "VideoURL": "Penicillin.mp4"
+        },
+        {
+            "WID": "144",
+            "WTitle": "Pertussis",
+            "WDescription": "Pertussis or whooping cough is an infectious disease caused by the bacteria Bordetella pertussis leading to inflammation of larynx, trachea and bronchi. This is characterised by recurrent spasmodic coughing bouts followed by a noisy indrawn breath.",
+            "VideoURL": "Pertussis.mp4"
+        },
+        {
+            "WID": "145",
+            "WTitle": "Photoautotroph",
+            "WDescription": "Photoautotroph is an organism that is capable of synthesising its own food using light as the source of energy such as algae and photosynthetic bacteria.",
+            "VideoURL": "Photoautotroph.mp4"
+        },
+        {
+            "WID": "146",
+            "WTitle": "Pili",
+            "WDescription": "Pili are short, fine, hair-like, filamentous projections found on the surface of bacteria that are used to attach to other cells. Pili are antigenic in nature.",
+            "VideoURL": "Pili.mp4"
+        },
+        {
+            "WID": "147",
+            "WTitle": "Plasmid",
+            "WDescription": "Plasmid is a small, circular, double-stranded DNA that has the ability to replicate and is independent of the chromosomal DNA. Most commonly found in bacteria, plasmids carry some genes important for the cell such as those that confer antibiotic resistance. Plasmids are used as vectors in recombinant DNA technology to transfer genes between cells.",
+            "VideoURL": "Plasmid.mp4"
+        },
+        {
+            "WID": "148",
+            "WTitle": "Prions",
+            "WDescription": "Prions are infectious protein particles that lack nucleic acid which are neither bacterial, viral, nor fungal in nature. Considered to be the smallest infectious particles, prions have been found to cause various degenerative brain diseases such as mad cow disease or bovine spongiform encephalopathy in cattle, and Creutzfeldt�Jakob disease (CJD) in humans. ",
+            "VideoURL": "Prions.mp4"
+        },
+        {
+            "WID": "149",
+            "WTitle": "Prokaryote",
+            "WDescription": "Prokaryote is a single-celled organism that neither contains a membrane bound nucleus nor specialised organelles such as mitochondria, golgi bodies, lysosomes, endoplasmic reticulum, etc. Prokaryotes include bacteria and cyanobacteria.",
+            "VideoURL": "Prokaryote.mp4"
+        },
+        {
+            "WID": "150",
+            "WTitle": "Prophage",
+            "WDescription": "Prophage is the harmless form of bacteriophage formed during the lysogenic cycle where the viral genetic material integrates into the host genetic material and replicates whenever the host genetic material replicates.",
+            "VideoURL": "Prophage.mp4"
+        },
+        {
+            "WID": "151",
+            "WTitle": "Protozoa",
+            "WDescription": "Protozoa are a diverse group of eukaryotic, unicellular organisms, many of which are motile and traditionally classified as animals. Examples of protozoa include Amoeba, Entamoeba, and Plasmodium.",
+            "VideoURL": "Protozoa.mp4"
+        },
+        {
+            "WID": "152",
+            "WTitle": "Pure culture",
+            "WDescription": "Pure culture is the culture containing only a single type of microorganism, without any contaminants.",
+            "VideoURL": "Pure culture.mp4"
+        },
+        {
+            "WID": "153",
+            "WTitle": "Q fever",
+            "WDescription": "Q fever is an infectious disease caused by the bacterium Coxiella burnetii transmitted from animals such as sheep, goats, cattle, cats, dogs, and rabbits. The disease is characterised by high fever, chills, heavy sweating, headache, nausea, vomiting, diarrhoea, fatigue, and cough.",
+            "VideoURL": "Q fever.mp4"
+        },
+        {
+            "WID": "154",
+            "WTitle": "Rabies",
+            "WDescription": "Rabies is a deadly viral disease spread through the saliva of infected animals like dogs, that affects the central nervous system. Once the virus enters the brain, it causes acute encephalitis (inflammation of the brain). The disease is characterised by aggressiveness, extreme thirst, excessive salivation and extreme paralysis leading to death.",
+            "VideoURL": "Rabies.mp4"
+        },
+        {
+            "WID": "155",
+            "WTitle": "Radioimmunoassay (RIA)",
+            "WDescription": "Radioimmunoassay (RIA) is a highly sensitive technique used to measure minute amounts of substances such as hormones, antigens, antibodies, or drugs present in the body, using radioactively labelled antibodies that react with the substance to be measured.",
+            "VideoURL": "Radioimmunoassay (RIA).mp4"
+        },
+        {
+            "WID": "156",
+            "WTitle": "RNA",
+            "WDescription": "RNA is a group of nucleic acids present in all living cells that controls cellular chemical activities by conveying DNA's genetic information for protein synthesis. It also forms the genetic material for some of the viruses. RNA is similar to DNA having a single stranded nucleotide sequences consisting of adenine, quanine, cytosine and uracil attached to ribose sugar.",
+            "VideoURL": "RNA.mp4"
+        },
+        {
+            "WID": "157",
+            "WTitle": "Rough strain",
+            "WDescription": "Rough strain refers to bacterial cells that have altered carbohydrate chains in their outer cell wall that make them appear as rough, dull colonies on nutrient agar rather than normal smooth appearing colonies.",
+            "VideoURL": "Rough strain.mp4"
+        },
+        {
+            "WID": "158",
+            "WTitle": "Salmonellosis",
+            "WDescription": "Salmonellosis is an infection caused by the species of Gram-negative, rod-shapded bacteria Salmonella resulting from contaminated food. It is characterised by diarrhoea, headache, abdominal pain, fever, and vomiting, generally beginning 8 to 72 hours after infection. ",
+            "VideoURL": "Salmonellosis.mp4"
+        },
+        {
+            "WID": "159",
+            "WTitle": "Sanitisation",
+            "WDescription": "Sanitisation is the process of destroying majority of microorganisms present on wounds, clothes, or inanimate objects to reduce them to safe levels by the use of chemicals or heat to prevent infection.",
+            "VideoURL": "Sanitisation.mp4"
+        },
+        {
+            "WID": "160",
+            "WTitle": "Saprophyte",
+            "WDescription": "Saprophyte is an organism that grows on dead or decaying organic material and obtains its nourishment from it, in turn breaking down the organic compounds to simpler substances that can be taken up by other organisms.",
+            "VideoURL": "Saprophyte.mp4"
+        },
+        {
+            "WID": "161",
+            "WTitle": "Satellite viruses",
+            "WDescription": "Satellite viruses are small viruses that are unable to replicate on their own and require helper viruses for the process. Considered to be defective in genes coding for capsid formation, satellite viruses are generally associated with certain plant viruses, animal viruses, or bacteriophages.",
+            "VideoURL": "Satellite viruses.mp4"
+        },
+        {
+            "WID": "162",
+            "WTitle": "Scanning electron microscope (SEM)",
+            "WDescription": "Scanning electron microscope (SEM) is a type of electron microscope in which three dimensional images of the sample are produced by scanning it with focused beams of electrons. The image is formed by the electrons reflected by the specimen as well as the electrons produced by it.",
+            "VideoURL": "Scanning electron microscope (SEM).mp4"
+        },
+        {
+            "WID": "163",
+            "WTitle": "Septicaemia",
+            "WDescription": "Septicaemia or blood poisoning is a systemic, life-threatening disease caused by the presence of microorganisms or their toxins in blood, characterised by chills, high fever, rapid breathing, rapid heart rate, severe sweating, abdominal pain, rashes, etc.",
+            "VideoURL": "Septicaemia.mp4"
+        },
+        {
+            "WID": "164",
+            "WTitle": "Serum",
+            "WDescription": "Serum is the clear yellow liquid component of clotted blood. The absence of fibrinogen or the other clotting factors distinguishes serum from plasma. It consists of electrolytes and proteins like antibodies which are useful in many of the diagnostic processes.",
+            "VideoURL": "Serum.mp4"
+        },
+        {
+            "WID": "165",
+            "WTitle": "Shingles",
+            "WDescription": "Shingles or herpes zoster is an infection of the nerves supplying certain areas of the skin, caused by Varicella-zoster virus, which also causes chickenpox. After an episode of chickenpox, the virus can remain dormant in nerve cells for several years and re-emerge as shingles. Symptoms include itching, tingling, pain and rash that turns into blisters which gradually crust over leaving scars, usually on one side of the body.",
+            "VideoURL": "Shingles.mp4"
+        },
+        {
+            "WID": "166",
+            "WTitle": "Single cell protein (SCP)",
+            "WDescription": "Single cell protein (SCP) is the protein extracted from microorganisms such as fungi, algae, and bacteria, either cultured alone or as a mixture, by the process of fermentation and used as a substitute for protein-rich food in human and animal feed.",
+            "VideoURL": "Single cell protein (SCP).mp4"
+        },
+        {
+            "WID": "167",
+            "WTitle": "Slime mold",
+            "WDescription": "A slime mold is an organism that exists as a slimy mass of protoplasm during its life cycle, growing on dung, decaying plant matter, and moist soil, and having characteristics of both plants and animals. ",
+            "VideoURL": "Slime mold.mp4"
+        },
+        {
+            "WID": "168",
+            "WTitle": "Staphylococci",
+            "WDescription": "Staphylococci are spherical Gram-positive bacteria that occur in grape like clusters. They are the normal flora of the skin and the upper respiratory tract. The pathogenic species can cause illness through direct infections, or through the toxins they produce.",
+            "VideoURL": "Staphylococci.mp4"
+        },
+        {
+            "WID": "169",
+            "WTitle": "Sterilization",
+            "WDescription": "Sterilization is the technique by which all microorganisms and their products are destroyed on surfaces, inanimate objects, or culture medium, using high temperature, steam, chemicals, irradiation, filtration, etc.",
+            "VideoURL": "Sterilization.mp4"
+        },
+        {
+            "WID": "170",
+            "WTitle": "Streptococci",
+            "WDescription": "Streptococci are spherical Gram-positive bacteria occurring in pairs or chains including many erythrocytolytic and pathogenic species. Streptococci constitute part of the normal flora of the mouth, skin, intestine and upper respiratory tract. Pathogenic species cause infections like strep throat, erysipelas and scarlet fever.",
+            "VideoURL": "Streptococci.mp4"
+        },
+        {
+            "WID": "171",
+            "WTitle": "Streptomycin",
+            "WDescription": "Streptomycin is an antibiotic produced by the soil actinomycete Streptomyces griseus and effective against bacteria, particularly Gram-negative bacteria. It is used in the treatment of tuberculosis either alone or in combination with other antituberculosis drugs.",
+            "VideoURL": "Streptomycin.mp4"
+        },
+        {
+            "WID": "172",
+            "WTitle": "Symbiosis",
+            "WDescription": "Symbiosis is a long, close association between two or more organisms of different species where atleast one organism obtains benefit from the other. Examples of symbiotic relationship include lichens, and bacteria living in the intestine or on the skin surface of humans.",
+            "VideoURL": "Symbiosis.mp4"
+        },
+        {
+            "WID": "173",
+            "WTitle": "Synchronous growth",
+            "WDescription": "Synchronous growth is the growth of bacteria in which all cells divide approximately at the same time and are in the same stage of growth cycle at a given point of time.",
+            "VideoURL": "Synchronous growth.mp4"
+        },
+        {
+            "WID": "174",
+            "WTitle": "Tetracycline",
+            "WDescription": "Tetracycline is a broad-spectrum antibiotic effective against a wide range of microorganisms, and obtained from the species of Streptomyces or produced semisynthetically.",
+            "VideoURL": "Tetracycline.mp4"
+        },
+        {
+            "WID": "175",
+            "WTitle": "Toxic shock syndrome",
+            "WDescription": "Toxic shock syndrome (TSS) is a rare, but potentially life-threatening illness caused by the bacterial toxins in bloodstream. Often caused by Staphylococcus or Streptococcus species, TSS is characterised by symptoms such as sudden high fever, hypotension, vomiting, diarrhoea, and rash resembling sunburn.",
+            "VideoURL": "Toxic shock syndrome.mp4"
+        },
+        {
+            "WID": "176",
+            "WTitle": "Toxoids",
+            "WDescription": "Toxoids are inactivated or modified microbial toxins that do not have toxic properties but retain antigenic properties and stimulate the production of antitoxins. Toxoids are used in immunization.",
+            "VideoURL": "Toxoids.mp4"
+        },
+        {
+            "WID": "177",
+            "WTitle": "Toxoplasmosis",
+            "WDescription": "Toxoplasmosis is an infectious disease caused by the single-celled protozoan Toxoplasma gondii transmitted from infected cats, and contaminated food, water, or utensils. The disease results in symptoms similar to flu or mononucleosis and include swollen lymph nodes, body ache, headache, fever, and fatigue.",
+            "VideoURL": "Toxoplasmosis.mp4"
+        },
+        {
+            "WID": "178",
+            "WTitle": "Transduction",
+            "WDescription": "Transduction is the process of transferring genetic material from one microbial cell to another by the use of vectors such as plasmid or bacteriophage.",
+            "VideoURL": "Transduction.mp4"
+        },
+        {
+            "WID": "179",
+            "WTitle": "Transformation",
+            "WDescription": "Transformation is the transfer of genetic material to a microbial cell by direct uptake of naked genetic material from the surroundings, through the cell membrane. ",
+            "VideoURL": "Transformation.mp4"
+        },
+        {
+            "WID": "180",
+            "WTitle": "Tuberculosis",
+            "WDescription": "Tuberculosis is an infectious disease caused by the bacterium Mycobacterium tuberculosis or tubercle bacillus that mainly affects the lungs and can spread to other parts of the body. It is characterised by cough, fever, shortness of breath, weight loss, and appearance of tubercles or tiny lumps and caseous necrosis in the tissues of lungs.",
+            "VideoURL": "Tuberculosis.mp4"
+        },
+        {
+            "WID": "181",
+            "WTitle": "Typhoid",
+            "WDescription": "Typhoid fever is an acute bacterial infection caused by Salmonella typhi which enters the body through food and water contaminated by faeces from an infected individual. It is characterised by symptoms like fever, chills, rash called red spots on abdomen and chest, headache, ulceration of the intestinal wall and abdominal pain.",
+            "VideoURL": "Typhoid.mp4"
+        },
+        {
+            "WID": "182",
+            "WTitle": "Ubiquitous organisms",
+            "WDescription": "Ubiquitous organisms are microorganisms that have the ability to tolerate a wide range of environmental conditions and are found to exist in all types of environmental conditions such as very high and very low temperatures. For example, bacteria.",
+            "VideoURL": "Ubiquitous organisms.mp4"
+        },
+        {
+            "WID": "183",
+            "WTitle": "Vaccine",
+            "WDescription": "Vaccine is a biological preparation of weakened or dead pathogen (bacterium or virus) or its structure that is administered to provide immunity by stimulating the production of antibodies.",
+            "VideoURL": "vaccine.mp4"
+        },
+        {
+            "WID": "184",
+            "WTitle": "Vector",
+            "WDescription": "Vector is a carrier that transfers infectious microorganisms or genetic material from one cell to another. Vectors carrying infectious agents such as mites are capable of transmitting the disease from one host to another. Vectors used to transfer the genetic material include plasmids and viruses and are commonly used in genetic engineering techniques.",
+            "VideoURL": "Vector.mp4"
+        },
+        {
+            "WID": "185",
+            "WTitle": "Vegetative reproduction",
+            "WDescription": "Vegetative reproduction is a type of asexual reproduction during which a portion of the parent separates and develops into a new individual genetically identical to the parent as seen in algae.",
+            "VideoURL": "Vegetative reproduction.mp4"
+        },
+        {
+            "WID": "186",
+            "WTitle": "Venereal disease",
+            "WDescription": "Venereal disease is sexually transmitted infectious disease including AIDS, syphilis, and gonorrhoea. The infectious agents are transmitted through the semen, vaginal secretions, or blood.",
+            "VideoURL": "Veneral disease.mp4"
+        },
+        {
+            "WID": "187",
+            "WTitle": "Vertical transmission",
+            "WDescription": "Vertical transmission is the transmission of a disease from parent to offspring either genetically or congenitally (from mother to child) via placenta or breast milk.",
+            "VideoURL": "Vertical transmission.mp4"
+        },
+        {
+            "WID": "188",
+            "WTitle": "Viraemia",
+            "WDescription": "Viraemia is the presence of viral particles in bloodstream, indicating virus infection.",
+            "VideoURL": "Viraemia.mp4"
+        },
+        {
+            "WID": "189",
+            "WTitle": "Virion",
+            "WDescription": "Virion is the complete virus particle consisting of the genetic material, DNA or RNA, surrounded by the protein coat, found extracellularly with the ability to infect a living cell.",
+            "VideoURL": "Virion.mp4"
+        },
+        {
+            "WID": "190",
+            "WTitle": "Viroids",
+            "WDescription": "Viroids are infectious particles smaller than viruses consisting of only a small single strand of RNA and lacking any protein coat. They have the ability to replicate in living cells and cause diseases in plants such as potatoes, tomatoes, and cucumbers.",
+            "VideoURL": "Viroids.mp4"
+        },
+        {
+            "WID": "191",
+            "WTitle": "Virus",
+            "WDescription": "Virus is an acellular infectious agent that consists of a nucleic acid, DNA or RNA, surrounded by a protein coat, capable of multiplying only in a living cell. Viruses can infect animals, plants, or bacteria.",
+            "VideoURL": "Virus.mp4"
+        },
+        {
+            "WID": "192",
+            "WTitle": "Widal test",
+            "WDescription": "Widal test is a serological, agglutination test done to detect Salmonella infections, particularly typhoid fever, using antibodies specific for the antigens.",
+            "VideoURL": "Widal test.mp4"
+        },
+        {
+            "WID": "193",
+            "WTitle": "Wild strain",
+            "WDescription": "Wild strain is the typical form of an organism that commonly occurs in nature and has not undergone mutation.",
+            "VideoURL": "Wild strain.mp4"
+        },
+        {
+            "WID": "194",
+            "WTitle": "Xerophilic",
+            "WDescription": "Xerophilic is a characteristic of any organism that is able to live and reproduce in an environment with low or limited availability of water.",
+            "VideoURL": "Xerophilic.mp4"
+        },
+        {
+            "WID": "195",
+            "WTitle": "Yeast",
+            "WDescription": "Yeast is a group of unicellular fungi that reproduce by budding and ferment carbohydrates, producing carbon dioxide and alcohol. Examples of yeasts include Saccharomyces and Candida species.",
+            "VideoURL": "Yeast.mp4"
+        },
+        {
+            "WID": "196",
+            "WTitle": "Zone of inhibition",
+            "WDescription": "Zone of inhibition is a clear area where no bacterial growth takes place around a disk impregnated with antimicrobial agent in an antimicrobial sensitivity test.",
+            "VideoURL": "Zone of inhibition.mp4"
+        },
+        {
+            "WID": "197",
+            "WTitle": "Zoophilic",
+            "WDescription": "Zoophilic are organisms that live in animal hosts and capable of transmitting diseases to humans.",
+            "VideoURL": "Zoophilic.mp4"
+        },
+        {
+            "WID": "198",
+            "WTitle": "Zymotic disease",
+            "WDescription": "Zymotic disease is any of the epidemic, endemic, contagious, or sporadic disease considered to be caused due to some microorganisms by a process similar to fermentation.",
+            "VideoURL": "Zymotic disease.mp4"
+        }
+    ]
+}

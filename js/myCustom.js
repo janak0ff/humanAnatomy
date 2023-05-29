@@ -1,3 +1,12 @@
+// // Get the value of the 'hideFooter' query parameter from the URL
+// const urlParams = new URLSearchParams(window.location.search);
+// const hideFooter = urlParams.get('hideFooter');
+
+// // If the 'hideFooter' parameter is present and set to 'true', hide the footer element
+// if (hideFooter === 'true') {
+//   document.querySelector('.footer-one').style.display = 'none';
+// }
+
 
 // This code execute when width is less than 991px
 

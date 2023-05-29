@@ -1,0 +1,484 @@
+{
+    "oncology": [
+        {
+            "WID": "1",
+            "WTitle": "Acute lymphoblastic leukemia",
+            "WDescription": "Acute lymphoblastic leukemia (ALL) is abnormal proliferation of the white blood cells involving bone marrow and peripheral blood and occasionally presenting with primary involvement of nodal or extranodal sites.",
+            "VideoURL": "acute_lymphoblastic_leukemia.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Adenocarcinoma",
+            "WDescription": "Adenocarcinoma is a type of cancer of an that originates in the epithelium that originates inof glandular tissues . That develops in glandular tissue cells surface of internal organs, such as the lungs, breasts, stomach, pancreas, colon, prostate, stomach, pancreas, and cervix. It is also known as glandular cancer.",
+            "VideoURL": "Adenocarcinoma.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Alkylating agents",
+            "WDescription": "Alkylating agents used in cancer therapy function by attaching to the alkyl group of DNA, rendering the DNA molecule unstable.",
+            "VideoURL": "Alkylating agents.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Angiogenesis",
+            "WDescription": "Angiogenesis is the physiological process of developing new blood vessels. It is a vital and normal process in growth and development, as well as in wound healing.",
+            "VideoURL": "Angiogenesis.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Apoptosis",
+            "WDescription": "Apoptosis, a genetically controlled cell death mechanism, is involved in tissue homeostasis. It is a cascade of events brought about by extracellular and intracellular signals. It is a complex mechanism regulated by multiple genes including c-myc, p53 and Bcl-2 and apoptosis receptors belonging to the TNF\/NGF family.",
+            "VideoURL": "Apoptosis.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "B-ALL",
+            "WDescription": "B-ALL is responsible for approximately 80% of ALL in children and adults. Most patients with B-ALL present with evidence and consequences of bone marrow failure: thrombocytopenia and\/or anemia and\/or neutropenia.",
+            "VideoURL": "B-ALL.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Basaloid carcinoma",
+            "WDescription": "Basaloid carcinoma is an aggressive, rarest subtype of non-small-cell carcinoma of the lung with a high degree of malignancy. In majority of the cases, the tumor is located in the lobar or segmental bronchi.",
+            "VideoURL": "Basaloid carcinoma.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Benign tumor",
+            "WDescription": "A benign tumor is a non-cancerous tumor that lacks the ability to invade or metastasize from its place of origin. These tumors grow slowly but possess the potential to turn malignant. Based on the cell or tissue from which they originate benign tumors are named as lipomas, originating from fat cells or lipocytes; chondromas, originating from the chondrocytes of bone, and adenomas, originating from glandular epithelial cells, etc.",
+            "VideoURL": "Benign tumor.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Blood cancer",
+            "WDescription": "Leukemia commonly referred to as blood cancer is the abnormal proliferation of blood cells in the bone marrow, particularly in the white blood cells or leukocytes.",
+            "VideoURL": "Blood cancer.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Bone cancer",
+            "WDescription": "Bone cancer is a malignant growth in the bone, the tumor either originates from the bone it self which is rare or is secondary that is occurs as a result of cancer spreading from elsewhere in the body.",
+            "VideoURL": "BoneCancer.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Brain tumour",
+            "WDescription": "A brain tumour is an abnormal growth of cells within the brain. Primary brain tumours from uncontrolled proliferation of tissue within the brain are benign, but secondary tumours that spread to the brain from a cancer elsewhere in the body are malignant.",
+            "VideoURL": "Brain tumour.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "Breast cancer",
+            "WDescription": "Breast Cancer is the abnormally rapid multiplication of cells in the breast tissues, breast cancer is most common in women but it can also appear in men.",
+            "VideoURL": "Breast cancer.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Cancer gene therapy",
+            "WDescription": "Cancer gene therapy is transfer of new genetic material for restoring normal cellular activity in cancer cells. Gene therapy was initially considered for replacing defective tumor suppressor genes, inactivating oncogenes, and inducing drug sensitivity.",
+            "VideoURL": "Cancer gene therapy.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Cancer-specific markers",
+            "WDescription": "Cancer-specific markers are associated with cancerous tissues. Cancer-specific markers are not held important in the diagnosis of cancer as there is an overlap between different tumor tissue types and the tumor markers that are produced. Hence they are used in prognosis and to evaluate the response to treatment.",
+            "VideoURL": "Cancer-specific markers.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "Cancer",
+            "WDescription": "Abnormal and uncontrolled cell division, resulting in a tumor or malignant growth is called cancer. Cancer may be benign confined to a particular region or malignant which may invade near by tissue or other part of the body.    ",
+            "VideoURL": "Cancer.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "Carcinogen Derived Biomarkers",
+            "WDescription": "Carcinogen-derived biomarkers are metabolites or large molecular adducts that are obtained from specific identifiable carcinogens and can be evaluated in tissues or body fluids.",
+            "VideoURL": "Carcinogen Derived Biomarkers.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "Carcinogenesis",
+            "WDescription": "Multistage carcinogenesis refers to the development of cancer through multiple steps of oncogene activation and tumor suppressor inactivation that is depicted in the four steps: tumor initiation, tumor promotion, malignant conversion and tumor progression.",
+            "VideoURL": "Carcinogenesis.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "Carcinogens",
+            "WDescription": "A carcinogen is any chemical, radiation or microbe such as bacteria or virus than can cause or aggravate cancer on a short-term or a long-term exposure. Carcinogens induce cancer either by damaging or mutating the DNA, or by disrupting cellular metabolic processes, both of which affect normal cell division. A few examples of potent cancinogens include tobacco, asbestos, radon, and arsenic.",
+            "VideoURL": "Carcinogens.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "Carcinoma",
+            "WDescription": "Carcinoma is an invasive malignant tumor that arises from the epithelial tissues of organs and metastasizes to adjoining areas.     ",
+            "VideoURL": "Carcinoma.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "CD20 antigen",
+            "WDescription": "CD20 antigen is a signature B cell antigen. It is a transmembrane protein that is expressed on all mature normal B cells as well as on malignant B cells. CD20 antigen regulates transmembrane calcium ion conductance and has a functional role in B cell activation, proliferation, and differentiation. CD20 antigen is highly expressed in B cell malignancies.",
+            "VideoURL": "CD20 antigen.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Cell division",
+            "WDescription": "Cell division is an orderly and unidirectional process that has several check points for its regulation.",
+            "VideoURL": "Cell division.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "Cell signaling",
+            "WDescription": "Cell signaling is a cascade of signals transmitted from plasma membrane to the nucleus. This process regulates cell growth, differentiation and death. Dysfunctional signaling pathways promote uncontrolled cell growth, angiogenesis and inhibit apoptosis.",
+            "VideoURL": "Cell signaling.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Cervical cancer",
+            "WDescription": "Cervical cancer is cancer of the tissue in the cervices the narrow neck of the uterus that opens into the vagina.  ",
+            "VideoURL": "Cervical cancer.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Chemotherapy",
+            "WDescription": "Chemotherapy is a form of treatment for cancer where drugs that selectively target the malignant cells and tissues are injected into the system, to stop them from multiplying.",
+            "VideoURL": "Chemotherapy.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Chronic lymphocytic leukemia",
+            "WDescription": "Chronic lymphocytic leukemia (CLL) originates from mature B-lymphocytes.The indolent nature of CLL means that the early stages of the disease can present few or mild symptoms, and that these may be overlooked by the patient.",
+            "VideoURL": "Chronic lymphocytic leukemia.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Colorectal cancer",
+            "WDescription": "Colorectal cancer refers to cancer of the colon and rectum, the malignancy arises  in the inner wall of the large intestine and is characterized by blood in stools. ",
+            "VideoURL": "Colorectal cancer.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Cryosurgery",
+            "WDescription": "Cryosurgery is the use of extreme cold temperatures to freeze and kill cancer cells. Cryosurgery is a safe and effective treatment for endobronchial and extrabronchial lung cancers.",
+            "VideoURL": "Cryosurgery.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "Ductal carcinoma",
+            "WDescription": "Ductal carcinoma is the most common form of breast cancer that develops in the ducts that carry the milk from the lobules to the nipple.",
+            "VideoURL": "Ductal carcinoma.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "EGFR tyrosine kinase",
+            "WDescription": "Tyrosine kinase activity regulates various cellular functions including growth, differentiation, metabolism and apoptosis. Its activity is associated with cell membrane receptors or is cytoplasmic. Increased tyrosine activity is seen in various tumors including breast cancer, squamous cell carcinoma and gliomas.",
+            "VideoURL": "EGFR tyrosine kinase.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "EGFR",
+            "WDescription": "Epidermal growth factor receptor (EGFR) plays an important role in cancer cell proliferation and survival. Abnormalities in the EGFR pathways are responsible for the progression of several cancers including cancers of the lung, breast and colon.",
+            "VideoURL": "EGFR.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Genetic testing",
+            "WDescription": "Genetic testing is the most advanced technique being used to detect genetic disorders.",
+            "VideoURL": "Genetic testing.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "Glandular cancer",
+            "WDescription": "Glandular cancer is a type of cancer that originates in the epithelium of glandular tissues of organs such as the lungs, breasts, stomach, pancreas, colon, prostate, and cervix. It is also known as adenocarcinoma.",
+            "VideoURL": "Glandular cancer.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Hodgkin's lymphoma",
+            "WDescription": "Hodgkin's lymphoma is a cancer of the immune system that affects the lymph nodes, spleen, liver, bone marrow and other immune tissues. It affects the B-cells (antibody-producing cells) and is characterized by the presence of cancer cells known as “Reed-Sternberg cells”. Painless enlargement of lymph nodes is the prominent symptom of Hodgkin’s lymphoma. Other symptoms observed include fever, weight loss, fatigue and night sweats. ",
+            "VideoURL": "Hodgkins lymphoma.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Human epidermal growth factor receptor (HER)",
+            "WDescription": "Human Epidermal growth factor Receptor, is a cellular receptor that consists of extracellular domain, single transmembrane segment and a cytoplasmic tyrosine kinase domain.",
+            "VideoURL": "Human epidermal growth factor receptor (HER).mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Interferons",
+            "WDescription": "Interferons are a group of glycoproteins produced by leucocytes, T-lymphocytes and fibroblasts as an immune response to viral infection or tumour cells.",
+            "VideoURL": "Interferons.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Interleukins",
+            "WDescription": "Interleukin is a cytokine secreted by various cells of the immune system. Interleukins activates and stimulates the immune cells capable of destroying cancer cells.",
+            "VideoURL": "Interleukins.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "Kaposi's Sarcoma",
+            "WDescription": "Kaposi's sarcoma is a cancerous tumor arising from blood vessels, usually in the skin forming skin legions or mucous membranes that lines the mouth, nose and anus. They also spread to other organs in the body such as the lungs, liver or intestinal tract. It is the most common form of cancer in  AIDS patients.  ",
+            "VideoURL": "Kaposi'sSarcoma.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Large cell carcinoma",
+            "WDescription": "Large cell carcinoma develops in the periphery of the lungs and spreads through the blood stream. This type of cancer is composed of large anaplatic cells and often arises in the bronchi.",
+            "VideoURL": "Large cell carcinoma.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Leukaemia",
+            "WDescription": "Leukaemia commonly refers to as blood cancer  is the abnormal proliferation of blood cells in the bone marrow particularly the white blood cells or leucocytes.",
+            "VideoURL": "Leukaemia.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Lobular carcinoma",
+            "WDescription": "Lobular carcinoma is the second most common type of breast cancer that occurs in lactating glands of the breast. Lobular carcinoma is of two types; in situ or invasive breast cancer. Lobular carcinoma in situ is of non-invasive nature, incapable of penetrating through the lobule wall. However, lobular carcinoma in situ can develop into invasive breast cancer.",
+            "VideoURL": "Lobular carcinoma.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Lumpectomy",
+            "WDescription": "Lumpectomy is a surgical treatment for breast cancer involving the removal of cancers mass and the small amount of the surrounding tissue.",
+            "VideoURL": "Lumpectomy.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Lung Cancer",
+            "WDescription": "Lung cancer is cancerous growth in lung tissue that may be primary - originating in the lung cells, or metastatic - spread from another area of the body. Symptoms of lung cancer include persistent cough and bloody sputum.   ",
+            "VideoURL": "Lung Cancer.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Lymph glands",
+            "WDescription": "Lymph glands or lymph nodes are small bean shaped structures found at intervals throughout the lymphatic system. The lymph node can trap cancer cells, bacteria or viruses that are travelling through the body, besides eliminating foreign substances from the lymphatic fluid.",
+            "VideoURL": "Lymph glands.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Lymphatic system",
+            "WDescription": "The lymphatic system is an important part of the immune system that helps fight infections and cancers. But, a majority of cancers spread via the lymphatic system from their site of origin to other organs of the body.",
+            "VideoURL": "Lymphatic system.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Lymphoma",
+            "WDescription": "Lymphoma is a malignant tumour in the lymph nodes or other lymphatic tissues. Proliferation of the malignant lymphoid cells results in painless enlargement of one or more lymph nodes.",
+            "VideoURL": "Lymphoma.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Mammary gland",
+            "WDescription": "A mammary gland is one of the two glandular organs located on either side of the adult female chest, which with fatty tissue and nipple make up the breast, each mammary gland consists of a network of sacs that produce milk during lactation.      ",
+            "VideoURL": "Mammary gland.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Mammography",
+            "WDescription": "Mammography is the study of breast using x-rays and a diagnostic technique to obtain mammograms for detection of breast cancer or for evaluation of new abnormalities.",
+            "VideoURL": "Mammography.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Mastectomy",
+            "WDescription": "Mastectomy is the surgical removal of breast which is often performed as a treatment or prevention of breast cancer.",
+            "VideoURL": "Mastectomy.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Matrix Metalloproteinases",
+            "WDescription": "Matrix metalloproteinases (MMPs) are a family of enzymes involved in tumor growth, invasion, and metastasis. MMPs, the key enzymes involved in angiogenesis, degrade basement membrane and stromal tissue which results in migration of endothelial cells and formation of new blood vessels.",
+            "VideoURL": "Matrix Metalloproteinases.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Metastasis",
+            "WDescription": "Malignant tumours are cancerous. They invade surrounding tissues and destroy them. Cells can also break off from the original tumour and travel through the lymphatic system and the bloodstream to other organs where they take hold and grow to produce secondary tumours. This spread of cancer is called metastasis. Some tumours are aggressive and spread early in their development whereas others become metastatic only in the later or advanced stages of the disease.",
+            "VideoURL": "Metastasis.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Metastatic colorectal cancer",
+            "WDescription": "Colorectal cancer is malignant tumors found in colon, or large bowel and rectum. Colorectal cancers originate from adenomatous polyps. The outgrowths are initially benign and later become cancerous. Metastatic colorectal cancer spreads beyond the colon into other organs. Liver is the most common site of colorectal metastasis.",
+            "VideoURL": "Metastatic colorectal cancer.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Molecular markers",
+            "WDescription": "Molecular markers can be used to trace genetic predisposition to certain cancers by detecting the presence of a particular DNA sequence.",
+            "VideoURL": "Molecular markers.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Monoclonal antibody",
+            "WDescription": "Monoclonal antibody is a term used to refer to any of the highly specific, identical antibodies, mass produced in the laboratory from a clone obtained by fusing a B-cell with a tumor cell.",
+            "VideoURL": "MonoclonalAntibody.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Non-Hodgkin lymphoma (NHL)",
+            "WDescription": "Non-Hodgkin Lymphoma  NHL are cancers that originate in the lymphatic system, due to abnormal growth of lymphocytes. Based on the originating cell these NHL are categorized into B-cell NHL (approximately 90% of cases) and T-cell NHL (10% of cases).",
+            "VideoURL": "Non-Hodgkin lymphoma (NHL).mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Non-small cell lung cancer (NSCLC)",
+            "WDescription": "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer that contributes to about 75% of all lung cancers. These are classified into 3 categories based on the kind of cells transformed in the lungs like squamous cell carcinoma, large cell carcinoma, and adenocarcinoma. ",
+            "VideoURL": "Non-small cell lung cancer (NSCLC).mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Oncogens",
+            "WDescription": "An oncogene is a gene (a segment of genetic material, DNA) that has the ability to cause cancer. Oncogenes are either mutated or over expressed, and increase cell survival, cell division, but reduce apoptosis or programmed cell death when activated. This ultimately leads to the formation of tumor mass and cancer.",
+            "VideoURL": "Oncogens.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Ovarian Cancer",
+            "WDescription": "Ovarian cancer is malignant growth of cells in the ovaries, the female reproductive organs that produce eggs. This cancer starts in the ovary and spreads to other parts of the body.",
+            "VideoURL": "Ovarian Cancer.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Pancreatic adenocarcinoma",
+            "WDescription": "Pancreatic adenocarcinoma is the most common type of pancreatic cancers. Adenocarcinomas originate in the glandular cells that line the pancreatic duct. Most of these adenocarcinomas occur in the head of the pancreas, the part close to the duodenum.",
+            "VideoURL": "Pancreatic adenocarcinoma.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Pap smear",
+            "WDescription": "Pap smear or Pap test or cervical smear test, is an examination of samples collected from cervical scrapping, under a microscope. The test is mainly done to detect cancerous or precancerous conditions of the cervix. The test also detects viral infections of the cervix such as Human Papilloma Virus (HPV).",
+            "VideoURL": "Pap smear.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Primary tumor",
+            "WDescription": "Primary tumor is an outgrowth that develops at a site where tumor progression begins as a result of uncontrolled cell growth. The growth continues till a cancerous mass is formed.",
+            "VideoURL": "Primary tumor.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Prostate adenocarcinoma",
+            "WDescription": "Prostate adenocarcinoma is the most common type of prostate cancer that arises when semen secreting cells of the prostate gland mutate into cancer cells. This adenocarcinoma most commonly occurs in the peripheral zone of the prostate gland.",
+            "VideoURL": "Prostate adenocarcinoma.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Prostate Cancer",
+            "WDescription": "Prostate cancer most often refers to as Adenocarcinoma or Glandular carcinoma is a cancer that develops in the prostate an exocrine gland in a male reproductive system.",
+            "VideoURL": "Prostate Cancer.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Proteasomes",
+            "WDescription": "Proteasomes are complex cellular enzymes found in both normal and cancerous cells. They are responsible for the activation of regulatory proteins such as NF-KB, an important transcription factor, or degradation of p53, a protein vital to the induction of cell-division and the control of apoptosis.",
+            "VideoURL": "Proteasomes.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Proto-oncogenes",
+            "WDescription": "Proto-oncogenes are a group of genes that regulate cell growth, proliferation and differentiation by encoding proteins under normal conditions. Some of the proto-oncogenes include- RAS, WNT, MYC, ERK and TRK.",
+            "VideoURL": "Proto-oncogenes.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Radiation therapy",
+            "WDescription": "Radiotherapy or radiation therapy is the use of ionizing radiation such as X-rays to destroy rapidly dividing cancer cells in a localized area and control cancer.",
+            "VideoURL": "Radiation therapy.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Radiofrequency ablation",
+            "WDescription": "Radiofrequency ablation is a minimally invasive therapy for cancers. It is used to treat peripheral tumors. The basic principle behind radiofrequency ablation is converting radiofrequency waves into heat, leading to coagulative necrosis of tumor.",
+            "VideoURL": "Radiofrequency ablation.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Renal cell carcinoma (RCC)",
+            "WDescription": "Renal cell carcinoma (RCC), also known as hypernephroma, is the most common type of kidney cancer and constitutes a group of epithelial tumors. The tumors typically arise in the renal cortex and originate in the epithelial lining of the proximal convoluted tubule.",
+            "VideoURL": "Renal cell carcinoma (RCC).mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Sarcoma",
+            "WDescription": "Sarcoma is a malignant tumour arising from the connective tissues such as the bone, blood vessels, cartilage, muscle and fat.",
+            "VideoURL": "Sarcoma.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Secondary tumor",
+            "WDescription": "A tumor that has spread from the site of origin or primary site to another site is known as secondary tumor.",
+            "VideoURL": "Secondary tumor.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "squamous cell carcinoma",
+            "WDescription": "Squamous cell carcinoma (SCC), also called epidermoid carcinoma, is a malignant tumor that originates from the squamous cells lining the airways in the lungs. ",
+            "VideoURL": "squamous cell carcinoma.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Superior Sulcus Tumors",
+            "WDescription": "Superior sulcus tumors, also know as Pancoast’s tumors, are an unusual presentation of non-small cell lung cancer (NSCLC). Superior sulcus tumor is characterized by pain that initially arises in the shoulder and then radiates to the chest wall or to the neck.",
+            "VideoURL": "Superior Sulcus Tumors.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Tissue-specific markers",
+            "WDescription": "Tissue-specific markers are associated with the specific tissues that develop cancer. These markers are usually not related to any cancer specifically as they may be present in elevated levels even when there is no cancer.",
+            "VideoURL": "Tissue-specific markers.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "TNM staging system",
+            "WDescription": " TNM classification is a cancer staging system that is useful in describing the extent of cancer in the body. T indicates tumor size, N the lymph node involvement and M indicates metastasis.",
+            "VideoURL": "TNM staging system.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Transforming growth factor",
+            "WDescription": "Transforming growth factor, also referred to as tumor growth factor or TGF, are polypeptides that act both as suppressors and initiators of tumor growth. TGF is of two main classes - TGFα and TGFβ. TGFα is highly expressed in cancers and induces its action by binding to the epidermal growth factor receptors (EGFRs), stimulating cell division. In contrast, TGFβ initiates mechanisms that suppress or block the early development of cancer.  ",
+            "VideoURL": "Transforming growth factor.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Tumor biopsies",
+            "WDescription": "A biopsy is removal of tissue or cells from the body for examination under a microscope. Biopsies are fairly accurate and are used widely in diagnosis of tumors and to make therapeutic decisions.",
+            "VideoURL": "Tumor biopsies.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "Tumor markers",
+            "WDescription": "Tumor markers, also known as tumor antigens, are substances that are elevated in cancer and can be detected in blood, urine or body tissues and are vital in the diagnosis of cancers.",
+            "VideoURL": "Tumor markers.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Tumor necrosis factor",
+            "WDescription": "Tumor necrosis factors or TNFs are a group of cytokines produced by immune cells that induce apoptosis or programmed cell death in tumor cells. They are also produced in response to infections and exhibit proinflammatory activities. TNFs are of three main types - TNFα, TNFβ, and TNFγ.",
+            "VideoURL": "Tumor necrosis factor.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Tumours",
+            "WDescription": "Tumors are abnormal mass of tissue that form when the cells in a specific area divide and grow abnormally, without undergoing cell death and having no physiological function. Tumors can be cancerous or non-cancerous.",
+            "VideoURL": "Tumours.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Tyrosine Kinase Inhibitors",
+            "WDescription": "Tyrosine kinases are enzymes that catalyze tyrosine phosphorylation and modulate growth factor signaling, in turn bringing about cell proliferation, differentiation, angiogenesis, and apoptosis.",
+            "VideoURL": "Tyrosine Kinase Inhibitors.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Vascular endothelial growth factor (VEGF)",
+            "WDescription": "Vascular endothelial growth factor (VEGF) is a potent angiogenic inducer that restores oxygen and nutrient supply for tumor progression. VEGF is a group of glycoproteins that includes-VEGF-A, VEGF-B, VEGF-C, VEGF-D, VEGF-E, PIGF-1 and PIGF-2.",
+            "VideoURL": "Vascular endothelial growth factor (VEGF).mp4"
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "hivandaids": [
+        {
+            "WID": "1",
+            "WTitle": "Accessory genes",
+            "WDescription": "Accessory genes are additional genes present in viruses and bacteria, which perform additional functions to the cells. These genes are not essential for the normal development of micro-organisms. The accessory genes present in HIV are tat, Rev, Nef, Vif, Vpr, Vpu, Vpx, and the long terminal repeats (LTRs). These genes help in HIV replication, cell to cell transmission, virion assembly, release etc. In addition, LTRs contain both promoter (i.e., enhancer) and suppressing elements that influence viral transcription.",
+            "VideoURL": "accessory_genes.mp4"
+        },
+        {
+            "WID": "2",
+            "WTitle": "Acute Infection",
+            "WDescription": "Acute or primary HIV infection is the first stage of HIV infection and usually refers to 1 to 2 weeks after infection where no HIV-antibodies are detected in the blood. This stage is accompanied by mild symptoms such as low grade fever, chills, headache, muscle pain, sweating, sore throat, nausea and vomiting.",
+            "VideoURL": "Acute Infection.mp4"
+        },
+        {
+            "WID": "3",
+            "WTitle": "Acute retrovirus syndrome",
+            "WDescription": "The group of symptoms associated with acute HIV infection is collectively called acute retrovirus syndrome. Commonly observed symptoms are fever, chills, headache, muscle pain, night sweats, sore throat, nausea and vomiting.",
+            "VideoURL": "Acute retrovirus syndrome.mp4"
+        },
+        {
+            "WID": "4",
+            "WTitle": "Acquired Immunodeficiency Syndrome (AIDS)",
+            "WDescription": "Acquired Immunodeficiency Syndrome (AIDS) is a severe immunological condition caused by the human immunodeficiency virus (HIV). AIDS increases susceptibility to opportunistic infections and cancers due to the defect in cell-mediated immune response.",
+            "VideoURL": "AIDS.mp4"
+        },
+        {
+            "WID": "5",
+            "WTitle": "Antibodies",
+            "WDescription": "Antibodies or immunoglobulins are immune proteins found in blood or lymph, and produced by B lymphocytes as an immune defence against foreign substances (antigens). They combine with the very antigen that triggers their synthesis to neutralize their action.",
+            "VideoURL": "Antibodies.mp4"
+        },
+        {
+            "WID": "6",
+            "WTitle": "Antibody dependent cellular cytotoxicity (ADCC)",
+            "WDescription": "Antibody dependent cellular cytotoxicity (ADCC) is a mechanism of cellular cytotoxicity of virally infected cells. Here, The ADCCs recognize and bind to antigens on the target cell surface. These complexes are recognized by natural killer cells (NK cells) or by other monocyte cells with receptors for antibodies on their surface and they mediate destruction of the pathogen. ",
+            "VideoURL": "ADCC.mp4"
+        },
+        {
+            "WID": "7",
+            "WTitle": "Antibody-mediated immunity",
+            "WDescription": "Antibody-mediated immunity, also called humoral immunity, refers to the immune response initiated by antibodies released from B-cells. B-cells, on interaction with antigens, proliferate and differentiate into specialized cells called plasma cells and memory cells. The plasma cells produce antibodies that bind to the antigen and destroy them, while the memory cells remain in the body for a longer duration and stimulate B-cells to produce antibodies when the body is again exposed to the same antigen. ",
+            "VideoURL": "Antibody-mediated immunity.mp4"
+        },
+        {
+            "WID": "8",
+            "WTitle": "Antigens",
+            "WDescription": "Antigens or immunogens are substances that can stimulate an immune response by producing antibodies against it. Antigens can be proteins or polysaccharides of microorganisms, toxins, foreign blood cells, cells of transplanted organs, etc.",
+            "VideoURL": "Antigens.mp4"
+        },
+        {
+            "WID": "9",
+            "WTitle": "Antigen presenting cell",
+            "WDescription": "Antigen presenting cells (APCs) present antigen to T-cells. APC breaks down the antigen into smaller peptides. The processed antigens are complexed with major HLA complex (MHC) class I or II molecules, then transported to the surface of APC where they interact with T cell receptors. Macrophages, Dendritic cells, and B-cells are the major antigen-presenting cells.",
+            "VideoURL": "Antigen presenting cell.mp4"
+        },
+        {
+            "WID": "10",
+            "WTitle": "Antiretroviral drugs",
+            "WDescription": "Antiretroviral drugs are medications used to treat retrovirus infection, primarily HIV. Antiretroviral medications include various groups of drugs that act at different stages of the viral replication cycle for example entry inhibitors, reverse transcription inhibitors, protease inhibitors, etc. Standard antiretroviral therapy (ART) consists of the use of at least three antiretroviral (ARV) drugs to maximally suppress the HIV virus and stop the progression of the disease. This approach is known as Highly Active Antiretroviral Therapy or HAART.",
+            "VideoURL": "Antiretroviral drugs.mp4"
+        },
+        {
+            "WID": "11",
+            "WTitle": "Apoptosis",
+            "WDescription": " Apoptosis or programmed cell death refers to the natural sequence of events that bring about death of old cells. Increased viral load during HIV infection predisposes both the infected and non-infected lymphocytes, particularly CD4+ and CD8+ T cells and antigen presenting cells (APCs), to undergo apoptosis. Death of T-lymphocytes and APCs suppresses the immune system, making way for secondary infections.",
+            "VideoURL": "Apoptosis.mp4"
+        },
+        {
+            "WID": "12",
+            "WTitle": "B lymphocytes",
+            "WDescription": "B lymphocytes or B-cells are white blood cells of immune system which develop in the bone marrow and then migrate to various parts of the body via the bloodstream. B cells express immunoglobulin on their surface which interacts with antigen. This interaction results in proliferation and differentiation of B-cells into antibody producing plasma cells and memory cells. Thus produced antibodies bind to the antigen and destroy them, while the memory cells remain in the body for a longer duration and stimulate B-cells to produce antibodies when the body is again exposed to the same antigen.",
+            "VideoURL": "B lymphocytes.mp4"
+        },
+        {
+            "WID": "13",
+            "WTitle": "Branched chain DNA",
+            "WDescription": "Branched chain DNA forms when a third strand of DNA is introduced to the double stranded DNA which can hybridize with the frayed regions of the pre-existing double-strand. Branched DNA (bDNA) assay is used to diagnose HIV-1 and HCV (hepatitis C virus). The assay measures viral load and also used to measure disease progression and effectiveness of treatment. bDNA assay is an alternative way to measure viral load by reverse transcriptase-polymerase chain reaction (RT-PCR).\r",
+            "VideoURL": "Branched chain DNA.mp4"
+        },
+        {
+            "WID": "14",
+            "WTitle": "Candidiasis",
+            "WDescription": "Candidiasis is the fungal infection caused by Candida species, especially Candida albicans. These are the commonest fungal pathogens that affect humans causing either mucosal or systemic infections especially in immunocompromised people such as HIV infected patients. Oropharyngeal, esophageal, and vulvovaginal disease are the three forms of candidiasis affecting persons with HIV infection.",
+            "VideoURL": "Candidiasis.mp4"
+        },
+        {
+            "WID": "15",
+            "WTitle": "CCR5 Receptor ",
+            "WDescription": "CCR5 (Chemokine receptor 5) is an integral membrane protein on the surface of some immune cells. HIV binds to CCR5 along with the CD4 receptor to gain entry into the host cell.",
+            "VideoURL": "CCR5 receptor.mp4"
+        },
+        {
+            "WID": "16",
+            "WTitle": "CD4 Cell ",
+            "WDescription": "CD4 cell, also known as helper T cell or CD4 lymphocyte is a white blood cell that carries CD4 receptor on its surface. CD4 cells play an important role in immune response by signaling other immune cells to perform their functions. T cell with CD4 receptor recognizes antigens on the surface of a virus-infected cell and secretes lymphokines that stimulate B cells and cytotoxic T cells. The pathogenicity of HIV is primarily due to destruction of CD4 cells, thereby suppressing this immune pathway.",
+            "VideoURL": "CD4 Cell.mp4"
+        },
+        {
+            "WID": "17",
+            "WTitle": "CD4 cell count",
+            "WDescription": "CD4 cell count is the measurement of the number of CD4 cells in a blood sample. The CD4 count is one of the most useful indicators of immune system and the progression of AIDS. CD4 cell count in a normal healthy person varies between 500 and 1,400 cells\/mm3 of blood. CD4 count at or below 200 cells\/mm3 defines HIV infection.",
+            "VideoURL": "CD4 cell count.mp4"
+        },
+        {
+            "WID": "18",
+            "WTitle": "CD8 T lymphocyte",
+            "WDescription": "CD8 T lymphocyte is also known as killer T cell, suppressor T cell or cytotoxic T cell. CD8 cells possess receptors (TCRs) on their surface that can recognize specific antigens and bind to them and destroy them. CD8 cells can induce death in damaged, dysfunctional, infected or cancerous cells either by releasing  perforin, enzymes, lymphokines or cytokines that bring about destruction of the target cell.",
+            "VideoURL": "CD8 T lymphocyte.mp4"
+        },
+        {
+            "WID": "19",
+            "WTitle": "cDNA",
+            "WDescription": "cDNA or complementary DNA is single-stranded DNA that is complementary to a certain sequence of messenger RNA. When HIV enters the host cell, the viral reverse transcriptase transcribes the viral RNA into a single strand of viral DNA (cDNA), which is formed into a double-stranded DNA using the viral enzyme. This integrates with the host genome and brings about viral replication. ",
+            "VideoURL": "cDNA.mp4"
+        },
+        {
+            "WID": "20",
+            "WTitle": "Cell-mediated Immunity ",
+            "WDescription": "Cell-mediated immunity is referred to as immune response induced directly on the target cells by immune cells such as CD8 T cells, macrophages, and NK cells (Natural killer cells). Macrophages kill the target cells by a process called phagocytosis, NK cells induce cytokine mediated apoptosis whereas CD8 T cells induce cell death by releasing either enzymes or cytokines. HIV infects and destroys CD4+ T cells vital for the stimulation of cell mediated immune responses, thereby suppressing this immune pathway.\r",
+            "VideoURL": "Cell-mediated immunity.mp4"
+        },
+        {
+            "WID": "21",
+            "WTitle": "Chemokines",
+            "WDescription": "Chemokines are small proteins that are secreted by cells and serve as chemical messengers to the immune system. Chemokines are involved in majority of processes such as controlling infectious diseases, allergic reactions, inflammation, and tumor growth.",
+            "VideoURL": "Chemokines.mp4"
+        },
+        {
+            "WID": "22",
+            "WTitle": "CXCR4 receptor",
+            "WDescription": "CXCR4 (Chemokine receptor 4) also known as fusin or CD184 is a protein on the surface of some immune cells. CXCR4 acts as a co-receptor to HIV along with CCR5 and helps HIV to enter the host cell.",
+            "VideoURL": "CXCD4 receptor.mp4"
+        },
+        {
+            "WID": "23",
+            "WTitle": "Cytokines",
+            "WDescription": "Cytokines are small soluble protein molecules secreted by immune cells that act as messengers in cell-cell communication. Body produces different types of cytokines that regulate innate and adaptive immune responses to diseases and infections. Lack of certain cytokines can lead to defective or reduced functioning of immune cells like macrophage, dendritic cells, cytotoxic T lymphocytes, natural killer cells, etc. Type 1 cytokine production, which helps in the generation of effector and memory T lymphocytes, is reduced by HIV infection thus suppressing the immune response. ",
+            "VideoURL": "Cytokines.mp4"
+        },
+        {
+            "WID": "24",
+            "WTitle": "Cytomegalovirus retinitis",
+            "WDescription": "Cytomegalovirus retinitis is an inflammation of the retina of the eye caused by cytomegalovirus (CMV). CMV infections occur generally in people with weakened immune systems. CMV retinitis is the most common cause of blindness among people infected with HIV.",
+            "VideoURL": "Cytomegalovirus retinitis.mp4"
+        },
+        {
+            "WID": "25",
+            "WTitle": "Cytotoxic T-lymphocyte ",
+            "WDescription": "Cytotoxic T lymphocyte is also known as killer T cell, suppressor T cell or CD8 T lymphocyte. Cytotoxic T lymphocytes possess receptors (TCRs) on their surface that can recognize specific antigens and bind to them and destroys them. Cytotoxic T lymphocytes can induce death in damaged, dysfunctional, infected or cancerous cells by releasing either perforin, enzymes, lymphokines or cytokines that bring about destruction of the target cell. ",
+            "VideoURL": "Cytotoxic T lymphocyte.mp4"
+        },
+        {
+            "WID": "26",
+            "WTitle": "Delayed type hypersenstivity",
+            "WDescription": "Delayed type hypersensitivity or Type IV hypersensitivity is a cell-mediated immune reaction. Generally, these reactions take 2-3 days to develop and hence called delayed hypersensitivity. Delayed type hypersensitivity is used as a diagnostic tool to determine HIV infection.",
+            "VideoURL": "Delayed type hypersensitivity.mp4"
+        },
+        {
+            "WID": "27",
+            "WTitle": "Dideoxynucleotides",
+            "WDescription": "Dideoxynucleotides or ddNTPs are chain-terminating precursors of DNA replication. ddNTPs lack a 3'-OH (hydroxyl) group that is necessary for 5'-3' DNA synthesis. Hence when added to the end of the DNA strand by DNA polymerase, ddNTPs block further polymerization. These are used for Sanger method of DNA sequencing and as anti-retroviral drug for the treatment of AIDS.",
+            "VideoURL": "Dideoxynucleotides.mp4"
+        },
+        {
+            "WID": "28",
+            "WTitle": "ELISA (Enzyme-Linked ImmunoSorbent Assay)  ",
+            "WDescription": "ELISA is a rapid immunochemical test that involves an enzyme linked to an antibody or antigen as a marker for the detection of a specific protein, especially an antigen or antibody. ELISA is routinely used to determine the presence of antibodies to HIV in the blood.",
+            "VideoURL": "ELISA.mp4"
+        },
+        {
+            "WID": "29",
+            "WTitle": "Entry inhibitors ",
+            "WDescription": "Entry inhibitors prevent HIV-1 from binding to the host cells. These drugs bind to CCR5, the HIV co-receptor that is used by the virus along with the CD4 receptor, to attach and enter the host cells.",
+            "VideoURL": "Entry inhibitors.mp4"
+        },
+        {
+            "WID": "30",
+            "WTitle": "Fusion inhibitors ",
+            "WDescription": "Fusion inhibitors are a class of anti-HIV drugs that prevent fusion of virus to host cell after the attachment of HIV to the host cell membrane, thus preventing HIV from entering and infecting human cells. ",
+            "VideoURL": "Fusion inhibators.mp4"
+        },
+        {
+            "WID": "31",
+            "WTitle": "Gingivitis",
+            "WDescription": "Gingivitis is the inflammation of the gums characterised by red, swollen and bleeding gums caused by bacterial infection. It is the first stage of periodontial disease.",
+            "VideoURL": "Gingivitis.mp4"
+        },
+        {
+            "WID": "32",
+            "WTitle": "HAART",
+            "WDescription": "HAART (Highly Active Antiretroviral Treatment) is the treatment regimen to control HIV replication and progression of AIDS. HAART combines at least three anti-retroviral (ARV) drugs, having typically two nucleoside or nucleotide reverse transcriptase inhibitors (NRTI’s) with a non-nucleoside reverse transcriptase inhibitor (NNRTI) or a protease inhibitor (PI) or other NRTI. is initiated when CD4 cell counts fall below a pre-specified level, for example 250 cells\/microliter. Monitoring of treatment involves following improvement in CD4+ cell counts.",
+            "VideoURL": "HAART.mp4"
+        },
+        {
+            "WID": "33",
+            "WTitle": "Hairy leukoplakia",
+            "WDescription": "Hairy leukoplakia or Oral hairy leukoplakia is a disorder caused by Epstein-Barr virus that generally occurs in HIV positive patients. This disease is characterized by white patches on the side of the tongue with a hairy appearance. Sometimes patches may also appear on inside of the cheek, or on outer female genitals.",
+            "VideoURL": "Hairy leukoplakia.mp4"
+        },
+        {
+            "WID": "34",
+            "WTitle": "Helper T cell",
+            "WDescription": "Helper T cell, also known as CD4 cell or CD4 lymphocyte is a white blood cell that carries CD4 receptor on its surface. Helper T cells play an important role in immune response by signaling other immune cells to perform their functions. T cell with CD4 receptor recognizes antigens on the surface of a virus-infected cell and secretes lymphokines that stimulate B cells and cytotoxic T cells. The pathogenicity of HIV is primarily due to destruction of helper T cells, thereby suppressing this immune pathway.",
+            "VideoURL": "Helper T cell.mp4"
+        },
+        {
+            "WID": "35",
+            "WTitle": "Herpetic stomatitis",
+            "WDescription": "Herpetic stomatitis is a contagious viral infection of mouth that causes multiple ulcers and inflammation on the tongue due to herpes simplex virus infection in HIV positive patients. The ulcerations are very deep, painful and may persist for several weeks.",
+            "VideoURL": "Herpetic stomatitis.mp4"
+        },
+        {
+            "WID": "36",
+            "WTitle": "Heterosexual transmission",
+            "WDescription": "Heterosexual transmission is the most common mode of transmission of HIV. It spreads by having sex with an infected partner of the opposite gender. The virus can enter the body through the lining of the vagina, vulva, penis, rectum, or mouth during sex.",
+            "VideoURL": "Heterosexual transmission.mp4"
+        },
+        {
+            "WID": "37",
+            "WTitle": "HIV envelope",
+            "WDescription": "An envelope is the outer protective membrane of some viruses made of lipoproteins. The viral envelope is a host-derived lipoprotein membrane with viral glycoproteins that are identified as gp120 and gp41 and these play a crucial role in HIV infection. gp120 allows the virus to bind to human cells, while gp41 mediates fusion of the viral membrane and the cell membrane, thus allowing entry of the virus into the cell.",
+            "VideoURL": "HIV envelope.mp4"
+        },
+        {
+            "WID": "38",
+            "WTitle": "Hodgkins lymphoma",
+            "WDescription": "Hodgkin's lymphoma is a type of cancer of immune cells and is characterized by enlarged lymph nodes and can spread to the spleen, liver, bone marrow, or other organs. It affects the B-cells (antibody-producing cells) and is characterized by the presence of cancer cells known as “Reed-Sternberg cells”. People with HIV are at increased risk of developing Hodgkin’s lymphoma. ",
+            "VideoURL": "Hodgkins lymphoma.mp4"
+        },
+        {
+            "WID": "39",
+            "WTitle": "Human Immunodeficiency Virus  type 1",
+            "WDescription": "HIV-1 is an RNA virus that belongs to genus Lentivirus of family Retroviridae. The retrovirus HIV-1 causes acquired immunodeficiency syndrome (AIDS) by infecting immune cells. HIV, after getting entry to the host cell, uses host cell machinery to produce a large number of viral copies and converts it into an HIV factory. ",
+            "VideoURL": "HIV type 1.mp4"
+        },
+        {
+            "WID": "40",
+            "WTitle": "Human Immunodeficiency Virus  type 2",
+            "WDescription": "HIV-2 first isolated in West Africa, causes AIDS similar to HIV-1. HIV-2 is endemic and has lower infectivity when compared to HIV-1. HIV-2 also has less chances of mother-to-child transmission and does not always react similarly to HIV-1 medications.",
+            "VideoURL": "HIV type 2.mp4"
+        },
+        {
+            "WID": "41",
+            "WTitle": "Humoral immune response",
+            "WDescription": "Humoral immune response, also called antibody mediated immunity, refers to the immune response initiated by antibodies released from B-cells. B-cells, on interaction with antigens, proliferate and differentiate into specialized cells called plasma cells and memory cells. The plasma cells produce antibodies that bind to the antigen and destroy them, while the memory cells remain in the body for a longer duration and stimulate B-cells to produce antibodies when the body is again exposed to the same antigen.",
+            "VideoURL": "Humoral immune response.mp4"
+        },
+        {
+            "WID": "42",
+            "WTitle": "Hypergammaglobulinemia",
+            "WDescription": "Hypergammaglobulinemia is a condition characterized by increased levels of immunoglobulins (gammaglobulins). Hypergammaglobulinemia is a hall-mark of HIV infection and hence is used as an indicative factor of HIV infection. ",
+            "VideoURL": "Hypergammaglobulinemia.mp4"
+        },
+        {
+            "WID": "43",
+            "WTitle": "Idiopathic thrombocytopenic purpura (ITP)",
+            "WDescription": "Idiopathic thrombocytopenic purpura (ITP) is an autoimmune disorder in which immune system destroys platelets, the cells that participate in blood clotting process and thus results in easy bruising and bleeding. ITP is a complication seen in HIV patients. ",
+            "VideoURL": "Idiopathic thrombocytopenic purpura.mp4"
+        },
+        {
+            "WID": "44",
+            "WTitle": "Immune Reconstitution Syndrome (IRS)",
+            "WDescription": "Antiretroviral therapy is given to the AIDS patients for treatment of opportunistic infections. Some exacerbations of infection, fever, and swelling can occur soon after the patient begins treatment due to reconstitution of immunity as CD4 count rises in body. These inflammatory reactions are classified under Immune Reconstitution Syndrome (IRS). To avoid IRS, when feasible, the treatment for the opportunistic infection such as TB, should be begun a few weeks before HAART.",
+            "VideoURL": "Immune Reconstitution Syndrome.mp4"
+        },
+        {
+            "WID": "45",
+            "WTitle": "Immunity",
+            "WDescription": "Immunity is the ability of an organism to protect body from a disease caused by an infectious agent. Immunity can either be active (by having and recovering from an infection or by being vaccinated against an infection) or passive (by receiving antibodies through antiserum injection or through transfer of antibodies from mother to baby via placenta or breast milk). HIV infects immune system thus making the person vulnerable to infections by other agents.",
+            "VideoURL": "Immunity.mp4"
+        },
+        {
+            "WID": "46",
+            "WTitle": "Immunization",
+            "WDescription": "Immunization is the development of immunity against a specific pathogen to prevent an infection usually by administering vaccines. Immunization is as effective tool to control or eliminate infectious diseases. Immunization with viral proteins is one of the techniques used to alter the immune response in HIV-infected patients. ",
+            "VideoURL": "Immunization.mp4"
+        },
+        {
+            "WID": "47",
+            "WTitle": "Immunofluorescence",
+            "WDescription": "Immunofluorescence is the technique to detect viral proteins in infected cells using fluorescent antibodies. HIV-infected cells are fixed onto a glass slide and reacted with test serum and then fluorescein conjugated anti-human gammaglobulin is added. Appearance of apple green colored fluorescence under fluorescent microscope indicates the presence of HIV antigen.",
+            "VideoURL": "Immunofluorescence.mp4"
+        },
+        {
+            "WID": "48",
+            "WTitle": "Immunogenicity",
+            "WDescription": "Immunogenicity is the ability of a particular substance (immunogen), such as an antigen or vaccine to induce an immune response in the body to prevent or control an infection. p24 capsid protein present in HIV acts as an immunogen in HIV infection.",
+            "VideoURL": "Immunogenicity.mp4"
+        },
+        {
+            "WID": "49",
+            "WTitle": "Integrase",
+            "WDescription": "Integrase is the viral enzyme that plays an important role in HIV life cycle. The role of Integrase is to insert the viral DNA formed after reverse transcription of RNA into the host chromosome, thus initiating viral replication.",
+            "VideoURL": "Integrase.mp4"
+        },
+        {
+            "WID": "50",
+            "WTitle": "Integrase inhibitors ",
+            "WDescription": "Integrase inhibitors are a class of anti-HIV drugs that inhibit the action of integrase, the enzyme necessary for inserting viral DNA formed after reverse transcription of RNA into the host chromosome. This prevents viral replication inside the host cell and restores the immune system.",
+            "VideoURL": "Integrase inhibitors.mp4"
+        },
+        {
+            "WID": "51",
+            "WTitle": "Interferon-gamma",
+            "WDescription": "Interferon-gamma (IFN-γ) is a soluble cytokine protein released by lymphocytes following attack by a foreign antigen that activates other immune cells. IFN-γ is produced by natural killer (NK) cells as part of the innate immune response, and by CD4 and CD8 cytotoxic T lymphocytes as cell mediated immune response. In HIV infected people IFN-γ production is markedly decreased thereby suppressing the immune response.  ",
+            "VideoURL": "Interferon-gamma.mp4"
+        },
+        {
+            "WID": "52",
+            "WTitle": "Interleukins",
+            "WDescription": "Interleukins are cytokine proteins secreted chiefly by white blood cells (leucocytes) that mediate communication between cells. Interleukins are particularly involved in immune response and also take part in cell growth and differentiation. HIV infected cells demonstrate a marked decrease in interleukin-2 production which results in decreased immune response. ",
+            "VideoURL": "Interleukins.mp4"
+        },
+        {
+            "WID": "53",
+            "WTitle": "Intravenous drug users (IDUs)",
+            "WDescription": "Intravenous drug users (IDUs) are people who take drugs intravenously by using needles or syringes. Sharing of needles during drug administration or blood transfusion is the common mode of AIDS transmission.",
+            "VideoURL": "Intravenous drug users.mp4"
+        },
+        {
+            "WID": "54",
+            "WTitle": "Kaposi's sarcoma",
+            "WDescription": "Kaposi's sarcoma is a cancerous tumour arising from blood vessels, usually in the skin, forming skin lesions, or mucous membranes that line the mouth, nose and anus. They also spread to other organs in the body, such as the lungs, liver, or intestinal tract. It is the most common form of cancer in AIDS patients.",
+            "VideoURL": "Kaposi's Sarcoma.mp4"
+        },
+        {
+            "WID": "55",
+            "WTitle": "Ligase",
+            "WDescription": "Ligase catalyzes formation of a phosphodiester bond between the 5' phosphate of one strand of DNA and the 3' hydroxyl of another. Ligase plays an important role in the pathogenesis of HIV by integrating viral genome into the host chromosomal DNA. This is followed by viral replication and disease progression.",
+            "VideoURL": "Ligase.mp4"
+        },
+        {
+            "WID": "56",
+            "WTitle": "Lymphadenopathy",
+            "WDescription": "Lymphadenopathy is the enlargement of the lymph nodes, usually indicative of infections or autoimmune diseases.",
+            "VideoURL": "Lymphadenopathy.mp4"
+        },
+        {
+            "WID": "57",
+            "WTitle": "Lymphocyte",
+            "WDescription": "Lymphocytes are white blood cells that help the body fight infection and disease. The two main types of lymphocytes are B cells and T cells. B cells make antibodies, while T cells attack the body cells that are cancerous or infected.",
+            "VideoURL": "Lymphocyte.mp4"
+        },
+        {
+            "WID": "58",
+            "WTitle": "Lymphokines",
+            "WDescription": "Lymphokines are soluble protein substances secreted by activated lymphocytes following contact with antigen. They play a role in macrophage activation. A decrease in lymphokine production is observed during HIV infection leading to decreased immune response. ",
+            "VideoURL": "Lymphokines.mp4"
+        },
+        {
+            "WID": "59",
+            "WTitle": "Lymphoma",
+            "WDescription": "Lymphoma is a malignant tumour in the lymph nodes or other lymphatic tissues. Proliferation of the malignant lymphoid cells results in painless enlargement of one or more lymph nodes.",
+            "VideoURL": "Lymphoma.mp4"
+        },
+        {
+            "WID": "60",
+            "WTitle": "Lytic cycle",
+            "WDescription": "Lytic cycle is the method of viral reproduction where host cell is lysed to liberate a large number of progeny virions which in turn infect other cells. HIV follows lytic cycle and destroys immune system by infecting immune cells. ",
+            "VideoURL": "Lytic cycle.mp4"
+        },
+        {
+            "WID": "61",
+            "WTitle": "Macrophage",
+            "WDescription": "Macrophages are phagocytic white blood cells that ingest foreign materials, such as pathogens, in an immune response. They also secrete substances that stimulate other cells of the immune system, like lymphocytes.",
+            "VideoURL": "Macrophage.mp4"
+        },
+        {
+            "WID": "62",
+            "WTitle": "Memory Cell",
+            "WDescription": "Memory cells are a special type of B and T cells that are produced when the immune system encounters an antigen. Memory cells remain dormant for a longer duration and on re-exposure to that antigen they activate immune response much faster than the response expressed on first exposure. Memory cells are found to deplete rapidly after HIV infection thus increasing the susceptibility of the person to infections. ",
+            "VideoURL": "Memory cells.mp4"
+        },
+        {
+            "WID": "63",
+            "WTitle": "Molluscum contagiosum",
+            "WDescription": "Molluscum contagiosum is a viral skin infection that causes raised, pearly white or flesh-colored bumps on the face, neck, armpits, hands, and genital area. Immunocompromised people who are HIV positive may have a rapidly worsening progression of molluscum contagiosum.",
+            "VideoURL": "Molluscum contagiosum.mp4"
+        },
+        {
+            "WID": "64",
+            "WTitle": "Monocyte",
+            "WDescription": "Monocytes are mononuclear phagocytic white blood cells which play an important role in immune response. These cells are produced in the bone marrow and then they enter the blood and migrate into the tissues where they differentiate into macrophages or dendritic cells. ",
+            "VideoURL": "Monocytes.mp4"
+        },
+        {
+            "WID": "65",
+            "WTitle": "Natural killer cells",
+            "WDescription": "Natural killer cells or NK cells are small cytotoxic lymphocytes that play a major role in innate immunity. NK cells are a part of first line of defense against cancer and infected cells. These cells are called Natural killers as they do not require activation by specific antigens present on the cell instead they are activated by cytokines released from other immune cells. HIV infection causes a shift in immunoregulatory cytokines and chemokine production resulting in reduced functioning of natural killer cells.",
+            "VideoURL": "Natural killer cells.mp4"
+        },
+        {
+            "WID": "66",
+            "WTitle": "Non-Hodgkin's Lymphoma (NHL)",
+            "WDescription": "Non-Hodgkin's Lymphoma or NLH is the cancer that originates in the lymphatic system, due to abnormal growth of lymphocytes. It can affect lymph nodes, spleen, liver, bone marrow, and other organs of the immune system. NHL is the most common opportunistic cancer in HIV positive persons.",
+            "VideoURL": "Non- hodgkin's  lymphoma.mp4"
+        },
+        {
+            "WID": "67",
+            "WTitle": "Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTIs)",
+            "WDescription": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are a class of anti-HIV drugs that suppress HIV reproduction by binding to the enzyme reverse transcriptase and prevent the synthesis of cDNA.",
+            "VideoURL": "NNRTIs.mp4"
+        },
+        {
+            "WID": "68",
+            "WTitle": "Normalized Inhibitory Quotient (NIQ)",
+            "WDescription": "Normalized Inhibitory Quotient (NIQ) is the measurement of quantity of drug required to control HIV reproduction and disease progression in body.",
+            "VideoURL": "NIQ.mp4"
+        },
+        {
+            "WID": "69",
+            "WTitle": "Nucleic Acid",
+            "WDescription": "Nucleic acid is a large molecule composed of sequence of nucleotides forming the genetic material that guide in protein synthesis. There are two types of nucleic acids - Deoxyribonucleic Acid (DNA) and Ribonucleic Acid (RNA).",
+            "VideoURL": "Nucleic acid.mp4"
+        },
+        {
+            "WID": "70",
+            "WTitle": "Nucleocapsid ",
+            "WDescription": "Nucleocapsid is the basic structure of a virus, consisting of a core of nucleic acid enclosed in a protein coat. Nucleocapsid is generally enclosed by an envelope but some viruses do not possess envelope. These are known as Naked nucleocapsids. ",
+            "VideoURL": "Nucleocapsid.mp4"
+        },
+        {
+            "WID": "71",
+            "WTitle": "Nucleoside",
+            "WDescription": "Nucleoside is the compound consisting of a sugar, usually ribose or deoxyribose, and a nitrogen base a purine (adenine or guanine) or pyrimidine (cytosine, thymine or uracil). Examples of nucleosides include adenosine, guanosine, thymidine, cytidine, uridine, and inosine.",
+            "VideoURL": "Nucleoside.mp4"
+        },
+        {
+            "WID": "72",
+            "WTitle": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+            "WDescription": "Nucleoside reverse transcriptase inhibitor (NRTI) is a class of anti-HIV drugs whose chemical structure is similar to the naturally occurring nucleoside. These molecules replace the natural nucleosides that are used by HIV during cDNA synthesis, leading to the formation of defective cDNA, thus blocking replication of HIV. ",
+            "VideoURL": "NRTI.mp4"
+        },
+        {
+            "WID": "73",
+            "WTitle": "Nucleotides",
+            "WDescription": "Nucleotides are the building blocks of the nucleic acids, DNA and RNA. Nucleotides are composed of phosphate groups, a pentose sugar molecule (deoxyribose sugars in DNA, ribose sugars in RNA), and nitrogen-containing bases such as purines (adenine or guanine) and pyrimidines (cytosine, thymine or uracil).",
+            "VideoURL": "Nucleotide.mp4"
+        },
+        {
+            "WID": "74",
+            "WTitle": "Opportunistic Infection",
+            "WDescription": "Opportunistic infection is an illness caused by a micro-organism that is generally not infective but becomes pathogenic in immunocompromised people such as in HIV positive persons. The opportunistic infections in AIDS patients can be bacterial, viral, fungal, or parasitic.",
+            "VideoURL": "Opportunistic infection.mp4"
+        },
+        {
+            "WID": "75",
+            "WTitle": "Oral thrush",
+            "WDescription": "Oral thrush is a contagious fungal infection of the oral cavity caused by Candida albicans, that most often occurs in infants and children. It is characterised by small whitish eruptions on the mouth, throat and tongue, accompanied by fever, colic and diarrhoea.",
+            "VideoURL": "Oral thrush.mp4"
+        },
+        {
+            "WID": "76",
+            "WTitle": "p24 ",
+            "WDescription": "p24 is the core protein in the HIV virus particle that forms capsid of the virus surrounding the genome of HIV. p24 also stimulates antibody production in the initial stages of HIV infection. The level of p24 found in the blood serum is an indicator of HIV disease progression. ",
+            "VideoURL": "p24.mp4"
+        },
+        {
+            "WID": "77",
+            "WTitle": "Peptide",
+            "WDescription": "Peptide is a molecule formed by joining two or more amino acids, in which the nitrogen atom of one amino acid binds to the carboxyl carbon atom of adjacent amino acid. Peptides perform a variety of biochemical functions by acting as enzymes, hormones, antibiotics, receptors, etc.",
+            "VideoURL": "Peptide.mp4"
+        },
+        {
+            "WID": "78",
+            "WTitle": "Perinatal transmission",
+            "WDescription": "Transmission of a pathogen from mother to child during the perinatal period, the period immediately before and after birth, is known as perinatal transmission. The perinatal period starts at the 20th to 28th week of gestation and ends 1 to 4 weeks after birth. HIV can transmit perinatally from an infected mother to the child, transplacentally, during birth and via breast milk. ",
+            "VideoURL": "Perinatal transmission.mp4"
+        },
+        {
+            "WID": "79",
+            "WTitle": "Pneumonia  ",
+            "WDescription": "Pneumonia is the acute inflammation of the lungs leading to severe respiratory problems and is caused by bacteria, amoebae, viruses, fungi, parasites or injury to the lungs.",
+            "VideoURL": "Pneumonia.mp4"
+        },
+        {
+            "WID": "80",
+            "WTitle": "Polymerase Chain Reaction",
+            "WDescription": "Polymerase chain reaction is a highly sensitive technique used to detect short sequences of DNA by increasing their number under lab conditions. Apart from DNA, this technique can also be used to measure the number of RNA copies present in per milliliter of body fluid, for example to detect HIV viral load in plasma. In the diagnosis of HIV infection, PCRs are qualitative when they determine the presence or absence of the virus and quantitative when they determine the number of virus copies or viral load that are present per milliliter of plasma. RT-PCR or Reverse Transcriptase-PCR is a modified procedure that employs the enzyme reverse transcriptase to produce DNA from RNA.",
+            "VideoURL": "Polymerase chain reaction.mp4"
+        },
+        {
+            "WID": "81",
+            "WTitle": "Probe",
+            "WDescription": "Probe is a fragment of DNA or RNA of variable length (generally 100-1000 bases long). Probe hybridizes to single-stranded nucleic acid (DNA or RNA) having complementary base sequences. Multiple DNA probes are used to detect HIV RNA in plasma to detect HIV infection. ",
+            "VideoURL": "Probe.mp4"
+        },
+        {
+            "WID": "82",
+            "WTitle": "Progressive lymphopenia",
+            "WDescription": "Progressive lymphopenia is a progressive reduction in the number of lymphocytes in the blood. Lymphocytes are a subset of white blood cells that play a major role in body’s immune response. HIV infection leads to gradual decrease in CD4 cell counts which leads to progressive lymphopenia.",
+            "VideoURL": "Progressive lymphopenia.mp4"
+        },
+        {
+            "WID": "83",
+            "WTitle": "Protease inhibitors (PIs) ",
+            "WDescription": "Protease inhibitors (PIs) are a class of anti-HIV drugs which inhibit the activity of the viral protease enzyme that plays an important role in virus assembly and thus interferes with viral reproduction.",
+            "VideoURL": "Protease inhibitors (PIs).mp4"
+        },
+        {
+            "WID": "84",
+            "WTitle": "Proto-oncogenes",
+            "WDescription": "Proto-oncogenes are a group of genes that regulate cell growth, proliferation and differentiation. Mutation of these genes results in defective genes called oncogenes that lead to cancer development. Proto-oncogene c-Myc is known to play an important role in HIV infection. ",
+            "VideoURL": "Proto-oncogenes.mp4"
+        },
+        {
+            "WID": "85",
+            "WTitle": "Provirus",
+            "WDescription": "Provirus is the DNA transcript of an RNA virus that is integrated into the genome of the host cell. It is a latent form of a virus and by replicating with host genome. It can form a large number of progeny virions. Provirus formation is an important step in HIV infection as it initiates viral replication and destruction of the host cell. ",
+            "VideoURL": "Provirus.mp4"
+        },
+        {
+            "WID": "86",
+            "WTitle": "Retrovirus",
+            "WDescription": "Retrovirus is the virus containing RNA as its genetic material and the enzyme reverse transcriptase that can transcribe RNA into DNA inside the host cell. HIV is an example of the retrovirus with two, usually identical, copies of single-stranded RNA, each one attached to a reverse transcriptase enzyme.",
+            "VideoURL": "Retrovirus.mp4"
+        },
+        {
+            "WID": "87",
+            "WTitle": "Reverse transcriptase",
+            "WDescription": "Reverse transcriptase is the enzyme produced by HIV and other retroviruses that transcribes the viral RNA into a single strand of viral DNA (cDNA). cDNA formation is the first step of HIV replication. Thus formed cDNA is then formed into a double-stranded DNA using the viral enzyme that gets incorporated into the host genome. ",
+            "VideoURL": "Reverse transcriptase.mp4"
+        },
+        {
+            "WID": "88",
+            "WTitle": "Reverse transcriptase inhibitors",
+            "WDescription": "Reverse transcriptase inhibitors (RTIs) are a class of anti-HIV drugs that inhibit the activity of the enzyme reverse transcriptase and thus prevent viral DNA synthesis. Reverse transcriptase is the enzyme produced by HIV and other retroviruses that transcribes viral RNA to viral DNA inside the host cell.",
+            "VideoURL": "Reverse transcriptase inhibitors.mp4"
+        },
+        {
+            "WID": "89",
+            "WTitle": "RNA ",
+            "WDescription": "RNA is a group of nucleic acids present in all living cells. It controls cellular chemical activities by conveying DNA’s genetic information for protein synthesis. It also forms the genetic material for some of the viruses. RNA is similar to DNA having a single stranded nucleotide sequence consisting of adenine, quanine, cytosine and uracil attached to ribose sugar. HIV contains two copies of single stranded RNA as the genetic material.",
+            "VideoURL": "RNA.mp4"
+        },
+        {
+            "WID": "90",
+            "WTitle": "Seroconversion illness",
+            "WDescription": "The group of symptoms associated with acute HIV infection is collectively called as seroconversion illness or acute retrovirus syndrome. Commonly observed symptoms are fever, chills, headache, muscle pain, night sweats, sore throat, nausea and vomiting.",
+            "VideoURL": "Seroconversion illness.mp4"
+        },
+        {
+            "WID": "91",
+            "WTitle": "Serological markers",
+            "WDescription": "Serological markers are molecular components used to detect the presence and progression of a particular disease. These markers play an invaluable role in the diagnosis of AIDS. Plasma levels of HIV-1 RNA, p24 antigen, antibodies to HIV-1 structural genes, beta-2 microglobulin, neopterin, and interferon-alpha are measured to note the rate of progression of HIV infection.",
+            "VideoURL": "Serological markers.mp4"
+        },
+        {
+            "WID": "92",
+            "WTitle": "Sexually transmitted disease (STD)",
+            "WDescription": "A sexually transmitted disease (STD), also known as sexually transmitted infection (STI) or venereal disease (VD), is an infection that spreads from an infected person by sexual activities either anal, vaginal, or oral sex. HIV is one of the STDs that is transmitted by heterosexual and\/or homosexual practices. STDs can be prevented by adopting safe sexual practices.",
+            "VideoURL": "Sexually transmitted disease.mp4"
+        },
+        {
+            "WID": "93",
+            "WTitle": "Structural genes",
+            "WDescription": "Structural genes are the genes that encode proteins that are essential for normal growth and development of the organisms. The three structural genes present in HIV are gag, pol and env. \r1) Gag gene determines the viral core and the inner shell. \r2) env gene determines envelope synthesis. \r3) pol gene codes for the enzyme reverse transcriptase (RT).",
+            "VideoURL": "Structural genes.mp4"
+        },
+        {
+            "WID": "94",
+            "WTitle": "Vaccine",
+            "WDescription": "Vaccine is a biological preparation of weakened or dead pathogen (bacterium or virus) or its structure that is administered to provide immunity by stimulating the production of antibodies.",
+            "VideoURL": "Vaccine.mp4"
+        },
+        {
+            "WID": "95",
+            "WTitle": "Vector",
+            "WDescription": "Vector is a carrier which may be a virus or a plasmid. A piece of foreign DNA is inserted in the vector genome to be carried and introduced into a recipient cell. Vectors are used in genetically engineered vaccines to transport genes coding for antigens into the body to stimulate an immune response.",
+            "VideoURL": "Vector.mp4"
+        },
+        {
+            "WID": "96",
+            "WTitle": "Viral budding",
+            "WDescription": "Viral budding is the final step of viral infection. In this process, the genetic material enclosed in the capsid merges with the deformed host cell membrane. The newly formed virus pinches off and enters into circulation to infect new cells.",
+            "VideoURL": "Viral budding.mp4"
+        },
+        {
+            "WID": "97",
+            "WTitle": "Viral load",
+            "WDescription": "Viral load is the amount of virus present in the body fluids that indicates the severity of the infection. In HIV infection viral load is used to monitor disease progression and efficacy or failure of the antiretroviral treatment. The assay measures the amount of viral RNA copies\/ml of plasma.",
+            "VideoURL": "Viral load.mp4"
+        },
+        {
+            "WID": "98",
+            "WTitle": "Virus",
+            "WDescription": "Virus is a micro-organism composed of RNA or DNA as its genetic material. It is surrounded by a protein coat that is capable of causing disease. Virus infects a cell and utilizes host cell machinery to produce more copies of itself.",
+            "VideoURL": "Virus.mp4"
+        },
+        {
+            "WID": "99",
+            "WTitle": "Western blot",
+            "WDescription": "Western blot is a specialized test used to detect a specific protein. It is a confirmatory test for a positive HIV ELISA. Western blotting allows visualizing antibodies directed against each viral protein. Viral proteins are electrophoresed into a gel and the array of anti-HIV antibody specificities is then depicted.",
+            "VideoURL": "Western blot.mp4"
+        },
+        {
+            "WID": "100",
+            "WTitle": "Window period",
+            "WDescription": "Window period is the phase of HIV infection before the detection of antibodies in the plasma. Assays to detect viral RNA or proteins are necessary to confirm the presence of HIV during this time period.",
+            "VideoURL": "Window period.mp4"
+        }
+    ]
+}

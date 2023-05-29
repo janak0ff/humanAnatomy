@@ -1095,6 +1095,22 @@
 			</div>
 			<!-- Address END -->
 		</footer>
+		<script>
+			// Get the value of the 'hideFooter' query parameter from the URL
+			const urlParams = new URLSearchParams(window.location.search);
+			const hideFooter = urlParams.get('hideFooter');
+	
+			// If the 'hideFooter' parameter is present and set to 'true', set a cookie to remember that the footer should be hidden
+			if (hideFooter === 'true') {
+				document.cookie = 'hideFooter=true';
+			}
+	
+			// Check if the 'hideFooter' cookie is set, and if it is, hide the footer element
+			const hideFooterCookie = document.cookie.split(';').find(cookie => cookie.trim().startsWith('hideFooter='));
+			if (hideFooterCookie && hideFooterCookie.split('=')[1] === 'true') {
+				document.querySelector('.footer-one').style.display = 'none';
+			}
+		</script>
 
 		<!-- MainContent End-->
 		<!-- back-to-top -->
