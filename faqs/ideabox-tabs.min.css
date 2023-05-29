@@ -363,7 +363,7 @@
 
 .it-tabs.it-small>.it-nav>.it-tab>a {
     padding: 8px 12px;
-    font-size: 12px
+    font-size: 14px
 }
 
 .it-tabs.it-medium>.it-nav>.it-tab>a {
@@ -1189,7 +1189,7 @@
 .it-tabs.it-mini>.it-nav-mobile {
     height: 32px;
     line-height: 32px;
-    font-size: 12px
+    font-size: 18px
 }
 
 .it-tabs.it-mobile.it-mini>.it-nav {
