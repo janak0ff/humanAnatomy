@@ -6607,7 +6607,7 @@ div [class="media-body"]>h6 {
 
 #google_translate_element {
 	position: absolute !important;
-	width: 56px !important;
+	width: 44px !important;
 	bottom: 20% !important;
 	overflow: hidden !important;
 	height: 40px !important;
@@ -6657,3 +6657,7 @@ div [class="media-body"]>h6 {
 }
 
 /* ----------------------- end ------------------------- */
+
+.menu-right {
+	margin-left: 20px;
+}
