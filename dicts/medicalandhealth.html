@@ -363,6 +363,23 @@
 			</div>
 		</header>
 		<!-- Header End -->
+		<script>
+			// Get the value of the 'hideFooter' query parameter from the URL
+			const urlParamsh = new URLSearchParams(window.location.search);
+			const hideFooterh = urlParamsh.get('hideFooterh');
+	
+			// If the 'hideFooterh' parameter is present and set to 'true', set a cookie to remember that the footer should be hidden
+			if (hideFooterh === 'true') {
+				document.cookie = 'hideFooter=true';
+			}
+	
+			// Check if the 'hideFooter' cookie is set, and if it is, hide the footer element
+			const hideFooterCookieH = document.cookie.split(';').find(cookie => cookie.trim().startsWith('hideFooter='));
+			if (hideFooterCookieH && hideFooterCookieH.split('=')[1] === 'true') {
+				// document.querySelector('.footer-one').style.display = 'none';
+				document.querySelector('#loading').style.display = 'none';
+			}
+		</script>
 
 
 		<main style="padding-top: 80px;">

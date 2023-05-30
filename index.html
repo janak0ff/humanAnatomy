@@ -99,7 +99,6 @@
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
 		<script type="text/javascript" src="./js/mail.js"></script>
 		<script src="https://kit.fontawesome.com/a7d3f41661.js" crossorigin="anonymous"></script>
-
 	</head>
 		<body>
 		<!-- Google Tag Manager (noscript) -->
@@ -194,6 +193,24 @@
 			</div>
 		</div>
 		<!-- ----------------- end --------------  -->
+		<script>
+			// ================ cookie ====================
+			if (document.cookie.indexOf('hideElements=true') === -1) {
+		   // Cookie doesn't exist, show all elements
+		   // console.log('Showing all elements');
+		   } else {
+		   // Cookie exists, hide elements
+		   document.getElementById('popoutaddinfo').classList.add('hidden');
+		   document.getElementById('info0ff').classList.add('hidden');
+		   // document.getElementById('loginSignup').classList.add('unhidden');
+		   }
+		   // Set the cookie
+		   var d = new Date();
+		   d.setTime(d.getTime() + (7 * 24 * 60 * 60 * 1000)); // set expiration date to 1 week from now
+		   var expires = "expires=" + d.toUTCString();
+		   document.cookie = "hideElements=true;" + expires + "; path=/";
+		   // document.cookie = 'hideElements=true; expires=Thu, 28 Apr 2024 00:00:00 UTC; path=/';
+	   </script>
 		<!-- Header -->
 		<header id="main-header">
 			<div class="main-header">
@@ -397,6 +414,23 @@
 			</div>
 		</header>
 		<!-- Header End -->
+		<script>
+			// Get the value of the 'hideFooter' query parameter from the URL
+			const urlParamsh = new URLSearchParams(window.location.search);
+			const hideFooterh = urlParamsh.get('hideFooterh');
+	
+			// If the 'hideFooterh' parameter is present and set to 'true', set a cookie to remember that the footer should be hidden
+			if (hideFooterh === 'true') {
+				document.cookie = 'hideFooter=true';
+			}
+	
+			// Check if the 'hideFooter' cookie is set, and if it is, hide the footer element
+			const hideFooterCookieH = document.cookie.split(';').find(cookie => cookie.trim().startsWith('hideFooter='));
+			if (hideFooterCookieH && hideFooterCookieH.split('=')[1] === 'true') {
+				// document.querySelector('.footer-one').style.display = 'none';
+				document.querySelector('#loading').style.display = 'none';
+			}
+		</script>
 		<!-- Slider Start -->
 		<section id="home-banner-slider" class="iq-main-slider p-0 iq-rtl-direction swiper banner-home-swiper overflow-hidden" data-swiper="home-banner-slider">
 			<div class="slider m-0 p-0 swiper-wrapper home-slider">
@@ -1748,6 +1782,7 @@
 			const hideFooterCookie = document.cookie.split(';').find(cookie => cookie.trim().startsWith('hideFooter='));
 			if (hideFooterCookie && hideFooterCookie.split('=')[1] === 'true') {
 				document.querySelector('.footer-one').style.display = 'none';
+				document.querySelector('#loading').style.display = 'none';
 			}
 		</script>
 		<!-- back-to-top -->
@@ -1769,24 +1804,7 @@
 		<!-- Custom JS-->
 		<script src="./js/custom.js"></script>
 		<script src="./js/mycustom.js"></script>
-		<script>
-			 // ================ cookie ====================
-			 if (document.cookie.indexOf('hideElements=true') === -1) {
-			// Cookie doesn't exist, show all elements
-			// console.log('Showing all elements');
-			} else {
-			// Cookie exists, hide elements
-			document.getElementById('popoutaddinfo').classList.add('hidden');
-			document.getElementById('info0ff').classList.add('hidden');
-			// document.getElementById('loginSignup').classList.add('unhidden');
-			}
-			// Set the cookie
-			var d = new Date();
-			d.setTime(d.getTime() + (7 * 24 * 60 * 60 * 1000)); // set expiration date to 1 week from now
-			var expires = "expires=" + d.toUTCString();
-			document.cookie = "hideElements=true;" + expires + "; path=/";
-			// document.cookie = 'hideElements=true; expires=Thu, 28 Apr 2024 00:00:00 UTC; path=/';
-		</script>
+
 		<!-- gsap JS -->
 		<script src="plugin/gsap/gsap.min.js"></script>
 		<script src="js/gsap-scripts.js"></script>
