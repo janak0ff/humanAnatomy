@@ -9,7 +9,9 @@
     --plyr-control-icon-size: 16px;
     --plyr-captions-text-color: #ffffff;
     --plyr-font-size-xlarge: 25px;
-    margin: auto;
+    /* margin: auto; */
     /* float: right; */
-    max-width: 50%;
+    /* max-width: 50%; */
+
+
  }
