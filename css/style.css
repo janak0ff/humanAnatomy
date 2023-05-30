@@ -6661,10 +6661,3 @@ div [class="media-body"]>h6 {
 .menu-right {
 	margin-left: 20px;
 }
-
-
-.playerVdo {
-    float: right !important;
-    margin-left: 8px !important;
-    aspect-ratio: 4/3 !important;
-}
