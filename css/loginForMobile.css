@@ -1,0 +1,56 @@
+    .login-box {
+        width: 700px;
+        height: auto;
+        box-shadow: 10px 10px 266px 7px rgba(0, 0, 0, 1);
+        -webkit-box-shadow: 10px 10px 266px 7px rgba(0, 0, 0, 1);
+        -moz-box-shadow: 10px 10px 266px 7px rgba(0, 0, 0, 1);
+    }
+
+    .login-box p:first-child {
+        margin: 0 0 30px;
+        padding: 0;
+        font-size: 1.5rem;
+        font-size: 3em;
+    }
+
+    .login-box .user-box input {
+        width: 100%;
+        padding: 22px 0 3px 0;
+        font-size: 34px;
+        margin-bottom: 38px;
+        border-bottom: 1px solid #fff;
+    }
+
+    .login-box .user-box label {
+        padding: 10px 0;
+        font-size: 32px;
+    }
+
+    .login-box .user-box input:focus~label,
+    .login-box .user-box input:valid~label {
+        top: -28px;
+        font-size: 28px;
+    }
+
+    .forgot a {
+        font-size: 28px;
+    }
+
+    .login-box form .submit {
+        padding: 9px 12px;
+        font-size: 28px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .signup,
+    .login {
+        font-size: 2em;
+        margin: 0;
+        margin-top: 5px;
+    }
+
+    .signup>a,
+    .login>a {
+        font-size: 24px;
+    }
