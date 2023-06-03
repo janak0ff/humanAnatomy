@@ -3,352 +3,10 @@
 
 <head>
 	<title>login | Sigup</title>
-	<link rel="shortcut icon" href="../images/favicon.webp" />
-	<style>
-		.login-box {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -55%);
-			width: 400px;
-			padding: 30px;
-			margin: 20px auto;
-			background: rgba(0, 0, 0, .9);
-			box-sizing: border-box;
-			box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
-			border-radius: 10px;
-			z-index: 1;
-			box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
-			-webkit-box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
-			-moz-box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
-		}
-
-
-		.login-box p:first-child {
-			margin: 0 0 15px;
-			padding: 0;
-			color: #fff;
-			text-align: center;
-			font-size: 1.5rem;
-			font-weight: bold;
-			letter-spacing: 1px;
-		}
-
-		.login-box .user-box {
-			position: relative;
-		}
-
-		.login-box .user-box input {
-			width: 100%;
-			padding: 15px 0 3px 0;
-			font-size: 14px;
-			color: #fff;
-			margin-bottom: 4px;
-			border: none;
-			border-bottom: 1px solid #fff;
-			outline: none;
-			background: transparent;
-		}
-
-		.login-box .user-box label {
-			position: absolute;
-			top: 0;
-			left: 0;
-			padding: 10px 0;
-			font-size: 16px;
-			color: #fff;
-			pointer-events: none;
-			transition: .5s;
-		}
-
-		.login-box .user-box input:focus~label,
-		.login-box .user-box input:valid~label {
-			top: -8px;
-			left: 0;
-			color: #fff;
-			font-size: 12px;
-		}
-
-		.login-box form .submit {
-			position: relative;
-			display: inline-block;
-			padding: 9px 12px;
-			font-weight: bold;
-			color: #fff;
-			font-size: 16px;
-			text-decoration: none;
-			text-transform: uppercase;
-			overflow: hidden;
-			transition: .5s;
-			margin-top: 40px;
-			margin-bottom: 10px;
-			letter-spacing: 3px;
-		}
-
-		.login-box form .submit>input {
-			/* padding: 9px 12px; */
-			font-weight: bold;
-			color: #fff;
-			font-size: 16px;
-			text-decoration: none;
-			text-transform: uppercase;
-			overflow: hidden;
-			border: none;
-			transition: .5s;
-			background: transparent;
-			letter-spacing: 3px;
-		}
-
-		.login-box .submit:hover {
-			background: #fff;
-			color: black !important;
-			border-radius: 5px;
-		}
-
-		.login-box .submit>input:hover {
-			background: #fff;
-			color: #000;
-			cursor: pointer;
-			border-radius: 5px;
-		}
-
-
-		.login-box a span {
-			position: absolute;
-			display: block;
-		}
-
-		.login-box a span:nth-child(1) {
-			top: 0;
-			left: -100%;
-			width: 100%;
-			height: 2px;
-			background: linear-gradient(90deg, transparent, #fff);
-			animation: btn-anim1 1.5s linear infinite;
-		}
-
-		@keyframes btn-anim1 {
-			0% {
-				left: -100%;
-			}
-
-			50%,
-			100% {
-				left: 100%;
-			}
-		}
-
-		.login-box a span:nth-child(2) {
-			top: -100%;
-			right: 0;
-			width: 2px;
-			height: 100%;
-			background: linear-gradient(180deg, transparent, #fff);
-			animation: btn-anim2 1.5s linear infinite;
-			animation-delay: .375s
-		}
-
-		@keyframes btn-anim2 {
-			0% {
-				top: -100%;
-			}
-
-			50%,
-			100% {
-				top: 100%;
-			}
-		}
-
-		.login-box a span:nth-child(3) {
-			bottom: 0;
-			right: -100%;
-			width: 100%;
-			height: 2px;
-			background: linear-gradient(270deg, transparent, #fff);
-			animation: btn-anim3 1.5s linear infinite;
-			animation-delay: .75s
-		}
-
-		@keyframes btn-anim3 {
-			0% {
-				right: -100%;
-			}
-
-			50%,
-			100% {
-				right: 100%;
-			}
-		}
-
-		.login-box a span:nth-child(4) {
-			bottom: -100%;
-			left: 0;
-			width: 2px;
-			height: 100%;
-			background: linear-gradient(360deg, transparent, #fff);
-			animation: btn-anim4 1.5s linear infinite;
-			animation-delay: 1.125s
-		}
-
-		@keyframes btn-anim4 {
-			0% {
-				bottom: -100%;
-			}
-
-			50%,
-			100% {
-				bottom: 100%;
-			}
-		}
-
-		.login-box a.a2 {
-			color: #fff;
-			text-decoration: none;
-		}
-
-		.login-box a.a2:hover {
-			background: transparent;
-			color: #aaa;
-			border-radius: 5px;
-		}
-
-
-		.signup,
-		.login {
-			text-align: center;
-			font-size: 0.75rem;
-			margin: 0;
-			margin-top: 5px;
-			color: rgba(156, 163, 175, 1);
-		}
-
-		.signup>a {
-			font-size: 16px;
-			text-decoration: none;
-			color: #9ada04;
-		}
-
-		.login>a {
-			font-size: 16px;
-			text-decoration: none;
-			color: #9ada04;
-		}
-
-		.forgot a {
-			float: right;
-			word-spacing: 4px;
-			display: inline-block;
-			font-weight: bold;
-			color: #fff;
-			font-size: 12px;
-			text-decoration: none;
-		}
-
-		a {
-			cursor: pointer !important;
-		}
-
-		.ConformPassword {
-			display: none;
-		}
-	</style>
-	<script>
-		//apply this <link rel="stylesheet" href="./css/loginForMobile.css"> only when device width is less than 991px
-		function applyFunctionality() {
-			// Add your custom functionality here
-			const link = document.createElement('link');
-			link.rel = 'stylesheet';
-			link.href = '../css/loginForMobile.css';
-			document.head.appendChild(link);
-		}
-
-		function checkWidth() {
-			if (window.innerWidth < 991) {
-				applyFunctionality();
-			}
-		}
-
-		window.addEventListener('resize', checkWidth);
-		checkWidth();
-	</script>
+	<link rel="shortcut icon" href="./images/favicon.webp" />
 </head>
 
 <body>
-	<div class="login-box">
-		<p class="title">Login</p>
-
-		<form style="margin-bottom: 0;" method="post">
-			<div class="user-box Email">
-				<input class="Email" required="" name="email" type="text" />
-				<label>Email</label>
-			</div>
-			<div class="user-box Password">
-				<input class="Password" required="" name="password" type="password" />
-				<label>Password</label>
-			</div>
-			<div class="user-box ConformPassword">
-				<input class="ConformPass" required="" name="" type="password" />
-				<label>Confirm Password</label>
-			</div>
-			<div class="forgot">
-				<a href="#" class="forgot-link">Forgot Password ?</a>
-			</div>
-			<a class="submit" href="#">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-				<input type="submit">
-			</a>
-		</form>
-
-		<p class="signup">
-			Don't have an account?
-			<a class="signup-link" href="#">Sign up</a>
-		</p>
-
-		<p style="display: none;" class="login">
-			Already have an account?
-			<a class="login-link" href="#">Login</a>
-		</p>
-	</div>
-
-	<script>
-		const signupLink = document.getElementsByClassName('signup-link');
-		const loginLink = document.getElementsByClassName('login-link');
-		const forgotLink = document.getElementsByClassName('forgot-link');
-		const forgot = document.getElementsByClassName('forgot');
-		const passwordFields = document.querySelectorAll('.Password, .ConformPassword');
-		const passwordConform = document.querySelectorAll('.ConformPassword');
-		const password = document.querySelectorAll('.Password');
-		const signup = document.querySelectorAll('.signup');
-		const login = document.querySelectorAll('.login');
-		const socialElements = document.querySelectorAll('.social-accounts, .social-icons');
-		const title = document.querySelector('.title');
-
-		signupLink.addEventListener('click', () => {
-			passwordFields.forEach(field => field.style.display = 'block');
-			signup.forEach(field => field.style.display = 'none');
-			login.forEach(field => field.style.display = 'block');
-			title.textContent = 'Sign up';
-		});
-
-		loginLink.addEventListener('click', () => {
-			login.forEach(field => field.style.display = 'none');
-			passwordConform.forEach(field => field.style.display = 'none');
-			signup.forEach(field => field.style.display = 'block');
-			title.textContent = 'Login';
-		});
-
-		forgotLink.addEventListener('click', () => {
-			title.textContent = 'Forgot Password';
-			passwordFields.forEach(field => field.style.display = 'none');
-			login.forEach(element => element.style.display = 'block');
-			signup.forEach(element => element.style.display = 'block');
-			forgot[0].style.display = 'none';
-		});
-	</script>
-
 	<style>
 		.wall>* {
 			position: absolute;
@@ -800,55 +458,55 @@
 	</div>
 	<script>
 		const imageSources = [
-			"../images/logsign/12-Hm-Zm-AVMWd-TIs3694-AGKk.webp",
-			"../images/logsign/1a-Oe-AFs5-ZVCMr-HUjj-OOBLG.webp",
-			"../images/logsign/1frx2xkmx0-Y0-SZ3124-XBVC.webp",
-			"../images/logsign/1f-Qai-F6-Jly-Y8y09mb-Tt6mt.webp",
-			"../images/logsign/1f-Oo02-K5kg9x-ER36uv-Uu-Uc.webp",
-			"../images/logsign/1-B9a6-V4-BLz1m8o8c-Da0-Kc-Y.webp",
-			"../images/logsign/1q-Ep-Dtugt-GUxgx-H5-Yim-Pf-T.webp",
-			"../images/logsign/1-NSTO4-AXu-GPyzrjbt9-Vowq.webp",
-			"../images/logsign/1-Mshv-Or4t-Bto5-MSW-y47-Nvz.webp",
-			"../images/logsign/1-LTZSQ7w-Pz-Qm-Wa-Pjdj-N7ty.webp",
-			"../images/logsign/25i-Big-ENp-Lr-Geos-NW7-UBVo.webp",
-			"../images/logsign/1-RQr97f-DSrh-MU7-Vvp-Tdd-Pd.webp",
-			"../images/logsign/2h1-Dwv3-Hw3-JB5a0-UMnmq-NN.webp",
-			"../images/logsign/2-Dtsw-b-STbmgu3b-K4m-CRPJA.webp",
-			"../images/logsign/2bw-Vny-Omrich-BKWBr-GRqp-G.webp",
-			"../images/logsign/2q-V7-J3-Uni52-Qx5-A95-Jh-P9-E.webp",
-			"../images/logsign/2-Nq1-Jq-Xu-Vn-M39-Vg-ZAh-O06l.webp",
-			"../images/logsign/2-I2e-TQakn-Iwcw-Aj-UDrx-JDv.webp",
-			"../images/logsign/3e0e-LPJw0-S7j-QCc-Eu0-C29-R.webp",
-			"../images/logsign/3-Ddj-Pm-RINJXl-GIFXy5-AS5-H.webp",
-			"../images/logsign/3b-G7-Jg-SZq-X7-DFXw-QQcz-U1-V.webp",
-			"../images/logsign/39-D7v-LFWBEf-V6-Vz1d-TERy6.webp",
-			"../images/logsign/2-V1-LJC4pli-RZ0-HJw9nyp-FX.webp",
-			"../images/logsign/2r-CMQGFSz-QFPR5b-VRDq-ZHu.webp",
-			"../images/logsign/3rr-IQv-MIhq-Bix-N9d-Db-JOBp.webp",
-			"../images/logsign/3-Pe-EYz-X2izo6uyu7r-XOt-PR.webp",
-			"../images/logsign/3-KAgy-PFETph-E9-NOdo-GMw-D6.webp",
-			"../images/logsign/3gia41-CNx6lb4j-OBBX5-Qf5.webp",
-			"../images/logsign/3g6-Xw-LD03vy-Vey7-PYs-BFm-A.webp",
-			"../images/logsign/3-Ec-Rt-D9-Ok9-Oiof6yav-Tv-Cd.webp",
-			"../images/logsign/5-Dd-ZV3-OD7c-NDtu-EEX2zxr6.webp",
-			"../images/logsign/57p-Sqxhdu23-U5-Ti-T6yr2s9.webp",
-			"../images/logsign/4zln-Ms-K7-MROhj-Ow-Ug85xu-U.webp",
-			"../images/logsign/4z8-AWJy-Ea5-Wff94-Nu-Gzk-Vm.webp",
-			"../images/logsign/4osyk-Oi-B4n-XANFa-W6sum-Ky.webp",
-			"../images/logsign/4dy-Ds-XIRm4p-R5m-Uca-KWb-T9.webp",
-			"../images/logsign/5-Ro-Vlj4g-Kq6q-PCwtd65vh.webp",
-			"../images/logsign/5q-Ma10-Kb-LFoea8j-Gg-Kta2l.webp",
-			"../images/logsign/5o-Qqu7h-BN72-HNBra-Nroa-KH.webp",
-			"../images/logsign/5-Mzj-HX1hl-ZV57-Tqyc-BOv-QP.webp",
-			"../images/logsign/5ko-Kkw-Qo86h-Zmxg5g9j-Yv-G.webp",
-			"../images/logsign/5-HQL8x-U2du-UQMC9g-QNdwg-I.webp",
-			"../images/logsign/absorption-thumbnail.webp",
-			"../images/logsign/7te-M3-WRsc-BRmq-CWfb135dv.webp",
-			"../images/logsign/7-Hg-Mqx-FEKV1b-Ep-DM6km-PLj.webp",
-			"../images/logsign/7-D66fh8-Zsp-IPj-Gihxvns9r.webp",
-			"../images/logsign/6z1bwa-UNVI7-MZQxje808h-E.webp",
-			"../images/logsign/Blood-Pressure-Thumbnail.webp",
-			"../images/logsign/B7f-FJ7-K9rcs-S0-QDf-URFJX.webp"
+			"./images/logsign/12-Hm-Zm-AVMWd-TIs3694-AGKk.webp",
+			"./images/logsign/1a-Oe-AFs5-ZVCMr-HUjj-OOBLG.webp",
+			"./images/logsign/1frx2xkmx0-Y0-SZ3124-XBVC.webp",
+			"./images/logsign/1f-Qai-F6-Jly-Y8y09mb-Tt6mt.webp",
+			"./images/logsign/1f-Oo02-K5kg9x-ER36uv-Uu-Uc.webp",
+			"./images/logsign/1-B9a6-V4-BLz1m8o8c-Da0-Kc-Y.webp",
+			"./images/logsign/1q-Ep-Dtugt-GUxgx-H5-Yim-Pf-T.webp",
+			"./images/logsign/1-NSTO4-AXu-GPyzrjbt9-Vowq.webp",
+			"./images/logsign/1-Mshv-Or4t-Bto5-MSW-y47-Nvz.webp",
+			"./images/logsign/1-LTZSQ7w-Pz-Qm-Wa-Pjdj-N7ty.webp",
+			"./images/logsign/25i-Big-ENp-Lr-Geos-NW7-UBVo.webp",
+			"./images/logsign/1-RQr97f-DSrh-MU7-Vvp-Tdd-Pd.webp",
+			"./images/logsign/2h1-Dwv3-Hw3-JB5a0-UMnmq-NN.webp",
+			"./images/logsign/2-Dtsw-b-STbmgu3b-K4m-CRPJA.webp",
+			"./images/logsign/2bw-Vny-Omrich-BKWBr-GRqp-G.webp",
+			"./images/logsign/2q-V7-J3-Uni52-Qx5-A95-Jh-P9-E.webp",
+			"./images/logsign/2-Nq1-Jq-Xu-Vn-M39-Vg-ZAh-O06l.webp",
+			"./images/logsign/2-I2e-TQakn-Iwcw-Aj-UDrx-JDv.webp",
+			"./images/logsign/3e0e-LPJw0-S7j-QCc-Eu0-C29-R.webp",
+			"./images/logsign/3-Ddj-Pm-RINJXl-GIFXy5-AS5-H.webp",
+			"./images/logsign/3b-G7-Jg-SZq-X7-DFXw-QQcz-U1-V.webp",
+			"./images/logsign/39-D7v-LFWBEf-V6-Vz1d-TERy6.webp",
+			"./images/logsign/2-V1-LJC4pli-RZ0-HJw9nyp-FX.webp",
+			"./images/logsign/2r-CMQGFSz-QFPR5b-VRDq-ZHu.webp",
+			"./images/logsign/3rr-IQv-MIhq-Bix-N9d-Db-JOBp.webp",
+			"./images/logsign/3-Pe-EYz-X2izo6uyu7r-XOt-PR.webp",
+			"./images/logsign/3-KAgy-PFETph-E9-NOdo-GMw-D6.webp",
+			"./images/logsign/3gia41-CNx6lb4j-OBBX5-Qf5.webp",
+			"./images/logsign/3g6-Xw-LD03vy-Vey7-PYs-BFm-A.webp",
+			"./images/logsign/3-Ec-Rt-D9-Ok9-Oiof6yav-Tv-Cd.webp",
+			"./images/logsign/5-Dd-ZV3-OD7c-NDtu-EEX2zxr6.webp",
+			"./images/logsign/57p-Sqxhdu23-U5-Ti-T6yr2s9.webp",
+			"./images/logsign/4zln-Ms-K7-MROhj-Ow-Ug85xu-U.webp",
+			"./images/logsign/4z8-AWJy-Ea5-Wff94-Nu-Gzk-Vm.webp",
+			"./images/logsign/4osyk-Oi-B4n-XANFa-W6sum-Ky.webp",
+			"./images/logsign/4dy-Ds-XIRm4p-R5m-Uca-KWb-T9.webp",
+			"./images/logsign/5-Ro-Vlj4g-Kq6q-PCwtd65vh.webp",
+			"./images/logsign/5q-Ma10-Kb-LFoea8j-Gg-Kta2l.webp",
+			"./images/logsign/5o-Qqu7h-BN72-HNBra-Nroa-KH.webp",
+			"./images/logsign/5-Mzj-HX1hl-ZV57-Tqyc-BOv-QP.webp",
+			"./images/logsign/5ko-Kkw-Qo86h-Zmxg5g9j-Yv-G.webp",
+			"./images/logsign/5-HQL8x-U2du-UQMC9g-QNdwg-I.webp",
+			"./images/logsign/absorption-thumbnail.webp",
+			"./images/logsign/7te-M3-WRsc-BRmq-CWfb135dv.webp",
+			"./images/logsign/7-Hg-Mqx-FEKV1b-Ep-DM6km-PLj.webp",
+			"./images/logsign/7-D66fh8-Zsp-IPj-Gihxvns9r.webp",
+			"./images/logsign/6z1bwa-UNVI7-MZQxje808h-E.webp",
+			"./images/logsign/Blood-Pressure-Thumbnail.webp",
+			"./images/logsign/B7f-FJ7-K9rcs-S0-QDf-URFJX.webp"
 		];
 
 		// const imageSources = [
