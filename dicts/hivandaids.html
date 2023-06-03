@@ -110,7 +110,7 @@
 					<div class="candle">
 						<div class="blinking-glow"></div>
 						<div class="thread"></div>
-						<img style="bottom: -50px;" src="./images/logo.webp" alt="logo" />
+						<img loading="lazy" style="bottom: -50px;" src="./images/logo.webp" alt="logo" />
 						<div class="glow"></div>
 						<div class="flame"></div>
 					</div>
@@ -182,7 +182,7 @@
 									</div>
 								</a>
 								<a class="navbar-brand" href="https://kalyanishrestha.com.np">
-									<img class="img-fluid logo" src="./images/logo.webp" loading="lazy" alt="Human Anatomy" />
+									<img loading="lazy" class="img-fluid logo" src="./images/logo.webp" loading="lazy" alt="Human Anatomy" />
 								</a>
 								<div class="mobile-more-menu">
 									<a href="#" class="more-toggle" id="dropdownMenuButton" data-toggle="more-toggle" aria-haspopup="true" aria-expanded="false">
@@ -220,7 +220,7 @@
 															<div class="iq-card-body">
 																<a href="https://linktr.ee/anotomy" target="_blank" class="iq-sub-card">
 																	<div class="media align-items-center">
-																		<img src="./images/notify/linktr.webp" class="img-fluids mr-3" loading="lazy" alt="Human Anatomy" />
+																		<img loading="lazy" src="./images/notify/linktr.webp" class="img-fluids mr-3" loading="lazy" alt="Human Anatomy" />
 																		<div class="media-body">
 																			<h6 class="mb-0">Chase me</h6>
 																			<small class="font-size-12"> now</small>
@@ -233,7 +233,7 @@
 												</li>
 												<li>
 													<a href="./index.html">
-														<img src="./images/user/user.webp" class="img-fluid avatar-40 rounded-circle" loading="lazy" alt="user" />
+														<img loading="lazy" src="./images/user/user.webp" class="img-fluid avatar-40 rounded-circle" loading="lazy" alt="user" />
 													</a>
 												</li>
 											</ul>
@@ -307,7 +307,7 @@
 											</li>
 											<li class="menu-item">
 												<a href="#">
-													<img src="./images/language.png" height="32" width="32" alt="lang" />
+													<img loading="lazy" src="./images/language.png" height="32" width="32" alt="lang" />
 													<div id="google_translate_element"></div>
 												</a>
 											</li>
@@ -344,7 +344,7 @@
 													<div class="iq-card-body">
 														<a href="https://linktr.ee/anotomy" target="_blank" class="iq-sub-card">
 															<div class="media align-items-center">
-																<img src="./images/notify/linktr.webp" class="img-fluids mr-3" loading="lazy" alt="Human Anatomy" />
+																<img loading="lazy" src="./images/notify/linktr.webp" class="img-fluids mr-3" loading="lazy" alt="Human Anatomy" />
 																<div class="media-body">
 																	<h6 class="mb-0">Chase me</h6>
 																	<small class="font-size-12"> now</small>
@@ -357,7 +357,7 @@
 										</li>
 										<li class="nav-item nav-icon">
 											<a href="https://kalyanishrestha.com.np">
-												<img src="./images/user/user.webp" class="img-fluid avatar-40 rounded-circle" alt="user" loading="lazy" />
+												<img loading="lazy" src="./images/user/user.webp" class="img-fluid avatar-40 rounded-circle" alt="user" loading="lazy" />
 											</a>
 										</li>
 									</ul>
@@ -451,7 +451,7 @@
 									const videoLink = document.createElement('div');
 									videoLink.classList.add('playerVdo');
 
-									videoLink.innerHTML = `<video controls>
+									videoLink.innerHTML = `<video preload="none" controls>
      														 <source src="${item.VideoURL}" type="video/mp4">
       														</video>`
 

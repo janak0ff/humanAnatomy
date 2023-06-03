@@ -1,0 +1,962 @@
+
+<html lang="en">
+
+<head>
+	<title>login | Sigup</title>
+	<link rel="shortcut icon" href="../images/favicon.webp" />
+	<style>
+		.login-box {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -55%);
+			width: 400px;
+			padding: 30px;
+			margin: 20px auto;
+			background: rgba(0, 0, 0, .9);
+			box-sizing: border-box;
+			box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+			border-radius: 10px;
+			z-index: 1;
+			box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
+			-webkit-box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
+			-moz-box-shadow: -2px 2px 400px 200px rgba(255, 255, 255, 1);
+		}
+
+
+		.login-box p:first-child {
+			margin: 0 0 15px;
+			padding: 0;
+			color: #fff;
+			text-align: center;
+			font-size: 1.5rem;
+			font-weight: bold;
+			letter-spacing: 1px;
+		}
+
+		.login-box .user-box {
+			position: relative;
+		}
+
+		.login-box .user-box input {
+			width: 100%;
+			padding: 15px 0 3px 0;
+			font-size: 14px;
+			color: #fff;
+			margin-bottom: 4px;
+			border: none;
+			border-bottom: 1px solid #fff;
+			outline: none;
+			background: transparent;
+		}
+
+		.login-box .user-box label {
+			position: absolute;
+			top: 0;
+			left: 0;
+			padding: 10px 0;
+			font-size: 16px;
+			color: #fff;
+			pointer-events: none;
+			transition: .5s;
+		}
+
+		.login-box .user-box input:focus~label,
+		.login-box .user-box input:valid~label {
+			top: -8px;
+			left: 0;
+			color: #fff;
+			font-size: 12px;
+		}
+
+		.login-box form .submit {
+			position: relative;
+			display: inline-block;
+			padding: 9px 12px;
+			font-weight: bold;
+			color: #fff;
+			font-size: 16px;
+			text-decoration: none;
+			text-transform: uppercase;
+			overflow: hidden;
+			transition: .5s;
+			margin-top: 40px;
+			margin-bottom: 10px;
+			letter-spacing: 3px;
+		}
+
+		.login-box form .submit>input {
+			/* padding: 9px 12px; */
+			font-weight: bold;
+			color: #fff;
+			font-size: 16px;
+			text-decoration: none;
+			text-transform: uppercase;
+			overflow: hidden;
+			border: none;
+			transition: .5s;
+			background: transparent;
+			letter-spacing: 3px;
+		}
+
+		.login-box .submit:hover {
+			background: #fff;
+			color: black !important;
+			border-radius: 5px;
+		}
+
+		.login-box .submit>input:hover {
+			background: #fff;
+			color: #000;
+			cursor: pointer;
+			border-radius: 5px;
+		}
+
+
+		.login-box a span {
+			position: absolute;
+			display: block;
+		}
+
+		.login-box a span:nth-child(1) {
+			top: 0;
+			left: -100%;
+			width: 100%;
+			height: 2px;
+			background: linear-gradient(90deg, transparent, #fff);
+			animation: btn-anim1 1.5s linear infinite;
+		}
+
+		@keyframes btn-anim1 {
+			0% {
+				left: -100%;
+			}
+
+			50%,
+			100% {
+				left: 100%;
+			}
+		}
+
+		.login-box a span:nth-child(2) {
+			top: -100%;
+			right: 0;
+			width: 2px;
+			height: 100%;
+			background: linear-gradient(180deg, transparent, #fff);
+			animation: btn-anim2 1.5s linear infinite;
+			animation-delay: .375s
+		}
+
+		@keyframes btn-anim2 {
+			0% {
+				top: -100%;
+			}
+
+			50%,
+			100% {
+				top: 100%;
+			}
+		}
+
+		.login-box a span:nth-child(3) {
+			bottom: 0;
+			right: -100%;
+			width: 100%;
+			height: 2px;
+			background: linear-gradient(270deg, transparent, #fff);
+			animation: btn-anim3 1.5s linear infinite;
+			animation-delay: .75s
+		}
+
+		@keyframes btn-anim3 {
+			0% {
+				right: -100%;
+			}
+
+			50%,
+			100% {
+				right: 100%;
+			}
+		}
+
+		.login-box a span:nth-child(4) {
+			bottom: -100%;
+			left: 0;
+			width: 2px;
+			height: 100%;
+			background: linear-gradient(360deg, transparent, #fff);
+			animation: btn-anim4 1.5s linear infinite;
+			animation-delay: 1.125s
+		}
+
+		@keyframes btn-anim4 {
+			0% {
+				bottom: -100%;
+			}
+
+			50%,
+			100% {
+				bottom: 100%;
+			}
+		}
+
+		.login-box a.a2 {
+			color: #fff;
+			text-decoration: none;
+		}
+
+		.login-box a.a2:hover {
+			background: transparent;
+			color: #aaa;
+			border-radius: 5px;
+		}
+
+
+		.signup,
+		.login {
+			text-align: center;
+			font-size: 0.75rem;
+			margin: 0;
+			margin-top: 5px;
+			color: rgba(156, 163, 175, 1);
+		}
+
+		.signup>a {
+			font-size: 16px;
+			text-decoration: none;
+			color: #9ada04;
+		}
+
+		.login>a {
+			font-size: 16px;
+			text-decoration: none;
+			color: #9ada04;
+		}
+
+		.forgot a {
+			float: right;
+			word-spacing: 4px;
+			display: inline-block;
+			font-weight: bold;
+			color: #fff;
+			font-size: 12px;
+			text-decoration: none;
+		}
+
+		a {
+			cursor: pointer !important;
+		}
+
+		.ConformPassword {
+			display: none;
+		}
+	</style>
+	<script>
+		//apply this <link rel="stylesheet" href="./css/loginForMobile.css"> only when device width is less than 991px
+		function applyFunctionality() {
+			// Add your custom functionality here
+			const link = document.createElement('link');
+			link.rel = 'stylesheet';
+			link.href = '../css/loginForMobile.css';
+			document.head.appendChild(link);
+		}
+
+		function checkWidth() {
+			if (window.innerWidth < 991) {
+				applyFunctionality();
+			}
+		}
+
+		window.addEventListener('resize', checkWidth);
+		checkWidth();
+	</script>
+</head>
+
+<body>
+	<div class="login-box">
+		<p class="title">Login</p>
+
+		<form style="margin-bottom: 0;" method="post">
+			<div class="user-box Email">
+				<input class="Email" required="" name="email" type="text" />
+				<label>Email</label>
+			</div>
+			<div class="user-box Password">
+				<input class="Password" required="" name="password" type="password" />
+				<label>Password</label>
+			</div>
+			<div class="user-box ConformPassword">
+				<input class="ConformPass" required="" name="" type="password" />
+				<label>Confirm Password</label>
+			</div>
+			<div class="forgot">
+				<a href="#" class="forgot-link">Forgot Password ?</a>
+			</div>
+			<a class="submit" href="#">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+				<input type="submit">
+			</a>
+		</form>
+
+		<p class="signup">
+			Don't have an account?
+			<a id="signup-link" href="#">Sign up</a>
+		</p>
+
+		<p style="display: none;" class="login">
+			Already have an account?
+			<a id="login-link" href="#">Login</a>
+		</p>
+	</div>
+
+	<script>
+		const signupLink = document.getElementById('signup-link');
+		const loginLink = document.getElementById('login-link');
+		const forgotLink = document.getElementById('forgot-link');
+		const forgot = document.getElementsByClassName('forgot');
+		const passwordFields = document.querySelectorAll('.Password, .ConformPassword');
+		const passwordConform = document.querySelectorAll('.ConformPassword');
+		const password = document.querySelectorAll('.Password');
+		const signup = document.querySelectorAll('.signup');
+		const login = document.querySelectorAll('.login');
+		const socialElements = document.querySelectorAll('.social-accounts, .social-icons');
+		const title = document.querySelector('.title');
+
+		signupLink.addEventListener('click', () => {
+			passwordFields.forEach(field => field.style.display = 'block');
+			signup.forEach(field => field.style.display = 'none');
+			login.forEach(field => field.style.display = 'block');
+			title.textContent = 'Sign up';
+		});
+
+		loginLink.addEventListener('click', () => {
+			login.forEach(field => field.style.display = 'none');
+			passwordConform.forEach(field => field.style.display = 'none');
+			signup.forEach(field => field.style.display = 'block');
+			title.textContent = 'Login';
+		});
+
+		forgotLink.addEventListener('click', () => {
+			title.textContent = 'Forgot Password';
+			passwordFields.forEach(field => field.style.display = 'none');
+			login.forEach(element => element.style.display = 'block');
+			signup.forEach(element => element.style.display = 'block');
+			forgot[0].style.display = 'none';
+		});
+	</script>
+
+	<style>
+		.wall>* {
+			position: absolute;
+		}
+
+		.wall {
+			opacity: 0;
+			position: relative;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+
+		.wall-in>* {
+			position: absolute;
+		}
+
+		.wall-con.fullscreen {
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 99;
+		}
+
+		.one_fourth_one_fourth {
+			width: 49.5%;
+			height: 49.5%;
+			margin: 0 1% 1% 0;
+		}
+
+		.last_right {
+			margin-right: 0;
+		}
+
+		.last_bottom {
+			margin-bottom: 0;
+		}
+	</style>
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+	<script type="text/javascript" src="./js/jquery-3.6.4.min.js"></script>
+	<script>
+		var t, e = 0,
+			n = 0,
+			a = 700;
+
+		function s() {
+			return -1 != navigator.platform.indexOf("iPhone") || -1 != navigator.platform.indexOf("iPod") || -1 != navigator.platform.indexOf("iPad")
+		}
+
+		function o() {
+			return navigator.userAgent.toLowerCase().indexOf("android") > -1
+		}
+
+		function s() {
+			return -1 != navigator.platform.indexOf("iPhone") || -1 != navigator.platform.indexOf("iPod") || -1 != navigator.platform.indexOf("iPad")
+		}
+
+		function o() {
+			return -1 != navigator.platform.indexOf("Android")
+		}
+
+		function d() {
+			return -1 != navigator.appVersion.indexOf("MSIE")
+		}(t = jQuery).fn.wall = function(i) {
+				var o, r, c, h = 0,
+					g = 0,
+					l = 0,
+					p = 0,
+					u = 1,
+					f = 0,
+					v = 0,
+					_ = [],
+					m = [],
+					w = 0,
+					x = 0,
+					b = 0,
+					y = 0,
+					I = 0,
+					q = 0,
+					O = 100,
+					A = 30,
+					X = 15,
+					F = !1,
+					Y = 0,
+					j = 0,
+					W = 0,
+					C = 0,
+					k = 0,
+					R = 0,
+					z = 0,
+					P = 0;
+
+				function Q() {
+					1 != s() && (h = o.width(), g = o.height(), r.css({
+						width: h,
+						height: g
+					}), console.info("total_height - ", g), h < l || r.css({
+						left: h / 2 - l / 2
+					}))
+				}
+
+				function E() {
+					1 != s() && (1 != s() || 0 == e ? I = w / h * -(l - h + 2 * i.settings_paddingh + 2 * O) + i.settings_paddingh + O : I += 5 * e, C = 0, k = 0, C = w - b, k = x - y, C *= 2, k *= 2, I > i.settings_paddingh && (I = i.settings_paddingh), I < -(l - h + i.settings_paddingh) && (I = -(l - h + i.settings_paddingh)), h > l && (I = h / 2 - l / 2, C = (w - h / 2) / (h / 2) * A), r.css({
+						left: I
+					}), (R = o.css("left")).slice(0, R.length - 2), R = parseInt(R), 1 != s() || 0 == n ? q = -(x / g * (p - g + 2 * i.settings_paddingv + 2 * O) - i.settings_paddingv - O) : q += 5 * n, isNaN(q) && (q = 0), q > i.settings_paddingv && (q = i.settings_paddingv), q < -(p - g + i.settings_paddingv) && (q = -(p - g + i.settings_paddingv)), g > p && (q = g / 2 - p / 2, k = (x - g / 2) / (g / 2) * A), r.css({
+						top: q
+					}), (C /= X) > A && (C = A), (k /= X) > A && (k = A), P = Math.abs(P), "on" == i.settings_rotation && 0 == F && (r.css("-webkit-transform", "perspective(1000px) rotateY(" + C + "deg) rotateX(" + k + "deg)"), r.css("-moz-transform", "perspective(1000px) rotateY(" + C + "deg) rotateX(" + k + "deg)"), r.css("transform", "perspective(1000px) rotateY(" + C + "deg) rotateX(" + k + "deg)"), F = !0), b = w, y = x, requestAnimFrame(E))
+				}
+
+				function G() {
+					Q()
+				}
+				jQuery("html"), i = t.extend({
+					settings_thumbs_per_row: 5,
+					settings_width: 0,
+					settings_height: 0,
+					settings_rotation: "off",
+					thumb_width: 150,
+					thumb_height: 200,
+					thumb_space: 10,
+					settings_padding: 20,
+					settings_paddingv: 20,
+					settings_paddingh: 20,
+					description_height: 30,
+					miscAction: "off",
+					settings_fullscreen: "off"
+				}, i), this.each((function() {
+					var e, n, g, b, y, I = [],
+						q = t(this).parent(),
+						O = [];
+					o = t(this), console.info(o), t(".preloader").fadeOut("slow"), o.animate({
+						opacity: 1
+					}, 1200), o.append('<div class="wall-in"></div>'), j = o.find(".wall-in"), i.thumb_width = parseInt(i.thumb_width, 10), i.thumb_height = parseInt(i.thumb_height, 10), i.thumb_space = parseInt(i.thumb_space, 10), i.settings_padding = parseInt(i.settings_padding, 10), i.settings_paddingh = parseInt(i.settings_paddingh, 10), i.settings_paddingv = parseInt(i.settings_paddingv, 10);
+					var A = o.children(":not(.wall-in)").length;
+					for (g = 0; g < A; g++) j.append(o.children(":not(.wall-in)").eq(0));
+					for (r = j, W = j.children(), Y = W.length, A = W.length, g = 0; g < A; g++) {
+						e = W.eq(g), n = W.eq(g), e.width(i.thumb_width), e.height(i.thumb_height), e.css({
+							left: f,
+							top: v
+						}), _.push(f), m.push(v);
+						var X = n.attr("data-category");
+						if (null != X && "" != X)
+							for (X = X.split(";"), y = 0; y < X.length; y++) {
+								the_cat = X[y];
+								var C = X[y];
+								for (null != the_cat && (the_cat = the_cat.replace(" ", "-"), n.addClass("cat-" + the_cat)), sw = !1, b = 0; b < O.length; b++) O[b] == C && (sw = !0);
+								0 == sw && O.push(C)
+							}
+						"" != e.attr("title") && null != e.attr("title") && (e.wrap('<div class="description_con"></div>'), (c = r.children().eq(g)).css({
+							left: f,
+							top: v,
+							width: i.thumb_width,
+							height: i.thumb_height
+						}), e.css({
+							left: 0,
+							top: 0
+						}), c.append('<div class="description"><div class="description-text">' + e.attr("title") + "</div></div>"), c.find(".description").css("width", i.thumb_width), c.find(".description").css({
+							top: -i.description_height,
+							height: i.description_height
+						}), c.mouseover((function() {
+							t(this).find(".description").animate({
+								top: 0
+							}, {
+								queue: !1,
+								duration: 500
+							})
+						})), c.mouseout((function() {
+							t(this).find(".description").animate({
+								top: -i.description_height
+							}, {
+								duration: 300
+							})
+						}))), f += i.thumb_width + i.thumb_space, (g + 1) % i.settings_thumbs_per_row == 0 && (v += i.thumb_height + i.thumb_space, f = 0, u++), (!d() || d() && parseFloat(navigator.appVersion.split("MSIE")[1]) > 8) && (null == e.attr("data-category") ? -1 == I.indexOf("default") && I.push("default") : -1 == I.indexOf(e.attr("data-category")) && I.push(e.attr("data-category")))
+					}
+					return 0 == f && u--, 1 == s() && (o.css("overflow", "auto"), o.append('<div class="ios_notice-con" style="opacity:0;"><div class="ios_notice"><br/>USE 2 FINGERS TO SCROLL</div></div>'), o.children(".ios_notice-con").animate({
+						opacity: .7
+					}, 2e3).delay(1500).animate({
+						opacity: 0
+					}, 2e3), setTimeout((function() {
+						o.children(".ios_notice-con").remove()
+					}), 6e3)), console.info(i, Y), (z = i.settings_thumbs_per_row) > Y && (z = Y), l = z * (i.thumb_width + i.thumb_space) - i.thumb_space, console.log(z, l), p = u * (i.thumb_space + i.thumb_height) - i.thumb_space, h = o.width(), navigator.userAgent.toLowerCase().indexOf("chrome") > -1 != 0 || navigator.userAgent.toLowerCase().indexOf("safari") > -1 != 0 || -1 != navigator.userAgent.indexOf("Firefox") && function() {
+						if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)) return new Number(RegExp.$1)
+					}() > 10 || (i.settings_rotation = "off"), "on" == i.settings_rotation && (r.css("-webkit-transition", "all 0.5s ease-out"), r.css("-webkit-perspective-origin", "50% 50%"), r.css("-moz-transition", "all 0.5s ease-out"), r.css("-mozt-perspective-origin", "50% 50%"), r.css("transform-origin", "50% 50%"), setInterval((function() {
+						F = !1
+					}), 300)), I.length > 1 && function() {
+						for (q.addClass("wall-multiple-cats"), q.append('<div class="cat-selector"><div class="cat-button">all categories</div></div>'), g = 0; g < O.length; g++) q.children(".cat-selector").append('<div class="cat-button">' + O[g] + "</div>");
+						q.children(".cat-selector").children().bind("click", (function(e) {
+							var i = t(this),
+								n = (i.parent().children().index(i), 0);
+							for (g = 0; g < W.length; g++)(o = W.eq(g)).animate({
+								opacity: 1
+							}, {
+								queue: !1,
+								duration: a
+							});
+							if ("all categories" == i.text())
+								for (g = 0; g < W.length; g++)(o = W.eq(g)).animate({
+									left: _[n],
+									top: m[n]
+								}, {
+									queue: !1,
+									duration: a
+								}), n++;
+							var s = "";
+							if ("default" == (s = i.text()) && (s = void 0), "all categories" != i.text()) {
+								for (g = 0; g < W.length; g++)(o = W.eq(g)).attr("data-category") != s ? o.animate({
+									opacity: .2
+								}, {
+									queue: !1,
+									duration: a
+								}) : (o.animate({
+									left: _[n],
+									top: m[n]
+								}, {
+									queue: !1,
+									duration: a
+								}), n++);
+								for (g = 0; g < W.length; g++) {
+									var o;
+									(o = W.eq(g)).attr("data-category") != s && (o.animate({
+										left: _[n],
+										top: m[n]
+									}, {
+										queue: !1,
+										duration: a
+									}), n++)
+								}
+							}
+						}))
+					}(), o.bind("mousemove", (function(t) {
+						w = t.pageX - o.offset().left, x = t.pageY - o.offset().top
+					})), t(window).on("resize", Q), Q(), setTimeout(G, 500), requestAnimFrame(E), this
+				}))
+			}, window.ondevicemotion = function(t) {
+				90 == window.orientation || -90 == window.orientation ? (e = t.accelerationIncludingGravity.y, n = t.accelerationIncludingGravity.x) : (e = t.accelerationIncludingGravity.x, n = t.accelerationIncludingGravity.y)
+			},
+			function(t) {
+				t.fn.wallmasonry = function(d) {
+					d = t.extend({
+						innerWidth: 1980,
+						columnWidth: 110,
+						settings_padding: 20,
+						settings_paddingh: 20,
+						settings_paddingv: 20,
+						calculate_portfolio_width: "on"
+					}, d), this.each((function() {
+						var r, c, h, g, l, p, u, f, v, _ = jQuery(this),
+							m = _.parent(),
+							w = [];
+						for (m = t(this).parent(), d.innerWidth = parseInt(d.innerWidth, 10), d.columnWidth = parseInt(d.columnWidth, 10), d.settings_padding = parseInt(d.settings_padding, 10), d.settings_paddingh = parseInt(d.settings_paddingh, 10), d.settings_paddingv = parseInt(d.settings_paddingv, 10), _.parent().children(".preloader").fadeOut("fast"), 0 == _.css("opacity") && _.animate({
+								opacity: 1
+							}, 300), "on" == d.calculate_portfolio_width && t(".portfolio-main-img").each((function() {
+								var t = jQuery(this);
+								t.parent().hasClass("portofolio-brick") ? t.parent().css({
+									width: t.width() + 20
+								}) : t.parent().parent().css({
+									width: t.width() + 20
+								})
+							})), _.wrapInner('<div class="inner-con"></div>'), c = _.children(".inner-con"), _.wrapInner('<div class="outer-con"></div>'), r = _.children(".outer-con"), c.css("width", d.innerWidth), c.masonry({
+								columnWidth: d.columnWidth
+							}), h = _.width(), g = _.height(), l = d.innerWidth, p = c.height(), (s() || o()) && (_.css("overflow", "auto"), c.css("overflow", "auto")), v = c.children(), i = 0; i < v.length; i++) cacheobject = v.eq(i), null == cacheobject.attr("data-category") ? -1 == w.indexOf("default") && w.push("default") : -1 == w.indexOf(cacheobject.attr("data-category")) && w.push(cacheobject.attr("data-category")), cacheobject = v.eq(i);
+						return w.length > 1 && function() {
+							for (m.addClass("wall-multiple-cats"), m.append('<div class="cat-selector"><div class="cat-button">all categories</div></div>'), i = 0; i < w.length; i++) m.children(".cat-selector").append('<div class="cat-button">' + w[i] + "</div>");
+							m.children(".cat-selector").children().bind("click", (function(e) {
+								var n = t(this);
+								for (n.parent().children().index(n), i = 0; i < v.length; i++)(s = v.eq(i)).animate({
+									opacity: 1
+								}, {
+									queue: !1,
+									duration: a
+								});
+								if ("all categories" == n.text())
+									for (i = 0; i < v.length; i++) var s = v.eq(i);
+								var o = "";
+								if ("default" == (o = n.text()) && (o = void 0), "all categories" != n.text()) {
+									for (i = 0; i < v.length; i++)(s = v.eq(i)).attr("data-category") != o && s.animate({
+										opacity: .2
+									}, {
+										queue: !1,
+										duration: a
+									});
+									for (i = 0; i < v.length; i++)(s = v.eq(i)).attr("data-category")
+								}
+							}))
+						}(), _.mousemove((function(t) {
+							u = t.pageX - _.offset().left, f = t.pageY - _.offset().top
+						})), t(window).on("resize", (function() {
+							1 == s() || o() || (h = _.width(), g = _.height(), h < l ? movementX = !0 : (r.css({
+								left: h / 2 - l / 2
+							}), movementX = !1))
+						})), setInterval((function() {
+							s() || o() || (1 != s() || 0 == e ? viewIndexX = u / h * -(l - h + 2 * d.settings_paddingh + 40) + d.settings_paddingh + 20 : viewIndexX += 5 * e, viewIndexX > d.settings_paddingh && (viewIndexX = d.settings_paddingh), viewIndexX < -(l - h + d.settings_paddingh) && (viewIndexX = -(l - h + d.settings_paddingh)), h < l ? (r.css({
+								left: viewIndexX
+							}, {
+								duration: 120,
+								queue: !1
+							}), auxa = 0) : r.css({
+								left: d.settings_paddingh
+							}), 1 != s() || 0 == n ? viewIndexY = -(f / g * (p - g + 2 * d.settings_paddingv + 40) - d.settings_paddingv - 20) : viewIndexY += 5 * n, viewIndexY > d.settings_paddingv && (viewIndexY = d.settings_paddingv), viewIndexY < -(p - g + d.settings_paddingv) && (viewIndexY = -(p - g + d.settings_paddingv)), g < p ? (r.css({
+								top: viewIndexY
+							}, {
+								queue: !1,
+								duration: 3
+							}), "on" == d.settings_fullscreen && jQuery("body").css("overflow", "hidden"), auxb = 0) : r.css({
+								top: d.settings_paddingv
+							}))
+						}), 30), this
+					}))
+				}
+			}(jQuery), window.requestAnimFrame = window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame || function(t, e) {
+				window.setTimeout(t, 1e3 / 60)
+			};
+	</script>
+
+	<!-- <div id="wall" class="wall">
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/2.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/5.webp" />
+		<img loading="lazy" src=" https://previews.customer.envatousercontent.com/files/213319246/img/8.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/19.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/3.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/4.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/4.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/8.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/1.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/3.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/2.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/4.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/8.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/1.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/3.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/2.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/4.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/8.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/1.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/3.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/2.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/3.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/2.webp" />
+		<img loading="lazy" src="https://previews.customer.envatousercontent.com/files/213319246/img/19.webp" />
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/13.webp" />
+			<img loading="lazy" class="p-a2" src="https://previews.customer.envatousercontent.com/files/213319246/img/14.webp" />
+			<img loading="lazy" class="p-a3" src="https://previews.customer.envatousercontent.com/files/213319246/img/15.webp" />
+			<img loading="lazy" class="p-a1" src="https://previews.customer.envatousercontent.com/files/213319246/img/16.webp" />
+		</div>
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/17.webp" />
+			<img loading="lazy" class="p-a4" src="https://previews.customer.envatousercontent.com/files/213319246/img/18.webp" />
+			<img loading="lazy" class="p-a5" src="https://previews.customer.envatousercontent.com/files/213319246/img/19.webp" />
+		</div>
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/17.webp" />
+			<img loading="lazy" class="p-a4" src="https://previews.customer.envatousercontent.com/files/213319246/img/18.webp" />
+			<img loading="lazy" class="p-a5" src="https://previews.customer.envatousercontent.com/files/213319246/img/19.webp" />
+		</div>
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/17.webp" />
+			<img loading="lazy" class="p-a4" src="https://previews.customer.envatousercontent.com/files/213319246/img/18.webp" />
+			<img loading="lazy" class="p-a5" src="https://previews.customer.envatousercontent.com/files/213319246/img/19.webp" />
+		</div>
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/13.webp" />
+			<img loading="lazy" class="p-a2" src="https://previews.customer.envatousercontent.com/files/213319246/img/14.webp" />
+			<img loading="lazy" class="p-a3" src="https://previews.customer.envatousercontent.com/files/213319246/img/15.webp" />
+			<img loading="lazy" class="p-a1" src="https://previews.customer.envatousercontent.com/files/213319246/img/16.webp" />
+		</div>
+		<div>
+			<img loading="lazy" class="p-1-3-1-1" src="https://previews.customer.envatousercontent.com/files/213319246/img/13.webp" />
+			<img loading="lazy" class="p-a2" src="https://previews.customer.envatousercontent.com/files/213319246/img/14.webp" />
+			<img loading="lazy" class="p-a3" src="https://previews.customer.envatousercontent.com/files/213319246/img/15.webp" />
+			<img loading="lazy" class="p-a1" src="https://previews.customer.envatousercontent.com/files/213319246/img/16.webp" />
+		</div>
+	</div> -->
+
+	<div id="wall" class="wall">
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+		<img loading="lazy" src="" alt="pic" />
+	</div>
+	<script>
+		const imageSources = [
+			"../images/logsign/12-Hm-Zm-AVMWd-TIs3694-AGKk.webp",
+			"../images/logsign/1a-Oe-AFs5-ZVCMr-HUjj-OOBLG.webp",
+			"../images/logsign/1frx2xkmx0-Y0-SZ3124-XBVC.webp",
+			"../images/logsign/1f-Qai-F6-Jly-Y8y09mb-Tt6mt.webp",
+			"../images/logsign/1f-Oo02-K5kg9x-ER36uv-Uu-Uc.webp",
+			"../images/logsign/1-B9a6-V4-BLz1m8o8c-Da0-Kc-Y.webp",
+			"../images/logsign/1q-Ep-Dtugt-GUxgx-H5-Yim-Pf-T.webp",
+			"../images/logsign/1-NSTO4-AXu-GPyzrjbt9-Vowq.webp",
+			"../images/logsign/1-Mshv-Or4t-Bto5-MSW-y47-Nvz.webp",
+			"../images/logsign/1-LTZSQ7w-Pz-Qm-Wa-Pjdj-N7ty.webp",
+			"../images/logsign/25i-Big-ENp-Lr-Geos-NW7-UBVo.webp",
+			"../images/logsign/1-RQr97f-DSrh-MU7-Vvp-Tdd-Pd.webp",
+			"../images/logsign/2h1-Dwv3-Hw3-JB5a0-UMnmq-NN.webp",
+			"../images/logsign/2-Dtsw-b-STbmgu3b-K4m-CRPJA.webp",
+			"../images/logsign/2bw-Vny-Omrich-BKWBr-GRqp-G.webp",
+			"../images/logsign/2q-V7-J3-Uni52-Qx5-A95-Jh-P9-E.webp",
+			"../images/logsign/2-Nq1-Jq-Xu-Vn-M39-Vg-ZAh-O06l.webp",
+			"../images/logsign/2-I2e-TQakn-Iwcw-Aj-UDrx-JDv.webp",
+			"../images/logsign/3e0e-LPJw0-S7j-QCc-Eu0-C29-R.webp",
+			"../images/logsign/3-Ddj-Pm-RINJXl-GIFXy5-AS5-H.webp",
+			"../images/logsign/3b-G7-Jg-SZq-X7-DFXw-QQcz-U1-V.webp",
+			"../images/logsign/39-D7v-LFWBEf-V6-Vz1d-TERy6.webp",
+			"../images/logsign/2-V1-LJC4pli-RZ0-HJw9nyp-FX.webp",
+			"../images/logsign/2r-CMQGFSz-QFPR5b-VRDq-ZHu.webp",
+			"../images/logsign/3rr-IQv-MIhq-Bix-N9d-Db-JOBp.webp",
+			"../images/logsign/3-Pe-EYz-X2izo6uyu7r-XOt-PR.webp",
+			"../images/logsign/3-KAgy-PFETph-E9-NOdo-GMw-D6.webp",
+			"../images/logsign/3gia41-CNx6lb4j-OBBX5-Qf5.webp",
+			"../images/logsign/3g6-Xw-LD03vy-Vey7-PYs-BFm-A.webp",
+			"../images/logsign/3-Ec-Rt-D9-Ok9-Oiof6yav-Tv-Cd.webp",
+			"../images/logsign/5-Dd-ZV3-OD7c-NDtu-EEX2zxr6.webp",
+			"../images/logsign/57p-Sqxhdu23-U5-Ti-T6yr2s9.webp",
+			"../images/logsign/4zln-Ms-K7-MROhj-Ow-Ug85xu-U.webp",
+			"../images/logsign/4z8-AWJy-Ea5-Wff94-Nu-Gzk-Vm.webp",
+			"../images/logsign/4osyk-Oi-B4n-XANFa-W6sum-Ky.webp",
+			"../images/logsign/4dy-Ds-XIRm4p-R5m-Uca-KWb-T9.webp",
+			"../images/logsign/5-Ro-Vlj4g-Kq6q-PCwtd65vh.webp",
+			"../images/logsign/5q-Ma10-Kb-LFoea8j-Gg-Kta2l.webp",
+			"../images/logsign/5o-Qqu7h-BN72-HNBra-Nroa-KH.webp",
+			"../images/logsign/5-Mzj-HX1hl-ZV57-Tqyc-BOv-QP.webp",
+			"../images/logsign/5ko-Kkw-Qo86h-Zmxg5g9j-Yv-G.webp",
+			"../images/logsign/5-HQL8x-U2du-UQMC9g-QNdwg-I.webp",
+			"../images/logsign/absorption-thumbnail.webp",
+			"../images/logsign/7te-M3-WRsc-BRmq-CWfb135dv.webp",
+			"../images/logsign/7-Hg-Mqx-FEKV1b-Ep-DM6km-PLj.webp",
+			"../images/logsign/7-D66fh8-Zsp-IPj-Gihxvns9r.webp",
+			"../images/logsign/6z1bwa-UNVI7-MZQxje808h-E.webp",
+			"../images/logsign/Blood-Pressure-Thumbnail.webp",
+			"../images/logsign/B7f-FJ7-K9rcs-S0-QDf-URFJX.webp"
+		];
+
+		// const imageSources = [
+		// 	"https://i.postimg.cc/3Nk0nq7g/12-Hm-Zm-AVMWd-TIs3694-AGKk.webp",
+		// 	"https://i.postimg.cc/1tky17w0/1a-Oe-AFs5-ZVCMr-HUjj-OOBLG.webp",
+		// 	"https://i.postimg.cc/jj9by3gV/1frx2xkmx0-Y0-SZ3124-XBVC.webp",
+		// 	"https://i.postimg.cc/VkK1kkXk/1f-Qai-F6-Jly-Y8y09mb-Tt6mt.webp",
+		// 	"https://i.postimg.cc/jjCTwYhQ/1f-Oo02-K5kg9x-ER36uv-Uu-Uc.webp",
+		// 	"https://i.postimg.cc/K8fc3NhF/1-B9a6-V4-BLz1m8o8c-Da0-Kc-Y.webp",
+		// 	"https://i.postimg.cc/zvwYZzJ5/1q-Ep-Dtugt-GUxgx-H5-Yim-Pf-T.webp",
+		// 	"https://i.postimg.cc/YqfMT39g/1-NSTO4-AXu-GPyzrjbt9-Vowq.webp",
+		// 	"https://i.postimg.cc/3x8Yhv4q/1-Mshv-Or4t-Bto5-MSWy47-Nvz.webp",
+		// 	"https://i.postimg.cc/pThP7MhX/1-LTZSQ7w-Pz-Qm-Wa-Pjdj-N7ty.webp",
+		// 	"https://i.postimg.cc/L5GY7V6G/25i-Big-ENp-Lr-Geos-NW7-UBVo.webp",
+		// 	"https://i.postimg.cc/vZZFkwCF/1-RQr97f-DSrh-MU7-Vvp-Tdd-Pd.webp",
+		// 	"https://i.postimg.cc/ZqXGWBn4/2h1-Dwv3-Hw3-JB5a0-UMnmq-NN.webp",
+		// 	"https://i.postimg.cc/XJFTdjBF/2-Dtswb-STbmgu3b-K4m-CRPJA.webp",
+		// 	"https://i.postimg.cc/DwpkKYKW/2bw-Vny-Omrich-BKWBr-GRqp-G.webp",
+		// 	"https://i.postimg.cc/05YTNNs1/2q-V7-J3-Uni52-Qx5-A95-Jh-P9-E.webp",
+		// 	"https://i.postimg.cc/Wzvx7B0y/2-Nq1-Jq-Xu-Vn-M39-Vg-ZAh-O06l.webp",
+		// 	"https://i.postimg.cc/MHmN39Dp/2-I2e-TQakn-Iwcw-Aj-UDrx-JDv.webp",
+		// 	"https://i.postimg.cc/KcDW2sPZ/3e0e-LPJw0-S7j-QCc-Eu0-C29-R.webp",
+		// 	"https://i.postimg.cc/QChn7p3G/3-Ddj-Pm-RINJXl-GIFXy5-AS5-H.webp",
+		// 	"https://i.postimg.cc/50wRjsDS/3b-G7-Jg-SZq-X7-DFXw-QQcz-U1-V.webp",
+		// 	"https://i.postimg.cc/ryHrKqCg/39-D7v-LFWBEf-V6-Vz1d-TERy6.webp",
+		// 	"https://i.postimg.cc/Zqvgzbcg/2-V1-LJC4pli-RZ0-HJw9nyp-FX.webp",
+		// 	"https://i.postimg.cc/L6mrgM9Y/2r-CMQGFSz-QFPR5b-VRDq-ZHu.webp",
+		// 	"https://i.postimg.cc/rsfgt3jx/3rr-IQv-MIhq-Bix-N9d-Db-JOBp.webp",
+		// 	"https://i.postimg.cc/x8ft8nv9/3-Pe-EYz-X2izo6uyu7r-XOt-PR.webp",
+		// 	"https://i.postimg.cc/Z5Cs6b1R/3-KAgy-PFETph-E9-NOdo-GMw-D6.webp",
+		// 	"https://i.postimg.cc/J4724cxj/3gia41-CNx6lb4j-OBBX5-Qf5.webp",
+		// 	"https://i.postimg.cc/CLv6ZBrX/3g6-Xw-LD03vy-Vey7-PYs-BFm-A.webp",
+		// 	"https://i.postimg.cc/T10NJpdy/3-Ec-Rt-D9-Ok9-Oiof6yav-Tv-Cd.webp",
+		// 	"https://i.postimg.cc/rw0gKhrR/5-Dd-ZV3-OD7c-NDtu-EEX2zxr6.webp",
+		// 	"https://i.postimg.cc/hP77mN2n/57p-Sqxhdu23-U5-Ti-T6yr2s9.webp",
+		// 	"https://i.postimg.cc/1zDHKfM9/4zln-Ms-K7-MROhj-Ow-Ug85xu-U.webp",
+		// 	"https://i.postimg.cc/L8cDfztC/4z8-AWJy-Ea5-Wff94-Nu-Gzk-Vm.webp",
+		// 	"https://i.postimg.cc/xTFtjrcS/4osyk-Oi-B4n-XANFa-W6sum-Ky.webp",
+		// 	"https://i.postimg.cc/65QMN660/4dy-Ds-XIRm4p-R5m-Uca-KWb-T9.webp",
+		// 	"https://i.postimg.cc/G2qvMYD1/5-Ro-Vlj4g-Kq6q-PCwtd65vh.webp",
+		// 	"https://i.postimg.cc/ZRTrFjCc/5q-Ma10-Kb-LFoea8j-Gg-Kta2l.webp",
+		// 	"https://i.postimg.cc/5t5BCDNy/5o-Qqu7h-BN72-HNBra-Nroa-KH.webp",
+		// 	"https://i.postimg.cc/28J7R4Kk/5-Mzj-HX1hl-ZV57-Tqyc-BOv-QP.webp",
+		// 	"https://i.postimg.cc/hPh15CMZ/5ko-Kkw-Qo86h-Zmxg5g9j-Yv-G.webp",
+		// 	"https://i.postimg.cc/tT5NLwLw/5-HQL8x-U2du-UQMC9g-QNdwg-I.webp",
+		// 	"https://i.postimg.cc/LXbnYVfh/absorption_thumbnail.webp",
+		// 	"https://i.postimg.cc/RFsn1mrS/7teM3WRscBRmqCWfb135dv.webp",
+		// 	"https://i.postimg.cc/pdv8RkYH/7-Hg-Mqx-FEKV1b-Ep-DM6km-PLj.webp",
+		// 	"https://i.postimg.cc/L6rL0mJh/7-D66fh8-Zsp-IPj-Gihxvns9r.webp",
+		// 	"https://i.postimg.cc/4y0VGgwL/6z1bwa-UNVI7-MZQxje808h-E.webp",
+		// 	"https://i.postimg.cc/3xFjyPwR/Blood_Pressure_Thumbnail.webp",
+		// 	"https://i.postimg.cc/gc1H1V5Y/B7fFJ7K9rcsS0QDfURFJX.webp"
+		// ];
+
+		// Get all the img tags in the wall div
+		const images = document.querySelectorAll("#wall img");
+		images.forEach(function(image) {
+			const randomIndex = Math.floor(Math.random() * imageSources.length);
+			image.src = imageSources[randomIndex];
+		});
+		// Set a new random image source link for each image every 5 seconds
+		setInterval(function() {
+			images.forEach(function(image) {
+				const randomIndex = Math.floor(Math.random() * imageSources.length);
+				image.src = imageSources[randomIndex];
+			});
+		}, 2000);
+	</script>
+	<!-- <script>
+		//random unsplash images 
+		function getRandomImage(img) {
+			const accessKey = 'BG7KvYPPYsyDUjq3ImTlkWIR-OJy8Lt00of5JzXcrMA';
+			const queries = ['human anatomy', 'medical'];
+			const randomQuery = queries[Math.floor(Math.random() * queries.length)];
+
+			const url = `https://api.unsplash.com/photos/random?client_id=${accessKey}&w=550&h=300&query=${randomQuery}`;
+
+			fetch(url)
+				.then(response => response.json())
+				.then(data => {
+					img.src = data.urls.regular; // Set the source of the current img element
+				})
+				.catch(error => {
+					console.error('Error fetching random photo:', error);
+				});
+		}
+
+		const images = document.querySelectorAll('#wall img');
+		images.forEach(img => {
+			getRandomImage(img); // Call the function for each img element
+		});
+	</script> -->
+	<script>
+		jQuery(document).ready(function($) {
+
+			$('#wall').wall({
+				settings_thumbs_per_row: 8,
+				settings_width: 0,
+				settings_height: 0,
+				thumb_width: 256,
+				thumb_height: 256,
+				thumb_space: 1,
+				settings_padding: 0,
+				description_height: 30,
+				settings_rotation: "on"
+			})
+		})
+	</script>
+</body>
+
+</html>
